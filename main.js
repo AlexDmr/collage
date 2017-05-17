@@ -161,7 +161,7 @@ function sendToTActHab(etape) {
             lat : etape.lat,
             lon : etape.lon,
             latlon: `${etape.lat},${etape.lon}`,
-            name: etape.name
+            text: etape.name
         })
     };
     console.log("Sending", msg);
