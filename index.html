@@ -3,18 +3,37 @@
 <head>
     <meta charset="UTF-8">
     <title>Collage</title>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA-4juoSBeUQ8bFj345dakmOtlC8Rc6SJk&callback=initMap" async defer></script>
+    <link rel="stylesheet" href="main.css" />
     <!--
-    <script src="https://code.jquery.com/jquery-3.2.1.min.js"
-            integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
-            crossorigin="anonymous"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA-4juoSBeUQ8bFj345dakmOtlC8Rc6SJk&callback=initMap" async defer></script>
     -->
     <script src="main.js"></script>
 </head>
 <body onload="init()">
     <h1>Venez coller...</h1>
-    <textarea id="panneaux"></textarea>
-    <button>Go</button>
-    <p id="matrix"> </p>
+    <section>
+        <label>Numéro de département</label>
+        <input type="number" id="numDep"/>
+    </section>
+    <section>
+        <label>Circonscription</label>
+        <input type="number" id="numCirc"/>
+    </section>
+    <button onclick="compute()">Obtenir les données</button>
+    <hr/>
+    <h5>TActHab</h5>
+    <section>
+        <label>Login</label>
+        <input type="text" id="login"/>
+    </section>
+    <section>
+        <label>Password</label>
+        <input type="text" id="pass"/>
+    </section>
+    <hr/>
+    <section id="path">
+
+    </section>
+
 </body>
 </html>

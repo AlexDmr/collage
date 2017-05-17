@@ -1,0 +1,16 @@
+section.etape {
+    border: solid black 1px;
+    display: flex;
+    flex-flow: row;
+}
+
+section.etape:nth-child(even) {
+    flex-direction: row-reverse;
+}
+
+section.etape > img {
+    flex: 0 1 100px;
+}
+section.etape > section {
+    flex: 1 1;
+}

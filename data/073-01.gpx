@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="panneaux-election.fr">
+    <rte>
+        <rtept lon="5.745629" lat="45.6708799">
+            <name>mairie - chef-lieu</name>
+        </rtept>
+        <rtept lon="5.7558245" lat="45.7017925">
+            <name>collège - place du kiosque</name>
+        </rtept>
+        <rtept lon="5.760017" lat="45.700768">
+            <name>école - chemin du port</name>
+        </rtept>
+        <rtept lon="5.760472" lat="45.702609">
+            <name>stade - chemin de la Curiaz</name>
+        </rtept>
+        <rtept lon="5.7583678" lat="45.7039409">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="5.7584125" lat="45.7054575">
+            <name>salle polyvalente - route de Lucey</name>
+        </rtept>
+        <rtept lon="5.7584125" lat="45.7054575">
+            <name>Salle polyvalente de Bramafan</name>
+        </rtept>
+        <rtept lon="5.811977" lat="45.71947">
+            <name>chef lieu</name>
+        </rtept>
+        <rtept lon="5.7980799675" lat="45.7406005859">
+            <name>mairie - chef lieu</name>
+        </rtept>
+        <rtept lon="5.80675983429" lat="45.7731018066">
+            <name>mairie - chef lieu</name>
+        </rtept>
+        <rtept lon="5.80812978745" lat="45.7734985352">
+            <name>chef-lieu - mairie</name>
+        </rtept>
+        <rtept lon="5.811298" lat="45.776988">
+            <name>place de la mairie</name>
+        </rtept>
+        <rtept lon="5.7908788" lat="45.807853">
+            <name>mairie - chef lieu</name>
+        </rtept>
+        <rtept lon="5.79379415512" lat="45.8090744019">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="5.80652523041" lat="45.8245162964">
+            <name>mairie - chef lieu</name>
+        </rtept>
+        <rtept lon="5.8434" lat="45.848148">
+            <name>mairie - chef-lieu</name>
+        </rtept>
+        <rtept lon="5.84694814682" lat="45.9191894531">
+            <name>Chef-lieu</name>
+        </rtept>
+        <rtept lon="5.84312009811" lat="45.8811988831">
+            <name>mairie - chef lieu</name>
+        </rtept>
+        <rtept lon="5.85133" lat="45.82181">
+            <name>mairie - 313 rue de l&#39;Eglise</name>
+        </rtept>
+        <rtept lon="5.85226011276" lat="45.8162002563">
+            <name>chef lieu - mairie</name>
+        </rtept>
+        <rtept lon="5.899811" lat="45.806359">
+            <name>chef lieu</name>
+        </rtept>
+        <rtept lon="5.927457" lat="45.755314">
+            <name>place de l&#39;Eglise</name>
+        </rtept>
+        <rtept lon="5.94608" lat="45.788347">
+            <name>Maison des associations - rue du 8 mai 1945</name>
+        </rtept>
+        <rtept lon="5.9460475" lat="45.789477">
+            <name>école maternelle - route de Rumilly</name>
+        </rtept>
+        <rtept lon="5.944298" lat="45.78624">
+            <name>centre administratif René Gay - place de l&#39;Eglise</name>
+        </rtept>
+        <rtept lon="5.96767187119" lat="45.7799491882">
+            <name>chef-lieu / mairie</name>
+        </rtept>
+        <rtept lon="5.95559883118" lat="45.7479324341">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="5.960163" lat="45.739673">
+            <name>place de la mairie</name>
+        </rtept>
+        <rtept lon="5.988195" lat="45.757579">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.003573" lat="45.734301">
+            <name>Mairie - 14, route des Nants Chef lieu</name>
+        </rtept>
+        <rtept lon="5.98338" lat="45.72317">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="5.953942" lat="45.695314">
+            <name>place de la mairie</name>
+        </rtept>
+        <rtept lon="5.955542" lat="45.707548">
+            <name>chef-lieu</name>
+        </rtept>
+        <rtept lon="5.9328203" lat="45.722657">
+            <name>salle communale de Sarraz - rue de Sarraz</name>
+        </rtept>
+        <rtept lon="5.9328203" lat="45.722657">
+            <name>salle polyvalente - place de la mairie</name>
+        </rtept>
+        <rtept lon="5.9171886" lat="45.7060953">
+            <name>Ecole St Simond/Chantemerle-36 ch. des Prés de la Tour</name>
+        </rtept>
+        <rtept lon="5.889251" lat="45.730674">
+            <name>lieu-dit &quot;Grésine&quot; (route de Paris)</name>
+        </rtept>
+        <rtept lon="5.889475" lat="45.720767">
+            <name>le parc Despine (salle Despine)</name>
+        </rtept>
+        <rtept lon="5.8864837" lat="45.7164209">
+            <name>lieu-dit &quot;Brison&quot;</name>
+        </rtept>
+        <rtept lon="5.901703" lat="45.704886">
+            <name>Ecole de Lafin -17 ch. Des Marmillons</name>
+        </rtept>
+        <rtept lon="5.907096" lat="45.7024923">
+            <name>école F. Roosevelt – 32 bd des Généraux Forestier</name>
+        </rtept>
+        <rtept lon="5.893336" lat="45.698679">
+            <name>Collège Garibaldi - 72 boulevard Garibaldi</name>
+        </rtept>
+        <rtept lon="5.899743" lat="45.6729">
+            <name>Ecole - 43 chemin de Belledonne</name>
+        </rtept>
+        <rtept lon="5.90593" lat="45.690919">
+            <name>Ecole de la liberté (ancienne) -14 av. de la Liberté</name>
+        </rtept>
+        <rtept lon="5.9066086" lat="45.6903934">
+            <name>Ecole de la Liberté Nouvelle - 36 av. de la Liberté</name>
+        </rtept>
+        <rtept lon="5.9094069" lat="45.6941093">
+            <name>Prés riant Gymnase – 7 rue des prés riants</name>
+        </rtept>
+        <rtept lon="5.913882" lat="45.692381">
+            <name>centre socio culturel de Vaugelas - 4 rue Vaugelas</name>
+        </rtept>
+        <rtept lon="5.9147664" lat="45.6885965">
+            <name>Mairie -Place Maurice Mollard</name>
+        </rtept>
+        <rtept lon="5.9157884" lat="45.6882048">
+            <name>Thermes nationaux - place Maurice Mollard</name>
+        </rtept>
+        <rtept lon="5.9241686" lat="45.6905417">
+            <name>Ecole de Boncelin-10 rte de Pugny</name>
+        </rtept>
+        <rtept lon="5.93759" lat="45.678282">
+            <name>route des Chaffardons</name>
+        </rtept>
+        <rtept lon="5.93127012253" lat="45.6800003052">
+            <name>mairie - place de l&#39;église</name>
+        </rtept>
+        <rtept lon="5.923475" lat="45.678073">
+            <name>chemin du Biollay sur Roche</name>
+        </rtept>
+        <rtept lon="5.913509" lat="45.674449">
+            <name>Ecole de Marlioz-74 bd de la Roche du Roi</name>
+        </rtept>
+        <rtept lon="5.920927" lat="45.659962">
+            <name>Salle de Moulin - 15 place de l&#39;Horloge</name>
+        </rtept>
+        <rtept lon="5.9371" lat="45.658913">
+            <name>mairie - 102 route du chef lieu</name>
+        </rtept>
+        <rtept lon="5.938339" lat="45.6423925">
+            <name>salle polyvalente</name>
+        </rtept>
+        <rtept lon="5.90716600418" lat="45.648399353">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="5.8963495" lat="45.6319019">
+            <name>mairie - rue centrale</name>
+        </rtept>
+        <rtept lon="5.880285" lat="45.59752">
+            <name>salle &quot;Les Pervenches&quot; - 197 rue Curé Jacquier</name>
+        </rtept>
+        <rtept lon="5.8798172" lat="45.597703">
+            <name>les Chantres - rue Pierre Grange</name>
+        </rtept>
+        <rtept lon="5.87368" lat="45.595293">
+            <name>parking école Le Picolet - 117 chemin du Picolet</name>
+        </rtept>
+        <rtept lon="5.875697" lat="45.5968585">
+            <name>école Pergaud - Parking Decroux</name>
+        </rtept>
+        <rtept lon="5.871303" lat="45.597962">
+            <name>parking école Lamartine - 150 avenue Charles Albert</name>
+        </rtept>
+        <rtept lon="5.866416" lat="45.590729">
+            <name>la Tessonière - rue Joseph et Humbert Richard</name>
+        </rtept>
+        <rtept lon="5.847457" lat="45.627929">
+            <name>La Serraz (parking route de la Cascade)</name>
+        </rtept>
+        <rtept lon="5.864659" lat="45.629281">
+            <name>mairie le Tremblay - 3 route de l&#39;Eglise du Tremblay</name>
+        </rtept>
+        <rtept lon="5.860816" lat="45.6473915">
+            <name>place de l&#39;église - route de Chambéry</name>
+        </rtept>
+        <rtept lon="5.858568" lat="45.647877">
+            <name>Hameau de la Roche Saint-Alban sur le parking communal</name>
+        </rtept>
+        <rtept lon="5.851033" lat="45.653977">
+            <name>Le Grand Caton</name>
+        </rtept>
+        <rtept lon="5.85621881485" lat="45.6829528809">
+            <name>place de la mairie</name>
+        </rtept>
+        <rtept lon="5.8543218" lat="45.705049">
+            <name>entre la mairie et la salle polyvalente</name>
+        </rtept>
+        <rtept lon="5.8299235" lat="45.695897">
+            <name>école</name>
+        </rtept>
+        <rtept lon="5.813265" lat="45.691534">
+            <name>les Quatre Chemins</name>
+        </rtept>
+        <rtept lon="5.814046" lat="45.688511">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="5.784814" lat="45.6627785">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="5.789521" lat="45.628885">
+            <name>Le Bourg</name>
+        </rtept>
+        <rtept lon="5.78051614761" lat="45.6434249878">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="5.745629" lat="45.6708799">
+            <name>mairie - chef-lieu</name>
+        </rtept>
+        <rtept lon="5.73622894287" lat="45.658908844">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="5.757023" lat="45.646806">
+            <name>Salle polyvalente</name>
+        </rtept>
+        <rtept lon="5.740919" lat="45.630243">
+            <name>Le Bourg</name>
+        </rtept>
+        <rtept lon="5.74546909332" lat="45.6094169617">
+            <name>devant la mairie - chef lieu</name>
+        </rtept>
+        <rtept lon="5.76556015015" lat="45.6108016968">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="5.77462005615" lat="45.5945014954">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="5.796546" lat="45.589966">
+            <name>Chef lieu</name>
+        </rtept>
+        <rtept lon="5.7825769" lat="45.5530865">
+            <name>salle polyvalente François Cachoud</name>
+        </rtept>
+        <rtept lon="5.7503368" lat="45.5715495">
+            <name>chef-lieu</name>
+        </rtept>
+        <rtept lon="5.74380588531" lat="45.5537490845">
+            <name>place de l&#39;église</name>
+        </rtept>
+        <rtept lon="5.7940869" lat="45.5372267">
+            <name>place du chef lieu</name>
+        </rtept>
+        <rtept lon="5.814237" lat="45.53769">
+            <name>le bourg</name>
+        </rtept>
+        <rtept lon="5.77705097198" lat="45.5073661804">
+            <name>mairie - chef lieu</name>
+        </rtept>
+        <rtept lon="5.74776792526" lat="45.4933853149">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="5.7650225" lat="45.482167">
+            <name>mairie lieu-dit &quot;Le Guillot&quot;</name>
+        </rtept>
+        <rtept lon="5.7541609" lat="45.4518089">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="5.752752" lat="45.43769">
+            <name>place Francisque Viard</name>
+        </rtept>
+        <rtept lon="5.75365" lat="45.436337">
+            <name>rue de l&#39;Hôtel de ville</name>
+        </rtept>
+        <rtept lon="5.7905349" lat="45.4494591">
+            <name>place de la mairie</name>
+        </rtept>
+        <rtept lon="5.84515619278" lat="45.5008964539">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="5.82106590271" lat="45.4660453796">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="5.8244572" lat="45.4291229">
+            <name>chef-lieu</name>
+        </rtept>
+        <rtept lon="5.883734" lat="45.452016">
+            <name>Epernay - place du monument aux morts</name>
+        </rtept>
+        <rtept lon="5.868346" lat="45.418844">
+            <name>DEVANT  LE PARKING DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.8907967" lat="45.401212">
+            <name>place René Cassin</name>
+        </rtept>
+        <rtept lon="5.730044" lat="45.502907">
+            <name>avenue de la gare</name>
+        </rtept>
+        <rtept lon="5.741574" lat="45.527951">
+            <name>510 route du lac (parking de la mairie)</name>
+        </rtept>
+        <rtept lon="5.743913" lat="45.530679">
+            <name>241 route du Cumont (à côté du bureau de vote</name>
+        </rtept>
+        <rtept lon="5.707749" lat="45.5398">
+            <name>chef lieu</name>
+        </rtept>
+        <rtept lon="5.678473" lat="45.561673">
+            <name>chef lieu - route du village</name>
+        </rtept>
+        <rtept lon="5.6945725" lat="45.5714245">
+            <name>chef lieu</name>
+        </rtept>
+        <rtept lon="5.729579" lat="45.559176">
+            <name>chef-lieu</name>
+        </rtept>
+        <rtept lon="5.72026" lat="45.594522">
+            <name>place de la mairie</name>
+        </rtept>
+        <rtept lon="5.70079708099" lat="45.6159973145">
+            <name>parking de la mairie - le bourg</name>
+        </rtept>
+        <rtept lon="5.6831942" lat="45.6092746">
+            <name>école maternelle</name>
+        </rtept>
+        <rtept lon="5.6333899498" lat="45.5988006592">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="5.669126" lat="45.623503">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="5.699558" lat="45.665238">
+            <name>les Bessons - salle des fêtes</name>
+        </rtept>
+        <rtept lon="5.718698" lat="45.70506">
+            <name>mairie - chef-lieu</name>
+        </rtept>
+        <rtept lon="5.745629" lat="45.6708799">
+            <name>mairie - chef-lieu</name>
+        </rtept>
+    </rte>
+</gpx>
