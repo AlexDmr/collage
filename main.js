@@ -102,6 +102,7 @@ function compute() {
                 + ".gpx";
 
     console.log( `get ${ressource}` );
+    document.querySelector("#path").textContent = "Chargement...";
     XHR("GET", ressource).then(
         xhr => {
             let doc = xhr.responseXML;
@@ -129,6 +130,7 @@ function compute() {
 
 function DisplayPath(L) {
     let root = document.querySelector("#path");
+    root.textContent = "";
     L.forEach( (etape, index) => {
         let section = document.createElement("section");
         section.classList.add("etape");
@@ -177,7 +179,17 @@ function DisplayPath(L) {
             () => letsOpen(url)
         );
         Nimg.addEventListener("touchstart", cb);
-        Nimg.addEventListener("click", cb);
+        Nimg.addEventListener("clickXXX", evt => {
+            if( doubleTaping.has(Nimg) ) {
+                clearTimeout( doubleTaping.get(Nimg).timerId );
+                doubleTaping.delete(Nimg);
+            }
+            letsOpen(url);
+        });
+        Nimg.addEventListener("dblclick", evt => {
+            console.error("Double click!");
+        });
+
 
         root.appendChild( section );
     });
@@ -204,21 +216,31 @@ function sendToTActHab(etape) {
 let doubleTaping = new Map();
 function tryDoubleTap(evt, fctTap, fctClick, ms = 200) {
     console.log("tryDoubleTap");
-    evt.preventDefault();
-    evt.stopPropagation();
+    // evt.preventDefault();
+    // evt.stopPropagation();
+    let touch;
+    if(evt.changedTouches && evt.changedTouches.length) {
+        touch = evt.changedTouches.item(0);
+    }
     let node = evt.currentTarget;
     if(doubleTaping.has(node)) {
-        clearTimeout( doubleTaping.get(node) );
+        clearTimeout( doubleTaping.get(node).timerId );
         doubleTaping.delete(node);
         fctTap();
     } else {
         doubleTaping.set(
             node,
-            setTimeout(() => {
-                doubleTaping.delete(node);
-                console.log("Fallback to click on", node);
-                fctClick();
-            }, ms)
+            {
+                x: touch?touch.pageX:evt.pageX,
+                y: touch?touch.pageY:evt.pageY,
+                touchId: touch?touch.identifier:null,
+                timerId: setTimeout(() => {
+                    doubleTaping.delete(node);
+                    // console.log("Cancelling double touch");
+                    console.log("Fallback to click on", node);
+                    fctClick();
+                }, ms)
+            }
         );
     }
 }
@@ -235,3 +257,18 @@ function saveJSON(etapes) {
 function loadJSON() {
     return JSON.parse( localStorage.getItem( "etapes" ) || "[]" ) ;
 }
+
+document.addEventListener( "touchmove", evt => {
+    let touch = evt.changedTouches.item(0);
+    let nodeToDelete;
+    doubleTaping.forEach( (obj, node) => {
+        if(obj.touchId === touch.identifier) {
+            nodeToDelete = node;
+        }
+    });
+    if(nodeToDelete) {
+        clearTimeout( doubleTaping.get(nodeToDelete).timerId );
+        doubleTaping.delete(nodeToDelete);
+        console.log("move", touch.identifier, "=> stop tracking", nodeToDelete);
+    }
+});
