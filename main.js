@@ -129,7 +129,7 @@ function compute() {
 
 function DisplayPath(L) {
     let root = document.querySelector("#path");
-    L.forEach( etape => {
+    L.forEach( (etape, index) => {
         let section = document.createElement("section");
         section.classList.add("etape");
         if(etape.done) {
@@ -150,7 +150,7 @@ function DisplayPath(L) {
         let checkbox = section.querySelector("input");
 
         checkbox.checked = etape.done || false;
-        Nname.textContent = etape.name;
+        Nname.textContent = `${index+1}: ${etape.name}`;
         NLL  .textContent = `${etape.lat},${etape.lon}`;
 
         checkbox.onchange = () => {
