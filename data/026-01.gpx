@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="panneaux-election.fr">
+    <rte>
+        <rtept lon="4.92050504684" lat="45.0832672119">
+            <name>Mairie – 170 A, rue des Charmes</name>
+        </rtept>
+        <rtept lon="4.8901031" lat="44.9289725">
+            <name>Place des Aravis</name>
+        </rtept>
+        <rtept lon="4.89252" lat="44.931585">
+            <name>5, place du Palais</name>
+        </rtept>
+        <rtept lon="4.893233" lat="44.932489">
+            <name>10, rue des Sœurs Grises</name>
+        </rtept>
+        <rtept lon="4.891996" lat="44.933071">
+            <name>1, place de la Liberté</name>
+        </rtept>
+        <rtept lon="4.890048" lat="44.932441">
+            <name>20, rue Marguerite (pour BV 12 – 13 – 36)</name>
+        </rtept>
+        <rtept lon="4.889343" lat="44.936432">
+            <name>Quai Saint-Nicolas – Quai St-Nicolas</name>
+        </rtept>
+        <rtept lon="4.8902262" lat="44.9391385">
+            <name>École Barthelon – Quai Thannaron</name>
+        </rtept>
+        <rtept lon="4.893319" lat="44.939185">
+            <name>Boulevard Général de Gaulle – Boulevard Général de Gaulle</name>
+        </rtept>
+        <rtept lon="4.894383" lat="44.943532">
+            <name>Avenue Marc Urtin – Avenue Marc Urtin/Rue Joseph Vérot</name>
+        </rtept>
+        <rtept lon="4.893875" lat="44.942712">
+            <name>Foyer du Gaz – Rue du Gaz</name>
+        </rtept>
+        <rtept lon="4.8934195" lat="44.9403453">
+            <name>Stade Municipal – Avenue de Lyon</name>
+        </rtept>
+        <rtept lon="4.8934195" lat="44.9403453">
+            <name>Quartier Bellevue – Avenue Edmond Manoury/Rue Hippolyte Fizeau</name>
+        </rtept>
+        <rtept lon="4.8949251" lat="44.9383624">
+            <name>Gymnase Côte Saint-Pierre – Côte Saint-Pierre</name>
+        </rtept>
+        <rtept lon="4.900883" lat="44.936149">
+            <name>22, allée Raymond Mias</name>
+        </rtept>
+        <rtept lon="4.904457" lat="44.936967">
+            <name>14, rue Maryse Bastié</name>
+        </rtept>
+        <rtept lon="4.914516" lat="44.942355">
+            <name>138, rue Jean Vilar</name>
+        </rtept>
+        <rtept lon="4.911355" lat="44.945108">
+            <name>70, rue Jean Vilar</name>
+        </rtept>
+        <rtept lon="4.901492" lat="44.942127">
+            <name>École Gilbert Pestre – 1, rue Chapon</name>
+        </rtept>
+        <rtept lon="4.9010469" lat="44.9416868">
+            <name>École Maternelle Jean Moulin – Avenue Jean Moulin</name>
+        </rtept>
+        <rtept lon="4.896689" lat="44.943094">
+            <name>Carrefour Île Verte – Rue de l&#39;Île Verte</name>
+        </rtept>
+        <rtept lon="4.899897" lat="44.948189">
+            <name>École Moulin d&#39;Albon – Rue Jules Ferry</name>
+        </rtept>
+        <rtept lon="4.90838" lat="44.9554802">
+            <name>École Robert Monnet – Rue Ernest Hemingway</name>
+        </rtept>
+        <rtept lon="4.904851" lat="44.950981">
+            <name>Résidence Moulin des Prés – 10, rue des Loisirs</name>
+        </rtept>
+        <rtept lon="4.90195" lat="44.953299">
+            <name>Chemin Saint-Barthélémy – Devant les Cheneviers</name>
+        </rtept>
+        <rtept lon="4.899064" lat="44.953087">
+            <name>Centre de Loisirs – 120, chemin du Valentin</name>
+        </rtept>
+        <rtept lon="4.899153" lat="44.950448">
+            <name>École Jean Moulin – Avenue Jean Moulin</name>
+        </rtept>
+        <rtept lon="4.894574" lat="44.9467829">
+            <name>Hôtel de Ville – Rue des Jardins</name>
+        </rtept>
+        <rtept lon="4.894574" lat="44.9467829">
+            <name>Salle de Vote – Place de la Liberté</name>
+        </rtept>
+        <rtept lon="4.894336" lat="44.946778">
+            <name>Carrefour Route de Saint-Marcel-Godanger-Blachère – Route de Saint-Marcel</name>
+        </rtept>
+        <rtept lon="4.894336" lat="44.946778">
+            <name>Carrefour CES – Rue Jacques Brel</name>
+        </rtept>
+        <rtept lon="4.893059" lat="44.946592">
+            <name>École Jacques Reynaud – Place de l&#39;Allet</name>
+        </rtept>
+        <rtept lon="4.8855234" lat="44.9517936">
+            <name>MPT des Chirouzes – Rue Bourg Ouest</name>
+        </rtept>
+        <rtept lon="4.8868742" lat="44.9515844">
+            <name>École des Chirouzes – Rue Bourg Ouest</name>
+        </rtept>
+        <rtept lon="4.891007" lat="44.968511">
+            <name>École de l&#39;Armailler – Route de Châteauneuf</name>
+        </rtept>
+        <rtept lon="4.894271" lat="44.97407">
+            <name>Armailler – Rue Claude Bernard</name>
+        </rtept>
+        <rtept lon="4.8715549" lat="45.0041375">
+            <name>Mairie – Passage Ziano Piacentino</name>
+        </rtept>
+        <rtept lon="4.8643675" lat="45.0022835">
+            <name>Salle Polyvalente – Avenue du Canal</name>
+        </rtept>
+        <rtept lon="4.866409" lat="45.004123">
+            <name>Avenue du Rhône</name>
+        </rtept>
+        <rtept lon="4.865106" lat="45.00806">
+            <name>Avenue des Cévennes</name>
+        </rtept>
+        <rtept lon="4.845059" lat="45.01355">
+            <name>Rue Diane de Poitiers</name>
+        </rtept>
+        <rtept lon="4.844191" lat="45.013402">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.85563993454" lat="45.0666999817">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.8428384" lat="45.070613">
+            <name>École Maternelle Jules Verne – Côté Route de Larnage</name>
+        </rtept>
+        <rtept lon="4.841617" lat="45.0688335">
+            <name>Hôtel de Ville – Côté Rue de la Sizeranne</name>
+        </rtept>
+        <rtept lon="4.8376785" lat="45.069672">
+            <name>Bordure RN7 – À Hauteur du Camping Municipal</name>
+        </rtept>
+        <rtept lon="4.83711" lat="45.069427">
+            <name>Rue d&#39;Erba – Côté Immeuble « Marc Seguin »</name>
+        </rtept>
+        <rtept lon="4.836636" lat="45.071038">
+            <name>Place du Taurobole</name>
+        </rtept>
+        <rtept lon="4.830494" lat="45.073705">
+            <name>Quai de la Libération</name>
+        </rtept>
+        <rtept lon="4.831764" lat="45.108255">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.815411" lat="45.133442">
+            <name>Chemin de la Plaine</name>
+        </rtept>
+        <rtept lon="4.818121" lat="45.13803">
+            <name>93, rue Impériale</name>
+        </rtept>
+        <rtept lon="4.8192096" lat="45.120442">
+            <name>Salle Polyvalente Heramen</name>
+        </rtept>
+        <rtept lon="4.846758" lat="45.09004">
+            <name>19, place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.863231" lat="45.096693">
+            <name>Place de la Fontaine</name>
+        </rtept>
+        <rtept lon="4.855026" lat="45.070846">
+            <name>Avenue du Vercors – À Proximité du P.N SNCF</name>
+        </rtept>
+        <rtept lon="4.860052" lat="45.0691485">
+            <name>Gymnase Fernand Chapelle – Rue Jean Monnet</name>
+        </rtept>
+        <rtept lon="4.887031" lat="45.073319">
+            <name>Salle des Sports – 40, chemin des Littes</name>
+        </rtept>
+        <rtept lon="4.891238" lat="45.076837">
+            <name>Place de la République</name>
+        </rtept>
+        <rtept lon="4.92050504684" lat="45.0832672119">
+            <name>Mairie – 170 A, rue des Charmes</name>
+        </rtept>
+        <rtept lon="4.915484" lat="45.059305">
+            <name>Rue des Pichères</name>
+        </rtept>
+        <rtept lon="4.98368" lat="45.049711">
+            <name>70, rue Henri Machon</name>
+        </rtept>
+        <rtept lon="4.9213812" lat="45.0182047">
+            <name>Mairie – Le village – Place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.955823" lat="44.972508">
+            <name>Place de l&#39;Église</name>
+        </rtept>
+        <rtept lon="4.954511" lat="44.971014">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.957081" lat="44.971542">
+            <name>Place de la Musique</name>
+        </rtept>
+        <rtept lon="4.957833" lat="44.969268">
+            <name>Rue de la Fontaine – HLM Les Monettes</name>
+        </rtept>
+        <rtept lon="4.96445" lat="44.96707">
+            <name>Rue des Petits Eynards – Stade des Combes</name>
+        </rtept>
+        <rtept lon="4.923405" lat="44.939042">
+            <name>11, rue Jean Perrin</name>
+        </rtept>
+        <rtept lon="4.914466" lat="44.934591">
+            <name>21, chemin de la Bonnard</name>
+        </rtept>
+        <rtept lon="4.917994" lat="44.931087">
+            <name>2, rue Henri Dunant</name>
+        </rtept>
+        <rtept lon="4.919784" lat="44.935463">
+            <name>1, rue André Gide</name>
+        </rtept>
+        <rtept lon="4.921936" lat="44.931785">
+            <name>10, allée Edgard Quinet</name>
+        </rtept>
+        <rtept lon="4.922981" lat="44.92898">
+            <name>20, rue Georges Bizet</name>
+        </rtept>
+        <rtept lon="4.928408" lat="44.927525">
+            <name>56, rue Charles Gounod</name>
+        </rtept>
+        <rtept lon="4.907997" lat="44.910572">
+            <name>38, rue Renoir</name>
+        </rtept>
+        <rtept lon="4.908092" lat="44.920131">
+            <name>272, rue Faventines</name>
+        </rtept>
+        <rtept lon="4.900828" lat="44.927718">
+            <name>43, rue Amblard</name>
+        </rtept>
+        <rtept lon="4.903109" lat="44.930665">
+            <name>6, rue de l&#39;Armée Belge</name>
+        </rtept>
+        <rtept lon="4.89909" lat="44.930624">
+            <name>20, rue Marius Villard</name>
+        </rtept>
+        <rtept lon="4.907605" lat="44.927686">
+            <name>19, rue Marc Sangnier</name>
+        </rtept>
+        <rtept lon="4.898564" lat="44.926774">
+            <name>29, rue Pont du Gât</name>
+        </rtept>
+        <rtept lon="4.900582" lat="44.91982">
+            <name>3, place des Buissonnets</name>
+        </rtept>
+        <rtept lon="4.897552" lat="44.923839">
+            <name>73, rue Châteauvert</name>
+        </rtept>
+        <rtept lon="4.893522" lat="44.922903">
+            <name>25/27, chemin de St Joseph</name>
+        </rtept>
+        <rtept lon="4.891258" lat="44.919572">
+            <name>16, rue René Bérenger</name>
+        </rtept>
+        <rtept lon="4.885007" lat="44.905149">
+            <name>14, chemin de Lautagne</name>
+        </rtept>
+        <rtept lon="4.882448" lat="44.912239">
+            <name>26, rue Monge</name>
+        </rtept>
+        <rtept lon="4.882747" lat="44.914954">
+            <name>25, rue Albert Thomas</name>
+        </rtept>
+        <rtept lon="4.888262" lat="44.926092">
+            <name>20, rue Marguerite</name>
+        </rtept>
+        <rtept lon="4.92050504684" lat="45.0832672119">
+            <name>Mairie – 170 A, rue des Charmes</name>
+        </rtept>
+    </rte>
+</gpx>

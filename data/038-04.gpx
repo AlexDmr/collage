@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="panneaux-election.fr">
+    <rte>
+        <rtept lon="5.626627" lat="44.929182">
+            <name></name>
+        </rtept>
+        <rtept lon="5.862847" lat="44.861182">
+            <name></name>
+        </rtept>
+        <rtept lon="5.872851" lat="44.833895">
+            <name></name>
+        </rtept>
+        <rtept lon="5.90854" lat="44.868751">
+            <name>HAMEAU VILLELONGE</name>
+        </rtept>
+        <rtept lon="5.8984535" lat="44.8681356">
+            <name>MAIRIE  ST MICHEL</name>
+        </rtept>
+        <rtept lon="5.910406" lat="44.850034">
+            <name></name>
+        </rtept>
+        <rtept lon="5.92276000977" lat="44.8319015503">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.974479" lat="44.840226">
+            <name></name>
+        </rtept>
+        <rtept lon="5.945385" lat="44.816677">
+            <name></name>
+        </rtept>
+        <rtept lon="5.96111106873" lat="44.7886734009">
+            <name>SALLE  D’ANIMATION RURALE</name>
+        </rtept>
+        <rtept lon="5.93046379089" lat="44.8053665161">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="5.92618083954" lat="44.7779922485">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.905176" lat="44.797917">
+            <name></name>
+        </rtept>
+        <rtept lon="5.84481287003" lat="44.8273124695">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.798537" lat="44.848031">
+            <name>PLACE  DU VILLAGE</name>
+        </rtept>
+        <rtept lon="5.751815" lat="44.817691">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.7679919" lat="44.791032">
+            <name>PLACE  MAIRIE</name>
+        </rtept>
+        <rtept lon="5.7687898" lat="44.7473412">
+            <name>FACADE  MAIRIE</name>
+        </rtept>
+        <rtept lon="5.69485902786" lat="44.7897911072">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.675471" lat="44.756855">
+            <name></name>
+        </rtept>
+        <rtept lon="5.663874" lat="44.764341">
+            <name>PLACE  DU VILLAGE</name>
+        </rtept>
+        <rtept lon="5.658273" lat="44.794203">
+            <name></name>
+        </rtept>
+        <rtept lon="5.658273" lat="44.794203">
+            <name></name>
+        </rtept>
+        <rtept lon="5.622619" lat="44.827245">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.571775" lat="44.811557">
+            <name></name>
+        </rtept>
+        <rtept lon="5.621448" lat="44.845526">
+            <name></name>
+        </rtept>
+        <rtept lon="5.593395" lat="44.868706">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="5.657656" lat="44.914931">
+            <name></name>
+        </rtept>
+        <rtept lon="5.65633149" lat="44.9458364">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.655902" lat="44.958215">
+            <name></name>
+        </rtept>
+        <rtept lon="5.658322" lat="44.982481">
+            <name></name>
+        </rtept>
+        <rtept lon="5.671183" lat="45.11911">
+            <name></name>
+        </rtept>
+        <rtept lon="5.679969" lat="45.153453">
+            <name>AVENUE  DE CLAIX    PIEUX FERRADIX</name>
+        </rtept>
+        <rtept lon="5.679307" lat="45.155853">
+            <name>RUE DU DAUPHINE CLOTURE BEAUVALLET POSE CONTRE  PARVIS</name>
+        </rtept>
+        <rtept lon="5.679307" lat="45.155853">
+            <name>AVENUE  DE LA POSTE   CONTRE  LES BARRIERES</name>
+        </rtept>
+        <rtept lon="5.679307" lat="45.155853">
+            <name>RUE DES  MOISSONS PARKING ECOLE  DU PRIOU PIQUETS BOIS</name>
+        </rtept>
+        <rtept lon="5.679307" lat="45.155853">
+            <name>ESPACES SCHOELCHER    FIXATION SUR BARRIERES PRISME</name>
+        </rtept>
+        <rtept lon="5.679307" lat="45.155853">
+            <name>RUE JOSEPH  MOUTIN  PITONS   CABLES</name>
+        </rtept>
+        <rtept lon="5.679307" lat="45.155853">
+            <name>RUE DE LA LIBERTE   POTEAUX   CABLES</name>
+        </rtept>
+        <rtept lon="5.679307" lat="45.155853">
+            <name>CENTRE  CULTUREL    FIXATION SUR BARRIERES</name>
+        </rtept>
+        <rtept lon="5.67447" lat="45.158403">
+            <name>ROUTE  DE ST NIZIER    AVE  DE LA POSTE  MURS CONDORCET</name>
+        </rtept>
+        <rtept lon="5.6814309" lat="45.1572025">
+            <name>SALLE  CONDORCET  MUR DU CIMETIERE CABLES</name>
+        </rtept>
+        <rtept lon="5.6899841" lat="45.1648944">
+            <name>COLLEGE MARC SANGNIER  PIEUX FERRADIX</name>
+        </rtept>
+        <rtept lon="5.6907831" lat="45.1642493">
+            <name>RUE PASTEUR  CONTRE  CLOTURE  DU TABOR</name>
+        </rtept>
+        <rtept lon="5.696162" lat="45.16703">
+            <name>RUE DU DAUPHINE  FIXE SUR MURETTE BETON</name>
+        </rtept>
+        <rtept lon="5.6962953" lat="45.1665683">
+            <name>ECOLE  MATERNELLE DES ILES    PIEUX FERRADIX</name>
+        </rtept>
+        <rtept lon="5.6962925" lat="45.1697488">
+            <name>ECOLE  PRIMAIRE  LOUIS ARMAND    PIEUX FERRADIX</name>
+        </rtept>
+        <rtept lon="5.693842" lat="45.168467">
+            <name>AVENUE  LOUIS ARMAND  PIEUX FERRADIX</name>
+        </rtept>
+        <rtept lon="5.692612" lat="45.172919">
+            <name>RUE GEORGES MAEDER. DEVANT  LA SALLE  VAUBAN</name>
+        </rtept>
+        <rtept lon="5.6922383" lat="45.170441">
+            <name>RUE DE CARTALE. DEVANT  L&#39;ÉCOLE  MATERNELLE CHARTREUSE</name>
+        </rtept>
+        <rtept lon="5.681005" lat="45.1705">
+            <name>AVENUE  HECTOR  BERLIOZ. DEVANT  L&#39;ÉCOLE  DU VILLAGE</name>
+        </rtept>
+        <rtept lon="5.628673" lat="45.170629">
+            <name>190 ROUTE  DES 4 MONTAGNES</name>
+        </rtept>
+        <rtept lon="5.58885002136" lat="45.128200531">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="5.541363" lat="45.174395">
+            <name></name>
+        </rtept>
+        <rtept lon="5.526441" lat="45.126087">
+            <name></name>
+        </rtept>
+        <rtept lon="5.525942" lat="45.030608">
+            <name>LE VILLAGE</name>
+        </rtept>
+        <rtept lon="5.554131" lat="45.070056">
+            <name>RUE DE L&#39;ADRET</name>
+        </rtept>
+        <rtept lon="5.551779" lat="45.072318">
+            <name>PLACE  MURE-RAVAUD - AVENUE  DU GÉNÉRAL DE GAULLE</name>
+        </rtept>
+        <rtept lon="5.552964" lat="45.074059">
+            <name>AVENUE  DU GENERAL DE GAULLE</name>
+        </rtept>
+        <rtept lon="5.615537" lat="45.180789">
+            <name></name>
+        </rtept>
+        <rtept lon="5.689265" lat="45.180159">
+            <name>RUE DU ÉMOUCHETTE DEVANT  LA SALLE  MOUCHEROTTE</name>
+        </rtept>
+        <rtept lon="5.689448" lat="45.180023">
+            <name>RUE DE LA LEVADE.  DEVANT  L&#39;ÉCOLE  MOUCHEROTTE</name>
+        </rtept>
+        <rtept lon="5.697519" lat="45.179986">
+            <name>BOULEVARD DE L&#39;EUROPE. DEVANT  LE MARCHÉ</name>
+        </rtept>
+        <rtept lon="5.69833" lat="45.18062">
+            <name>RUE DE L&#39;INDUSTRIE. DEVANT  LE RESTAURANT SCOLAIRE DE L&#39;ÉCOLE  CHAMROUSSE</name>
+        </rtept>
+        <rtept lon="5.69833" lat="45.18062">
+            <name>AVENUE  ARISTIDE BERGÈS. A L&#39;ANGLE  DE LA RUE AIMÉ BOUCHAYER</name>
+        </rtept>
+        <rtept lon="5.69833" lat="45.18062">
+            <name>LA TOUR SANS VENIN.  AU PIED DU CENTRE  DE LOISIRS  JEAN MOULIN</name>
+        </rtept>
+        <rtept lon="5.69833" lat="45.18062">
+            <name>ALLÉE  EUGÈNE FAURE.  A L&#39;ANGLE  DE LA RUE DE COMBOIRE</name>
+        </rtept>
+        <rtept lon="5.69833" lat="45.18062">
+            <name>RUE DE L&#39;INDUSTRIE. DEVANT  LA RÉSIDENCE POUR PERSONNES ÂGÉES  LES SAULNES</name>
+        </rtept>
+        <rtept lon="5.69833" lat="45.18062">
+            <name>RUE DU PROGRÈS. A L&#39;ANGLE  DE LA RUE JEAN JAURÈS</name>
+        </rtept>
+        <rtept lon="5.6980449" lat="45.1394751">
+            <name>ECOLE  MATERNELLE DES 120 TOISES  – RUE DU 19 MARS 1962</name>
+        </rtept>
+        <rtept lon="5.7070393" lat="45.135493">
+            <name>GROUPE  SCOLAIRE JEAN MOULIN  – RUE DU DOCTEUR VALOIS</name>
+        </rtept>
+        <rtept lon="5.6982193" lat="45.1363353">
+            <name>GROUPE  SCOLAIRE ILES DE MARS – RUE MOZART</name>
+        </rtept>
+        <rtept lon="5.6982193" lat="45.1363353">
+            <name>GROUPE  SCOLAIRE VILLANCOURT – AVENUE  VICTOR  HUGO</name>
+        </rtept>
+        <rtept lon="5.697159" lat="45.1340603">
+            <name>ECOLE  MATERNELLE DES OLYMPIADES – AVENUE  VICTOR  HUGO</name>
+        </rtept>
+        <rtept lon="5.6956614" lat="45.131228">
+            <name>PLACE  DES ALPES  (CÔTÉ  CANAL,  DEVANT  GRILLAGE)</name>
+        </rtept>
+        <rtept lon="5.6961555" lat="45.1296938">
+            <name>ECOLE  MATERNELLE DU COTEAU  – AVENUE  DES RÉSISTANTS</name>
+        </rtept>
+        <rtept lon="5.7025958" lat="45.1156729">
+            <name>PAPETERIES AUSSEYDAT-REY – AVENUE  DU MAQUIS  DE L&#39;OISANS</name>
+        </rtept>
+        <rtept lon="5.6989495" lat="45.1231651">
+            <name>PLACE  SALVADOR ALLENDE (DEVANT LES JARDINIÈRES)</name>
+        </rtept>
+        <rtept lon="5.698092" lat="45.122966">
+            <name>CONTRE-ALLÉE EST COURS  ST-ANDRÉ (PRÉS  DE LA RÉSIDENCE ILES DE MARS)</name>
+        </rtept>
+        <rtept lon="5.697218" lat="45.123226">
+            <name>ECOLE  ÉLEMENTAIRE JULES VERNES  - 10 RUE BENOIT  JAY</name>
+        </rtept>
+        <rtept lon="5.642766" lat="45.071652">
+            <name>PLACE  DE L’EGLISE</name>
+        </rtept>
+        <rtept lon="5.681068" lat="45.086439">
+            <name></name>
+        </rtept>
+        <rtept lon="5.6666609" lat="45.0527659">
+            <name>ECOLE  MARIE-SAC RUE DE LA RÉSIDENCE</name>
+        </rtept>
+        <rtept lon="5.6672715" lat="45.0537351">
+            <name>ECOLE  MALRAUX</name>
+        </rtept>
+        <rtept lon="5.669402" lat="45.055188">
+            <name>ESPACE  OLYMPE  DE GOUGES</name>
+        </rtept>
+        <rtept lon="5.668948" lat="45.053289">
+            <name>ECOLE  CHAMPOLLION</name>
+        </rtept>
+        <rtept lon="5.654631" lat="45.027972">
+            <name>LE GENEVREY - LOUIS VICAT</name>
+        </rtept>
+        <rtept lon="5.6523265" lat="45.0271467">
+            <name>SALLE  DES FÊTES</name>
+        </rtept>
+        <rtept lon="5.647641" lat="45.025077">
+            <name></name>
+        </rtept>
+        <rtept lon="5.647641" lat="45.025077">
+            <name></name>
+        </rtept>
+        <rtept lon="5.647641" lat="45.025077">
+            <name></name>
+        </rtept>
+        <rtept lon="5.619862" lat="44.974385">
+            <name></name>
+        </rtept>
+        <rtept lon="5.5444696" lat="44.9938716">
+            <name>PLACE  DU VILLAGE</name>
+        </rtept>
+        <rtept lon="5.551972" lat="44.960649">
+            <name></name>
+        </rtept>
+        <rtept lon="5.565853" lat="44.903577">
+            <name></name>
+        </rtept>
+        <rtept lon="5.58842" lat="44.954368">
+            <name>LE BOURG  - CROISEMENT RD</name>
+        </rtept>
+        <rtept lon="5.626627" lat="44.929182">
+            <name></name>
+        </rtept>
+        <rtept lon="5.634902" lat="44.916374">
+            <name></name>
+        </rtept>
+        <rtept lon="5.639625" lat="44.88203">
+            <name></name>
+        </rtept>
+        <rtept lon="5.6716978" lat="44.8494374">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="5.716877" lat="44.828816">
+            <name></name>
+        </rtept>
+        <rtept lon="5.7622072" lat="44.8533207">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="5.776399" lat="44.880495">
+            <name></name>
+        </rtept>
+        <rtept lon="5.79589" lat="44.889706">
+            <name>RUE DU MONT AIGUILLE</name>
+        </rtept>
+        <rtept lon="5.788537" lat="44.898755">
+            <name>AVENUE  DES PLANTATIONS</name>
+        </rtept>
+        <rtept lon="5.786946" lat="44.904318">
+            <name>AVENUE  CHION DUCOLLET</name>
+        </rtept>
+        <rtept lon="5.784026" lat="44.908271">
+            <name>RUE JEAN-JAURÈS</name>
+        </rtept>
+        <rtept lon="5.779402" lat="44.915555">
+            <name></name>
+        </rtept>
+        <rtept lon="5.784662" lat="44.906233">
+            <name>PLACE  PERRET</name>
+        </rtept>
+        <rtept lon="5.785747" lat="44.906335">
+            <name>PLACE  YVES TURC</name>
+        </rtept>
+        <rtept lon="5.793076" lat="44.909595">
+            <name>AVENUE  DOCTEUR TAGNARD</name>
+        </rtept>
+        <rtept lon="5.807172" lat="44.913055">
+            <name></name>
+        </rtept>
+        <rtept lon="5.791709" lat="44.905276">
+            <name>RUE DES ALPES</name>
+        </rtept>
+        <rtept lon="5.785667" lat="44.904133">
+            <name>PLACE  DES CAPUCINS</name>
+        </rtept>
+        <rtept lon="5.761788" lat="44.892571">
+            <name></name>
+        </rtept>
+        <rtept lon="5.732887" lat="44.871665">
+            <name></name>
+        </rtept>
+        <rtept lon="5.720763" lat="44.873748">
+            <name>ROUTE  DU LAC - À CÔTÉ DU BASSIN</name>
+        </rtept>
+        <rtept lon="5.689315" lat="44.914169">
+            <name></name>
+        </rtept>
+        <rtept lon="5.717653" lat="44.949515">
+            <name></name>
+        </rtept>
+        <rtept lon="5.70493" lat="44.975051">
+            <name></name>
+        </rtept>
+        <rtept lon="5.74451" lat="44.96089">
+            <name>PLACE  ALBERT  RIVET</name>
+        </rtept>
+        <rtept lon="5.748606" lat="44.985691">
+            <name></name>
+        </rtept>
+        <rtept lon="5.772798" lat="44.997524">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="5.796463" lat="45.003418">
+            <name></name>
+        </rtept>
+        <rtept lon="5.8050002" lat="44.9783283">
+            <name>MUR ECOLE  PRIMAIRE / MAIRIE</name>
+        </rtept>
+        <rtept lon="5.775074" lat="44.956205">
+            <name>SALLE  DES FÊTES,  PLACE  HENRI ET MATHE  GAILLARD</name>
+        </rtept>
+        <rtept lon="5.806665" lat="44.95361">
+            <name></name>
+        </rtept>
+        <rtept lon="5.82508993149" lat="44.9345016479">
+            <name>COUR DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.855535" lat="44.941554">
+            <name></name>
+        </rtept>
+        <rtept lon="5.870294" lat="44.921687">
+            <name>PARKING DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.886804" lat="44.98219">
+            <name></name>
+        </rtept>
+        <rtept lon="5.8567" lat="45.0306">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="5.901318" lat="45.090832">
+            <name></name>
+        </rtept>
+        <rtept lon="6.079542" lat="45.1575283">
+            <name>LE VILLAGE</name>
+        </rtept>
+        <rtept lon="6.036982" lat="45.129567">
+            <name></name>
+        </rtept>
+        <rtept lon="6.031119" lat="45.091882">
+            <name></name>
+        </rtept>
+        <rtept lon="6.0576017" lat="45.081257">
+            <name>MAIRIE  D&#39;HUEZ  VILLAGE</name>
+        </rtept>
+        <rtept lon="6.05960988998" lat="45.0830993652">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="6.0784286" lat="45.0888863">
+            <name>PARKING MUNICIPAL DES BERGERS - ROUTE  DE L&#39;ALTIPORT</name>
+        </rtept>
+        <rtept lon="6.070597" lat="45.0903531">
+            <name>PALAIS  DES SPORTS  - AVENUE  DE BRANDES</name>
+        </rtept>
+        <rtept lon="6.069519" lat="45.095438">
+            <name>PLACE  DU COGNET</name>
+        </rtept>
+        <rtept lon="6.063423" lat="45.0917713">
+            <name>MAIRIE  ANNEXE  DE L&#39;ALPE  D&#39;HUEZ  - ROUTE  DE LA POSTE</name>
+        </rtept>
+        <rtept lon="6.0644316" lat="45.0910005">
+            <name>PATINOIRE MUNICIPALE - AVENUE  DES JEUX</name>
+        </rtept>
+        <rtept lon="6.06366" lat="45.089969">
+            <name>QUARTIER DE L&#39;ECLOSE - RUE DU 93ÈME  RAM</name>
+        </rtept>
+        <rtept lon="6.0631696" lat="45.0902996">
+            <name>ECOLE  - AVENUE  DE L&#39;ECLOSE</name>
+        </rtept>
+        <rtept lon="6.0575134" lat="45.0803499">
+            <name>PARKING D&#39;HUEZ  VILLAGE  (MUNICIPAL)</name>
+        </rtept>
+        <rtept lon="6.0475244" lat="45.0747893">
+            <name>RIBOT  D&#39;HUEZ</name>
+        </rtept>
+        <rtept lon="6.045087" lat="45.068074">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="6.141986" lat="45.050063">
+            <name></name>
+        </rtept>
+        <rtept lon="6.169862" lat="45.0709">
+            <name></name>
+        </rtept>
+        <rtept lon="6.161635" lat="45.082848">
+            <name></name>
+        </rtept>
+        <rtept lon="6.161635" lat="45.082848">
+            <name></name>
+        </rtept>
+        <rtept lon="6.161635" lat="45.082848">
+            <name></name>
+        </rtept>
+        <rtept lon="6.12974023819" lat="45.0360565186">
+            <name>MAIRIE  CHEF-LIEU</name>
+        </rtept>
+        <rtept lon="6.124674" lat="45.013672">
+            <name>MAIRIE  ANNEXE  48 AVENUE  DE LA MUZELLE 38860</name>
+        </rtept>
+        <rtept lon="6.17632007599" lat="44.9578018188">
+            <name>PLACE  DE L’EGLISE</name>
+        </rtept>
+        <rtept lon="6.115432" lat="44.989349">
+            <name>ALPE DE VENOSC DEVANT  MAIRIE  ANNEXE</name>
+        </rtept>
+        <rtept lon="6.115432" lat="44.989349">
+            <name>MAIRIE  DE VENOSC VILLAGE</name>
+        </rtept>
+        <rtept lon="6.043664" lat="45.018554">
+            <name>MUR DU RESERVOIR D&#39;EAU INCENDIE</name>
+        </rtept>
+        <rtept lon="6.0298644" lat="45.0521676">
+            <name>MAIRIE  - LES SABLES</name>
+        </rtept>
+        <rtept lon="5.981843" lat="45.07429">
+            <name></name>
+        </rtept>
+        <rtept lon="6.020241" lat="45.031807">
+            <name></name>
+        </rtept>
+        <rtept lon="5.97683191299" lat="45.0480270386">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="5.9678468" lat="44.9842695">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="5.973179" lat="44.937913">
+            <name>2074 ROUTE  DU COL, PLACE  DE L&#39;ÉGLISE</name>
+        </rtept>
+        <rtept lon="6.0299099" lat="44.871887">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="5.947294" lat="44.901317">
+            <name></name>
+        </rtept>
+        <rtept lon="5.90597200394" lat="44.9002799988">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.835789" lat="44.903015">
+            <name>RUE DE L’EGLISE</name>
+        </rtept>
+        <rtept lon="5.8250511" lat="44.89056">
+            <name>PARKING SALLE  DES FETES</name>
+        </rtept>
+        <rtept lon="5.822997" lat="44.874815">
+            <name></name>
+        </rtept>
+        <rtept lon="5.626627" lat="44.929182">
+            <name></name>
+        </rtept>
+    </rte>
+</gpx>

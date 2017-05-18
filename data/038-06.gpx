@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="panneaux-election.fr">
+    <rte>
+        <rtept lon="5.183878" lat="45.648411">
+            <name>PLACE  DU VILLAGE</name>
+        </rtept>
+        <rtept lon="5.292355" lat="45.5940325">
+            <name>TROTTOIR (À CÔTÉ DE LA MAISON  DE LA PRESSE) PLACE  DU CHÂTEAU</name>
+        </rtept>
+        <rtept lon="5.2858926" lat="45.593602">
+            <name>MAISON  DE QUARTIER DE PRÉ-BÉNIT AVENUE  DE PRÉ-BÉNIT</name>
+        </rtept>
+        <rtept lon="5.2821294" lat="45.5950972">
+            <name>RUE DE LA RIVOIRE  : PANNEAUX LE LONG DE LA CLÔTURE DU CIMETIÈRE DE LA RIVOIRE</name>
+        </rtept>
+        <rtept lon="5.278163" lat="45.590854">
+            <name>CLÔTURE D&#39;ENTRÉE DE L&#39;ÉCOLE  MATERNELLE DE L&#39;OISELET, RUE AMPÈRE</name>
+        </rtept>
+        <rtept lon="5.278163" lat="45.590854">
+            <name>CLÔTURE DE LA MAISON  FAMILIALE ET RURALE  DE MOZAS,  ROUTE  DU BUGEY</name>
+        </rtept>
+        <rtept lon="5.278163" lat="45.590854">
+            <name>PANNEAUX LE LONG DE LA CLÔTURE PARKING ARRÊT  TUB, RUE DE BOUSSIEU</name>
+        </rtept>
+        <rtept lon="5.278163" lat="45.590854">
+            <name>CLÔTURE D&#39;ENTRÉE DE L&#39;ÉCOLE  MATERNELLE DE LA GRIVE</name>
+        </rtept>
+        <rtept lon="5.278163" lat="45.590854">
+            <name>RUE LA LIBÉRATION : ESPACES VERTS  À CÔTÉ DE L&#39;ÉGLISE DU &quot;TEMPLE&quot;</name>
+        </rtept>
+        <rtept lon="5.278163" lat="45.590854">
+            <name>MONTBERNIER : CLÔTURE CHAMP  AGRICOLE EN FACE DU BAR RESTAURANT LES TILLEULS</name>
+        </rtept>
+        <rtept lon="5.278163" lat="45.590854">
+            <name>PONT DE JALLIEU  : BARRIÈRES DE LA BOURBRE OU EN FACE DU PARKING DE L&#39;ÉCOLE  M. CAREME</name>
+        </rtept>
+        <rtept lon="5.278163" lat="45.590854">
+            <name>CLÔTURE D&#39;ENTRÉE DES SERVICES TECHNIQUES AVENUE  V. SCOTTO</name>
+        </rtept>
+        <rtept lon="5.278163" lat="45.590854">
+            <name>PARKING À PROXIMITÉ DU GYMNASE DE CHAMP-FLEURI</name>
+        </rtept>
+        <rtept lon="5.278163" lat="45.590854">
+            <name>PANNEAUX LE LONG DE LA CLÔTURE DE L&#39;ENTREPRISE BOISSAT AVENUE  DE CHARGES</name>
+        </rtept>
+        <rtept lon="5.278163" lat="45.590854">
+            <name>TERRAIN DE BOULES  EN FACE DU CAFÉ &quot;LE SAN ANTONIO&quot; ET DU PARKING DE L&#39;HÔTEL  DE VILLE</name>
+        </rtept>
+        <rtept lon="5.235542" lat="45.647562">
+            <name></name>
+        </rtept>
+        <rtept lon="5.183878" lat="45.648411">
+            <name>PLACE  DU VILLAGE</name>
+        </rtept>
+        <rtept lon="5.164868" lat="45.679571">
+            <name></name>
+        </rtept>
+        <rtept lon="5.203356" lat="45.677924">
+            <name></name>
+        </rtept>
+        <rtept lon="5.220121" lat="45.679396">
+            <name></name>
+        </rtept>
+        <rtept lon="5.20860004425" lat="45.6941986084">
+            <name>COUR DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.186264" lat="45.733208">
+            <name></name>
+        </rtept>
+        <rtept lon="5.155306" lat="45.726828">
+            <name>ROUTE  DE JAMEYZIEU - ANGLE  RUE DU VILLAGE</name>
+        </rtept>
+        <rtept lon="5.159135" lat="45.7371">
+            <name>RUE FRANCISQUE VINCENT - ANGLE  ROUTE  DE VIENNE</name>
+        </rtept>
+        <rtept lon="5.1587775" lat="45.7402801">
+            <name>HLM LA PLAINE  - ANGLE  RUE DES ALLOBROGES/RUE DES PROVINCES</name>
+        </rtept>
+        <rtept lon="5.161698" lat="45.743786">
+            <name>AVENUE  DU COLLÈGE - FACE N°25</name>
+        </rtept>
+        <rtept lon="5.163585" lat="45.745356">
+            <name>NOUVELLE ÉCOLE  MATERNELLE CHARLES PERRAULT-RUE JEAN GIONO</name>
+        </rtept>
+        <rtept lon="5.162357" lat="45.746132">
+            <name>HÔTEL  DE VILLE - 25 AVENUE  ALEXANDRE GRAMONT</name>
+        </rtept>
+        <rtept lon="5.154339" lat="45.746248">
+            <name>MAISON  DES SOCIÉTÉS - 33 RUE DE LA RÉPUBLIQUE</name>
+        </rtept>
+        <rtept lon="5.14818" lat="45.746527">
+            <name>ROUTE  DE LA LÉCHÈRE - VERS LE N°9</name>
+        </rtept>
+        <rtept lon="5.1115189" lat="45.7386092">
+            <name>LIEU-DIT  LA GARE</name>
+        </rtept>
+        <rtept lon="5.104214" lat="45.745403">
+            <name>HAMEAU DE ST OURS</name>
+        </rtept>
+        <rtept lon="5.1093244" lat="45.7523169">
+            <name>PLACE  DU 19 MARS 1962</name>
+        </rtept>
+        <rtept lon="5.111601" lat="45.752489">
+            <name>PLACE  DE LATTRE  DE TASSIGNY</name>
+        </rtept>
+        <rtept lon="5.112867" lat="45.752719">
+            <name>ROUTE  DE CRÉMIEU LES BOUVESSIÈRES</name>
+        </rtept>
+        <rtept lon="5.109815" lat="45.755307">
+            <name>ROUTE  DE VILLETTE</name>
+        </rtept>
+        <rtept lon="5.069643" lat="45.769349">
+            <name>L&#39;ABBAYE : RUE DES CERISIERS</name>
+        </rtept>
+        <rtept lon="5.117632" lat="45.777108">
+            <name>PLACE  D&#39;ASNIÈRE : RUE DES ROSES</name>
+        </rtept>
+        <rtept lon="5.1092103" lat="45.7905388">
+            <name>GROUPE  SCOLAIRE DU BOURG  : RUE DES SAULES</name>
+        </rtept>
+        <rtept lon="5.11142" lat="45.790987">
+            <name>ESPACE  LUCIEN  DESCOTTES : PARKING 14 RUE DES MURIERS</name>
+        </rtept>
+        <rtept lon="5.113295" lat="45.793891">
+            <name>HÔTEL  DE VILLE : 14 RUE DES TILLEULS</name>
+        </rtept>
+        <rtept lon="5.124265" lat="45.803037">
+            <name>SOUS L&#39;ÉGLISE : CARREFOUR BRUYÈRES - ÉGLANTIERS</name>
+        </rtept>
+        <rtept lon="5.1696429" lat="45.7897739">
+            <name>DEVANT  LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.171251" lat="45.776737">
+            <name></name>
+        </rtept>
+        <rtept lon="5.143273" lat="45.755323">
+            <name>RUE DU PIARDAY - ANGLE  LOUIS DE CHALON</name>
+        </rtept>
+        <rtept lon="5.14134" lat="45.75453">
+            <name>RUE RAOUL  DE GAUCOURT - VERS LE N°40</name>
+        </rtept>
+        <rtept lon="5.162311" lat="45.753605">
+            <name>VERS LA SALLE  L&#39;ACROPOLE - CHEMIN  DU RÉVEIL</name>
+        </rtept>
+        <rtept lon="5.1665789" lat="45.7499138">
+            <name>ROUTE  DE LYON,  VERS TRÉFIMETAUX - FACE À LA RUE DU RÉVEIL</name>
+        </rtept>
+        <rtept lon="5.170628" lat="45.749702">
+            <name>VERS LE CENTRE  DE SECOURS - RUE DE LA LIBERTÉ</name>
+        </rtept>
+        <rtept lon="5.1682325" lat="45.7515825">
+            <name>VERS LE CHÂTEAU GRAMMONT - RUE DU TRAVAIL</name>
+        </rtept>
+        <rtept lon="5.172797" lat="45.750584">
+            <name>A LA LIMITE  AVEC LA COMMUNE DE TIGNIEU  - AU FOND DE LA RUE DE LA RÉPUBLIQUE</name>
+        </rtept>
+        <rtept lon="5.174680233" lat="45.7499008179">
+            <name>EN FACE DE LA MAIRIE  - RUE DE LA RÉPUBLIQUE</name>
+        </rtept>
+        <rtept lon="5.1756267" lat="45.7484945">
+            <name>VERS L&#39;ÉCOLE  MATERNELLE LES ECUREUILS - RUE DU DOCTEUR ROBERT</name>
+        </rtept>
+        <rtept lon="5.211368" lat="45.755083">
+            <name>43 RUE DE LA GIRINE</name>
+        </rtept>
+        <rtept lon="5.217122" lat="45.740373">
+            <name>60 ROUTE  DE BARENS</name>
+        </rtept>
+        <rtept lon="5.226057" lat="45.74768">
+            <name>RUE DE L&#39;ÉGLISE</name>
+        </rtept>
+        <rtept lon="5.22036981583" lat="45.7523002625">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.2193701" lat="45.7572434">
+            <name>PLACE  DE PASSIEU</name>
+        </rtept>
+        <rtept lon="5.223807" lat="45.755308">
+            <name>CHEMIN  DES VIGNES</name>
+        </rtept>
+        <rtept lon="5.217093" lat="45.758532">
+            <name>CHEVRAMONT</name>
+        </rtept>
+        <rtept lon="5.209706" lat="45.76267">
+            <name>RUE DES CHÈNES  VERTS</name>
+        </rtept>
+        <rtept lon="5.210715" lat="45.769291">
+            <name>LOTISSEMENT LE PORT</name>
+        </rtept>
+        <rtept lon="5.22053" lat="45.765412">
+            <name>ANGLE  RUE DES MOULINS ET CHEMIN  DU PEILLARD</name>
+        </rtept>
+        <rtept lon="5.25835990906" lat="45.7568016052">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="5.252478" lat="45.741066">
+            <name>CERTEAU</name>
+        </rtept>
+        <rtept lon="5.292706" lat="45.756317">
+            <name></name>
+        </rtept>
+        <rtept lon="5.2687623" lat="45.7564556">
+            <name>CENTRE  BOURG</name>
+        </rtept>
+        <rtept lon="5.259869" lat="45.733373">
+            <name>BEPTENAZ - CARREFOUR DU MONT</name>
+        </rtept>
+        <rtept lon="5.252221" lat="45.727096">
+            <name>CHEMIN  DES DOCTEURS LABONNARDIÈRE</name>
+        </rtept>
+        <rtept lon="5.245068" lat="45.729897">
+            <name>SENTE  DU TROUBADOUR</name>
+        </rtept>
+        <rtept lon="5.250238" lat="45.724742">
+            <name>CARREFOUR FAUBOURG DES MOUILNS / RUE DU LAVOIR</name>
+        </rtept>
+        <rtept lon="5.250238" lat="45.724742">
+            <name>MUR PROPRIÉTÉ BOROTTO – VIRAGE  RUE JUIVERIE / BOULEVARD DE LA PORTE  NEUVE</name>
+        </rtept>
+        <rtept lon="5.250461" lat="45.724207">
+            <name>MUR PROPRIÉTÉ BOUILLET – COURS  BARON  RAVERAT (FACE À LA SALLE  DES FÊTES)</name>
+        </rtept>
+        <rtept lon="5.240015" lat="45.727202">
+            <name>CHEMIN  DE SOUS-BOTTE</name>
+        </rtept>
+        <rtept lon="5.237722" lat="45.724795">
+            <name>GIRATOIRE ANCIENNE GARE – AVENUE  ROLAND  DELACHENAL</name>
+        </rtept>
+        <rtept lon="5.2385301" lat="45.7239612">
+            <name>MAISON  DES ASSOCIATIONS</name>
+        </rtept>
+        <rtept lon="5.236703" lat="45.715898">
+            <name>RUE LAMARTINE, CONTRE  LE MUR DU CIMETIÈRE</name>
+        </rtept>
+        <rtept lon="5.2474172" lat="45.7222649">
+            <name>GROUPE  SCOLAIRE « LES DAUPHINS » - RUE TOM MOREL</name>
+        </rtept>
+        <rtept lon="5.297564" lat="45.718382">
+            <name></name>
+        </rtept>
+        <rtept lon="5.314947" lat="45.734242">
+            <name></name>
+        </rtept>
+        <rtept lon="5.33004999161" lat="45.7535018921">
+            <name>PARKING MAIRIE</name>
+        </rtept>
+        <rtept lon="5.313918" lat="45.78327">
+            <name>PLACE  EDOUARD HERRIOT</name>
+        </rtept>
+        <rtept lon="5.29213" lat="45.797157">
+            <name>PLACE  DE LA RÉPUBLIQUE</name>
+        </rtept>
+        <rtept lon="5.3407967" lat="45.8568947">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.354108" lat="45.839436">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.370904" lat="45.810332">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.400337" lat="45.834258">
+            <name></name>
+        </rtept>
+        <rtept lon="5.403840065" lat="45.8161010742">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="5.403299" lat="45.813474">
+            <name></name>
+        </rtept>
+        <rtept lon="5.415118" lat="45.79514">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.442274" lat="45.761865">
+            <name>RUE DU BOIS DE SOLIÈRE - FAVERGES</name>
+        </rtept>
+        <rtept lon="5.379019" lat="45.728403">
+            <name></name>
+        </rtept>
+        <rtept lon="5.432983" lat="45.711602">
+            <name>ABRI-BUS EN FACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.488626" lat="45.728187">
+            <name>35 PLACE  DE LA MAIRIE  - CREYS</name>
+        </rtept>
+        <rtept lon="5.502981" lat="45.697152">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.5227339" lat="45.698037">
+            <name>PLACE  PAUL CLAUDEL</name>
+        </rtept>
+        <rtept lon="5.5260005" lat="45.6706974">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="5.562511" lat="45.635186">
+            <name></name>
+        </rtept>
+        <rtept lon="5.538923" lat="45.624909">
+            <name></name>
+        </rtept>
+        <rtept lon="5.453139" lat="45.630416">
+            <name></name>
+        </rtept>
+        <rtept lon="5.469416" lat="45.64988">
+            <name></name>
+        </rtept>
+        <rtept lon="5.47205018997" lat="45.6509017944">
+            <name>PLACE  DU 8 MAI</name>
+        </rtept>
+        <rtept lon="5.469337" lat="45.67691">
+            <name></name>
+        </rtept>
+        <rtept lon="5.428685" lat="45.687704">
+            <name></name>
+        </rtept>
+        <rtept lon="5.408467" lat="45.671558">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.402316" lat="45.656505">
+            <name>OLOUISE - 373 CHEMIN  DU CHÂTEAU</name>
+        </rtept>
+        <rtept lon="5.3862" lat="45.638564">
+            <name>ARCISSE,</name>
+        </rtept>
+        <rtept lon="5.3605161" lat="45.6421964">
+            <name>ECOLE  LOUIS SEIGNER,</name>
+        </rtept>
+        <rtept lon="5.32865" lat="45.651317">
+            <name>CHAMONT</name>
+        </rtept>
+        <rtept lon="5.3530666" lat="45.6664556">
+            <name>MUR DU CIMETIÈRE</name>
+        </rtept>
+        <rtept lon="5.354526" lat="45.666757">
+            <name>DEVANT  LE FOYER  COMMUNAL</name>
+        </rtept>
+        <rtept lon="5.374064" lat="45.689987">
+            <name>LE BOURG</name>
+        </rtept>
+        <rtept lon="5.32139492035" lat="45.6871757507">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.319702" lat="45.68691">
+            <name>GRAND&#39;RUE, DEVANT  L&#39;ÉGLISE</name>
+        </rtept>
+        <rtept lon="5.319372" lat="45.686404">
+            <name>GROUPE  SCOLAIRE DES ROCHES</name>
+        </rtept>
+        <rtept lon="5.29182386398" lat="45.6726875305">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.27791976929" lat="45.6590995789">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.305376" lat="45.628136">
+            <name></name>
+        </rtept>
+        <rtept lon="5.316548" lat="45.588268">
+            <name></name>
+        </rtept>
+        <rtept lon="5.183878" lat="45.648411">
+            <name>PLACE  DU VILLAGE</name>
+        </rtept>
+    </rte>
+</gpx>

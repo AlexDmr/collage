@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="panneaux-election.fr">
+    <rte>
+        <rtept lon="4.775444" lat="45.47742">
+            <name>le bourg</name>
+        </rtept>
+        <rtept lon="4.807219" lat="45.560937">
+            <name>80 place de la Libération</name>
+        </rtept>
+        <rtept lon="4.798852" lat="45.565966">
+            <name>520 rue du 8 Mai 1945</name>
+        </rtept>
+        <rtept lon="4.791171" lat="45.574527">
+            <name>Avenue Anatole France (grille salle Brassens)</name>
+        </rtept>
+        <rtept lon="4.790909" lat="45.574017">
+            <name>Rue Gabriel Péri (Ecole de Bans)</name>
+        </rtept>
+        <rtept lon="4.776435" lat="45.578394">
+            <name>Hauts de Givors (parking sur route Départementale)</name>
+        </rtept>
+        <rtept lon="4.774034" lat="45.583325">
+            <name>Rue Jean Marie Imbert ( Ecole Jean Jaurès)</name>
+        </rtept>
+        <rtept lon="4.77485990524" lat="45.582698822">
+            <name>MAIRIE  : PLACE  JEAN JAURÈS</name>
+        </rtept>
+        <rtept lon="4.816857" lat="45.621872">
+            <name>Route de Sérézin</name>
+        </rtept>
+        <rtept lon="4.820861" lat="45.626736">
+            <name>rue de Ternay</name>
+        </rtept>
+        <rtept lon="4.819673" lat="45.627416">
+            <name>Rue de la Sarrazinière, au niveau de la gare SNCF</name>
+        </rtept>
+        <rtept lon="4.825229" lat="45.629006">
+            <name>avenue du Dauphiné sur le parking au niveau du n°16</name>
+        </rtept>
+        <rtept lon="4.831756" lat="45.631955">
+            <name>chemin de la Blancherie</name>
+        </rtept>
+        <rtept lon="4.827904" lat="45.629029">
+            <name>22 avenue du Dauphiné</name>
+        </rtept>
+        <rtept lon="4.856175" lat="45.632839">
+            <name>Maison de retraite chateauvieux : Avenue du 8 mai</name>
+        </rtept>
+        <rtept lon="4.856175" lat="45.632839">
+            <name>Groupe scolaire du Marais : rue rené Cassin</name>
+        </rtept>
+        <rtept lon="4.855385" lat="45.634831">
+            <name>Hôtel de ville : rue centrale Parc Municipal</name>
+        </rtept>
+        <rtept lon="4.949059" lat="45.657262">
+            <name>rueVictor Hugo - Groupe scolaire Germain Fumeux - BV6</name>
+        </rtept>
+        <rtept lon="4.9500878" lat="45.662247">
+            <name>Place Jean Moulin centre culturel (BV1)</name>
+        </rtept>
+        <rtept lon="4.952239" lat="45.66274">
+            <name>rue Joliot Curie -groupe scolaire - (bv2)</name>
+        </rtept>
+        <rtept lon="4.952239" lat="45.66274">
+            <name>Rue Louis Blériot -Restaurant scolaire Germain Fumeux BV7</name>
+        </rtept>
+        <rtept lon="4.952239" lat="45.66274">
+            <name>rue du 11 novembre 1918 groupe scolaire Joseph Sibuet -bv3</name>
+        </rtept>
+        <rtept lon="4.9508542" lat="45.6646747">
+            <name>Ecole de musique bv5</name>
+        </rtept>
+        <rtept lon="4.956788" lat="45.663881">
+            <name>place de la république</name>
+        </rtept>
+        <rtept lon="4.9567327" lat="45.667088">
+            <name>Place Jean Moulin - Centre Culturel (BV8)</name>
+        </rtept>
+        <rtept lon="4.9621147" lat="45.6667712">
+            <name>rue pasteur Groupe scolaire pasteur bv4</name>
+        </rtept>
+        <rtept lon="4.983602" lat="45.659562">
+            <name>Entre le 10 et le 16 de la rue du 12 juillet 1944 &quot;La Marre&quot;</name>
+        </rtept>
+        <rtept lon="4.985632" lat="45.654239">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.008789" lat="45.646387">
+            <name>Devant la salle à vocation pluraliste 35 rue du Stade</name>
+        </rtept>
+        <rtept lon="4.93593978882" lat="45.6272010803">
+            <name>place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.935961" lat="45.627372">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.873958" lat="45.620493">
+            <name>2 Rue de l’Inverse devant l’école</name>
+        </rtept>
+        <rtept lon="4.839536" lat="45.604877">
+            <name>Route de Marennes</name>
+        </rtept>
+        <rtept lon="4.8336179" lat="45.6053669">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.828142" lat="45.604487">
+            <name>route de Ternay salle des Sports</name>
+        </rtept>
+        <rtept lon="4.81091022491" lat="45.6066017151">
+            <name>Ecole des Pierres -primaire-</name>
+        </rtept>
+        <rtept lon="4.81091022491" lat="45.6066017151">
+            <name>Mairie de Ternay</name>
+        </rtept>
+        <rtept lon="4.810233" lat="45.602062">
+            <name>école de Flévieu -primaire</name>
+        </rtept>
+        <rtept lon="4.810233" lat="45.602062">
+            <name>CD 12 E</name>
+        </rtept>
+        <rtept lon="4.807285" lat="45.597281">
+            <name>rue de Chassagne</name>
+        </rtept>
+        <rtept lon="4.794815" lat="45.595703">
+            <name>rue des cités</name>
+        </rtept>
+        <rtept lon="4.76683" lat="45.592317">
+            <name>9 rue Yves Farge -Ecole Liauthaud (Pont chemin de fer)</name>
+        </rtept>
+        <rtept lon="4.767508" lat="45.590132">
+            <name>GS Paul Langevin, chemin de la Haute FREYDIERE</name>
+        </rtept>
+        <rtept lon="4.767508" lat="45.590132">
+            <name>Rue de la Paix -zone commerciale de carrefour</name>
+        </rtept>
+        <rtept lon="4.742897" lat="45.590303">
+            <name>Plateau Montrond</name>
+        </rtept>
+        <rtept lon="4.694254" lat="45.585856">
+            <name>54, rue centrale (à l&#39;intérieur du Clos Souchon - devant la nouvelle mairie)</name>
+        </rtept>
+        <rtept lon="4.693551" lat="45.583939">
+            <name>place Nicolas Paradis</name>
+        </rtept>
+        <rtept lon="4.661241" lat="45.579199">
+            <name>Mairie - 32, route des Monts du Lyonnais</name>
+        </rtept>
+        <rtept lon="4.626306" lat="45.583607">
+            <name>château du Peu</name>
+        </rtept>
+        <rtept lon="4.608561" lat="45.596205">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.571404" lat="45.599744">
+            <name>Le Bourg - 58, rue de Chateauvieux</name>
+        </rtept>
+        <rtept lon="4.5882603" lat="45.5990733">
+            <name>Place de l&#39;Eglise</name>
+        </rtept>
+        <rtept lon="4.5961492" lat="45.6321986">
+            <name>Route de Saint Martin devant la mairie</name>
+        </rtept>
+        <rtept lon="4.6394053" lat="45.6207448">
+            <name>Place de l&#39;Eglise</name>
+        </rtept>
+        <rtept lon="4.64408" lat="45.631905">
+            <name>Route de Mornant</name>
+        </rtept>
+        <rtept lon="4.632371" lat="45.660256">
+            <name>Route de Mornant</name>
+        </rtept>
+        <rtept lon="4.6684221" lat="45.6187033">
+            <name>21,avenue de Verdun près de l&#39;école Primaire publique</name>
+        </rtept>
+        <rtept lon="4.67127799988" lat="45.6190376282">
+            <name>Mairie de Mornant - Place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.673967" lat="45.621088">
+            <name>rue Dr Carrez - Ecole Maternelle</name>
+        </rtept>
+        <rtept lon="4.685297" lat="45.639941">
+            <name>28 Route de Mornant</name>
+        </rtept>
+        <rtept lon="4.700934" lat="45.677063">
+            <name>Place de la Flette - parvis de la Mairie</name>
+        </rtept>
+        <rtept lon="4.718968" lat="45.6595851">
+            <name>Place Fançois Blanc</name>
+        </rtept>
+        <rtept lon="4.718591" lat="45.640312">
+            <name>rue de la mairie</name>
+        </rtept>
+        <rtept lon="4.747225" lat="45.621781">
+            <name>Ecole des Landes 50 Route du Batard</name>
+        </rtept>
+        <rtept lon="4.733737" lat="45.605939">
+            <name>Parking nouvelle mairie - 360 route de la Chaudane</name>
+        </rtept>
+        <rtept lon="4.7439688" lat="45.6090328">
+            <name>Ecole du BAS R.D 386</name>
+        </rtept>
+        <rtept lon="4.765383" lat="45.602657">
+            <name>Rue Romain Rolland ( Ecole Romain Rolland)</name>
+        </rtept>
+        <rtept lon="4.767688" lat="45.599123">
+            <name>Avenue Flemming (gendarmerie)</name>
+        </rtept>
+        <rtept lon="4.769118" lat="45.596785">
+            <name>Rue Pierre et Marie Curie (réfectoire Joliot Curie)</name>
+        </rtept>
+        <rtept lon="4.772274" lat="45.597653">
+            <name>Rue Auguste Delaune (vers passage souterrain SNCF)</name>
+        </rtept>
+        <rtept lon="4.777078" lat="45.60373">
+            <name>Angle Darcy - Pressensé</name>
+        </rtept>
+        <rtept lon="4.7793865" lat="45.607997">
+            <name>Maternelle Flachat</name>
+        </rtept>
+        <rtept lon="4.780994" lat="45.609832">
+            <name>Angle Sabatier - J. Durand</name>
+        </rtept>
+        <rtept lon="4.782708" lat="45.607548">
+            <name>Angle République - Charles de Gaulle</name>
+        </rtept>
+        <rtept lon="4.788605" lat="45.607813">
+            <name>Groupe scolaire Pasteur</name>
+        </rtept>
+        <rtept lon="4.78896999359" lat="45.6082992554">
+            <name>Mairie (esplanade)</name>
+        </rtept>
+        <rtept lon="4.787817" lat="45.608654">
+            <name>Bureau Guy Raffin</name>
+        </rtept>
+        <rtept lon="4.787305" lat="45.612115">
+            <name>Centre Aéré</name>
+        </rtept>
+        <rtept lon="4.77950000763" lat="45.6342010498">
+            <name>parking de la mairie , avenue Saint Jean</name>
+        </rtept>
+        <rtept lon="4.78538" lat="45.633051">
+            <name>Parking devant salle des fêtes, avenue Gilbert Fabre</name>
+        </rtept>
+        <rtept lon="4.7941248" lat="45.6080922">
+            <name>La Croix des Rampeaux</name>
+        </rtept>
+        <rtept lon="4.791336" lat="45.607559">
+            <name>rue Bouteiller (face Ecole Roger TISSOT)</name>
+        </rtept>
+        <rtept lon="4.783663" lat="45.598727">
+            <name>Parking avenue Berthelot</name>
+        </rtept>
+        <rtept lon="4.774205" lat="45.589513">
+            <name>Avenue Maurice Thorez ( vers les tours)</name>
+        </rtept>
+        <rtept lon="4.7661847" lat="45.5850206">
+            <name>Place Général de Gaulle</name>
+        </rtept>
+        <rtept lon="4.717657" lat="45.55096">
+            <name>Mairie - 18 route de la Croix Régis</name>
+        </rtept>
+        <rtept lon="4.707503" lat="45.565834">
+            <name>Place Louis Pingon</name>
+        </rtept>
+        <rtept lon="4.647414" lat="45.542024">
+            <name>rue ancien canal (la madeleine)</name>
+        </rtept>
+        <rtept lon="4.6770898" lat="45.5393264">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="4.726509" lat="45.520082">
+            <name>le bourg</name>
+        </rtept>
+        <rtept lon="4.775444" lat="45.47742">
+            <name>le bourg</name>
+        </rtept>
+        <rtept lon="4.769205" lat="45.458935">
+            <name>rue des Mariniers (comité commun)</name>
+        </rtept>
+        <rtept lon="4.758632" lat="45.457347">
+            <name>Sur RN 86 (la Maladière)</name>
+        </rtept>
+        <rtept lon="4.7642403" lat="45.4609714">
+            <name>Place du marché aux Fruits devant la salle de l&#39;Arbuel (bureau de vote)</name>
+        </rtept>
+        <rtept lon="4.76817389999997" lat="45.46365471">
+            <name>Mairie (bureau de vote)</name>
+        </rtept>
+        <rtept lon="4.811374" lat="45.487252">
+            <name>avenue du Château - parking salle polyvalente</name>
+        </rtept>
+        <rtept lon="4.836157" lat="45.504391">
+            <name>Rue de Montlys (en face du n°5) Verenay</name>
+        </rtept>
+        <rtept lon="4.822954" lat="45.515048">
+            <name>le lacat</name>
+        </rtept>
+        <rtept lon="4.829056" lat="45.519827">
+            <name>la plaine</name>
+        </rtept>
+        <rtept lon="4.852222" lat="45.517528">
+            <name>1270 route du Grisard</name>
+        </rtept>
+        <rtept lon="4.863458" lat="45.52289">
+            <name>rue coste</name>
+        </rtept>
+        <rtept lon="4.865369" lat="45.5246">
+            <name>188, place Général de Gaulle</name>
+        </rtept>
+        <rtept lon="4.867899" lat="45.526237">
+            <name>rue du salin</name>
+        </rtept>
+        <rtept lon="4.859755" lat="45.533507">
+            <name>RD 386 (face au giratoire)</name>
+        </rtept>
+        <rtept lon="4.858338" lat="45.536446">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.81095" lat="45.557007">
+            <name>116 rue du Perrin</name>
+        </rtept>
+        <rtept lon="4.805584" lat="45.560069">
+            <name>471 rue Edmond Cinquin</name>
+        </rtept>
+        <rtept lon="4.775444" lat="45.47742">
+            <name>le bourg</name>
+        </rtept>
+    </rte>
+</gpx>

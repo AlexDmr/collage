@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="panneaux-election.fr">
+    <rte>
+        <rtept lon="5.621491" lat="45.334708">
+            <name></name>
+        </rtept>
+        <rtept lon="5.3398662" lat="45.0862657">
+            <name>PARKING DES ECOLES</name>
+        </rtept>
+        <rtept lon="5.301134" lat="45.062505">
+            <name></name>
+        </rtept>
+        <rtept lon="5.2733001709" lat="45.0646018982">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.283833" lat="45.074571">
+            <name></name>
+        </rtept>
+        <rtept lon="5.327577" lat="45.112896">
+            <name>PLACE  DU CHAMP  DE MARS</name>
+        </rtept>
+        <rtept lon="5.337866" lat="45.120291">
+            <name></name>
+        </rtept>
+        <rtept lon="5.362057" lat="45.120682">
+            <name></name>
+        </rtept>
+        <rtept lon="5.376029" lat="45.146757">
+            <name>PLACE  DU CHAMP  DE MARS</name>
+        </rtept>
+        <rtept lon="5.341729" lat="45.151738">
+            <name></name>
+        </rtept>
+        <rtept lon="5.3325263" lat="45.1733996">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="5.31971" lat="45.161258">
+            <name>AVENUE  DE LA SAULAIE</name>
+        </rtept>
+        <rtept lon="5.319038" lat="45.155384">
+            <name>BOULEVARD RIONDEL</name>
+        </rtept>
+        <rtept lon="5.319712" lat="45.154355">
+            <name>AVENUE  DU COLLEGE</name>
+        </rtept>
+        <rtept lon="5.32068014145" lat="45.1542205811">
+            <name>RUE DU 19 MARS 1962</name>
+        </rtept>
+        <rtept lon="5.32199" lat="45.150345">
+            <name>BOULEVARD DE LA GARE</name>
+        </rtept>
+        <rtept lon="5.325473" lat="45.147995">
+            <name>AVENUE  DU VERCORS</name>
+        </rtept>
+        <rtept lon="5.320624" lat="45.149032">
+            <name>RUE DU COLOMBIER</name>
+        </rtept>
+        <rtept lon="5.318335" lat="45.15187">
+            <name>RUE ST LAURENT</name>
+        </rtept>
+        <rtept lon="5.317435" lat="45.152978">
+            <name>COURS  VALLIER</name>
+        </rtept>
+        <rtept lon="5.309393" lat="45.14891">
+            <name>AVENUE  DE CHATTE</name>
+        </rtept>
+        <rtept lon="5.306577" lat="45.149065">
+            <name>RUE BRANLY</name>
+        </rtept>
+        <rtept lon="5.282814" lat="45.143051">
+            <name></name>
+        </rtept>
+        <rtept lon="5.277678" lat="45.110728">
+            <name></name>
+        </rtept>
+        <rtept lon="5.248009" lat="45.100521">
+            <name></name>
+        </rtept>
+        <rtept lon="5.2012518" lat="45.0873413">
+            <name>LE VILLAGE  - LA BAUDIÈRE</name>
+        </rtept>
+        <rtept lon="5.231188" lat="45.125179">
+            <name>LE VILLAGE</name>
+        </rtept>
+        <rtept lon="5.191067" lat="45.140387">
+            <name></name>
+        </rtept>
+        <rtept lon="5.219794" lat="45.173353">
+            <name>ZONE TECHNIQUE - AVENUE  DU 19 MARS</name>
+        </rtept>
+        <rtept lon="5.225906" lat="45.2109081">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.261744" lat="45.188519">
+            <name></name>
+        </rtept>
+        <rtept lon="5.263564" lat="45.201994">
+            <name></name>
+        </rtept>
+        <rtept lon="5.290302" lat="45.187795">
+            <name>PLACE  VINCENDON DUMOULIN</name>
+        </rtept>
+        <rtept lon="5.314973" lat="45.21265">
+            <name></name>
+        </rtept>
+        <rtept lon="5.337411" lat="45.2311">
+            <name></name>
+        </rtept>
+        <rtept lon="5.33843" lat="45.255401">
+            <name></name>
+        </rtept>
+        <rtept lon="5.374225" lat="45.257349">
+            <name></name>
+        </rtept>
+        <rtept lon="5.3860105" lat="45.2750923">
+            <name>PARKING SALLE  DES FETES</name>
+        </rtept>
+        <rtept lon="5.428396" lat="45.316531">
+            <name>PLACE  DU VILLAGE</name>
+        </rtept>
+        <rtept lon="5.426499" lat="45.332148">
+            <name>RUE EMILE ZOLA - DEVANT  LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.424944" lat="45.334253">
+            <name>RUE JEAN JAURÈS  - PARKING EN FACE DE LA POSTE</name>
+        </rtept>
+        <rtept lon="5.422472" lat="45.339774">
+            <name>AVENUE  DE LA GARE - PRÈS DU STADE</name>
+        </rtept>
+        <rtept lon="5.472281" lat="45.341842">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.486629" lat="45.33888">
+            <name>ROUTE  DE RIVES (À CÔTÉ MAGASIN KARTING)</name>
+        </rtept>
+        <rtept lon="5.485432" lat="45.338488">
+            <name>LA CRAUZE, RUE DE LA RÉPUBLIQUE (EN FACE N° 389)</name>
+        </rtept>
+        <rtept lon="5.485432" lat="45.338488">
+            <name>RUE DE LA RÉPUBLIQUE (PARC DES SPORTS, À CÔTÉ DE L&#39;EGLISE)</name>
+        </rtept>
+        <rtept lon="5.485432" lat="45.338488">
+            <name>RUE DE LA RÉPUBLIQUE (CROISEMENT CHEMIN  DU MAUPAS)</name>
+        </rtept>
+        <rtept lon="5.484347" lat="45.33641">
+            <name>AVENUE  DE LA PISCINE  (JARDINS FAMILIAUX)</name>
+        </rtept>
+        <rtept lon="5.487187" lat="45.332834">
+            <name>BOULEVARD DOCTEUR VALOIS  (CITÉ MONTESSUY)</name>
+        </rtept>
+        <rtept lon="5.487187" lat="45.332834">
+            <name>BOULEVARD DOCTEUR VALOIS  (À CÔTÉ MAIRIE)</name>
+        </rtept>
+        <rtept lon="5.4855555" lat="45.3025175">
+            <name>HOTEL  DE VILLE - PARKING DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.483451" lat="45.297577">
+            <name>PLACE  DES ALLOBROGES</name>
+        </rtept>
+        <rtept lon="5.483148" lat="45.297323">
+            <name>EMPLACEMENT EX USINE THOMASSET</name>
+        </rtept>
+        <rtept lon="5.482934" lat="45.295719">
+            <name>PLACE  JEAN JAURÈS</name>
+        </rtept>
+        <rtept lon="5.486505" lat="45.298131">
+            <name>CARREFOUR DE LA CONTAMINE</name>
+        </rtept>
+        <rtept lon="5.493619" lat="45.304437">
+            <name>LA CRESSONNIÈRE</name>
+        </rtept>
+        <rtept lon="5.518635" lat="45.319953">
+            <name></name>
+        </rtept>
+        <rtept lon="5.548505" lat="45.33007">
+            <name>RUE DELLORENZI</name>
+        </rtept>
+        <rtept lon="5.563228" lat="45.326262">
+            <name>RUE D&#39;ALBOUSSIÈRE</name>
+        </rtept>
+        <rtept lon="5.561039" lat="45.326893">
+            <name>RUE DES OUVRIERS PAPETIERS</name>
+        </rtept>
+        <rtept lon="5.561375" lat="45.323481">
+            <name>RUE DU GRAND  FAYS</name>
+        </rtept>
+        <rtept lon="5.575883" lat="45.323414">
+            <name>RUE DE LA COSTE</name>
+        </rtept>
+        <rtept lon="5.570876" lat="45.325497">
+            <name>RUE DE LA SCIERIE</name>
+        </rtept>
+        <rtept lon="5.580909" lat="45.341057">
+            <name></name>
+        </rtept>
+        <rtept lon="5.621491" lat="45.334708">
+            <name></name>
+        </rtept>
+        <rtept lon="5.6001106" lat="45.3599246">
+            <name>BD EDGAR  KOFLER  - ECOLE  DE MILLE PAS</name>
+        </rtept>
+        <rtept lon="5.5921811" lat="45.3526453">
+            <name>AVENUE  DE PAVIOT  (DEVANT L&#39;ÉGLISE)</name>
+        </rtept>
+        <rtept lon="5.589613" lat="45.363379">
+            <name>CITÉ DE LA BRUNETIÈRE (ANGLE  BD R.PAYOT - BD J.MOULIN)</name>
+        </rtept>
+        <rtept lon="5.589613" lat="45.363379">
+            <name>AVENUE  P&amp;M.CURIE (EGLISE  ST PIERRE)</name>
+        </rtept>
+        <rtept lon="5.5914764" lat="45.3626968">
+            <name>HÔTEL  DE VILLE - COURS  BECQUART CASTELBON</name>
+        </rtept>
+        <rtept lon="5.5912804" lat="45.3630368">
+            <name>LE MAIL - EX BANQUE  DE FRANCE</name>
+        </rtept>
+        <rtept lon="5.593226" lat="45.367582">
+            <name>RUE HAUTE</name>
+        </rtept>
+        <rtept lon="5.591355" lat="45.367729">
+            <name>PLACE  DE LA RÉPUBLIQUE -</name>
+        </rtept>
+        <rtept lon="5.591355" lat="45.367729">
+            <name>BD DE LA RÉPUBLIQUE (EN FACE DU BOULODROME)</name>
+        </rtept>
+        <rtept lon="5.5888235" lat="45.368374">
+            <name>QUARTIER BALTISS</name>
+        </rtept>
+        <rtept lon="5.587624" lat="45.368288">
+            <name>AVENUE  J.RAVAT  (TÉLÉCOMMUNICATIONS)</name>
+        </rtept>
+        <rtept lon="5.584787" lat="45.365235">
+            <name>RUE GEORGE SAND</name>
+        </rtept>
+        <rtept lon="5.576488" lat="45.3636429">
+            <name>RUE DU FATON  (CITÉ ST OLIVE - CROIX MAURIN)</name>
+        </rtept>
+        <rtept lon="5.576488" lat="45.3636429">
+            <name>RUE ST OLIVE (CITÉ ST OLIVE - CROIX MAURIN)</name>
+        </rtept>
+        <rtept lon="5.552383" lat="45.35973">
+            <name>VILLAGE  RD12</name>
+        </rtept>
+        <rtept lon="5.53888988495" lat="45.3813018799">
+            <name>PLACE  DEVANT  LA BIBLIOTHÈQUE</name>
+        </rtept>
+        <rtept lon="5.517371" lat="45.376738">
+            <name></name>
+        </rtept>
+        <rtept lon="5.524706" lat="45.369366">
+            <name></name>
+        </rtept>
+        <rtept lon="5.527351" lat="45.34318">
+            <name></name>
+        </rtept>
+        <rtept lon="5.500402" lat="45.331348">
+            <name>CHEMIN  DU MARAIS  FLEURY  (ANCIENNE ÉCOLE)</name>
+        </rtept>
+        <rtept lon="5.512661" lat="45.342311">
+            <name>ROUTE  DE BOIS VERT</name>
+        </rtept>
+        <rtept lon="5.492936" lat="45.349134">
+            <name>LA MALADIÈRE - RUE DE LA RÉPUBLIQUE</name>
+        </rtept>
+        <rtept lon="5.5001779" lat="45.3508561">
+            <name>PARC DE L&#39;ORGÈRE - CENTRE  SOCIAL</name>
+        </rtept>
+        <rtept lon="5.499736" lat="45.351329">
+            <name>AVENUE  JEAN JAURÈS</name>
+        </rtept>
+        <rtept lon="5.504609" lat="45.351625">
+            <name>AVENUE  HENRI GUILLOT  - GYMNASE MUNICIPAL</name>
+        </rtept>
+        <rtept lon="5.5098719" lat="45.3492827">
+            <name>BAS RIVES - ROUTE  DE L&#39;ÉTANG</name>
+        </rtept>
+        <rtept lon="5.503619" lat="45.350106">
+            <name>PLACE  DE LA LIBÉRATION</name>
+        </rtept>
+        <rtept lon="5.503531" lat="45.353044">
+            <name>RUE DU 14 JUILLET</name>
+        </rtept>
+        <rtept lon="5.49625" lat="45.358484">
+            <name>LE LEVATEL</name>
+        </rtept>
+        <rtept lon="5.492445" lat="45.36737">
+            <name>LES PASTIÈRES - CHEMIN  DE LA COURBATIÈRE</name>
+        </rtept>
+        <rtept lon="5.554862" lat="45.413728">
+            <name></name>
+        </rtept>
+        <rtept lon="5.604883" lat="45.399254">
+            <name>180 ROUTE  DE CHIRENS</name>
+        </rtept>
+        <rtept lon="5.645909" lat="45.391067">
+            <name>LE MONTAGNIER</name>
+        </rtept>
+        <rtept lon="5.67080116272" lat="45.398639679">
+            <name>ROUTE  DE CHAMPTORAZ, FACE MAIRIE</name>
+        </rtept>
+        <rtept lon="5.6399855" lat="45.3808054">
+            <name>FOYER  MUNICIPAL</name>
+        </rtept>
+        <rtept lon="5.6559683" lat="45.3782924">
+            <name>COCHONNIERE</name>
+        </rtept>
+        <rtept lon="5.645021" lat="45.3793485">
+            <name>BUREAU  DE TABAC</name>
+        </rtept>
+        <rtept lon="5.64513015747" lat="45.3787994385">
+            <name>PARKING MAIRIE</name>
+        </rtept>
+        <rtept lon="5.645277" lat="45.378295">
+            <name>TOVLON</name>
+        </rtept>
+        <rtept lon="5.616083" lat="45.355556">
+            <name></name>
+        </rtept>
+        <rtept lon="5.66181278229" lat="45.350479126">
+            <name>A COTÉ DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.65579986572" lat="45.3180999756">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="5.6505147" lat="45.3068617">
+            <name>(BUR 6 ) SALLE  DES FÊTES  CHEVALON - RUE BEYLE  STENDHAL</name>
+        </rtept>
+        <rtept lon="5.628191" lat="45.303232">
+            <name>RUE DU PLASSAROT</name>
+        </rtept>
+        <rtept lon="5.635182" lat="45.298229">
+            <name>(BUR 3) ÉCOLE  ÉLEMENTAIRE DEBELLE - 72 AVENUE  HENRI CHAPAYS</name>
+        </rtept>
+        <rtept lon="5.633876" lat="45.295403">
+            <name>AVENUE  DE STALINGRAD - SUR PROMENADE DE ROIZE</name>
+        </rtept>
+        <rtept lon="5.628652" lat="45.291691">
+            <name>ROUTE  DE PALLUEL</name>
+        </rtept>
+        <rtept lon="5.635322" lat="45.293009">
+            <name>(BUR 1 ET 2) EN FACE DE LA MAIRIE  - PLACE  CHARLES DE GAULLE</name>
+        </rtept>
+        <rtept lon="5.6411124" lat="45.2842743">
+            <name>SALLE  DES FÊTES  ARMAND  PUGNOT - 114 RUE JEAN ACHARD</name>
+        </rtept>
+        <rtept lon="5.64159" lat="45.284634">
+            <name>(BUR 5) ÉCOLE  ÉLÉMENTAIRE JEAN ACHARD  - 280 RUE JEAN MOULIN</name>
+        </rtept>
+        <rtept lon="5.647908" lat="45.283024">
+            <name>RUE DE BOURG-VIEUX</name>
+        </rtept>
+        <rtept lon="5.647908" lat="45.283024">
+            <name>(BUR 4 ) ÉCOLE  ÉLÉMENTAIRE STRAVINSKI - 620 RUE DE BOURG-VIEUX</name>
+        </rtept>
+        <rtept lon="5.650652" lat="45.277792">
+            <name>RUE DU PEUIL</name>
+        </rtept>
+        <rtept lon="5.647855" lat="45.277321">
+            <name>(BUR 7 ) ÉCOLE  ÉLÉMENTAIRE STENDHAL - 135 RUE BEYLE  STENDHAL</name>
+        </rtept>
+        <rtept lon="5.558897" lat="45.263891">
+            <name>PLACE  DU VILLAGE</name>
+        </rtept>
+        <rtept lon="5.54454" lat="45.280356">
+            <name>AVENUE  DU VERCORS - FACE NOUVELLE MAIRIE  (FACE N° 481)</name>
+        </rtept>
+        <rtept lon="5.540664" lat="45.279226">
+            <name>192 AVENUE  DU VERCORS - ANCIENNE MAIRIE  (N°192)</name>
+        </rtept>
+        <rtept lon="5.535593" lat="45.282073">
+            <name>ROUTE  DE TULLINS</name>
+        </rtept>
+        <rtept lon="5.5070025" lat="45.2345614">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="5.4816842" lat="45.2017992">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.461081" lat="45.202319">
+            <name></name>
+        </rtept>
+        <rtept lon="5.411747" lat="45.20812">
+            <name>AVENUE  DE LA GARE</name>
+        </rtept>
+        <rtept lon="5.422949" lat="45.215214">
+            <name>ROUTE  DE GRENOBLE</name>
+        </rtept>
+        <rtept lon="5.44220018387" lat="45.2242012024">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="5.443719" lat="45.242338">
+            <name></name>
+        </rtept>
+        <rtept lon="5.470751" lat="45.24805">
+            <name></name>
+        </rtept>
+        <rtept lon="5.449064" lat="45.267495">
+            <name>ROUTE  DES ECOLES</name>
+        </rtept>
+        <rtept lon="5.451988" lat="45.285399">
+            <name></name>
+        </rtept>
+        <rtept lon="5.41050481796" lat="45.2560577393">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.40514707565" lat="45.2383422852">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.404074" lat="45.219989">
+            <name>LES AYES</name>
+        </rtept>
+        <rtept lon="5.403535" lat="45.210518">
+            <name>PLACE  DE L&#39;HÔTEL  DE VILLE</name>
+        </rtept>
+        <rtept lon="5.404837" lat="45.210747">
+            <name>CHAMP  DE MARS</name>
+        </rtept>
+        <rtept lon="5.401652" lat="45.210391">
+            <name>PLACE  DU VERCORS</name>
+        </rtept>
+        <rtept lon="5.40002" lat="45.209219">
+            <name>QUAI JEAN JAURÈS</name>
+        </rtept>
+        <rtept lon="5.381229" lat="45.182431">
+            <name></name>
+        </rtept>
+        <rtept lon="5.389262" lat="45.179041">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.411266" lat="45.170075">
+            <name></name>
+        </rtept>
+        <rtept lon="5.437579" lat="45.146897">
+            <name>41 RUE GEORGES GLÉNAT</name>
+        </rtept>
+        <rtept lon="5.471932" lat="45.102085">
+            <name></name>
+        </rtept>
+        <rtept lon="5.39116899999999" lat="45.066518">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.34215021133" lat="45.0623016357">
+            <name>PROXIMITÉ DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.36876" lat="45.063274">
+            <name>SOUS LE PRÉAU</name>
+        </rtept>
+        <rtept lon="5.383634" lat="45.089595">
+            <name></name>
+        </rtept>
+        <rtept lon="5.621491" lat="45.334708">
+            <name></name>
+        </rtept>
+    </rte>
+</gpx>

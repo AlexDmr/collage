@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="panneaux-election.fr">
+    <rte>
+        <rtept lon="6.333168" lat="46.31662">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="6.786483" lat="46.295227">
+            <name>Chef-lieu</name>
+        </rtept>
+        <rtept lon="6.8411378" lat="46.2673867">
+            <name>Chef-lieu – Carrefour face à Châtel tourisme</name>
+        </rtept>
+        <rtept lon="6.8180585" lat="46.2389936">
+            <name>L&#39;Essert – Parking de la télécabine du Linga</name>
+        </rtept>
+        <rtept lon="6.8414053" lat="46.2570188">
+            <name>Vonnes – Chalet du Lac</name>
+        </rtept>
+        <rtept lon="6.8413113" lat="46.2673068">
+            <name>Chef-lieu – Carrefour de la « Maison Chatelanne »</name>
+        </rtept>
+        <rtept lon="6.839629" lat="46.274506">
+            <name>Petit Chatel – Pont de la Fiolaz</name>
+        </rtept>
+        <rtept lon="6.673627" lat="46.324027">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.642507" lat="46.341395">
+            <name>Chef-lieu</name>
+        </rtept>
+        <rtept lon="6.61985015869" lat="46.3493652344">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.5639543" lat="46.3533632">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.57196" lat="46.368445">
+            <name>Chef-lieu</name>
+        </rtept>
+        <rtept lon="6.57431" lat="46.382729">
+            <name>Chonnay à Publier</name>
+        </rtept>
+        <rtept lon="6.55902" lat="46.391391">
+            <name>Gros Bissinges à Publier</name>
+        </rtept>
+        <rtept lon="6.56536" lat="46.388842">
+            <name>Meserier à Publier</name>
+        </rtept>
+        <rtept lon="6.5817435" lat="46.3888187">
+            <name>Chez Bordet (ancienne École)</name>
+        </rtept>
+        <rtept lon="6.5788518" lat="46.393169">
+            <name>Thony (parking face à la boulangerie)</name>
+        </rtept>
+        <rtept lon="6.582911" lat="46.396847">
+            <name>Avenue des Mémises</name>
+        </rtept>
+        <rtept lon="6.5769801" lat="46.3981032">
+            <name>Place de la Gare SNCF</name>
+        </rtept>
+        <rtept lon="6.59044" lat="46.400783">
+            <name>Rue Folliet</name>
+        </rtept>
+        <rtept lon="6.594993" lat="46.400603">
+            <name>Place de la Libération</name>
+        </rtept>
+        <rtept lon="6.605327" lat="46.400755">
+            <name>Avenue des Grottes (au droit des HLM)</name>
+        </rtept>
+        <rtept lon="6.6135077" lat="46.4030958">
+            <name>Place Lucien Bonnaz</name>
+        </rtept>
+        <rtept lon="6.625582" lat="46.401928">
+            <name>Petite Rive</name>
+        </rtept>
+        <rtept lon="6.616323" lat="46.400995">
+            <name>Grande rue</name>
+        </rtept>
+        <rtept lon="6.63113021851" lat="46.4024009705">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.631544" lat="46.39436">
+            <name>Rond-point chemin du Bois Duret</name>
+        </rtept>
+        <rtept lon="6.6656282" lat="46.4026113">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.675791" lat="46.399313">
+            <name>Zone artisanale du Cret</name>
+        </rtept>
+        <rtept lon="6.7187001" lat="46.4073371">
+            <name>Chef-lieu</name>
+        </rtept>
+        <rtept lon="6.801468" lat="46.391673">
+            <name>Chef-lieu</name>
+        </rtept>
+        <rtept lon="6.789174" lat="46.369209">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.71318006516" lat="46.3899993896">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.6870107" lat="46.3597445">
+            <name>Chef-lieu</name>
+        </rtept>
+        <rtept lon="6.629913" lat="46.378333">
+            <name>Chef-lieu</name>
+        </rtept>
+        <rtept lon="6.61296987534" lat="46.3926010132">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.599765" lat="46.396438">
+            <name>Église</name>
+        </rtept>
+        <rtept lon="6.590486" lat="46.400377">
+            <name>Rue nationale (devant la fresque)</name>
+        </rtept>
+        <rtept lon="6.585931" lat="46.399586">
+            <name>Avenue des Vallées</name>
+        </rtept>
+        <rtept lon="6.575099" lat="46.398543">
+            <name>Avenue Anna de Noailles (La Léchère)</name>
+        </rtept>
+        <rtept lon="6.5426319" lat="46.3951982">
+            <name>Avenue de la Rive (à l&#39;Est de entrée de la résidence “La Rive”)</name>
+        </rtept>
+        <rtept lon="6.5390925" lat="46.3945196">
+            <name>École du centre à Amphion (au nord de l&#39;avenue de la Rive)</name>
+        </rtept>
+        <rtept lon="6.524735" lat="46.393719">
+            <name>Giratoire des Genevrilles – Amphion</name>
+        </rtept>
+        <rtept lon="6.529868" lat="46.3959903">
+            <name>Centre sportif de la cité de l&#39;eau (arrêt bus)</name>
+        </rtept>
+        <rtept lon="6.543532" lat="46.387462">
+            <name>Place du 8 mai 1945 à Publier</name>
+        </rtept>
+        <rtept lon="6.552229" lat="46.384415">
+            <name>Avulligoz à Publier</name>
+        </rtept>
+        <rtept lon="6.5529065" lat="46.3695701">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.5290293" lat="46.375613">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.522781" lat="46.376494">
+            <name>Place de Marinel</name>
+        </rtept>
+        <rtept lon="6.502788" lat="46.380476">
+            <name>École de Vongy</name>
+        </rtept>
+        <rtept lon="6.493614" lat="46.374022">
+            <name>École du Châtelard</name>
+        </rtept>
+        <rtept lon="6.4901371" lat="46.3786381">
+            <name>Lieu-dit &quot;La bonne rencontre&quot; Avenue d&#39;Evian</name>
+        </rtept>
+        <rtept lon="6.48737" lat="46.378543">
+            <name>Concise</name>
+        </rtept>
+        <rtept lon="6.479059" lat="46.376081">
+            <name>Quai de Rives</name>
+        </rtept>
+        <rtept lon="6.480559" lat="46.373757">
+            <name>Espace des Ursules</name>
+        </rtept>
+        <rtept lon="6.4783086" lat="46.3736552">
+            <name>Hôtel de Ville et Château de Sonnaz</name>
+        </rtept>
+        <rtept lon="6.48164" lat="46.372253">
+            <name>Place du Marché</name>
+        </rtept>
+        <rtept lon="6.4798965" lat="46.3695329">
+            <name>École des Arts</name>
+        </rtept>
+        <rtept lon="6.4775424" lat="46.3667354">
+            <name>Caserne des Pompiers (place de la libération)</name>
+        </rtept>
+        <rtept lon="6.482244" lat="46.366994">
+            <name>Place de Crête</name>
+        </rtept>
+        <rtept lon="6.482423" lat="46.358049">
+            <name>École du Morillon</name>
+        </rtept>
+        <rtept lon="6.480504" lat="46.343932">
+            <name>La Chavanne vers Stade</name>
+        </rtept>
+        <rtept lon="6.4639656" lat="46.3364062">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.463058" lat="46.334851">
+            <name>Hangars municipaux Route de Noyer</name>
+        </rtept>
+        <rtept lon="6.463058" lat="46.334851">
+            <name>Place poids public à Macheron</name>
+        </rtept>
+        <rtept lon="6.443757" lat="46.329027">
+            <name>Chapelle de Mésinges</name>
+        </rtept>
+        <rtept lon="6.428812" lat="46.333459">
+            <name>Jouvernex</name>
+        </rtept>
+        <rtept lon="6.43295001984" lat="46.3380012512">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.472746" lat="46.357812">
+            <name>HLM de Collonges (21 avenue de Sénévullaz)</name>
+        </rtept>
+        <rtept lon="6.465797" lat="46.362376">
+            <name>École de la Grangette</name>
+        </rtept>
+        <rtept lon="6.468892" lat="46.366392">
+            <name>Avenue du Général de Gaulle (Parc thermal-« buvette »)</name>
+        </rtept>
+        <rtept lon="6.4520288" lat="46.3590554">
+            <name>École de Letroz</name>
+        </rtept>
+        <rtept lon="6.426839" lat="46.357131">
+            <name>Espace du Lac, 15 rue des Pêcheurs</name>
+        </rtept>
+        <rtept lon="6.410415" lat="46.347497">
+            <name>Rue Centrale – Sechex</name>
+        </rtept>
+        <rtept lon="6.4045258" lat="46.3515814">
+            <name>Place des Laurentides</name>
+        </rtept>
+        <rtept lon="6.389149" lat="46.333705">
+            <name>Bonnatrait</name>
+        </rtept>
+        <rtept lon="6.37875" lat="46.328302">
+            <name>Place de l’Église</name>
+        </rtept>
+        <rtept lon="6.37348985672" lat="46.3315010071">
+            <name>Port de Sciez</name>
+        </rtept>
+        <rtept lon="6.3744575" lat="46.3320345">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.3713725" lat="46.3333077">
+            <name>Centre d&#39;Animation</name>
+        </rtept>
+        <rtept lon="6.3589067" lat="46.34784">
+            <name>Parking de la Symphorienne</name>
+        </rtept>
+        <rtept lon="6.318678" lat="46.35332">
+            <name>Hameau d&#39;Essert</name>
+        </rtept>
+        <rtept lon="6.3273997" lat="46.3694267">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.305208" lat="46.365251">
+            <name>24 rue de la Croix de Marcille</name>
+        </rtept>
+        <rtept lon="6.292473" lat="46.351073">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.293258" lat="46.350493">
+            <name>Rue des Écoles</name>
+        </rtept>
+        <rtept lon="6.26745" lat="46.3273">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.2585401535" lat="46.2765007019">
+            <name>École maternelle – Salle d&#39;animation</name>
+        </rtept>
+        <rtept lon="6.3000033" lat="46.305808">
+            <name>La Poste (avenue du lac)</name>
+        </rtept>
+        <rtept lon="6.333168" lat="46.31662">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="6.30252408981" lat="46.3060417175">
+            <name>Mairie (sous passage couvert)</name>
+        </rtept>
+        <rtept lon="6.302474" lat="46.30447">
+            <name>Espace associatif et culturel (avenue du stade)</name>
+        </rtept>
+        <rtept lon="6.302474" lat="46.30447">
+            <name>Rue du centre commercial DOMINO avenue de Thonon (entre la Pharmacie du Léman et  le supermarché Champion)</name>
+        </rtept>
+        <rtept lon="6.310824" lat="46.287135">
+            <name>Place de la Salle des Fêtes</name>
+        </rtept>
+        <rtept lon="6.32873" lat="46.299491">
+            <name>Mairie 79 route des Fées</name>
+        </rtept>
+        <rtept lon="6.342955" lat="46.265678">
+            <name>Ancienne école de Brens</name>
+        </rtept>
+        <rtept lon="6.370188" lat="46.26373">
+            <name>Groupe scolaire primaire Rue de L&#39;Avenir</name>
+        </rtept>
+        <rtept lon="6.3710366" lat="46.2652321">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.365626" lat="46.268569">
+            <name>École maternelle de St Didier</name>
+        </rtept>
+        <rtept lon="6.3924192" lat="46.273127">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.41278" lat="46.2760055">
+            <name>Chef-lieu</name>
+        </rtept>
+        <rtept lon="6.41503620148" lat="46.2838401794">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.4394637" lat="46.3052112">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.458367" lat="46.304823">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.4909068" lat="46.313087">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.51357984543" lat="46.3473014832">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.5206958" lat="46.336981">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.509631" lat="46.315258">
+            <name>Jouvernaisinaz</name>
+        </rtept>
+        <rtept lon="6.52251577377" lat="46.2837524414">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.52958583832" lat="46.2559280396">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.542139" lat="46.303642">
+            <name>Chef-lieu</name>
+        </rtept>
+        <rtept lon="6.5598191" lat="46.3279047">
+            <name>Mairie - École</name>
+        </rtept>
+        <rtept lon="6.5947060585" lat="46.3150749207">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.6137288" lat="46.3221727">
+            <name>Place du Village</name>
+        </rtept>
+        <rtept lon="6.61334180832" lat="46.2824935913">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.62102413177" lat="46.2510375977">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.6546026" lat="46.2346328">
+            <name>Devant le collège</name>
+        </rtept>
+        <rtept lon="6.693186" lat="46.19691">
+            <name>Chef-lieu</name>
+        </rtept>
+        <rtept lon="6.705182" lat="46.184684">
+            <name>.Route des Bois Venants (sur barrière surplombant le palais des sports)</name>
+        </rtept>
+        <rtept lon="6.708878" lat="46.1791773">
+            <name>Mairie (place de la Mairie)</name>
+        </rtept>
+        <rtept lon="6.7085451" lat="46.1789023">
+            <name>Rue du Bourg (face quincaillerie Mechoud)</name>
+        </rtept>
+        <rtept lon="6.70897006989" lat="46.1787986755">
+            <name>Annexe mairie à Avoriaz</name>
+        </rtept>
+        <rtept lon="6.731654" lat="46.159866">
+            <name>Route de la Manche (Près cimetière)</name>
+        </rtept>
+        <rtept lon="6.696109" lat="46.187676">
+            <name>Route de la Plagne (près ateliers municipaux)</name>
+        </rtept>
+        <rtept lon="6.685451" lat="46.195756">
+            <name>Rond-point pied de la Plagne</name>
+        </rtept>
+        <rtept lon="6.670111" lat="46.201264">
+            <name>Chef-lieu</name>
+        </rtept>
+        <rtept lon="6.6300261" lat="46.2607696">
+            <name>Chef-lieu</name>
+        </rtept>
+        <rtept lon="6.670021" lat="46.29682">
+            <name>Chef-lieu</name>
+        </rtept>
+        <rtept lon="6.7198138237" lat="46.2804794312">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.333168" lat="46.31662">
+            <name>Place de la mairie</name>
+        </rtept>
+    </rte>
+</gpx>

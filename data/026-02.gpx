@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="panneaux-election.fr">
+    <rte>
+        <rtept lon="4.791922" lat="44.662262">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.762624" lat="44.416749">
+            <name>Parking de la Salle Maurice Aurelle</name>
+        </rtept>
+        <rtept lon="4.7627299" lat="44.4158093">
+            <name>Place du Palmier</name>
+        </rtept>
+        <rtept lon="4.755518" lat="44.394855">
+            <name>Allée Sainte Anne – Face à l’École Maternelle</name>
+        </rtept>
+        <rtept lon="4.7532658577" lat="44.39295578">
+            <name>Rue Marquis de la Baume face à la Mairie</name>
+        </rtept>
+        <rtept lon="4.754333" lat="44.393404">
+            <name>Arrêt des Cars près du Lavoir</name>
+        </rtept>
+        <rtept lon="4.7126494" lat="44.3697265">
+            <name>Parking Halle des Sports</name>
+        </rtept>
+        <rtept lon="4.7140797" lat="44.3622424">
+            <name>Parking Centre Commercial du Roc</name>
+        </rtept>
+        <rtept lon="4.690571" lat="44.343036">
+            <name>Hameau des Blaches (Devant l’Église)</name>
+        </rtept>
+        <rtept lon="4.675632" lat="44.372322">
+            <name>Route de Bourg Saint Andéol</name>
+        </rtept>
+        <rtept lon="4.6928591" lat="44.376094">
+            <name>Quartier du Colombier (En Bordure du Passage Souterrain)</name>
+        </rtept>
+        <rtept lon="4.6929415" lat="44.376179">
+            <name>Quartier Baumet (École Avenue Gérard Philippe)</name>
+        </rtept>
+        <rtept lon="4.69713" lat="44.376995">
+            <name>Place de l’Église</name>
+        </rtept>
+        <rtept lon="4.697775" lat="44.375974">
+            <name>Place du Champ de Mars</name>
+        </rtept>
+        <rtept lon="4.703488" lat="44.374794">
+            <name>Place de la Gare</name>
+        </rtept>
+        <rtept lon="4.6967558" lat="44.3692423">
+            <name>Avenue Gustave Jaume (La Pastourelle)</name>
+        </rtept>
+        <rtept lon="4.694579" lat="44.372871">
+            <name>Cité du Roc (École)</name>
+        </rtept>
+        <rtept lon="4.694125" lat="44.388634">
+            <name>Saclé Sud (Rue de Broglie)</name>
+        </rtept>
+        <rtept lon="4.696888" lat="44.382925">
+            <name>Avenue de Lattre de Tassigny</name>
+        </rtept>
+        <rtept lon="4.710436" lat="44.44024">
+            <name>Avenue Pierre de Coubertin</name>
+        </rtept>
+        <rtept lon="4.709037" lat="44.442803">
+            <name>Place Henri Dunant</name>
+        </rtept>
+        <rtept lon="4.70826" lat="44.444052">
+            <name>Avenue de la Mairie</name>
+        </rtept>
+        <rtept lon="4.70502" lat="44.447253">
+            <name>Cité des Roches/Oliviers</name>
+        </rtept>
+        <rtept lon="4.701294" lat="44.44229">
+            <name>Les Moutons</name>
+        </rtept>
+        <rtept lon="4.711644" lat="44.440687">
+            <name>Espace Aiguebelle</name>
+        </rtept>
+        <rtept lon="4.712259" lat="44.442107">
+            <name>Basse Bourgade</name>
+        </rtept>
+        <rtept lon="4.711444" lat="44.441719">
+            <name>Place Jules Ferry</name>
+        </rtept>
+        <rtept lon="4.71308" lat="44.443544">
+            <name>Salle Quartier des Chênes</name>
+        </rtept>
+        <rtept lon="4.712911" lat="44.445551">
+            <name>Haute Bourgade</name>
+        </rtept>
+        <rtept lon="4.706286" lat="44.482796">
+            <name>Cité Adine – Route de Viviers</name>
+        </rtept>
+        <rtept lon="4.718618" lat="44.486054">
+            <name>Place du Valladas</name>
+        </rtept>
+        <rtept lon="4.71728086472" lat="44.4865074158">
+            <name>Mairie – Place de la Grangette</name>
+        </rtept>
+        <rtept lon="4.717961" lat="44.493184">
+            <name>Chemin du Stade</name>
+        </rtept>
+        <rtept lon="4.72211" lat="44.489479">
+            <name>Place de la Graveline</name>
+        </rtept>
+        <rtept lon="4.720632" lat="44.4931">
+            <name>Route de Montélimar</name>
+        </rtept>
+        <rtept lon="4.727192" lat="44.495713">
+            <name>Chemin de la Labre</name>
+        </rtept>
+        <rtept lon="4.751722" lat="44.485545">
+            <name>1, place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.818764" lat="44.752445">
+            <name>Place du Champ de Mars</name>
+        </rtept>
+        <rtept lon="4.82211" lat="44.752241">
+            <name>Place du 19 Mars 1962</name>
+        </rtept>
+        <rtept lon="4.8443547" lat="44.7708654">
+            <name>Place de l&#39;Ancienne Église – Haut Livron</name>
+        </rtept>
+        <rtept lon="4.848869" lat="44.775815">
+            <name>Rue des Tuileries (500 m à gauche après l&#39;immeuble Saint-Blaise)</name>
+        </rtept>
+        <rtept lon="4.855731" lat="44.809663">
+            <name>Quartier Fiancey – RN7 Côté Ouest sur Parking</name>
+        </rtept>
+        <rtept lon="4.865941" lat="44.806793">
+            <name>École – Hameau de Saint-Genys</name>
+        </rtept>
+        <rtept lon="4.889463" lat="44.838396">
+            <name>Chemin de la Résistance (Local des Chars)</name>
+        </rtept>
+        <rtept lon="4.892462" lat="44.838178">
+            <name>Place de la République</name>
+        </rtept>
+        <rtept lon="4.892006" lat="44.837434">
+            <name>Rue des Écoles (Parking École)</name>
+        </rtept>
+        <rtept lon="4.889066" lat="44.835194">
+            <name>Quartier de la Gare – Chemin de La Gare (École)</name>
+        </rtept>
+        <rtept lon="4.894161" lat="44.836154">
+            <name>Boulevard des Remparts au niveau du n°68</name>
+        </rtept>
+        <rtept lon="4.894978" lat="44.838421">
+            <name>Boulevard La Puya au niveau de la Réserve d&#39;Eau</name>
+        </rtept>
+        <rtept lon="4.891884" lat="44.843727">
+            <name>Route de Beauvallon (Grillage Pompiers)</name>
+        </rtept>
+        <rtept lon="4.901813" lat="44.858029">
+            <name>Place du Marché – Le village</name>
+        </rtept>
+        <rtept lon="4.932535" lat="44.852629">
+            <name>Square du Village – Rue des Écoles</name>
+        </rtept>
+        <rtept lon="4.9390835" lat="44.860088">
+            <name>École Pierre Mendes France</name>
+        </rtept>
+        <rtept lon="4.94188" lat="44.860538">
+            <name>Place du Rasset</name>
+        </rtept>
+        <rtept lon="4.9411257" lat="44.8651419">
+            <name>Place Charles de Gaulle</name>
+        </rtept>
+        <rtept lon="4.9414854" lat="44.8645488">
+            <name>Maison des Associations</name>
+        </rtept>
+        <rtept lon="4.8817686" lat="44.8694218">
+            <name>Rue Jean Macé – Sur le Mur du Collège</name>
+        </rtept>
+        <rtept lon="4.8866687" lat="44.8718281">
+            <name>Square Toulouse-Lautrec – Sur Îlot Square Toulouse-Lautrec</name>
+        </rtept>
+        <rtept lon="4.886787" lat="44.881901">
+            <name>Avenue Pierre Brossolette – Face à l&#39;entrée de l&#39;Entreprise 26</name>
+        </rtept>
+        <rtept lon="4.8825285" lat="44.875204">
+            <name>Rue Louis Aragon – Sur la Clôture du Centre Culturel</name>
+        </rtept>
+        <rtept lon="4.879216" lat="44.87604">
+            <name>Rue du 8 Mai 1945 – Sur Mur Salle Brassens</name>
+        </rtept>
+        <rtept lon="4.877785" lat="44.875567">
+            <name>Place de la République – Mairie Nord</name>
+        </rtept>
+        <rtept lon="4.877815" lat="44.878031">
+            <name>17, rue Jean Jaurès – Sur le Mur devant la Maison des Associations</name>
+        </rtept>
+        <rtept lon="4.8766469" lat="44.8704186">
+            <name>Rue Joliot Curie – Clôture de l’École Anatole France</name>
+        </rtept>
+        <rtept lon="4.877127" lat="44.867125">
+            <name>Rue Maurice Thorez – Aire Intersection Rues Maurice Thorez et Danièle Casanova</name>
+        </rtept>
+        <rtept lon="4.872361" lat="44.867574">
+            <name>Rue Descartes – Sur la Clôture de l&#39;Espace Léo Lagrange</name>
+        </rtept>
+        <rtept lon="4.872361" lat="44.867574">
+            <name>Rue Descartes – Au Niveau des HLM Descartes</name>
+        </rtept>
+        <rtept lon="4.86831" lat="44.870401">
+            <name>Rue d&#39;Estienne d&#39;Orves – Aire Sablée</name>
+        </rtept>
+        <rtept lon="4.8674426" lat="44.8719155">
+            <name>Rue Fernand Léger – Clôture de l’École Fernand Léger</name>
+        </rtept>
+        <rtept lon="4.8660985" lat="44.853323">
+            <name>Déchetterie – Chemin Saint Marcellin</name>
+        </rtept>
+        <rtept lon="4.845034" lat="44.832376">
+            <name>Quartier des Josserands – Chemin de Beauchastel</name>
+        </rtept>
+        <rtept lon="4.817687" lat="44.799636">
+            <name>Hameau des Petits Robins – Place Jules Ferry</name>
+        </rtept>
+        <rtept lon="4.802145" lat="44.774445">
+            <name>Hameau de Domazane – Parcelle 189</name>
+        </rtept>
+        <rtept lon="4.832602" lat="44.777721">
+            <name>Avenue de Provence – Face au Centre Commercial</name>
+        </rtept>
+        <rtept lon="4.843136" lat="44.77905">
+            <name>Rue de Couthiol – Parking Piscine/Tennis</name>
+        </rtept>
+        <rtept lon="4.843168" lat="44.783234">
+            <name>Chemin de Couthiol – Embranchement Rue des Lauriers</name>
+        </rtept>
+        <rtept lon="4.8461253" lat="44.7739243">
+            <name>Cabinet Médical – Avenue des Cévennes</name>
+        </rtept>
+        <rtept lon="4.8461253" lat="44.7739243">
+            <name>Laboratoire – Parking Louis Pasteur</name>
+        </rtept>
+        <rtept lon="4.8452274" lat="44.7739159">
+            <name>École Marcel Pagnol – Avenue Léon Aubin</name>
+        </rtept>
+        <rtept lon="4.842937" lat="44.772028">
+            <name>Groupe Scolaire Daudet-Eluard</name>
+        </rtept>
+        <rtept lon="4.8404946" lat="44.7709617">
+            <name>Médiathèque – Place de la Madeleine</name>
+        </rtept>
+        <rtept lon="4.840639" lat="44.768081">
+            <name>Hôtel de Ville – 90, avenue Joseph Combier</name>
+        </rtept>
+        <rtept lon="4.822864" lat="44.752068">
+            <name>Place de l’Église</name>
+        </rtept>
+        <rtept lon="4.819736" lat="44.750063">
+            <name>Avenue de la République – Parc Municipal</name>
+        </rtept>
+        <rtept lon="4.816651" lat="44.749732">
+            <name>Rue des Moulins</name>
+        </rtept>
+        <rtept lon="4.836037" lat="44.71562">
+            <name>Rue des Poteries</name>
+        </rtept>
+        <rtept lon="4.8349" lat="44.69926">
+            <name>Place du Champ de Foire</name>
+        </rtept>
+        <rtept lon="4.799811" lat="44.702993">
+            <name>Place Émile Loubet</name>
+        </rtept>
+        <rtept lon="4.791922" lat="44.662262">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.781115" lat="44.647337">
+            <name>RN7 – En face de la Mairie – 8, rue Royale</name>
+        </rtept>
+        <rtept lon="4.8177724" lat="44.6040695">
+            <name>Place de La Poste</name>
+        </rtept>
+        <rtept lon="4.80523" lat="44.596091">
+            <name>50, route de Montélimar – Devant la Mairie</name>
+        </rtept>
+        <rtept lon="4.758335" lat="44.598005">
+            <name>Place de la Salle des Fêtes – Quartier Croze</name>
+        </rtept>
+        <rtept lon="4.750587" lat="44.591766">
+            <name>Place de l&#39;Homme d&#39;Armes</name>
+        </rtept>
+        <rtept lon="4.727051" lat="44.581924">
+            <name>Place Albert Goujon</name>
+        </rtept>
+        <rtept lon="4.719794" lat="44.555441">
+            <name>Route du Teil (Jean Moulin)</name>
+        </rtept>
+        <rtept lon="4.719794" lat="44.555441">
+            <name>Route du Teil (Devant l’Église Saint Joseph)</name>
+        </rtept>
+        <rtept lon="4.721185" lat="44.554354">
+            <name>Place Clémenceau – Pracomptal</name>
+        </rtept>
+        <rtept lon="4.7436905" lat="44.5548748">
+            <name>Rond-Point du 14 Juillet (Parking)</name>
+        </rtept>
+        <rtept lon="4.748253" lat="44.564896">
+            <name>Place Paul Loubet</name>
+        </rtept>
+        <rtept lon="4.757268" lat="44.572266">
+            <name>Rue Alexandre Volta (École de la Gondole)</name>
+        </rtept>
+        <rtept lon="4.7561152" lat="44.5630529">
+            <name>Avenue Saint Lazare (Devant le Cimetière)</name>
+        </rtept>
+        <rtept lon="4.749598" lat="44.561725">
+            <name>Boulevard du Pêcher (près du Monument aux Morts)</name>
+        </rtept>
+        <rtept lon="4.749186" lat="44.557315">
+            <name>Place Émile Loubet</name>
+        </rtept>
+        <rtept lon="4.7480049" lat="44.5497355">
+            <name>Place Saint James</name>
+        </rtept>
+        <rtept lon="4.743805" lat="44.549169">
+            <name>Place Saint Saëns (Nocaze)</name>
+        </rtept>
+        <rtept lon="4.74305" lat="44.54055">
+            <name>Allée André Nimsgers (Gymnase Monod)</name>
+        </rtept>
+        <rtept lon="4.752843" lat="44.544318">
+            <name>Rue Hyppolyte Chauchard (École les Champs)</name>
+        </rtept>
+        <rtept lon="4.75318" lat="44.55135">
+            <name>Rue des Ramières (Hall des Sports les Alexis)</name>
+        </rtept>
+        <rtept lon="4.769559" lat="44.549637">
+            <name>Rue du 8 Mai 1945 (Quartier Montlouis)</name>
+        </rtept>
+        <rtept lon="4.774609" lat="44.550401">
+            <name>Route de Dieulefit (Cité Cabiac)</name>
+        </rtept>
+        <rtept lon="4.804288" lat="44.551254">
+            <name>Rue Saint-Martin</name>
+        </rtept>
+        <rtept lon="4.808752" lat="44.554219">
+            <name>Rue Fortuné Jacquier</name>
+        </rtept>
+        <rtept lon="4.802246" lat="44.543518">
+            <name>Rue du Monard</name>
+        </rtept>
+        <rtept lon="4.8476353" lat="44.5424454">
+            <name>Stade Bouliste</name>
+        </rtept>
+        <rtept lon="4.864776" lat="44.553736">
+            <name>Place Abbé Magnet</name>
+        </rtept>
+        <rtept lon="4.890116" lat="44.582621">
+            <name>Placette des Magnolias</name>
+        </rtept>
+        <rtept lon="4.89046" lat="44.582942">
+            <name>Rue des Terrasses</name>
+        </rtept>
+        <rtept lon="4.881483" lat="44.594042">
+            <name>45, place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.847128" lat="44.609409">
+            <name>1, place de la Libération</name>
+        </rtept>
+        <rtept lon="4.840029" lat="44.628991">
+            <name>Place de la Source</name>
+        </rtept>
+        <rtept lon="4.873317" lat="44.643782">
+            <name>Mairie – 1 avenue Albin Davin – Au Nord du Bâtiment</name>
+        </rtept>
+        <rtept lon="4.93961" lat="44.642499">
+            <name>Mur de la Place Publique (Jeux de Boules) – Section D – N°55</name>
+        </rtept>
+        <rtept lon="4.936055" lat="44.611174">
+            <name>Boulevard de Provence</name>
+        </rtept>
+        <rtept lon="4.982564" lat="44.597937">
+            <name>Chemin de la Ramière</name>
+        </rtept>
+        <rtept lon="4.953154" lat="44.592038">
+            <name>5, place Carrovolis</name>
+        </rtept>
+        <rtept lon="4.911033" lat="44.528937">
+            <name>Mairie – Devant l’École Maternelle – 80, route de La Touche</name>
+        </rtept>
+        <rtept lon="4.887853" lat="44.515434">
+            <name>À côté de la Mairie au village – Carrefour RD210/127</name>
+        </rtept>
+        <rtept lon="4.861571" lat="44.515767">
+            <name>Rue des Granges</name>
+        </rtept>
+        <rtept lon="4.823767" lat="44.515261">
+            <name>Place de l&#39;École</name>
+        </rtept>
+        <rtept lon="4.820441" lat="44.516297">
+            <name>Mairie – 1 bis, rue Raymond Grosset</name>
+        </rtept>
+        <rtept lon="4.787735" lat="44.497824">
+            <name>Le Temple – Route d&#39;Aiguebelle</name>
+        </rtept>
+        <rtept lon="4.786892" lat="44.4982877">
+            <name>Mairie – Place du Champ de Mars</name>
+        </rtept>
+        <rtept lon="4.791922" lat="44.662262">
+            <name>Place de la Mairie</name>
+        </rtept>
+    </rte>
+</gpx>

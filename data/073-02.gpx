@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="panneaux-election.fr">
+    <rte>
+        <rtept lon="6.5276191" lat="45.4728935">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.573308" lat="45.716067">
+            <name>mairie - chef lieu</name>
+        </rtept>
+        <rtept lon="6.5752137" lat="45.7176745">
+            <name>mairie de Beaufort</name>
+        </rtept>
+        <rtept lon="6.5281055" lat="45.726106">
+            <name>chef lieu - rue Haute</name>
+        </rtept>
+        <rtept lon="6.458847" lat="45.720098">
+            <name>place de la mairie</name>
+        </rtept>
+        <rtept lon="6.48116" lat="45.757371">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.501042" lat="45.783833">
+            <name>lieu-dit &quot;le Cernix&quot;</name>
+        </rtept>
+        <rtept lon="6.505212" lat="45.794859">
+            <name>chef lieu</name>
+        </rtept>
+        <rtept lon="6.5188312" lat="45.8095447">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.51597" lat="45.8200858">
+            <name>mairie - rue des Aravis</name>
+        </rtept>
+        <rtept lon="6.49476194382" lat="45.8625602722">
+            <name>place de la mairie</name>
+        </rtept>
+        <rtept lon="6.501183" lat="45.809007">
+            <name>chef lieu</name>
+        </rtept>
+        <rtept lon="6.47312" lat="45.773149">
+            <name>Héry - en bordure de la RD 109, parking du chef-lieu</name>
+        </rtept>
+        <rtept lon="6.418657" lat="45.7515715">
+            <name>chef lieu - avenue Jules Bianco, en face de la salle des fêtes</name>
+        </rtept>
+        <rtept lon="6.418657" lat="45.7515715">
+            <name>chef lieu - rue de l&#39;église devant la mairie</name>
+        </rtept>
+        <rtept lon="6.400326" lat="45.749981">
+            <name>Outrechaise - en brdure du chemin rural à l&#39;aval de l&#39;école</name>
+        </rtept>
+        <rtept lon="6.391488" lat="45.762609">
+            <name>Soney (carrefourde la VC 80/VC 36B)</name>
+        </rtept>
+        <rtept lon="6.4204715" lat="45.745805">
+            <name>Les Fontaines - place du Val d&#39;Arly devant le petit square</name>
+        </rtept>
+        <rtept lon="6.41909" lat="45.723987">
+            <name>Les Râtelières</name>
+        </rtept>
+        <rtept lon="6.411844" lat="45.727269">
+            <name>les Grands Prés</name>
+        </rtept>
+        <rtept lon="6.404484" lat="45.724307">
+            <name>chef lieu</name>
+        </rtept>
+        <rtept lon="6.40542888641" lat="45.695148468">
+            <name>mairie - école</name>
+        </rtept>
+        <rtept lon="6.3969735" lat="45.7125715">
+            <name>chef lieu</name>
+        </rtept>
+        <rtept lon="6.370913" lat="45.705797">
+            <name>chef-lieu</name>
+        </rtept>
+        <rtept lon="6.3630606" lat="45.6756104">
+            <name>Place du Villard</name>
+        </rtept>
+        <rtept lon="6.34239" lat="45.666333">
+            <name>Allée du Grand Arc</name>
+        </rtept>
+        <rtept lon="6.33558988571" lat="45.6730995178">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.3188934" lat="45.6917953">
+            <name>Salle d&#39;animation rurale</name>
+        </rtept>
+        <rtept lon="6.395683" lat="45.6861305">
+            <name>chef lieu</name>
+        </rtept>
+        <rtept lon="6.391038" lat="45.67581">
+            <name>rue Pargoud</name>
+        </rtept>
+        <rtept lon="6.393134" lat="45.675923">
+            <name>place de l&#39;hôtel de ville</name>
+        </rtept>
+        <rtept lon="6.382894" lat="45.676107">
+            <name>rue Suarez - au droit de l&#39;école maternelle</name>
+        </rtept>
+        <rtept lon="6.380591" lat="45.667887">
+            <name>avenue Ste Thérèse</name>
+        </rtept>
+        <rtept lon="6.380998" lat="45.667122">
+            <name>rue cdt Dubois</name>
+        </rtept>
+        <rtept lon="6.386277" lat="45.66406">
+            <name>avenue du champ de mars</name>
+        </rtept>
+        <rtept lon="6.348774" lat="45.659458">
+            <name>place de la mairie</name>
+        </rtept>
+        <rtept lon="6.3590821" lat="45.6312177">
+            <name>chef-lieu - place du village</name>
+        </rtept>
+        <rtept lon="6.37305" lat="45.6473">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.447561" lat="45.627577">
+            <name>place Marcel Pagnol (salle polyvalente)</name>
+        </rtept>
+        <rtept lon="6.451171" lat="45.628073">
+            <name>rue Alphonse de Lamartine (mairie)</name>
+        </rtept>
+        <rtept lon="6.43512678146" lat="45.6158485413">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.43781995773" lat="45.5978012085">
+            <name>place de la mairie</name>
+        </rtept>
+        <rtept lon="6.447443" lat="45.584244">
+            <name>les Chavonnes</name>
+        </rtept>
+        <rtept lon="6.4663897" lat="45.5487082">
+            <name>Pussy (devant salle polyvalente)</name>
+        </rtept>
+        <rtept lon="6.4159133" lat="45.4869321">
+            <name>La Léchère – Village 92 (Mairie)</name>
+        </rtept>
+        <rtept lon="6.3671959" lat="45.4609587">
+            <name>Celliers (devant mairie)</name>
+        </rtept>
+        <rtept lon="6.4543225" lat="45.5185465">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.4687785" lat="45.5393185">
+            <name>Notre dame de Briançon (maison des services – ancienne gare)</name>
+        </rtept>
+        <rtept lon="6.491133" lat="45.524103">
+            <name>Petit-Cœur (devant mairie)</name>
+        </rtept>
+        <rtept lon="6.4826093" lat="45.5223091">
+            <name>Nâves (devant mairie)</name>
+        </rtept>
+        <rtept lon="6.48477697372" lat="45.5045166016">
+            <name>place de la mairie</name>
+        </rtept>
+        <rtept lon="6.470898" lat="45.502289">
+            <name>Doucy (devant mairie)</name>
+        </rtept>
+        <rtept lon="6.4466115" lat="45.4771665">
+            <name>salle des fêtes - chef lieu</name>
+        </rtept>
+        <rtept lon="6.4975959" lat="45.4913493">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.50879478455" lat="45.5018005371">
+            <name>mairie de Grand Coeur</name>
+        </rtept>
+        <rtept lon="6.50879478455" lat="45.5018005371">
+            <name>mairie de Villargerel</name>
+        </rtept>
+        <rtept lon="6.50879478455" lat="45.5018005371">
+            <name>mairie de Bellecombe Tarentaise</name>
+        </rtept>
+        <rtept lon="6.50879478455" lat="45.5018005371">
+            <name>mairie d&#39;Aigueblanche</name>
+        </rtept>
+        <rtept lon="6.52857" lat="45.488285">
+            <name>La Chaudanne / rue de l&#39;Aciérie (derrière l&#39;OPAC)</name>
+        </rtept>
+        <rtept lon="6.50824022293" lat="45.4592018127">
+            <name>devant la mairie</name>
+        </rtept>
+        <rtept lon="6.485277" lat="45.427166">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.582087" lat="45.298134">
+            <name>maison de Val Thorens</name>
+        </rtept>
+        <rtept lon="6.5391339" lat="45.3218536">
+            <name>salle du village - Villarenger</name>
+        </rtept>
+        <rtept lon="6.5032523" lat="45.3782655">
+            <name>école - Praranger</name>
+        </rtept>
+        <rtept lon="6.5048529" lat="45.3798687">
+            <name>ancienne mairie St Laurent de la Côte</name>
+        </rtept>
+        <rtept lon="6.50481081009" lat="45.3798027039">
+            <name>mairie - chef lieu</name>
+        </rtept>
+        <rtept lon="6.55624723434" lat="45.4318809509">
+            <name>place sud mairie - chef lieu des Allues</name>
+        </rtept>
+        <rtept lon="6.555195" lat="45.430616">
+            <name>parc olympique façade-est - Méribel station</name>
+        </rtept>
+        <rtept lon="6.5810346" lat="45.3734222">
+            <name>entrée aval office du tourisme du Mottaret - Mérible station</name>
+        </rtept>
+        <rtept lon="6.63737010956" lat="45.4343338013">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.68309" lat="45.442738">
+            <name>Le Villard (4 chemins)</name>
+        </rtept>
+        <rtept lon="6.706336" lat="45.41366">
+            <name>La Novaz</name>
+        </rtept>
+        <rtept lon="6.721526" lat="45.381046">
+            <name>avenue de Chasseforêt - place de la mairie</name>
+        </rtept>
+        <rtept lon="6.702552" lat="45.422574">
+            <name>Chambéranger</name>
+        </rtept>
+        <rtept lon="6.698581" lat="45.423989">
+            <name>mairie chef-lieu</name>
+        </rtept>
+        <rtept lon="6.698581" lat="45.423989">
+            <name>Le Villard Mairie</name>
+        </rtept>
+        <rtept lon="6.696145" lat="45.454546">
+            <name>parking le Crey devant école Le Bois</name>
+        </rtept>
+        <rtept lon="6.7465996" lat="45.4603761">
+            <name>place de l&#39;église</name>
+        </rtept>
+        <rtept lon="6.69391012192" lat="45.4556007385">
+            <name>mairie (parking)</name>
+        </rtept>
+        <rtept lon="6.69391012192" lat="45.4556007385">
+            <name>salle des fêtes</name>
+        </rtept>
+        <rtept lon="6.64705" lat="45.451537">
+            <name>hameau des Moulinets : parking à l&#39;entrée</name>
+        </rtept>
+        <rtept lon="6.633761" lat="45.451037">
+            <name>hameau de Villemartin : parking à l&#39;entrée</name>
+        </rtept>
+        <rtept lon="6.5595498085" lat="45.4710006714">
+            <name>devant la mairie</name>
+        </rtept>
+        <rtept lon="6.591089" lat="45.455983">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.645299" lat="45.442397">
+            <name>mairie, rue Emile Machet</name>
+        </rtept>
+        <rtept lon="6.59549999237" lat="45.4449996948">
+            <name>mairie - salle Saint Jean</name>
+        </rtept>
+        <rtept lon="6.593233" lat="45.444727">
+            <name>office du tourisme de la Tania</name>
+        </rtept>
+        <rtept lon="6.572239" lat="45.448759">
+            <name>parking Les Chavonnes</name>
+        </rtept>
+        <rtept lon="6.5669015" lat="45.4527614">
+            <name>mairie - place du Centenaire</name>
+        </rtept>
+        <rtept lon="6.5276191" lat="45.4728935">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.528868" lat="45.471722">
+            <name>rue du Chevalier Merme - à côté de la mairie</name>
+        </rtept>
+        <rtept lon="6.559413" lat="45.498907">
+            <name>Pomblière</name>
+        </rtept>
+        <rtept lon="6.570726" lat="45.505622">
+            <name>Salle ployvalente - Les plaines</name>
+        </rtept>
+        <rtept lon="6.5950449" lat="45.5117359">
+            <name>chef lieu - mairie</name>
+        </rtept>
+        <rtept lon="6.6270855" lat="45.5374645">
+            <name>mairie annexe Longefoy</name>
+        </rtept>
+        <rtept lon="6.6270855" lat="45.5374645">
+            <name>mairie annexe Tessens</name>
+        </rtept>
+        <rtept lon="6.6270855" lat="45.5374645">
+            <name>mairie annexe Villette</name>
+        </rtept>
+        <rtept lon="6.679025" lat="45.508448">
+            <name>place Charles de Gaulle (Macot)</name>
+        </rtept>
+        <rtept lon="6.6803417" lat="45.5086501">
+            <name>salle omnisports - place St Sauveur - Plagne Centre</name>
+        </rtept>
+        <rtept lon="6.7428589" lat="45.4949697">
+            <name>devant la salle des fêtes</name>
+        </rtept>
+        <rtept lon="6.74113798141" lat="45.5695457458">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.76456022263" lat="45.5489997864">
+            <name>mairie - rue école des Mires</name>
+        </rtept>
+        <rtept lon="6.8082899" lat="45.5692786">
+            <name>salle des fêtes - route de Montrigon</name>
+        </rtept>
+        <rtept lon="6.82848119736" lat="45.5732498169">
+            <name>chef-lieu - mairie</name>
+        </rtept>
+        <rtept lon="6.883265" lat="45.590821">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.924266" lat="45.504891">
+            <name>la Poste - Les Brévières</name>
+        </rtept>
+        <rtept lon="6.9208177" lat="45.4646662">
+            <name>centre commercial - Le Lavachet</name>
+        </rtept>
+        <rtept lon="6.909508" lat="45.468791">
+            <name>mairie - Rosset</name>
+        </rtept>
+        <rtept lon="6.9070706" lat="45.4693095">
+            <name>Les Montayes – Tignes 1800</name>
+        </rtept>
+        <rtept lon="6.9018667" lat="45.4581037">
+            <name>Cinéma - Val Claret</name>
+        </rtept>
+        <rtept lon="6.976454" lat="45.448916">
+            <name>Maison Marcel Charvin - place de l&#39;église</name>
+        </rtept>
+        <rtept lon="6.8467925" lat="45.6117955">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.8236701" lat="45.6330157">
+            <name>Foyer rural</name>
+        </rtept>
+        <rtept lon="6.7693948" lat="45.6186609">
+            <name>Mairie annexe - Arc 1800</name>
+        </rtept>
+        <rtept lon="6.7693948" lat="45.6186609">
+            <name>mairie annexe d&#39;Hauteville Gondon - Hauteville</name>
+        </rtept>
+        <rtept lon="6.76639986038" lat="45.6166992188">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.7504768" lat="45.6084149">
+            <name>école primaire des Epines - rue de Pinon</name>
+        </rtept>
+        <rtept lon="6.728417" lat="45.589055">
+            <name>salle Polyvalente - chef lieu</name>
+        </rtept>
+        <rtept lon="6.693781" lat="45.574792">
+            <name>mairie – la Dhuit</name>
+        </rtept>
+        <rtept lon="6.65092992783" lat="45.5726013184">
+            <name>place de la mairie</name>
+        </rtept>
+        <rtept lon="6.667011" lat="45.567215">
+            <name>mairie - 19 route des Dodes Pierrolaz</name>
+        </rtept>
+        <rtept lon="6.65561" lat="45.557295">
+            <name>route de Frébuge</name>
+        </rtept>
+        <rtept lon="6.64787" lat="45.555527">
+            <name>avenue de Tarentaise</name>
+        </rtept>
+        <rtept lon="6.647325" lat="45.554413">
+            <name>rue de l&#39;Eglise</name>
+        </rtept>
+        <rtept lon="6.645675" lat="45.555795">
+            <name>route de la Fortune</name>
+        </rtept>
+        <rtept lon="6.596195" lat="45.534996">
+            <name>Centron, place Colonel Peter Ortiz</name>
+        </rtept>
+        <rtept lon="6.579698" lat="45.535099">
+            <name>Montgirod (place Jean Moulin) - chef lieu</name>
+        </rtept>
+        <rtept lon="6.54498815536" lat="45.4985427856">
+            <name>mairie - Chef lieu</name>
+        </rtept>
+        <rtept lon="6.534207" lat="45.484713">
+            <name>Rue de l&#39;Hôtel de ville</name>
+        </rtept>
+        <rtept lon="6.533018" lat="45.484498">
+            <name>HLM Quermoz</name>
+        </rtept>
+        <rtept lon="6.533018" lat="45.484498">
+            <name>HLM La Vanoise / Belvédère</name>
+        </rtept>
+        <rtept lon="6.5313129" lat="45.4853772">
+            <name>Collège – avenue de la Libération</name>
+        </rtept>
+        <rtept lon="6.528842" lat="45.48582">
+            <name>Rue de la Madeleine</name>
+        </rtept>
+        <rtept lon="6.530078" lat="45.483404">
+            <name>Place des Victoires</name>
+        </rtept>
+        <rtept lon="6.47046995163" lat="45.5602989197">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.453625" lat="45.59087">
+            <name>salle des fêtes</name>
+        </rtept>
+        <rtept lon="6.439103" lat="45.647343">
+            <name>parking du cimetière</name>
+        </rtept>
+        <rtept lon="6.4446472" lat="45.6494181">
+            <name>parking du Nant Varin</name>
+        </rtept>
+        <rtept lon="6.441266" lat="45.655071">
+            <name>Montée Ste Appolonie</name>
+        </rtept>
+        <rtept lon="6.43997001648" lat="45.6549301147">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="6.40724" lat="45.666463">
+            <name>avenue du Pont du Rhonne</name>
+        </rtept>
+        <rtept lon="6.398832" lat="45.66735">
+            <name>grande place - Conflans</name>
+        </rtept>
+        <rtept lon="6.41251277924" lat="45.6882400513">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.567585" lat="45.686821">
+            <name>route du grand Mont à Arêches</name>
+        </rtept>
+        <rtept lon="6.5276191" lat="45.4728935">
+            <name>mairie</name>
+        </rtept>
+    </rte>
+</gpx>

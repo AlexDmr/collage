@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="panneaux-election.fr">
+    <rte>
+        <rtept lon="5.115209" lat="45.097587">
+            <name>Mairie – 1, place de l&#39;Europe</name>
+        </rtept>
+        <rtept lon="4.850086" lat="45.245202">
+            <name>Place St-Romain</name>
+        </rtept>
+        <rtept lon="4.889029" lat="45.269562">
+            <name>Place de l’Église</name>
+        </rtept>
+        <rtept lon="4.886416" lat="45.2697519">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.868525" lat="45.295209">
+            <name>Hameau de Coinaud</name>
+        </rtept>
+        <rtept lon="4.857069" lat="45.290586">
+            <name>Coinaud : à l&#39;Entrée du Lotissement « Les Allées de Coinaud »</name>
+        </rtept>
+        <rtept lon="4.836182" lat="45.300515">
+            <name>Route d&#39;Epinouze – Lotissement des Claires</name>
+        </rtept>
+        <rtept lon="4.819251" lat="45.29656">
+            <name>Place de Bonrepos</name>
+        </rtept>
+        <rtept lon="4.819251" lat="45.29656">
+            <name>Rue de Bonrepos – Angle Rue du 19 Mars 1962</name>
+        </rtept>
+        <rtept lon="4.81542" lat="45.298348">
+            <name>Rue des Prés</name>
+        </rtept>
+        <rtept lon="4.816053" lat="45.300735">
+            <name>Parking du Tennis – Rue du Terraly</name>
+        </rtept>
+        <rtept lon="4.811573" lat="45.298435">
+            <name>Avenue de Lyon</name>
+        </rtept>
+        <rtept lon="4.8155712" lat="45.2927696">
+            <name>Salle Polyvalente – Rue du Levant</name>
+        </rtept>
+        <rtept lon="4.8213036" lat="45.286949">
+            <name>Route d&#39;Anneyron (en Face de la Gendarmerie)</name>
+        </rtept>
+        <rtept lon="4.8213036" lat="45.286949">
+            <name>Pont de Fixemagne (Intersection Route Buissonnière /Route d&#39;Anneyron/Impasse Lucien Chautant)</name>
+        </rtept>
+        <rtept lon="4.817307" lat="45.281533">
+            <name>Le Clos de Milan Ouest</name>
+        </rtept>
+        <rtept lon="4.805785" lat="45.242692">
+            <name>Parking de la Mairie</name>
+        </rtept>
+        <rtept lon="4.839103" lat="45.22464">
+            <name>Rue des Célibataires (Boresse)</name>
+        </rtept>
+        <rtept lon="4.829582" lat="45.2182">
+            <name>Rue des Rossinières (Village)</name>
+        </rtept>
+        <rtept lon="4.820894" lat="45.209078">
+            <name>Complexe Sportif</name>
+        </rtept>
+        <rtept lon="4.819459" lat="45.209993">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="4.81779" lat="45.192034">
+            <name>Quartier des Rioux</name>
+        </rtept>
+        <rtept lon="4.816223" lat="45.182075">
+            <name>Rue Diane de Poitiers</name>
+        </rtept>
+        <rtept lon="4.815101" lat="45.178392">
+            <name>Place Dr Auguste Delaye</name>
+        </rtept>
+        <rtept lon="4.814306" lat="45.177773">
+            <name>Quartier de la Croisette</name>
+        </rtept>
+        <rtept lon="4.836789" lat="45.159453">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.81933" lat="45.171813">
+            <name>Avenue Eugène Buissonnet</name>
+        </rtept>
+        <rtept lon="4.818908" lat="45.176571">
+            <name>Rue Picpus (C.H.)</name>
+        </rtept>
+        <rtept lon="4.862229" lat="45.184594">
+            <name>Rue Pierre Semard – Place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.862097" lat="45.184447">
+            <name>Place de l’Église</name>
+        </rtept>
+        <rtept lon="4.867295" lat="45.170779">
+            <name>Salle des Fêtes</name>
+        </rtept>
+        <rtept lon="4.890125" lat="45.174593">
+            <name>Place de Villeneuve</name>
+        </rtept>
+        <rtept lon="4.901032" lat="45.2002219">
+            <name>Sous la Place de la Mairie contre le Mur</name>
+        </rtept>
+        <rtept lon="4.9302416" lat="45.1799352">
+            <name>Salle des Fêtes – Place du 11 Novembre</name>
+        </rtept>
+        <rtept lon="4.947966" lat="45.135028">
+            <name>Place de la Forge</name>
+        </rtept>
+        <rtept lon="4.941882" lat="45.117496">
+            <name>Petite Place</name>
+        </rtept>
+        <rtept lon="4.926005" lat="45.104076">
+            <name>48, place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.982202" lat="45.121719">
+            <name>Avenue Georges Bert (Devant Grilles du Jardin de Ville)</name>
+        </rtept>
+        <rtept lon="4.9825286" lat="45.1225689">
+            <name>Au Rond-Point du Parc (Avenue Général de Gaulle)</name>
+        </rtept>
+        <rtept lon="4.987922" lat="45.111002">
+            <name>Route de Saint-Bardoux (Devant la Halle des Sports, Bureaux de Votes)</name>
+        </rtept>
+        <rtept lon="4.97225" lat="45.084888">
+            <name>Place du 19 Mars 1962</name>
+        </rtept>
+        <rtept lon="4.959937" lat="45.075476">
+            <name>Salle des Fêtes – 6, chemin de la Source</name>
+        </rtept>
+        <rtept lon="4.957917" lat="45.074909">
+            <name>École Georges Brassens – Place Georges Brassens</name>
+        </rtept>
+        <rtept lon="4.9372672" lat="45.0150343">
+            <name>Salle des Fêtes – Avenue de Valence</name>
+        </rtept>
+        <rtept lon="4.934586" lat="45.012173">
+            <name>Groupe Scolaire Le Châtelard – 120, rue du Châtelard</name>
+        </rtept>
+        <rtept lon="5.003705" lat="45.025179">
+            <name>École de Bonlieu – 4300, route de la Croix de Collet</name>
+        </rtept>
+        <rtept lon="4.9888825" lat="44.9917851">
+            <name>Arrêt de Bus – Quartier Soubredioux – Route de la Correspondance</name>
+        </rtept>
+        <rtept lon="5.02634" lat="44.9739385">
+            <name>Salle Polyvalente – Route du Stade</name>
+        </rtept>
+        <rtept lon="5.0272323" lat="44.9741076">
+            <name>Devant la MJC – Place des Écoles</name>
+        </rtept>
+        <rtept lon="5.0512617" lat="45.0367676">
+            <name>Rue Pasteur – Contre la Grille de l&#39;École Pasteur et du Gymnase</name>
+        </rtept>
+        <rtept lon="5.047102" lat="45.037179">
+            <name>Grande Rue Jean Jaurès</name>
+        </rtept>
+        <rtept lon="5.04678" lat="45.039666">
+            <name>Rue Maréchal Leclerc</name>
+        </rtept>
+        <rtept lon="5.0518285" lat="45.0381798">
+            <name>Centre Culturel Jean Cocteau</name>
+        </rtept>
+        <rtept lon="5.0504555" lat="45.0407298">
+            <name>Mairie – Devant la Mairie – Entrée Place des Minimes</name>
+        </rtept>
+        <rtept lon="5.0485961" lat="45.041557">
+            <name>Pont Vieux</name>
+        </rtept>
+        <rtept lon="5.042021" lat="45.044107">
+            <name>Avenue Chanoine Chevalier – Devant Théâtre La Presle</name>
+        </rtept>
+        <rtept lon="5.044565" lat="45.041847">
+            <name>Quartier des Chapeliers – Au Niveau du Cimetière</name>
+        </rtept>
+        <rtept lon="5.0392968" lat="45.0379473">
+            <name>École Maternelle des Méannes – Rue Émile Ollivier</name>
+        </rtept>
+        <rtept lon="5.0392968" lat="45.0379473">
+            <name>École Maternelle des Méannes – Rue Émile Ollivier</name>
+        </rtept>
+        <rtept lon="5.037675" lat="45.031288">
+            <name>École des Ors – Rue Béatrix de Hongrie</name>
+        </rtept>
+        <rtept lon="5.0261264" lat="45.042411">
+            <name>Stade de la Paillère – Devant Entrée du Stade</name>
+        </rtept>
+        <rtept lon="5.034003" lat="45.045434">
+            <name>Rue Simone Abbat</name>
+        </rtept>
+        <rtept lon="5.0393676" lat="45.0533026">
+            <name>École Maternelle Martinette – Rue Jeanne d&#39;Arc</name>
+        </rtept>
+        <rtept lon="5.043597" lat="45.050002">
+            <name>Boulevard Rémy Roure – Face au Lycée du Dauphiné</name>
+        </rtept>
+        <rtept lon="5.049183" lat="45.048519">
+            <name>Place Carnot – Parking Ouest de la Gare</name>
+        </rtept>
+        <rtept lon="5.056697" lat="45.047066">
+            <name>Salle Charles Michel – Rue du Puy</name>
+        </rtept>
+        <rtept lon="5.058958" lat="45.047204">
+            <name>Rue Germain Martin – École Pouchelon</name>
+        </rtept>
+        <rtept lon="5.069523" lat="45.0474">
+            <name>École Jules Nadi – Boulevard Régis Gignier</name>
+        </rtept>
+        <rtept lon="5.069523" lat="45.0474">
+            <name>Salle Polyvalente de l’École Jules Nadi – Boulevard Régis Gignier</name>
+        </rtept>
+        <rtept lon="5.0733262" lat="45.0442018">
+            <name>École Saint-Exupéry – En Face de l&#39;Entrée de l’École</name>
+        </rtept>
+        <rtept lon="5.074973" lat="45.0447959">
+            <name>Quartier des Méannes</name>
+        </rtept>
+        <rtept lon="5.0768666" lat="45.0464279">
+            <name>Mairie Annexe Ouest – Rue Magnard</name>
+        </rtept>
+        <rtept lon="5.0753935" lat="45.0445634">
+            <name>Gymnase Monnier – Rue de Coalville – École de la Pierrotte</name>
+        </rtept>
+        <rtept lon="5.072005" lat="45.043187">
+            <name>Rue Alfred de Musset – Stade Saint-Exupéry</name>
+        </rtept>
+        <rtept lon="5.081257" lat="45.041275">
+            <name>École des Arnauds – Rue Alfred de Musset</name>
+        </rtept>
+        <rtept lon="5.111033" lat="45.056344">
+            <name>Place des Anciens Combattants</name>
+        </rtept>
+        <rtept lon="5.133559" lat="45.070157">
+            <name>Place de la Fabrique</name>
+        </rtept>
+        <rtept lon="5.177987" lat="45.078268">
+            <name>10, rue des Plumiers</name>
+        </rtept>
+        <rtept lon="5.2007772" lat="45.0382759">
+            <name>Place du Pressoir</name>
+        </rtept>
+        <rtept lon="5.176227" lat="45.028997">
+            <name>Place Granet</name>
+        </rtept>
+        <rtept lon="5.185968" lat="44.996251">
+            <name>Route des Orchidées</name>
+        </rtept>
+        <rtept lon="5.157126" lat="45.009293">
+            <name>Route du Bois de Baume – Village de Meymans</name>
+        </rtept>
+        <rtept lon="5.127617" lat="45.020348">
+            <name>Ancienne École – Papelissier – 30, chemin des Malossannes</name>
+        </rtept>
+        <rtept lon="5.142656" lat="45.00095">
+            <name>525, rue du Vercors – RD 124 – École de Saint-Mamans</name>
+        </rtept>
+        <rtept lon="5.152405" lat="44.97397">
+            <name>175, route de Saint-Nazaire – RD 125</name>
+        </rtept>
+        <rtept lon="5.141652" lat="44.954982">
+            <name>Grande Rue – Mur de Clôture de la Cour de la Mairie</name>
+        </rtept>
+        <rtept lon="5.1542358" lat="44.9141307">
+            <name>Parking Salle Communale</name>
+        </rtept>
+        <rtept lon="5.090365" lat="44.942236">
+            <name>Mairie – 1, place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.0671808" lat="44.9444917">
+            <name>Saint-Didier – Salle Saint-Jean</name>
+        </rtept>
+        <rtept lon="5.078333" lat="44.965771">
+            <name>Rue de la Liberté</name>
+        </rtept>
+        <rtept lon="5.108627" lat="44.976145">
+            <name>4, place Raymond Chovin</name>
+        </rtept>
+        <rtept lon="5.0906518" lat="45.0062761">
+            <name>Place Saint-Apollinaire</name>
+        </rtept>
+        <rtept lon="5.090747" lat="45.006695">
+            <name>Rue des Monts du Matin (devant l&#39;école)</name>
+        </rtept>
+        <rtept lon="5.091007" lat="45.00694">
+            <name>Devant l&#39;Ensemble Charles Bringuier – 14, place du 19 Mars 1962</name>
+        </rtept>
+        <rtept lon="5.065035" lat="45.024251">
+            <name>Lotissement les Bayannins – À Côté du Stade</name>
+        </rtept>
+        <rtept lon="5.056017" lat="45.029787">
+            <name>HLM La Petite Ardoise – Rue San Felin de Guixol</name>
+        </rtept>
+        <rtept lon="5.062439" lat="45.030441">
+            <name>Avenue de Mindelheim – Contre Grille École Pagnol</name>
+        </rtept>
+        <rtept lon="5.065167" lat="45.033687">
+            <name>Rue du Poilu 18 – École Pierre et Marie Curie</name>
+        </rtept>
+        <rtept lon="5.0758854" lat="45.0355105">
+            <name>Pizançon – Rue Léon Vallier (Contre le Mur de Clôture situé en face du n°2 et n°4</name>
+        </rtept>
+        <rtept lon="5.075714" lat="45.035726">
+            <name>Pizançon – Devant la Salle Isidore Descombes – 9, rue du Vercors</name>
+        </rtept>
+        <rtept lon="5.062846" lat="45.035726">
+            <name>Rue Raphaëlle Lupis – Parking du Stade de Football</name>
+        </rtept>
+        <rtept lon="5.0607717" lat="45.0392016">
+            <name>HLM La Parisière – Contre le Mur de la Clinique</name>
+        </rtept>
+        <rtept lon="5.057007" lat="45.0397995">
+            <name>Collège de l&#39;Europe – Contre la Grille de l&#39;Esplanade</name>
+        </rtept>
+        <rtept lon="5.0540606" lat="45.0436237">
+            <name>Route de Génissieux – Au Niveau de la Salle Aragon</name>
+        </rtept>
+        <rtept lon="5.0540606" lat="45.0436237">
+            <name>Quartier des Balmes – Mur de l’École</name>
+        </rtept>
+        <rtept lon="5.060326" lat="45.043855">
+            <name>Rue Ampère – Mur d&#39;Enceinte de la Villa Boréa</name>
+        </rtept>
+        <rtept lon="5.058366" lat="45.043526">
+            <name>Boulevard Voltaire – Lycée Triboulet</name>
+        </rtept>
+        <rtept lon="5.052373" lat="45.045828">
+            <name>École Jean Jaurès – Rue Pierre Curie</name>
+        </rtept>
+        <rtept lon="5.050112" lat="45.04489">
+            <name>École Lucie et Raymond Aubrac – Rue Louis le Cardonnel</name>
+        </rtept>
+        <rtept lon="5.051955" lat="45.044109">
+            <name>Place Jules Nadi</name>
+        </rtept>
+        <rtept lon="5.055388" lat="45.046564">
+            <name>Boulevard Marx Dormoy – Square Brunet</name>
+        </rtept>
+        <rtept lon="5.05568" lat="45.050727">
+            <name>Rue André Chénier – Parking des Etournelles</name>
+        </rtept>
+        <rtept lon="5.04311" lat="45.056693">
+            <name>Avenue de Saint Donat – Collège Debussy</name>
+        </rtept>
+        <rtept lon="5.0503108" lat="45.0698051">
+            <name>Place Arrêt de la Patache – Sur la Clôture du Groupe Scolaire « Julien Vicat »</name>
+        </rtept>
+        <rtept lon="5.053964" lat="45.071062">
+            <name>Grande Rue – En face du Foyer Socio-Culturel</name>
+        </rtept>
+        <rtept lon="5.048121" lat="45.093518">
+            <name>Place du Champs de Mars</name>
+        </rtept>
+        <rtept lon="5.086507" lat="45.084492">
+            <name>Place de la Mairie – 2, rue Simon Chopin</name>
+        </rtept>
+        <rtept lon="5.082369" lat="45.085672">
+            <name>Place des Écoles – Le Champ de Mars</name>
+        </rtept>
+        <rtept lon="5.0936899" lat="45.121181">
+            <name>Entre de la Salle Polyvalente du village et la Mairie – Rue des Tilleuls</name>
+        </rtept>
+        <rtept lon="5.115209" lat="45.097587">
+            <name>Mairie – 1, place de l&#39;Europe</name>
+        </rtept>
+        <rtept lon="5.131642" lat="45.088687">
+            <name>120 A, rue d&#39;Octavéon (sous Marché Couvert)</name>
+        </rtept>
+        <rtept lon="5.146763" lat="45.110375">
+            <name>Place du Marronnier</name>
+        </rtept>
+        <rtept lon="5.146865" lat="45.139806">
+            <name>Route de Parnans</name>
+        </rtept>
+        <rtept lon="5.120868" lat="45.144349">
+            <name>Mairie – 465, rue de la Patache</name>
+        </rtept>
+        <rtept lon="5.087781" lat="45.155057">
+            <name>Place de l’École</name>
+        </rtept>
+        <rtept lon="5.101172" lat="45.182375">
+            <name>1, place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.071587" lat="45.176752">
+            <name>Place de l’Église</name>
+        </rtept>
+        <rtept lon="5.036583" lat="45.14719">
+            <name>Place du Village</name>
+        </rtept>
+        <rtept lon="5.054753" lat="45.142902">
+            <name>15A, place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.01653" lat="45.148062">
+            <name>Place du Champ de Mars</name>
+        </rtept>
+        <rtept lon="4.995557" lat="45.179554">
+            <name>Place du Village</name>
+        </rtept>
+        <rtept lon="4.967376" lat="45.181721">
+            <name>Place Léon Chapurlat</name>
+        </rtept>
+        <rtept lon="4.969278" lat="45.197007">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.929252" lat="45.215687">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.93038988113" lat="45.2090988159">
+            <name>Panneaux Mobiles Installés devant la Mairie en Période Électorale</name>
+        </rtept>
+        <rtept lon="4.93038988113" lat="45.2090988159">
+            <name>Place du 19 Mars</name>
+        </rtept>
+        <rtept lon="4.9553308" lat="45.2293847">
+            <name>Salle des Fêtes – Place des Cordeliers</name>
+        </rtept>
+        <rtept lon="5.025692" lat="45.253988">
+            <name>Place de la Galaure</name>
+        </rtept>
+        <rtept lon="5.015968" lat="45.225653">
+            <name>Panneaux Mobiles sur le mur de l&#39;enceinte de l&#39;École</name>
+        </rtept>
+        <rtept lon="5.0316358" lat="45.1954991">
+            <name>Place de la Fontaine</name>
+        </rtept>
+        <rtept lon="5.07169008255" lat="45.2099990845">
+            <name>Place Mathieu de la Drôme</name>
+        </rtept>
+        <rtept lon="5.110794" lat="45.199278">
+            <name>Place du Tilleul</name>
+        </rtept>
+        <rtept lon="5.144162" lat="45.195784">
+            <name>École de Saint-Bonnet 131, route de Saint-Antoine</name>
+        </rtept>
+        <rtept lon="5.131542" lat="45.218621">
+            <name>Mur de la Bibliothèque – Centre du Village</name>
+        </rtept>
+        <rtept lon="5.104887" lat="45.270257">
+            <name>Avenue des Terreaux</name>
+        </rtept>
+        <rtept lon="5.10325098038" lat="45.2698135376">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.040914" lat="45.292062">
+            <name>Place de l’Église</name>
+        </rtept>
+        <rtept lon="5.007519" lat="45.303134">
+            <name>Place des Sources</name>
+        </rtept>
+        <rtept lon="4.994719" lat="45.322757">
+            <name>Place Jérôme Cavalli – Côté Nord Église</name>
+        </rtept>
+        <rtept lon="4.994719" lat="45.322757">
+            <name>Place Jérôme Cavalli – Côté Sud Église</name>
+        </rtept>
+        <rtept lon="4.992775" lat="45.29002">
+            <name>Place Justin Achard – Le village</name>
+        </rtept>
+        <rtept lon="4.95874" lat="45.28921">
+            <name>Place du Silo – Route de Moras</name>
+        </rtept>
+        <rtept lon="4.950206" lat="45.291457">
+            <name>Déviation – Route d&#39;Epinouze</name>
+        </rtept>
+        <rtept lon="4.925464" lat="45.309197">
+            <name>Mairie – 1, rue de la Mairie</name>
+        </rtept>
+        <rtept lon="4.931365" lat="45.271864">
+            <name>Lagunage – Route des Epars</name>
+        </rtept>
+        <rtept lon="4.947379" lat="45.287803">
+            <name>Place de la Mairie – Route d&#39;Anneyron</name>
+        </rtept>
+        <rtept lon="4.953947" lat="45.27827">
+            <name>Ancienne École – Route de Châteauneuf</name>
+        </rtept>
+        <rtept lon="4.923302" lat="45.251378">
+            <name>Hameau de Mantaille</name>
+        </rtept>
+        <rtept lon="4.854939" lat="45.238778">
+            <name>Place de l’École de St-Martin – Rue Franco Borga</name>
+        </rtept>
+        <rtept lon="5.115209" lat="45.097587">
+            <name>Mairie – 1, place de l&#39;Europe</name>
+        </rtept>
+    </rte>
+</gpx>

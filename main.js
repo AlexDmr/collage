@@ -19,7 +19,7 @@ function XHR(method, ad, params) {
             if(xhr.status >= 200 && xhr.status <300) {
                 resolve(xhr);
             } else {
-                rejec(xhr);
+                reject(xhr);
             }
         };
         xhr.open(method, ad, true);
@@ -77,6 +77,8 @@ function init() {
     document.querySelector("#pass" ).onchange = () => {
         localStorage.setItem("pass", document.querySelector("#pass" ).value);
     };
+
+    DisplayPath( loadJSON() );
 }
 
 function initMap() {
@@ -93,7 +95,7 @@ function compute() {
                     + ("0" + numCirc).slice (-2)
                     + ".gpx";
 
-    ressource   = "/data/"
+    ressource   = "data/"
                 + ("00" + numDep ).slice (-3)
                 + "-"
                 + ("0" + numCirc).slice (-2)
@@ -103,13 +105,20 @@ function compute() {
     XHR("GET", ressource).then(
         xhr => {
             let doc = xhr.responseXML;
+            if(doc === null) {
+                let str = xhr.responseText;
+                let parser = new DOMParser();
+                doc = parser.parseFromString(str, "text/xml");
+            }
             console.log( doc );
-            let L = Array.from( doc.querySelectorAll("rtept") ).map( etape => ({
+            let etapes = Array.from( doc.querySelectorAll("rtept") ).map( etape => ({
                 lat: parseFloat( etape.getAttribute("lat") ),
                 lon: parseFloat( etape.getAttribute("lon") ),
-                name: etape.querySelector("name").textContent
+                name: etape.querySelector("name").textContent,
+                done: false
             }));
-            DisplayPath(L);
+            saveJSON( etapes );
+            DisplayPath( etapes );
 
         },
         err => {
@@ -123,41 +132,65 @@ function DisplayPath(L) {
     L.forEach( etape => {
         let section = document.createElement("section");
         section.classList.add("etape");
-        section.ondblclick = () => sendToTActHab(etape);
+        if(etape.done) {
+            section.classList.add("done");
+        }
+        // section.ondblclick = () => sendToTActHab(etape);
         section.innerHTML = `
+                    <input type="checkbox" />
                     <section>
                         <p class="name"></p>
-                        <p class="lat">LATITUDE: </p>
-                        <p class="lon">LONGITUDE: </p>   
+                        <p class="latlon"></p> 
                     </section>
                     <img />
                 `;
         let Nname = section.querySelector(".name");
-        let Nlat  = section.querySelector(".lat");
-        let Nlon  = section.querySelector(".lon");
+        let NLL   = section.querySelector(".latlon");
         let Nimg  = section.querySelector("img");
+        let checkbox = section.querySelector("input");
 
+        checkbox.checked = etape.done || false;
         Nname.textContent = etape.name;
-        Nlat.textContent += etape.lat;
-        Nlon.textContent += etape.lon;
+        NLL  .textContent = `${etape.lat},${etape.lon}`;
 
+        checkbox.onchange = () => {
+            etape.done = checkbox.checked;
+            if(etape.done) {
+                section.classList.add("done");
+            } else {
+                section.classList.remove("done");
+            }
+            saveJSON( L );
+        };
         Nimg.setAttribute(
             "src",
             `https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=geo:${etape.lat},${etape.lon}`
         );
         // geo:12.34,56.78,900 (lat,lng,distance)
 
+        let url = "https://maps.google.com?"
+                + "daddr=" + encodeURIComponent( `${etape.lat},${etape.lon}`)
+                + "&layer=t";
+        let cb = evt => tryDoubleTap(
+            evt,
+            () => sendToTActHab(etape),
+            () => letsOpen(url)
+        );
+        Nimg.addEventListener("touchstart", cb);
+        Nimg.addEventListener("click", cb);
+
         root.appendChild( section );
     });
 }
 
 function sendToTActHab(etape) {
-    let ad = "http://thacthab.herokuapp.com/broadcast";
+    console.log("sendToTActHab", etape);
+    let ad  = "http://thacthab.herokuapp.com/broadcast";
     let msg = {
-        login: document.querySelector("#login").value,
-        pass: document.querySelector("#pass").value,
-        title: "Goto",
-        message: JSON.stringify({
+        login   : document.querySelector("#login").value,
+        pass    : document.querySelector("#pass").value,
+        title   : "Goto",
+        message : JSON.stringify({
             lat : etape.lat,
             lon : etape.lon,
             latlon: `${etape.lat},${etape.lon}`,
@@ -166,4 +199,39 @@ function sendToTActHab(etape) {
     };
     console.log("Sending", msg);
     XHR("POST", ad, msg);
+}
+
+let doubleTaping = new Map();
+function tryDoubleTap(evt, fctTap, fctClick, ms = 200) {
+    console.log("tryDoubleTap");
+    evt.preventDefault();
+    evt.stopPropagation();
+    let node = evt.currentTarget;
+    if(doubleTaping.has(node)) {
+        clearTimeout( doubleTaping.get(node) );
+        doubleTaping.delete(node);
+        fctTap();
+    } else {
+        doubleTaping.set(
+            node,
+            setTimeout(() => {
+                doubleTaping.delete(node);
+                console.log("Fallback to click on", node);
+                fctClick();
+            }, ms)
+        );
+    }
+}
+
+function letsOpen(url) {
+    console.log("let's open", url);
+    window.open( url );
+}
+
+function saveJSON(etapes) {
+    localStorage.setItem( "etapes", JSON.stringify(etapes) );
+}
+
+function loadJSON() {
+    return JSON.parse( localStorage.getItem( "etapes" ) || "[]" ) ;
 }

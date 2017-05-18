@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="panneaux-election.fr">
+    <rte>
+        <rtept lon="5.61343" lat="45.271832">
+            <name></name>
+        </rtept>
+        <rtept lon="5.61343" lat="45.271832">
+            <name></name>
+        </rtept>
+        <rtept lon="5.668744" lat="45.213519">
+            <name>CENTRE  TECHNIQUE MUNICIPAL - 8 RUE PIERRE  DE COUBERTIN</name>
+        </rtept>
+        <rtept lon="5.666239" lat="45.206971">
+            <name>CHÂTEAU DES BLONDES - PLACE  DE LA LIBÉRATION</name>
+        </rtept>
+        <rtept lon="5.664309" lat="45.202699">
+            <name>SALLE  POLYVALENTE JACQUES PRÉVERT - 16 RUE DU MOUCHEROTTE</name>
+        </rtept>
+        <rtept lon="5.667632" lat="45.199377">
+            <name>ECOLE  DES PIES - 8 RUE DES PIES</name>
+        </rtept>
+        <rtept lon="5.666643" lat="45.202729">
+            <name>2 AVENUE  DE ROMANS - IMMEUBLES LE PARC - GRILLES  DU JARDIN</name>
+        </rtept>
+        <rtept lon="5.661001" lat="45.207014">
+            <name>SALLE  POLYVALENTE DU HAMEAU DU CHÂTEAU - LOTISSEMENT LE HAMEAU DU CHÂTEAU</name>
+        </rtept>
+        <rtept lon="5.6614906" lat="45.2084513">
+            <name>ECOLE  MATERNELLE VERCORS - RUE FRANÇOIS GERIN</name>
+        </rtept>
+        <rtept lon="5.6453136" lat="45.2128574">
+            <name>LES CÔTES  - ENTRÉE  LOTISSEMENT RIVOIRE  DE LA DAME - CHEMIN  DU PETIT BOIS</name>
+        </rtept>
+        <rtept lon="5.6511573" lat="45.2145257">
+            <name>ECOLE  DES CÔTES  - RUE DE L&#39;EGLISE NOTRE  DAME DES VIGNES</name>
+        </rtept>
+        <rtept lon="5.65987" lat="45.222015">
+            <name>ECOLE  DES ENGENIÈRES - 62 AVENUE  DE VALENCE</name>
+        </rtept>
+        <rtept lon="5.626999" lat="45.247435">
+            <name>PLACE  VICTOR  JAT, MUR DU FOND DE LA PLACE  (PODIUM)</name>
+        </rtept>
+        <rtept lon="5.61343" lat="45.271832">
+            <name></name>
+        </rtept>
+    </rte>
+</gpx>

@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="panneaux-election.fr">
+    <rte>
+        <rtept lon="6.69596195221" lat="45.2136802673">
+            <name>Villarodin : place de la mairie annexe</name>
+        </rtept>
+        <rtept lon="6.230456" lat="45.498537">
+            <name>la coche</name>
+        </rtept>
+        <rtept lon="6.206387" lat="45.4847295">
+            <name>chef-lieu</name>
+        </rtept>
+        <rtept lon="6.166929" lat="45.462735">
+            <name>Les Picollets</name>
+        </rtept>
+        <rtept lon="6.1386245" lat="45.455739">
+            <name>salle polyvalente</name>
+        </rtept>
+        <rtept lon="6.1199145" lat="45.442114">
+            <name>salle polyvalente</name>
+        </rtept>
+        <rtept lon="6.116422" lat="45.456367">
+            <name>place Albert Rey</name>
+        </rtept>
+        <rtept lon="6.1183755" lat="45.4576798">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.119117" lat="45.457624">
+            <name>centre ville, place Joseph Dijoud</name>
+        </rtept>
+        <rtept lon="6.118894" lat="45.462294">
+            <name>Rue des Roses (Centre d&#39;animation)</name>
+        </rtept>
+        <rtept lon="6.117712" lat="45.462255">
+            <name>rue Jean Moulin</name>
+        </rtept>
+        <rtept lon="6.11973" lat="45.467164">
+            <name>rue du vergeraie</name>
+        </rtept>
+        <rtept lon="6.114966" lat="45.462195">
+            <name>Avenue des Alpes</name>
+        </rtept>
+        <rtept lon="6.0986061" lat="45.4453902">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.072195" lat="45.447929">
+            <name>14 rue du Villaret</name>
+        </rtept>
+        <rtept lon="6.0385963" lat="45.4476004">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.052767" lat="45.460823">
+            <name>lieu-dit &quot;les Granges&quot;</name>
+        </rtept>
+        <rtept lon="6.06338" lat="45.4810075">
+            <name>salle polyvalente « Le Coisin »</name>
+        </rtept>
+        <rtept lon="6.063173" lat="45.501802">
+            <name>avenue Edouard Herriot (médiathèque)</name>
+        </rtept>
+        <rtept lon="6.063173" lat="45.501802">
+            <name>avenue Edouard Herriot (village des enfants)</name>
+        </rtept>
+        <rtept lon="6.062477" lat="45.503439">
+            <name>rue J. Moulin (Roches Blanches)</name>
+        </rtept>
+        <rtept lon="6.0662765" lat="45.508143">
+            <name>Mairie - grande rue</name>
+        </rtept>
+        <rtept lon="6.057383" lat="45.50714">
+            <name>Les Calloudes</name>
+        </rtept>
+        <rtept lon="6.01144313812" lat="45.5241889954">
+            <name>parking de la mairie - école</name>
+        </rtept>
+        <rtept lon="5.9915955" lat="45.5311985">
+            <name>Salle des fêtes</name>
+        </rtept>
+        <rtept lon="5.98413991928" lat="45.5483016968">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="5.983665" lat="45.5516045">
+            <name>salle polyvalente</name>
+        </rtept>
+        <rtept lon="5.965825" lat="45.573693">
+            <name>rue Louis Pasteur (croisement la rue du Nivolet)</name>
+        </rtept>
+        <rtept lon="5.966409" lat="45.571913">
+            <name>place des fées - route de Barby</name>
+        </rtept>
+        <rtept lon="5.964278" lat="45.561876">
+            <name>rue Kléber</name>
+        </rtept>
+        <rtept lon="5.967435" lat="45.560794">
+            <name>rue de la Concorde (centre ville)</name>
+        </rtept>
+        <rtept lon="5.966336" lat="45.557624">
+            <name>Rue Richelieu (contre le terrain de rugby)</name>
+        </rtept>
+        <rtept lon="5.955086" lat="45.561148">
+            <name>rue des vendanges (croisement la rue de la croix de l&#39;échaud)</name>
+        </rtept>
+        <rtept lon="5.952253" lat="45.568693">
+            <name>rue de la Parpillette</name>
+        </rtept>
+        <rtept lon="5.951067" lat="45.569336">
+            <name>La Villette - rue Jean-Jacques Rousseau</name>
+        </rtept>
+        <rtept lon="5.949152" lat="45.568495">
+            <name>école de la Concorde</name>
+        </rtept>
+        <rtept lon="5.943975" lat="45.562773">
+            <name>Carrefour Rue Centrale/ rue du 8 mai 45</name>
+        </rtept>
+        <rtept lon="5.9437025" lat="45.5634635">
+            <name>salle polyvalente</name>
+        </rtept>
+        <rtept lon="5.9437025" lat="45.5634635">
+            <name>Foyer des jeunes - rue centrale</name>
+        </rtept>
+        <rtept lon="5.940716" lat="45.55715">
+            <name>Bâtiment Chantal Mauduit - route de la Villette</name>
+        </rtept>
+        <rtept lon="5.936804" lat="45.556906">
+            <name>chemin de La Biche</name>
+        </rtept>
+        <rtept lon="5.94969987869" lat="45.5354003906">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="5.9559769" lat="45.5324459">
+            <name>salle Pré-Martin</name>
+        </rtept>
+        <rtept lon="5.95824" lat="45.513">
+            <name>parking de la mairie</name>
+        </rtept>
+        <rtept lon="5.982888" lat="45.515263">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.976021" lat="45.490771">
+            <name>place du Moulin de St André</name>
+        </rtept>
+        <rtept lon="6.000158" lat="45.499224">
+            <name>place de la mairie</name>
+        </rtept>
+        <rtept lon="6.034661" lat="45.499409">
+            <name>place de l&#39;Eglise - Chef Lieu</name>
+        </rtept>
+        <rtept lon="6.048285" lat="45.497691">
+            <name>rue Alexandre Ailloud (Grésivaudan)</name>
+        </rtept>
+        <rtept lon="6.048843" lat="45.501696">
+            <name>av. de la gare</name>
+        </rtept>
+        <rtept lon="6.050717" lat="45.500315">
+            <name>place du centenaire</name>
+        </rtept>
+        <rtept lon="6.053935" lat="45.502165">
+            <name>avenue Georges Clémenceau (devant mairie)</name>
+        </rtept>
+        <rtept lon="6.058045" lat="45.501839">
+            <name>rue François Dumas (monument aux morts)</name>
+        </rtept>
+        <rtept lon="6.058706" lat="45.498918">
+            <name>rue E. Berthier</name>
+        </rtept>
+        <rtept lon="6.07287311554" lat="45.4950027466">
+            <name>parking de la mairie</name>
+        </rtept>
+        <rtept lon="6.09018993378" lat="45.5026283264">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.106906" lat="45.495049">
+            <name>mairie - Chef lieu</name>
+        </rtept>
+        <rtept lon="6.137511" lat="45.514278">
+            <name>chef-lieu</name>
+        </rtept>
+        <rtept lon="6.1459197998" lat="45.5321006775">
+            <name>place de la Mairie - Coise</name>
+        </rtept>
+        <rtept lon="6.1459197998" lat="45.5321006775">
+            <name>Mairie Saint Jean Pied Gauthier</name>
+        </rtept>
+        <rtept lon="6.170487" lat="45.536105">
+            <name>salle communale</name>
+        </rtept>
+        <rtept lon="6.195648" lat="45.555652">
+            <name>Les Mantelières</name>
+        </rtept>
+        <rtept lon="6.196275" lat="45.557481">
+            <name>Le Bouchet</name>
+        </rtept>
+        <rtept lon="6.198739" lat="45.554874">
+            <name>mairie - chef lieu</name>
+        </rtept>
+        <rtept lon="6.211557" lat="45.552113">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.204846" lat="45.556195">
+            <name>Le Tiolet</name>
+        </rtept>
+        <rtept lon="6.216452" lat="45.570844">
+            <name>La Pérousag</name>
+        </rtept>
+        <rtept lon="6.25257015228" lat="45.5609016418">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.29747009277" lat="45.5626945496">
+            <name>mairie / chef lieu</name>
+        </rtept>
+        <rtept lon="6.338003" lat="45.522916">
+            <name>chef-lieu</name>
+        </rtept>
+        <rtept lon="6.310249" lat="45.544121">
+            <name>place de la mairie</name>
+        </rtept>
+        <rtept lon="6.3051199913" lat="45.5419654846">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.28692913055" lat="45.5018424988">
+            <name>mairie - place du 14 mars 1944</name>
+        </rtept>
+        <rtept lon="6.2758445" lat="45.482668">
+            <name>mairie - chef lieu</name>
+        </rtept>
+        <rtept lon="6.3131856" lat="45.4937296">
+            <name>chef lieu - parking école primaire</name>
+        </rtept>
+        <rtept lon="6.297704" lat="45.487874">
+            <name>Salle polyvalente de Bramafan</name>
+        </rtept>
+        <rtept lon="6.2894171" lat="45.4756937">
+            <name>salle d&#39;animation</name>
+        </rtept>
+        <rtept lon="6.2946582" lat="45.4539412">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.277476" lat="45.420271">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.282625" lat="45.391679">
+            <name>mairie - chef lieu</name>
+        </rtept>
+        <rtept lon="6.3112769" lat="45.370007">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.318627" lat="45.391906">
+            <name>chef lieu</name>
+        </rtept>
+        <rtept lon="6.34692716599" lat="45.4080696106">
+            <name>place de la mairie</name>
+        </rtept>
+        <rtept lon="6.316997" lat="45.365251">
+            <name>Le Reverdy - sous la mairie</name>
+        </rtept>
+        <rtept lon="6.299754" lat="45.35871">
+            <name>place de la mairie</name>
+        </rtept>
+        <rtept lon="6.30728006363" lat="45.3539009094">
+            <name>mairie de Pontamafrey</name>
+        </rtept>
+        <rtept lon="6.30728006363" lat="45.3539009094">
+            <name>mairie annexe de Montpascal</name>
+        </rtept>
+        <rtept lon="6.30771017075" lat="45.3538017273">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.30771017075" lat="45.3538017273">
+            <name>mairie - chef-lieu</name>
+        </rtept>
+        <rtept lon="6.309836" lat="45.352381">
+            <name>place de la mairie</name>
+        </rtept>
+        <rtept lon="6.3186807" lat="45.3161651">
+            <name>mairie - Chefl lieu</name>
+        </rtept>
+        <rtept lon="6.361273" lat="45.298348">
+            <name>route de la cascade - mairie</name>
+        </rtept>
+        <rtept lon="6.355079" lat="45.279726">
+            <name>Pont Cizeron</name>
+        </rtept>
+        <rtept lon="6.348808" lat="45.27951">
+            <name>rue Louis Sibué (carrefour rue Gabriel Péri)</name>
+        </rtept>
+        <rtept lon="6.3453083" lat="45.2777431">
+            <name>théâtre / salle Jean-Louis Barrault</name>
+        </rtept>
+        <rtept lon="6.343828" lat="45.279615">
+            <name>salle Pré-Copet</name>
+        </rtept>
+        <rtept lon="6.344692" lat="45.2764974">
+            <name>hôtel de ville</name>
+        </rtept>
+        <rtept lon="6.3480225" lat="45.2754185">
+            <name>école maternelle Aristide Briand</name>
+        </rtept>
+        <rtept lon="6.355769" lat="45.273376">
+            <name>rue Jean Moulin</name>
+        </rtept>
+        <rtept lon="6.654928" lat="45.174293">
+            <name>place du 17 septembre 1943</name>
+        </rtept>
+        <rtept lon="6.6598876" lat="45.1901993">
+            <name>entrée de Valfréjus</name>
+        </rtept>
+        <rtept lon="6.671444" lat="45.200547">
+            <name>rue Jules Ferry</name>
+        </rtept>
+        <rtept lon="6.673127" lat="45.200558">
+            <name>intersection rue des Lissières/av. Charvoz</name>
+        </rtept>
+        <rtept lon="6.673127" lat="45.200558">
+            <name>intersection rue de Poiset/rue de la Vanoise</name>
+        </rtept>
+        <rtept lon="6.673127" lat="45.200558">
+            <name>intersection rue Presbytère/rue Gambetta</name>
+        </rtept>
+        <rtept lon="6.673127" lat="45.200558">
+            <name>intersection-rue Pré Soleil/av.Pellegrin</name>
+        </rtept>
+        <rtept lon="6.67464" lat="45.20149">
+            <name>rue du Charmaix</name>
+        </rtept>
+        <rtept lon="6.67391014099" lat="45.2024002075">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.697568" lat="45.201497">
+            <name>La Norma : mur du parking souterrain</name>
+        </rtept>
+        <rtept lon="6.77583885193" lat="45.223941803">
+            <name>mairie - place St Colomban</name>
+        </rtept>
+        <rtept lon="6.804954" lat="45.260146">
+            <name>place de l&#39;Envers</name>
+        </rtept>
+        <rtept lon="6.817117" lat="45.276099">
+            <name>place de la Vanoise</name>
+        </rtept>
+        <rtept lon="6.911509" lat="45.289308">
+            <name>rue de la mairie</name>
+        </rtept>
+        <rtept lon="6.9941035" lat="45.3205051">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.996297" lat="45.3207965">
+            <name>salle de l&#39;Albaron, rue Combarami</name>
+        </rtept>
+        <rtept lon="7.0467736" lat="45.3715821">
+            <name>salle communale - la Tralenta</name>
+        </rtept>
+        <rtept lon="6.910657" lat="45.290408">
+            <name>rue sous l&#39;Eglise - près de l&#39;office de tourisme</name>
+        </rtept>
+        <rtept lon="6.877565" lat="45.285291">
+            <name>rue du Mont-Cenis (en bas de la mairie)</name>
+        </rtept>
+        <rtept lon="6.8169235" lat="45.276956">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.807488" lat="45.263665">
+            <name>cabine téléphonique Sardières</name>
+        </rtept>
+        <rtept lon="6.8078884" lat="45.2638002">
+            <name>mairie - Endroit</name>
+        </rtept>
+        <rtept lon="6.74151992798" lat="45.2279014587">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.69596195221" lat="45.2136802673">
+            <name>Villarodin : place de la mairie annexe</name>
+        </rtept>
+        <rtept lon="6.698222" lat="45.214176">
+            <name>Le Bourget : mur bâtiment école du Bourget</name>
+        </rtept>
+        <rtept lon="6.670447" lat="45.2004681">
+            <name>salle des fêtes</name>
+        </rtept>
+        <rtept lon="6.661417" lat="45.195512">
+            <name>av. J. Jaurès</name>
+        </rtept>
+        <rtept lon="6.655776" lat="45.192797">
+            <name>rue de la République</name>
+        </rtept>
+        <rtept lon="6.651713" lat="45.191613">
+            <name>mairie - avenue de la liberté</name>
+        </rtept>
+        <rtept lon="6.618303" lat="45.200546">
+            <name>devant la salle du temps libre &quot;la Praz&quot; - route des Sarrazins</name>
+        </rtept>
+        <rtept lon="6.620659" lat="45.20077">
+            <name>rue de l&#39;Eglise - Chapelle Pitié - parking Saint André</name>
+        </rtept>
+        <rtept lon="6.627362" lat="45.194177">
+            <name>place de la mairie</name>
+        </rtept>
+        <rtept lon="6.53416109085" lat="45.210067749">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.475114" lat="45.213715">
+            <name>Le Châtelard</name>
+        </rtept>
+        <rtept lon="6.48106718063" lat="45.1844139099">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.468956" lat="45.213077">
+            <name>chef-lieu (près de la mairie)</name>
+        </rtept>
+        <rtept lon="6.4744795" lat="45.2182283">
+            <name>le champ de foire</name>
+        </rtept>
+        <rtept lon="6.4744795" lat="45.2182283">
+            <name>mairie annexe du Thyl</name>
+        </rtept>
+        <rtept lon="6.4744795" lat="45.2182283">
+            <name>mairie annexe de Beaune</name>
+        </rtept>
+        <rtept lon="6.47447919846" lat="45.2182273865">
+            <name>place de la Mairie</name>
+        </rtept>
+        <rtept lon="6.4744795" lat="45.2182283">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.473155" lat="45.2181215">
+            <name>Gymnase</name>
+        </rtept>
+        <rtept lon="6.465151" lat="45.225564">
+            <name>Vigny</name>
+        </rtept>
+        <rtept lon="6.4480615" lat="45.2397924">
+            <name>parking église - mairie</name>
+        </rtept>
+        <rtept lon="6.4041646" lat="45.2559076">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.40321" lat="45.246131">
+            <name>Le Bochet-Place de la Mairie</name>
+        </rtept>
+        <rtept lon="6.40249013901" lat="45.2462997437">
+            <name>Montricher-place de l&#39;Eglise</name>
+        </rtept>
+        <rtept lon="6.3837134" lat="45.2131676">
+            <name>place du chef lieu Albiez le Vieux</name>
+        </rtept>
+        <rtept lon="6.373331" lat="45.26049">
+            <name>salle polyvalente Paul Perrier - rue de Cettier</name>
+        </rtept>
+        <rtept lon="6.3724256" lat="45.2588248">
+            <name>place de la mairie - chef-lieu</name>
+        </rtept>
+        <rtept lon="6.37545013428" lat="45.2597999573">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.37545013428" lat="45.2597999573">
+            <name>place de la mairie</name>
+        </rtept>
+        <rtept lon="6.37545013428" lat="45.2597999573">
+            <name>Mairie Montrond</name>
+        </rtept>
+        <rtept lon="6.3600405" lat="45.271585">
+            <name>salle polyvalente des Chaudannes</name>
+        </rtept>
+        <rtept lon="6.351731" lat="45.269202">
+            <name>Pont d&#39;Arvan / rue de Guille</name>
+        </rtept>
+        <rtept lon="6.346605" lat="45.269658">
+            <name>rue Jean Huguet (carrefour rue Capitaine Bulard)</name>
+        </rtept>
+        <rtept lon="6.34561" lat="45.273864">
+            <name>la Combe (entrée à droite)</name>
+        </rtept>
+        <rtept lon="6.3434185" lat="45.2730735">
+            <name>école maternelle des Clapeys</name>
+        </rtept>
+        <rtept lon="6.325355" lat="45.269138">
+            <name>place du Souvenir Français - chef-lieu</name>
+        </rtept>
+        <rtept lon="6.300979" lat="45.246457">
+            <name>chef lieu - la Toussuire</name>
+        </rtept>
+        <rtept lon="6.281776" lat="45.246059">
+            <name>chef lieu</name>
+        </rtept>
+        <rtept lon="6.272814" lat="45.208144">
+            <name>la Tour - chef lieu</name>
+        </rtept>
+        <rtept lon="6.232651" lat="45.221721">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.22663116455" lat="45.2941894531">
+            <name>mairie - chef lieu</name>
+        </rtept>
+        <rtept lon="6.2489075" lat="45.3090665">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.302237" lat="45.339394">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="6.29337978363" lat="45.3417015076">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.265621" lat="45.392198">
+            <name>place de la mairie</name>
+        </rtept>
+        <rtept lon="6.281358" lat="45.438663">
+            <name>salle polyvalente - le plan d&#39;en haut</name>
+        </rtept>
+        <rtept lon="6.291458" lat="45.547453">
+            <name>Saint Arnaud</name>
+        </rtept>
+        <rtept lon="6.216001" lat="45.5325119">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.24062585831" lat="45.5253868103">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.173079" lat="45.529734">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.18677520752" lat="45.5298995972">
+            <name>devant la mairie</name>
+        </rtept>
+        <rtept lon="6.179011" lat="45.510011">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.1469228" lat="45.4973501">
+            <name>mairie - chef lieu</name>
+        </rtept>
+        <rtept lon="6.138564" lat="45.485203">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.136304" lat="45.472445">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.1438475" lat="45.4637425">
+            <name>chef-lieu (grande place de l&#39;église)</name>
+        </rtept>
+        <rtept lon="6.17193" lat="45.479983">
+            <name>mairie - chef lieu</name>
+        </rtept>
+        <rtept lon="6.21475791931" lat="45.5079116821">
+            <name>mairie - chef lieu</name>
+        </rtept>
+        <rtept lon="6.69596195221" lat="45.2136802673">
+            <name>Villarodin : place de la mairie annexe</name>
+        </rtept>
+    </rte>
+</gpx>

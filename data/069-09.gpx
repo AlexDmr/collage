@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="panneaux-election.fr">
+    <rte>
+        <rtept lon="4.67902994156" lat="46.1613006592">
+            <name>Salle des Fêtes place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.7453147" lat="46.1094457">
+            <name>Place Morillon (proximité bureaux de vote 1 et 2)</name>
+        </rtept>
+        <rtept lon="4.74369" lat="46.10995">
+            <name>Place de la République</name>
+        </rtept>
+        <rtept lon="4.729463" lat="46.112067">
+            <name>Place de la Gare</name>
+        </rtept>
+        <rtept lon="4.730843" lat="46.110116">
+            <name>Rue Francis Popy (proximité bureaux de vote 3, 4 et 5)</name>
+        </rtept>
+        <rtept lon="4.740417" lat="46.103274">
+            <name>Avenue de Verdun</name>
+        </rtept>
+        <rtept lon="4.738438" lat="46.0716886">
+            <name>Bourchanin - (carrefour CD 20 route)</name>
+        </rtept>
+        <rtept lon="4.731649" lat="46.066285">
+            <name>chagny (angle CD chemin du midi)</name>
+        </rtept>
+        <rtept lon="4.725957" lat="46.064067">
+            <name>route de Vallières</name>
+        </rtept>
+        <rtept lon="4.723008" lat="46.060704">
+            <name>Parc Montchervet</name>
+        </rtept>
+        <rtept lon="4.719258" lat="46.062253">
+            <name>place de la Gare</name>
+        </rtept>
+        <rtept lon="4.720813" lat="46.063517">
+            <name>bd Emile Guyot (entre le n°41 et le n°47)</name>
+        </rtept>
+        <rtept lon="4.7130728" lat="46.0600882">
+            <name>Bois Franc sur la clôture du Collège de bois franc</name>
+        </rtept>
+        <rtept lon="4.698848" lat="46.049051">
+            <name>hameau de nuit chemin des vignerons, contre le mur</name>
+        </rtept>
+        <rtept lon="4.70497" lat="46.022979">
+            <name>2 rue du Stade</name>
+        </rtept>
+        <rtept lon="4.704445" lat="46.021115">
+            <name>Route de Longsard</name>
+        </rtept>
+        <rtept lon="4.690957" lat="46.015711">
+            <name>route de Saint- Julien</name>
+        </rtept>
+        <rtept lon="4.711614" lat="46.00239">
+            <name>Centre Georges Sand rue Georges Sand</name>
+        </rtept>
+        <rtept lon="4.7030859" lat="45.9956656">
+            <name>Ecole Maternelle Joseph Viollet - rue Joseph Viollet</name>
+        </rtept>
+        <rtept lon="4.707906" lat="45.995622">
+            <name>Ecole Armand Chouffet 106 avenue Armand Chouffet</name>
+        </rtept>
+        <rtept lon="4.696794" lat="45.98877">
+            <name>Mairie de Gleizé le bourg</name>
+        </rtept>
+        <rtept lon="4.696311" lat="45.988436">
+            <name>Groupe scolaire Benoît Branciard - rue Benoît Branciard</name>
+        </rtept>
+        <rtept lon="4.705693" lat="45.986967">
+            <name>Maison de quartier de la Claire 530 rue de Tarare</name>
+        </rtept>
+        <rtept lon="4.717209" lat="45.984414">
+            <name>école Jean Monnet 61 avenue du Promenoir</name>
+        </rtept>
+        <rtept lon="4.713788" lat="45.985969">
+            <name>salle de la Mutualité 116 bd Vermorel</name>
+        </rtept>
+        <rtept lon="4.715573" lat="45.988729">
+            <name>Mairie 183 rue de la Paix</name>
+        </rtept>
+        <rtept lon="4.718295" lat="45.989005">
+            <name>gymnase Jean Bouthoux rue Pierre Guillermet</name>
+        </rtept>
+        <rtept lon="4.717614" lat="45.995079">
+            <name>Ecole Jean Zay 135 rue Claude Bernard</name>
+        </rtept>
+        <rtept lon="4.720467" lat="45.994415">
+            <name>Ecole Françoise Dolto 125 rue Pasteur</name>
+        </rtept>
+        <rtept lon="4.720409" lat="45.990479">
+            <name>Ecole maternelle Camille Claudel 88 rue de l&#39;Arc</name>
+        </rtept>
+        <rtept lon="4.727034" lat="45.990581">
+            <name>Groupe scolaire Jean Macé 374 rue de la liberté</name>
+        </rtept>
+        <rtept lon="4.726876" lat="45.989475">
+            <name>Ecole Maternelle Anne de Beaujeu 58 rue de la liberté</name>
+        </rtept>
+        <rtept lon="4.7256448" lat="45.9848783">
+            <name>Groupe scolaire Lamartine 285 rue Lamartine</name>
+        </rtept>
+        <rtept lon="4.732349" lat="45.98492">
+            <name>Créacité 847 rte de Frans bureau de vote n°20</name>
+        </rtept>
+        <rtept lon="4.735032" lat="45.982481">
+            <name>Ecole Maternelle Condorcet 176 rue Jules Ferry</name>
+        </rtept>
+        <rtept lon="4.738691" lat="45.981084">
+            <name>Ecole Paul Eluard 42 rue Paul Verlaine</name>
+        </rtept>
+        <rtept lon="4.726148" lat="45.970301">
+            <name>Place du Peloux</name>
+        </rtept>
+        <rtept lon="4.717602" lat="45.980379">
+            <name>Résidence la Salamandre 584 rue d&#39;Anse</name>
+        </rtept>
+        <rtept lon="4.704933" lat="45.974796">
+            <name>square du Souvenir Français rue J.B Martini</name>
+        </rtept>
+        <rtept lon="4.704933" lat="45.974796">
+            <name>rue P. Ponot groupe scolaire</name>
+        </rtept>
+        <rtept lon="4.703829" lat="45.97153">
+            <name>avenue Général De Gaulle ( angle avenue Général de Gaulle et chemin des charretiers)</name>
+        </rtept>
+        <rtept lon="4.708898" lat="45.969247">
+            <name>rue de la Corniche</name>
+        </rtept>
+        <rtept lon="4.691325" lat="45.956628">
+            <name>Chemin de Bethléem - mur nord de l&#39;école élémentaire</name>
+        </rtept>
+        <rtept lon="4.692609" lat="45.955233">
+            <name>Place du 11 Novembre - Le Bourg</name>
+        </rtept>
+        <rtept lon="4.711023" lat="45.945881">
+            <name>la citadelle</name>
+        </rtept>
+        <rtept lon="4.707611" lat="45.940624">
+            <name>Hameau Graves</name>
+        </rtept>
+        <rtept lon="4.712536" lat="45.942911">
+            <name>avenue de l&#39;Europe</name>
+        </rtept>
+        <rtept lon="4.738209" lat="45.927593">
+            <name>42 rue de la mairie</name>
+        </rtept>
+        <rtept lon="4.721773" lat="45.93618">
+            <name>Place des frères Giraudet</name>
+        </rtept>
+        <rtept lon="4.716252" lat="45.937167">
+            <name>Impasse Jean Laval salle polyvalente</name>
+        </rtept>
+        <rtept lon="4.709172" lat="45.927918">
+            <name>rue des trois châtels /rond Point route de Lucenay</name>
+        </rtept>
+        <rtept lon="4.70138978958" lat="45.9115982056">
+            <name>parking de la Mairie</name>
+        </rtept>
+        <rtept lon="4.7003546" lat="45.8977814">
+            <name>Route départementale 30</name>
+        </rtept>
+        <rtept lon="4.710462" lat="45.874638">
+            <name>3 rue de la Mairie</name>
+        </rtept>
+        <rtept lon="4.6838" lat="45.875134">
+            <name>Le bourg</name>
+        </rtept>
+        <rtept lon="4.68198013306" lat="45.8597984314">
+            <name>Entrée &quot; Parc de la Mairie &quot;</name>
+        </rtept>
+        <rtept lon="4.684358" lat="45.858057">
+            <name>Route de Chazay</name>
+        </rtept>
+        <rtept lon="4.669376" lat="45.867242">
+            <name>Place Sophie Poncet</name>
+        </rtept>
+        <rtept lon="4.668557" lat="45.890877">
+            <name>Boulevard des Ecoles</name>
+        </rtept>
+        <rtept lon="4.678783" lat="45.915119">
+            <name>place de l&#39;église</name>
+        </rtept>
+        <rtept lon="4.686439991" lat="45.9258995056">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.652744" lat="45.911413">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.647252" lat="45.957639">
+            <name>le Bourg - rue du 11 Novembre 1918</name>
+        </rtept>
+        <rtept lon="4.663855" lat="45.970908">
+            <name>Foyer rural écoles - 149, rue du Château de l&#39;Eclair</name>
+        </rtept>
+        <rtept lon="4.662421" lat="45.969884">
+            <name>Mairie - 524, montée Saint-Eloi</name>
+        </rtept>
+        <rtept lon="4.623904" lat="45.986795">
+            <name>Place du 8 Mai 1945 au centre du village</name>
+        </rtept>
+        <rtept lon="4.64108991623" lat="45.9919013977">
+            <name>Mairie – Route de Chazier</name>
+        </rtept>
+        <rtept lon="4.644744" lat="46.000502">
+            <name>Le bourg- face à la Mairie-</name>
+        </rtept>
+        <rtept lon="4.611274" lat="46.002528">
+            <name>Le bourg</name>
+        </rtept>
+        <rtept lon="4.610353" lat="46.015414">
+            <name>le bourg</name>
+        </rtept>
+        <rtept lon="4.556386" lat="46.026783">
+            <name>Le Bourg</name>
+        </rtept>
+        <rtept lon="4.59176015854" lat="46.056098938">
+            <name>place de la mairie à l&#39;entrée du bureau de vote</name>
+        </rtept>
+        <rtept lon="4.601717" lat="46.062691">
+            <name>Place de l&#39;Eglise</name>
+        </rtept>
+        <rtept lon="4.631073" lat="46.07674">
+            <name>Salle Polyvalente Le bourg</name>
+        </rtept>
+        <rtept lon="4.644235" lat="46.031115">
+            <name>Le Bourg</name>
+        </rtept>
+        <rtept lon="4.635537" lat="46.041506">
+            <name>le Chapitre</name>
+        </rtept>
+        <rtept lon="4.648829" lat="46.068676">
+            <name>Mairie – 445 Rue du Beaujolais</name>
+        </rtept>
+        <rtept lon="4.647461" lat="46.089887">
+            <name>Mairie - 35, route de Saint-Lager</name>
+        </rtept>
+        <rtept lon="4.680231" lat="46.088293">
+            <name>Rue de Sermezy en face de la mairie</name>
+        </rtept>
+        <rtept lon="4.672972" lat="46.112774">
+            <name>place de l&#39;église - à côté du poids public</name>
+        </rtept>
+        <rtept lon="4.671272" lat="46.120327">
+            <name>Place de l&#39;Eglise</name>
+        </rtept>
+        <rtept lon="4.66481018066" lat="46.1193008423">
+            <name>Place de la Mairie - le Bourg-</name>
+        </rtept>
+        <rtept lon="4.66481018066" lat="46.1193008423">
+            <name>Impasse entre Mairie et Caveau</name>
+        </rtept>
+        <rtept lon="4.641029" lat="46.137121">
+            <name>Le bourg devant l&#39;école</name>
+        </rtept>
+        <rtept lon="4.64090013504" lat="46.1371994019">
+            <name>le bourg</name>
+        </rtept>
+        <rtept lon="4.57045316696" lat="46.1120681763">
+            <name>le bourg mairie</name>
+        </rtept>
+        <rtept lon="4.616991" lat="46.117863">
+            <name>Maison communale – 60 ruelle de la Cure</name>
+        </rtept>
+        <rtept lon="4.595461" lat="46.150714">
+            <name>Place de la Paix</name>
+        </rtept>
+        <rtept lon="4.595461" lat="46.150714">
+            <name>Place de l&#39;Ile</name>
+        </rtept>
+        <rtept lon="4.589655" lat="46.152951">
+            <name>Avenue du Docteur Giraud</name>
+        </rtept>
+        <rtept lon="4.541534" lat="46.179206">
+            <name>le Bourg</name>
+        </rtept>
+        <rtept lon="4.546857" lat="46.157249">
+            <name>le bourg</name>
+        </rtept>
+        <rtept lon="4.529463" lat="46.157135">
+            <name>le bourg</name>
+        </rtept>
+        <rtept lon="4.402673" lat="46.226421">
+            <name>Le bourg</name>
+        </rtept>
+        <rtept lon="4.40538978577" lat="46.2275009155">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="4.425981" lat="46.289459">
+            <name>Route de St Bonnet (à proximité de la salle communale)</name>
+        </rtept>
+        <rtept lon="4.470042" lat="46.270584">
+            <name>le bourg</name>
+        </rtept>
+        <rtept lon="4.45655012131" lat="46.2655982971">
+            <name>place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.520831" lat="46.219953">
+            <name>Place de la Fontaine</name>
+        </rtept>
+        <rtept lon="4.542615" lat="46.262285">
+            <name>Le Bourg</name>
+        </rtept>
+        <rtept lon="4.56174516678" lat="46.2778129578">
+            <name>le bourg en face de la Mairie</name>
+        </rtept>
+        <rtept lon="4.584789" lat="46.25106">
+            <name>parking à l&#39;entrée du village</name>
+        </rtept>
+        <rtept lon="4.58291006088" lat="46.2505493164">
+            <name>Place de la Fontaine</name>
+        </rtept>
+        <rtept lon="4.5947721" lat="46.2308643">
+            <name>le bourg</name>
+        </rtept>
+        <rtept lon="4.605216" lat="46.195024">
+            <name>Le Bourg</name>
+        </rtept>
+        <rtept lon="4.643909" lat="46.2091979">
+            <name>le bourg</name>
+        </rtept>
+        <rtept lon="4.678787" lat="46.222807">
+            <name>les benons</name>
+        </rtept>
+        <rtept lon="4.677574" lat="46.2419579">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="4.64996194839" lat="46.2684555054">
+            <name>Le Bourg devant la Mairie</name>
+        </rtept>
+        <rtept lon="4.709267" lat="46.236228">
+            <name>ancienne place du marché</name>
+        </rtept>
+        <rtept lon="4.70935" lat="46.213218">
+            <name>le bourg</name>
+        </rtept>
+        <rtept lon="4.6978423" lat="46.1921497">
+            <name>Esplanade de la Mairie</name>
+        </rtept>
+        <rtept lon="4.697227" lat="46.192395">
+            <name>Place de l&#39;église</name>
+        </rtept>
+        <rtept lon="4.681649" lat="46.1836375">
+            <name>Parc Municipal</name>
+        </rtept>
+        <rtept lon="4.67902994156" lat="46.1613006592">
+            <name>Salle des Fêtes place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.719541" lat="46.167857">
+            <name>le bourg place du commerce</name>
+        </rtept>
+        <rtept lon="4.766198" lat="46.156654">
+            <name>le bourg - En face de la Mairie</name>
+        </rtept>
+        <rtept lon="4.7364311" lat="46.1492018">
+            <name>Le bourg - Place Billard de Saint- Laumer</name>
+        </rtept>
+        <rtept lon="4.736907" lat="46.123575">
+            <name>Rue du Lavoir</name>
+        </rtept>
+        <rtept lon="4.73724" lat="46.11942">
+            <name>1120, rue Jean Canon</name>
+        </rtept>
+        <rtept lon="4.767344" lat="46.121845">
+            <name>Place des Sablons</name>
+        </rtept>
+        <rtept lon="4.7496342" lat="46.1088604">
+            <name>Champ de Foire</name>
+        </rtept>
+        <rtept lon="4.747929" lat="46.108346">
+            <name>Angle boulevard Rosselli /avenue Mathon</name>
+        </rtept>
+        <rtept lon="4.67902994156" lat="46.1613006592">
+            <name>Salle des Fêtes place de la Mairie</name>
+        </rtept>
+    </rte>
+</gpx>

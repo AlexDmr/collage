@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="panneaux-election.fr">
+    <rte>
+        <rtept lon="5.190669" lat="45.38991">
+            <name></name>
+        </rtept>
+        <rtept lon="4.940918" lat="45.431723">
+            <name>DEVANT  LA MAIRIE  - 110 CHEMIN  DE VAREZE</name>
+        </rtept>
+        <rtept lon="4.90945" lat="45.390552">
+            <name></name>
+        </rtept>
+        <rtept lon="4.882437" lat="45.385605">
+            <name></name>
+        </rtept>
+        <rtept lon="4.8629682" lat="45.3627987">
+            <name>PLACE  DE L&#39;ÉGLISE</name>
+        </rtept>
+        <rtept lon="4.818427" lat="45.343429">
+            <name>FOYER  COMMUNAL LAURENT BOUVIER (POUR BUREAUX 1 ET 3)</name>
+        </rtept>
+        <rtept lon="4.818427" lat="45.343429">
+            <name>GROUPE  SCOLAIRE JOLIOT-CURIE</name>
+        </rtept>
+        <rtept lon="4.810399" lat="45.37148">
+            <name></name>
+        </rtept>
+        <rtept lon="4.800271" lat="45.373653">
+            <name>RUE JACQUES PRÉVERT (AVANT  LA RUE DE BRÉGNIEUX)</name>
+        </rtept>
+        <rtept lon="4.798098" lat="45.376038">
+            <name>RUE DE LA RÉPUBLIQUE ENTRE  LE N°5 ET 7 (VERS  GYMNASE DES LIBERTÉS)</name>
+        </rtept>
+        <rtept lon="4.796931" lat="45.374805">
+            <name>RUE BAYARD</name>
+        </rtept>
+        <rtept lon="4.7952076" lat="45.3739763">
+            <name>PLACE  DU 19 MARS</name>
+        </rtept>
+        <rtept lon="4.79483" lat="45.37389">
+            <name>RUE DU STADE  (ANCIENNE CASERNE DES POMPIERS)</name>
+        </rtept>
+        <rtept lon="4.796379" lat="45.372607">
+            <name>AVENUE  JULES FERRY  APRÈS  LA BOULANGERIE JEANNE  D&#39;ARC</name>
+        </rtept>
+        <rtept lon="4.796379" lat="45.372607">
+            <name>FACE AUX HLM ROUTE  DE SABLONS</name>
+        </rtept>
+        <rtept lon="4.7975374" lat="45.3692096">
+            <name>RUE LAURENT NIVOLLEY CONTRE  LE MUR DU PARC ST PRIX</name>
+        </rtept>
+        <rtept lon="4.7923445" lat="45.3676317">
+            <name>BOULODROME RUE DES ILES</name>
+        </rtept>
+        <rtept lon="4.7805375" lat="45.3212783">
+            <name>CITÉ EDF</name>
+        </rtept>
+        <rtept lon="4.772888" lat="45.317139">
+            <name>CENTRE  SOCIO  CULTUREL</name>
+        </rtept>
+        <rtept lon="4.77405023575" lat="45.3182983398">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="4.813052" lat="45.303853">
+            <name>CONCHEPIOU</name>
+        </rtept>
+        <rtept lon="4.821149" lat="45.317715">
+            <name>PLACE  DU MARCHÉ</name>
+        </rtept>
+        <rtept lon="4.8191916" lat="45.3181489">
+            <name>MAIRIE  PLACE  DE FRANCE</name>
+        </rtept>
+        <rtept lon="4.828318" lat="45.32203">
+            <name>RUE DU 29 AOÛT</name>
+        </rtept>
+        <rtept lon="4.856633" lat="45.3401">
+            <name></name>
+        </rtept>
+        <rtept lon="4.881129" lat="45.346896">
+            <name></name>
+        </rtept>
+        <rtept lon="4.90563" lat="45.353688">
+            <name></name>
+        </rtept>
+        <rtept lon="4.90097" lat="45.329448">
+            <name></name>
+        </rtept>
+        <rtept lon="4.945793" lat="45.333181">
+            <name></name>
+        </rtept>
+        <rtept lon="4.949654" lat="45.373267">
+            <name>PLACE  DU FOYER</name>
+        </rtept>
+        <rtept lon="4.987251" lat="45.385596">
+            <name></name>
+        </rtept>
+        <rtept lon="4.98971796036" lat="45.3528022766">
+            <name>DEVANT  LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.051933" lat="45.339609">
+            <name>AVENUE  VICTOR  HUGO</name>
+        </rtept>
+        <rtept lon="5.052319" lat="45.33878">
+            <name>RUE FRANÇAIS</name>
+        </rtept>
+        <rtept lon="5.053905" lat="45.337794">
+            <name>RUE DU DTR BAILLY</name>
+        </rtept>
+        <rtept lon="5.057699" lat="45.337666">
+            <name>AVENUE  CHARLES DE GAULLE</name>
+        </rtept>
+        <rtept lon="5.056214" lat="45.334117">
+            <name>AVENUE  JEAN JAURÈS</name>
+        </rtept>
+        <rtept lon="5.086506" lat="45.305425">
+            <name></name>
+        </rtept>
+        <rtept lon="5.112961" lat="45.299297">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.14462995529" lat="45.2602996826">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="5.1718451" lat="45.2537768">
+            <name>PLACE  DU VILLAGE</name>
+        </rtept>
+        <rtept lon="5.244165" lat="45.258234">
+            <name></name>
+        </rtept>
+        <rtept lon="5.236688" lat="45.294416">
+            <name></name>
+        </rtept>
+        <rtept lon="5.2673804" lat="45.3178606">
+            <name>ROUTE  DE ROYBON,</name>
+        </rtept>
+        <rtept lon="5.284757" lat="45.315064">
+            <name></name>
+        </rtept>
+        <rtept lon="5.276122" lat="45.322447">
+            <name></name>
+        </rtept>
+        <rtept lon="5.262298" lat="45.327822">
+            <name>81 RUE DU CARROUSEL,, ROUTE  DE ROYBON,</name>
+        </rtept>
+        <rtept lon="5.26145" lat="45.328389">
+            <name>409 GRANDE  RUE</name>
+        </rtept>
+        <rtept lon="5.256964" lat="45.329005">
+            <name>RUE DU SOUVENIR</name>
+        </rtept>
+        <rtept lon="5.22876405716" lat="45.3210296631">
+            <name>PARKING MAIRIE</name>
+        </rtept>
+        <rtept lon="5.203045" lat="45.319101">
+            <name>AVENUE  DOCTEUR TURC</name>
+        </rtept>
+        <rtept lon="5.183581" lat="45.339604">
+            <name></name>
+        </rtept>
+        <rtept lon="5.1687152" lat="45.3164313">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="5.121734" lat="45.32548">
+            <name></name>
+        </rtept>
+        <rtept lon="5.141625" lat="45.364855">
+            <name>PLACE  DU 19 MARS</name>
+        </rtept>
+        <rtept lon="5.211562" lat="45.368781">
+            <name></name>
+        </rtept>
+        <rtept lon="5.307523" lat="45.346429">
+            <name>PLACE  DU VILLAGE</name>
+        </rtept>
+        <rtept lon="5.3413359" lat="45.3425482">
+            <name>PLACE  ROSE VAILLAND</name>
+        </rtept>
+        <rtept lon="5.344461" lat="45.338152">
+            <name></name>
+        </rtept>
+        <rtept lon="5.353319" lat="45.321531">
+            <name>10 PLACE  SAINT-GEORGES</name>
+        </rtept>
+        <rtept lon="5.337429" lat="45.292356">
+            <name></name>
+        </rtept>
+        <rtept lon="5.354538" lat="45.304609">
+            <name></name>
+        </rtept>
+        <rtept lon="5.4015059" lat="45.2954146">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.391872" lat="45.311924">
+            <name></name>
+        </rtept>
+        <rtept lon="5.388005" lat="45.340834">
+            <name></name>
+        </rtept>
+        <rtept lon="5.423717" lat="45.388568">
+            <name>RUE DE LA PLAINE  - EN FACE SALLE  POLYVALENTE</name>
+        </rtept>
+        <rtept lon="5.417937" lat="45.390171">
+            <name>CHEMIN  DE PARMÉNIE AU CARRFEOUR DES TROIS ROUTES</name>
+        </rtept>
+        <rtept lon="5.416977" lat="45.394275">
+            <name>ROUTE  DU VERCORS CONTRE  LE MUR DE L&#39;ESPACE PIERRE  BERNARD</name>
+        </rtept>
+        <rtept lon="5.425932" lat="45.397997">
+            <name>ROUTE  DE CHARTREUSE - LE LONG DU STADE</name>
+        </rtept>
+        <rtept lon="5.419385" lat="45.398474">
+            <name>6 RUE LAMARTINE - PROCHE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.41149" lat="45.396766">
+            <name>ROUTE  DE LA MALADIÈRE</name>
+        </rtept>
+        <rtept lon="5.389162" lat="45.397564">
+            <name></name>
+        </rtept>
+        <rtept lon="5.359435" lat="45.390086">
+            <name></name>
+        </rtept>
+        <rtept lon="5.32959985733" lat="45.3905982971">
+            <name>PARVIS  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.3262141" lat="45.3962037">
+            <name>PROXIMITÉ EGLISE</name>
+        </rtept>
+        <rtept lon="5.29411" lat="45.392266">
+            <name>ROUTE  DU DAUPHINÉ - PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.26028" lat="45.391755">
+            <name>PLACE  HECTOR  BERLIOZ</name>
+        </rtept>
+        <rtept lon="5.259832" lat="45.39304">
+            <name>CARREFOUR AVENUE  JONGKIND, RUE DU COMMANDANT JULHIET</name>
+        </rtept>
+        <rtept lon="5.259832" lat="45.39304">
+            <name>CARREFOUR AVENUE  DE VERDUN, AVENUE  CAMILLE  ROCHER</name>
+        </rtept>
+        <rtept lon="5.259832" lat="45.39304">
+            <name>CARREFOUR RUE DES CORDIERS, CHEMIN  DU CERF MONTANT</name>
+        </rtept>
+        <rtept lon="5.259832" lat="45.39304">
+            <name>CARREFOUR AVENUE  HECTOR  BERLIOZ, AVENUE  CHARLES DE GAULLE</name>
+        </rtept>
+        <rtept lon="5.259832" lat="45.39304">
+            <name>QUARTIER LE RIVAL,  CARREFOUR CHEMIN  DE LA VOIE FERRÉE, ROUTE  DE LA GARE</name>
+        </rtept>
+        <rtept lon="5.259832" lat="45.39304">
+            <name>CARREFOUR CHEMIN  DES MEUNIÈRES, CHEMIN  DU CERF MONTANT</name>
+        </rtept>
+        <rtept lon="5.259832" lat="45.39304">
+            <name>CARREFOUR RUE DES REMPARTS, RUE JACQUES DE ST GEORGES</name>
+        </rtept>
+        <rtept lon="5.261359" lat="45.394132">
+            <name>PLACE  DE LA HALLE</name>
+        </rtept>
+        <rtept lon="5.257565" lat="45.394343">
+            <name>PLACE  SAINT  ANDRÉ</name>
+        </rtept>
+        <rtept lon="5.25366" lat="45.393299">
+            <name>AVENUE  ARISTIDE BRIAND</name>
+        </rtept>
+        <rtept lon="5.21026" lat="45.400335">
+            <name></name>
+        </rtept>
+        <rtept lon="5.190669" lat="45.38991">
+            <name></name>
+        </rtept>
+        <rtept lon="5.16267" lat="45.393156">
+            <name></name>
+        </rtept>
+        <rtept lon="5.150138" lat="45.416875">
+            <name>ROUTE  DU VILLAGE</name>
+        </rtept>
+        <rtept lon="5.193615" lat="45.43219">
+            <name></name>
+        </rtept>
+        <rtept lon="5.180541" lat="45.457668">
+            <name></name>
+        </rtept>
+        <rtept lon="5.225431" lat="45.42796">
+            <name></name>
+        </rtept>
+        <rtept lon="5.267945" lat="45.435215">
+            <name></name>
+        </rtept>
+        <rtept lon="5.315888" lat="45.418921">
+            <name></name>
+        </rtept>
+        <rtept lon="5.329611" lat="45.441158">
+            <name></name>
+        </rtept>
+        <rtept lon="5.35025691986" lat="45.4181480408">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="5.377397" lat="45.455098">
+            <name>CHEMIN  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.4072466" lat="45.4823071">
+            <name>PARKING DE L&#39;ÉCOLE</name>
+        </rtept>
+        <rtept lon="5.447303" lat="45.469281">
+            <name></name>
+        </rtept>
+        <rtept lon="5.429532" lat="45.443542">
+            <name></name>
+        </rtept>
+        <rtept lon="5.437554" lat="45.431477">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.47670984268" lat="45.4224014282">
+            <name>PARKING DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.467053" lat="45.395516">
+            <name>PLACE  EUGÈNE CHAVANT</name>
+        </rtept>
+        <rtept lon="5.475672" lat="45.397574">
+            <name>LA CONTAMINE</name>
+        </rtept>
+        <rtept lon="5.489484" lat="45.400875">
+            <name>LA ROBERTIÈRE</name>
+        </rtept>
+        <rtept lon="5.4946586" lat="45.3802425">
+            <name>ANCIENNE ECOLE  LE RIVIER</name>
+        </rtept>
+        <rtept lon="5.501516" lat="45.3923">
+            <name>PLANCHE-CATTIN</name>
+        </rtept>
+        <rtept lon="5.5040084" lat="45.3989533">
+            <name>SALLE  DES RÉUNIONS - LE BOURG</name>
+        </rtept>
+        <rtept lon="5.511181" lat="45.399313">
+            <name>LE GUICHARD</name>
+        </rtept>
+        <rtept lon="5.518717" lat="45.401412">
+            <name>PLAMBOIS</name>
+        </rtept>
+        <rtept lon="5.52392" lat="45.403632">
+            <name>BONPERTUIS</name>
+        </rtept>
+        <rtept lon="5.513385" lat="45.429982">
+            <name></name>
+        </rtept>
+        <rtept lon="5.548763" lat="45.448102">
+            <name></name>
+        </rtept>
+        <rtept lon="5.505614" lat="45.456282">
+            <name></name>
+        </rtept>
+        <rtept lon="5.476817" lat="45.483233">
+            <name>VERS LA SALLE  DES FÊTES</name>
+        </rtept>
+        <rtept lon="5.473315" lat="45.483282">
+            <name>RUE DU VALLON  DE LAMARTINE</name>
+        </rtept>
+        <rtept lon="5.477676" lat="45.486498">
+            <name>RUE DE BARBENIÈRE</name>
+        </rtept>
+        <rtept lon="5.503725" lat="45.499568">
+            <name></name>
+        </rtept>
+        <rtept lon="5.54089" lat="45.499749">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.546825" lat="45.517518">
+            <name></name>
+        </rtept>
+        <rtept lon="5.51159" lat="45.531826">
+            <name>STADE</name>
+        </rtept>
+        <rtept lon="5.47481" lat="45.511921">
+            <name></name>
+        </rtept>
+        <rtept lon="5.423015" lat="45.499538">
+            <name></name>
+        </rtept>
+        <rtept lon="5.384232" lat="45.49136">
+            <name></name>
+        </rtept>
+        <rtept lon="5.364901" lat="45.473266">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.349893" lat="45.46686">
+            <name></name>
+        </rtept>
+        <rtept lon="5.3143964" lat="45.4699355">
+            <name>GRILLAGE ECOLES</name>
+        </rtept>
+        <rtept lon="5.29042" lat="45.452775">
+            <name></name>
+        </rtept>
+        <rtept lon="5.298714" lat="45.498549">
+            <name></name>
+        </rtept>
+        <rtept lon="5.2675" lat="45.517134">
+            <name>MONTÉE  CROIX CHEVALIER</name>
+        </rtept>
+        <rtept lon="5.25268602371" lat="45.5251655579">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.244103" lat="45.5405086">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.1675377" lat="45.5363495">
+            <name>PLACE  DU 8 MAI 1945, DEVANT  LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.20172977448" lat="45.5149993896">
+            <name>MAIRIE  - ECOLES</name>
+        </rtept>
+        <rtept lon="5.20455312729" lat="45.4868469238">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.18453979492" lat="45.4883003235">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="5.14576" lat="45.501979">
+            <name>RUE DE LA BARRE</name>
+        </rtept>
+        <rtept lon="5.1444136" lat="45.5021293">
+            <name>PLACE  DU 19 MARS 1962</name>
+        </rtept>
+        <rtept lon="5.1439099" lat="45.5001052">
+            <name>SALLE  CLAIRE  DELAGE</name>
+        </rtept>
+        <rtept lon="5.140992" lat="45.501306">
+            <name>RUE HECTOR  BERLIOZ (VERS  LES IFS)</name>
+        </rtept>
+        <rtept lon="5.1392937" lat="45.5033486">
+            <name>HOTEL  DE VILLE</name>
+        </rtept>
+        <rtept lon="5.133389" lat="45.502826">
+            <name>RUE PASTEUR</name>
+        </rtept>
+        <rtept lon="5.104258" lat="45.505065">
+            <name></name>
+        </rtept>
+        <rtept lon="5.079127" lat="45.518144">
+            <name></name>
+        </rtept>
+        <rtept lon="5.070336" lat="45.48858">
+            <name></name>
+        </rtept>
+        <rtept lon="5.103332" lat="45.473849">
+            <name>PLACE  DE LA PAIX</name>
+        </rtept>
+        <rtept lon="5.053" lat="45.469983">
+            <name></name>
+        </rtept>
+        <rtept lon="5.118913" lat="45.399929">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.1191236" lat="45.3996824">
+            <name>PLACE  DE L&#39;EGLISE</name>
+        </rtept>
+        <rtept lon="5.060164" lat="45.386981">
+            <name></name>
+        </rtept>
+        <rtept lon="5.037038" lat="45.383801">
+            <name>GROUPE  SCOLAIRE LA PERLANDE</name>
+        </rtept>
+        <rtept lon="5.029998" lat="45.401043">
+            <name></name>
+        </rtept>
+        <rtept lon="5.004559" lat="45.440233">
+            <name></name>
+        </rtept>
+        <rtept lon="4.9710025" lat="45.4286485">
+            <name>PLACE  DU CHÂTEAU</name>
+        </rtept>
+        <rtept lon="4.92860984802" lat="45.4417991638">
+            <name>PLACE  DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="5.190669" lat="45.38991">
+            <name></name>
+        </rtept>
+    </rte>
+</gpx>

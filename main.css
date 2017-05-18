@@ -2,6 +2,11 @@ section.etape {
     border: solid black 1px;
     display: flex;
     flex-flow: row;
+    background: lightgrey;
+}
+
+section.etape.done {
+    background: lightgreen;
 }
 
 section.etape:nth-child(even) {
@@ -13,4 +18,11 @@ section.etape > img {
 }
 section.etape > section {
     flex: 1 1;
+}
+
+section.etape > input[type="checkbox"] {
+    flex: 0 1 50px;
+    align-self: center;
+    width: 75px;
+    height: 75px;
 }

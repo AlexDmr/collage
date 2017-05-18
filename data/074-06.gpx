@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="panneaux-election.fr">
+    <rte>
+        <rtept lon="6.79792022705" lat="45.8898010254">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.531976" lat="46.072494">
+            <name>les Valignons (parking du Stade)</name>
+        </rtept>
+        <rtept lon="6.532268" lat="46.068102">
+            <name>Avenue des Léchères (au niveau du rond-point)</name>
+        </rtept>
+        <rtept lon="6.529599" lat="46.065905">
+            <name>Rue du Faucigny (vers l’abri bus)</name>
+        </rtept>
+        <rtept lon="6.537338" lat="46.061953">
+            <name>Rue des Fontaines (vers containers du tri sélectif-abri bus)</name>
+        </rtept>
+        <rtept lon="6.537338" lat="46.061953">
+            <name>Place de la Fontaine (face à pharmacie du Bargy)</name>
+        </rtept>
+        <rtept lon="6.524505" lat="46.06726">
+            <name>Rue des Grands champs (face au transformateur)</name>
+        </rtept>
+        <rtept lon="6.520823" lat="46.06483">
+            <name>Route des Grands prés (vers le déhuileur)</name>
+        </rtept>
+        <rtept lon="6.519082" lat="46.061951">
+            <name>Vers l&#39;Eglise( Paking de la Maison paroissiale)</name>
+        </rtept>
+        <rtept lon="6.5261936" lat="46.0602542">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.526138" lat="46.056464">
+            <name>Blanzy (proche abri-bus)</name>
+        </rtept>
+        <rtept lon="6.5352635" lat="46.011207">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.579076" lat="46.043157">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.562124" lat="46.055228">
+            <name>1 avenue de la Colombière, devant l’entreprise Sobecca</name>
+        </rtept>
+        <rtept lon="6.545079" lat="46.057075">
+            <name>Avenue de la Libération, rond point des peupliers</name>
+        </rtept>
+        <rtept lon="6.54908" lat="46.056377">
+            <name>538 avenue du Crozet, en face du bureau de tabac</name>
+        </rtept>
+        <rtept lon="6.549808" lat="46.056801">
+            <name>Maison de l&#39;industrialité, place du Foron</name>
+        </rtept>
+        <rtept lon="6.549183" lat="46.060296">
+            <name>Salle polyvalente, 13 avenue de la Route Blanche</name>
+        </rtept>
+        <rtept lon="6.55098" lat="46.06352">
+            <name>55 avenue du stade, devant le Forum</name>
+        </rtept>
+        <rtept lon="6.543505" lat="46.066654">
+            <name>École Maternelle du Crozet, 257 rue du Collège</name>
+        </rtept>
+        <rtept lon="6.5449163" lat="46.0698205">
+            <name>Avenue des Lacs, rond point de l’autoroute devant l&#39;espace Scionzier</name>
+        </rtept>
+        <rtept lon="6.566603" lat="46.06426">
+            <name>Messy – Rue André Brun</name>
+        </rtept>
+        <rtept lon="6.566603" lat="46.06426">
+            <name>Messy – Rue des Iles</name>
+        </rtept>
+        <rtept lon="6.560824" lat="46.071193">
+            <name>La Sardagne – Av de la Sardagne (dir. Thyez)</name>
+        </rtept>
+        <rtept lon="6.5639035" lat="46.0680095">
+            <name>La Sardagne – Rue Pierre Trappier (vers Centre Commercial)</name>
+        </rtept>
+        <rtept lon="6.5720155" lat="46.0689585">
+            <name>Ewues 2 – Av G.Clémenceau/Esp Culturel L&#39;Atelier</name>
+        </rtept>
+        <rtept lon="6.5710052" lat="46.0695296">
+            <name>Les Villages - Avenue du Noiret (vers Maison Petite Enfance/Ecole du Noiret)</name>
+        </rtept>
+        <rtept lon="6.5710052" lat="46.0695296">
+            <name>Ewues1 – Rue des Grands Champs</name>
+        </rtept>
+        <rtept lon="6.5710052" lat="46.0695296">
+            <name>Ewues 1 – Av G.Clémenceau/ Parking Carrefour</name>
+        </rtept>
+        <rtept lon="6.5807845" lat="46.060288">
+            <name>Centre Ville – Av du Dr Jacques Arnaud</name>
+        </rtept>
+        <rtept lon="6.5807845" lat="46.060288">
+            <name>Les Villages - Avenue des Glières</name>
+        </rtept>
+        <rtept lon="6.5807845" lat="46.060288">
+            <name>Centre Ville – Av Charles Poncet (vers immeuble « Le Panoramique »)</name>
+        </rtept>
+        <rtept lon="6.5807845" lat="46.060288">
+            <name>Centre Ville – Bvd du Chevran (vers imprimerie Monterrrain)</name>
+        </rtept>
+        <rtept lon="6.5807845" lat="46.060288">
+            <name>Centre Ville – Place des Allobroges</name>
+        </rtept>
+        <rtept lon="6.764922" lat="45.925402">
+            <name>Village du Lac, avenue de la Gare</name>
+        </rtept>
+        <rtept lon="6.7902724" lat="45.8909304">
+            <name>«  Les Trabets » (garage communal- route du Nant Jorland)</name>
+        </rtept>
+        <rtept lon="6.8060958" lat="45.8957884">
+            <name>« Saint Antoine » (carrefour de Saint Antoine)</name>
+        </rtept>
+        <rtept lon="6.9249313" lat="45.9032079">
+            <name>Le Tour – Ancienne école</name>
+        </rtept>
+        <rtept lon="6.871867" lat="45.924493">
+            <name>Chamonix – Place du poilu</name>
+        </rtept>
+        <rtept lon="6.9264843" lat="45.9819437">
+            <name>Argentiere - Mairie</name>
+        </rtept>
+        <rtept lon="6.9347609" lat="45.9966976">
+            <name>Montroc – Parking SNCF</name>
+        </rtept>
+        <rtept lon="6.9320854" lat="46.0336106">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.8829389" lat="45.9398032">
+            <name>Les Praz – La poste</name>
+        </rtept>
+        <rtept lon="6.8691848" lat="45.9237177">
+            <name>Chamonix -Hôtel de ville</name>
+        </rtept>
+        <rtept lon="6.8667152" lat="45.91993">
+            <name>Chamonix – Allée du Majestic</name>
+        </rtept>
+        <rtept lon="6.8472857" lat="45.9125671">
+            <name>Les Pélerins – Place des Séracs</name>
+        </rtept>
+        <rtept lon="6.8411729" lat="45.9077151">
+            <name>Les Bossons - La Poste</name>
+        </rtept>
+        <rtept lon="6.826336" lat="45.89622">
+            <name>Route de Taconnaz</name>
+        </rtept>
+        <rtept lon="6.7998978" lat="45.8938462">
+            <name>« Vaudange » (intersection route de Vaudange /chemin du moulin)</name>
+        </rtept>
+        <rtept lon="6.7971075" lat="45.8934558">
+            <name>Gare SNCF</name>
+        </rtept>
+        <rtept lon="6.7982031" lat="45.8918207">
+            <name>Espace OLCA Rue du Mont-Blanc</name>
+        </rtept>
+        <rtept lon="6.79792022705" lat="45.8898010254">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.776681" lat="45.894973">
+            <name>Route des Chavants</name>
+        </rtept>
+        <rtept lon="6.770063" lat="45.926335">
+            <name>Route de la Plaine St Jean</name>
+        </rtept>
+        <rtept lon="6.7646095" lat="45.9316185">
+            <name>Salle communale presbytère</name>
+        </rtept>
+        <rtept lon="6.7072259" lat="45.9392303">
+            <name>Plateau d’Assy, rue de l’Église (mur à côté du cinéma)</name>
+        </rtept>
+        <rtept lon="6.693268" lat="45.9364259">
+            <name>Passy est, route du plateau d’Assy (face école de Bay)</name>
+        </rtept>
+        <rtept lon="6.683494" lat="45.929437">
+            <name>Plateau d&#39;Assy, place docteur Tobe</name>
+        </rtept>
+        <rtept lon="6.685158" lat="45.923123">
+            <name>Chedde-Marlioz, entrée du parking du collège de Varens</name>
+        </rtept>
+        <rtept lon="6.685158" lat="45.923123">
+            <name>Passy est/ouest, avenue Raffort Deruttet (face mairie)</name>
+        </rtept>
+        <rtept lon="6.685158" lat="45.923123">
+            <name>Plateau d&#39;Assy, avenue docteur Jacques Arnaud (en face de la poste)</name>
+        </rtept>
+        <rtept lon="6.6967702" lat="45.9242053">
+            <name>Passy est, avenue Ducoudray (devant école de Passy chef lieu)</name>
+        </rtept>
+        <rtept lon="6.721253" lat="45.927578">
+            <name>Chedde nord, 90 rue Paul Corbin</name>
+        </rtept>
+        <rtept lon="6.7205448" lat="45.9280576">
+            <name>Chedde nord, avenue du Mont-Blanc (face gymnase SGL Carbone)</name>
+        </rtept>
+        <rtept lon="6.713739" lat="45.921133">
+            <name>Chedde centre, 994 avenue de l&#39;Aérodrome (face boulodrome)</name>
+        </rtept>
+        <rtept lon="6.7037849" lat="45.9180931">
+            <name>Marlioz nord , avenue de Marlioz (face école primaire)</name>
+        </rtept>
+        <rtept lon="6.7039765" lat="45.9158294">
+            <name>Marlioz sud, avenue des Grandes Platières (face salle des fêtes Jean Pernot)</name>
+        </rtept>
+        <rtept lon="6.7145901" lat="45.9085241">
+            <name>Les Plagnes, avenue de la Plaine (carrefour avec rue du centre)</name>
+        </rtept>
+        <rtept lon="6.716661" lat="45.908139">
+            <name>Les Plagnes, 830 rue Hector Grangerat (face église des Plagnes)</name>
+        </rtept>
+        <rtept lon="6.71274" lat="45.89157">
+            <name>Gare du T.M.B.</name>
+        </rtept>
+        <rtept lon="6.71274" lat="45.89157">
+            <name>Bureau d’État civil du Fayet</name>
+        </rtept>
+        <rtept lon="6.7097681" lat="45.8890398">
+            <name>Le Nerey</name>
+        </rtept>
+        <rtept lon="6.715898" lat="45.881047">
+            <name>Les Pratz</name>
+        </rtept>
+        <rtept lon="6.7938925" lat="45.8709436">
+            <name>Espace Mont-Blanc</name>
+        </rtept>
+        <rtept lon="6.72706" lat="45.866508">
+            <name>Bionnay</name>
+        </rtept>
+        <rtept lon="6.728663" lat="45.821631">
+            <name>Espace animation, chemin des Écoles</name>
+        </rtept>
+        <rtept lon="6.7267527" lat="45.8226164">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.7238413" lat="45.8527022">
+            <name>Centre de Saint Nicolas de Veroce</name>
+        </rtept>
+        <rtept lon="6.7038612" lat="45.8737478">
+            <name>Le Gollet</name>
+        </rtept>
+        <rtept lon="6.6916175" lat="45.8966956">
+            <name>Les Amérands</name>
+        </rtept>
+        <rtept lon="6.653346" lat="45.911234">
+            <name>Mairie 419 route de Létraz</name>
+        </rtept>
+        <rtept lon="6.648353" lat="45.9135">
+            <name>Place des AC D&#39;AFN</name>
+        </rtept>
+        <rtept lon="6.6419323" lat="45.9116259">
+            <name>Route des Villards</name>
+        </rtept>
+        <rtept lon="6.6419323" lat="45.9116259">
+            <name>Route de Luzier</name>
+        </rtept>
+        <rtept lon="6.6444225" lat="45.9140477">
+            <name>Avenue du Val d&#39;Arve</name>
+        </rtept>
+        <rtept lon="6.6380637" lat="45.9088119">
+            <name>Route de la Moranche</name>
+        </rtept>
+        <rtept lon="6.6380637" lat="45.9088119">
+            <name>Rue du Pont de Balme</name>
+        </rtept>
+        <rtept lon="6.6380637" lat="45.9088119">
+            <name>Route de Chamonix</name>
+        </rtept>
+        <rtept lon="6.6380637" lat="45.9088119">
+            <name>Route de Gravin</name>
+        </rtept>
+        <rtept lon="6.67836" lat="45.881786">
+            <name>Le Bettex</name>
+        </rtept>
+        <rtept lon="6.624787" lat="45.863072">
+            <name>721 route nationale</name>
+        </rtept>
+        <rtept lon="6.619296" lat="45.860365">
+            <name>Palais des Sports - 247 route du Palais des Sports</name>
+        </rtept>
+        <rtept lon="6.6089642" lat="45.8574988">
+            <name>Centre de Secours – 1801 route nationale</name>
+        </rtept>
+        <rtept lon="6.5717015" lat="45.8377825">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.615105" lat="45.85166">
+            <name>478 route de Rochebrune</name>
+        </rtept>
+        <rtept lon="6.617449" lat="45.855899">
+            <name>Services techniques lieu-dit« la Carriere »</name>
+        </rtept>
+        <rtept lon="6.616293" lat="45.855783">
+            <name>Parking de l&#39;Office du Tourisme – 48 rue de la Poste</name>
+        </rtept>
+        <rtept lon="6.6175252" lat="45.8565929">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.617799" lat="45.856817">
+            <name>Mairie – 1 place de l&#39;Eglise</name>
+        </rtept>
+        <rtept lon="6.619797" lat="45.857365">
+            <name>Parking des Alloz – 7 place de la Résistance</name>
+        </rtept>
+        <rtept lon="6.620465" lat="45.857844">
+            <name>125, rue d’Oberstdorf</name>
+        </rtept>
+        <rtept lon="6.630061" lat="45.856071">
+            <name>3000 route Edmond de Rotschild</name>
+        </rtept>
+        <rtept lon="6.64171" lat="45.8968598">
+            <name>1 et Parking des écoles</name>
+        </rtept>
+        <rtept lon="6.6077266" lat="45.9179183">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.626944" lat="45.938516">
+            <name>Rue Saint Joseph Salle Bellegarde</name>
+        </rtept>
+        <rtept lon="6.617568" lat="45.962554">
+            <name>École de la Provence, 2973 route de la Provence</name>
+        </rtept>
+        <rtept lon="6.617899" lat="45.945938">
+            <name>Route de Doran (Carrefour avec route de Sainte Anne)</name>
+        </rtept>
+        <rtept lon="6.628099" lat="45.942832">
+            <name>Route du Rosay Gymnase</name>
+        </rtept>
+        <rtept lon="6.63221" lat="45.941096">
+            <name>Rue de Savoie – Gr scolaire de Boccard</name>
+        </rtept>
+        <rtept lon="6.63179" lat="45.939877">
+            <name>Rue de savoie (chaufferie groupe scolaire de vouilloux)</name>
+        </rtept>
+        <rtept lon="6.62969" lat="45.936373">
+            <name>Quai Hôtel de Ville (Face mairie)</name>
+        </rtept>
+        <rtept lon="6.629637" lat="45.935469">
+            <name>Place Grenette</name>
+        </rtept>
+        <rtept lon="6.631734" lat="45.935669">
+            <name>Carrefour route des Vorziers et route de Blancheville (côté nord-ouest vers la croix)</name>
+        </rtept>
+        <rtept lon="6.63391" lat="45.935276">
+            <name>Place de la Gare</name>
+        </rtept>
+        <rtept lon="6.634557" lat="45.932926">
+            <name>Rue du Dr Bonnefoy – Gr scolaire Jules Ferry</name>
+        </rtept>
+        <rtept lon="6.644625" lat="45.93244">
+            <name>Avenue Albert Gruffat (salle Léon Curral)</name>
+        </rtept>
+        <rtept lon="6.635821" lat="45.937528">
+            <name>Avenue de Saint Martin (face ancienne Poste)</name>
+        </rtept>
+        <rtept lon="6.643642" lat="45.940969">
+            <name>Parking de Saint Martin</name>
+        </rtept>
+        <rtept lon="6.6442759" lat="45.9404901">
+            <name>Rue de Saint Martin – Groupe scolaire St Martin</name>
+        </rtept>
+        <rtept lon="6.634019" lat="45.982994">
+            <name>Route de Luzier</name>
+        </rtept>
+        <rtept lon="6.620965" lat="46.00576">
+            <name>Route de Gravin</name>
+        </rtept>
+        <rtept lon="6.613076" lat="45.99745">
+            <name>Route de la Moranche</name>
+        </rtept>
+        <rtept lon="6.623938" lat="45.991965">
+            <name>Mairie 419 route de Létraz</name>
+        </rtept>
+        <rtept lon="6.614418" lat="46.012043">
+            <name>Route des Villards</name>
+        </rtept>
+        <rtept lon="6.611396" lat="46.029281">
+            <name>Route de Chamonix</name>
+        </rtept>
+        <rtept lon="6.619819" lat="46.015143">
+            <name>Avenue du Val d&#39;Arve</name>
+        </rtept>
+        <rtept lon="6.619303" lat="46.021705">
+            <name>Place des AC D&#39;AFN</name>
+        </rtept>
+        <rtept lon="6.61218" lat="46.041393">
+            <name>Rue du Pont de Balme</name>
+        </rtept>
+        <rtept lon="6.631059" lat="46.042963">
+            <name>Flaine : au syndicat intercommunal de Flaine à Flaine Forum</name>
+        </rtept>
+        <rtept lon="6.634379" lat="46.04171">
+            <name>Mairie – 64 route de Frévuard</name>
+        </rtept>
+        <rtept lon="6.633034" lat="46.027216">
+            <name>salle de vote – 209 route du Mont-Favy</name>
+        </rtept>
+        <rtept lon="6.638695" lat="46.025802">
+            <name>Office du tourisme – 9 place de l&#39;Ambiance</name>
+        </rtept>
+        <rtept lon="6.629692" lat="46.056689">
+            <name>Ancienne mairie Arâches la Frasse – 1905 route du Sappey</name>
+        </rtept>
+        <rtept lon="6.61618804932" lat="46.0717544556">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.5867109" lat="46.0988414">
+            <name>Salle des fêtes</name>
+        </rtept>
+        <rtept lon="6.590627" lat="46.103917">
+            <name>Devant la mairie, avenue des Thézières</name>
+        </rtept>
+        <rtept lon="6.591254" lat="46.107331">
+            <name>Devant l’office de tourisme, immeuble le Florian au Praz de Lys</name>
+        </rtept>
+        <rtept lon="6.52313613892" lat="46.1336174011">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.6696683" lat="46.1588043">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.6727215" lat="46.161742">
+            <name>Salle des Fêtes « la Colombiere »</name>
+        </rtept>
+        <rtept lon="6.668009" lat="46.187704">
+            <name>Place de l&#39;église</name>
+        </rtept>
+        <rtept lon="6.675607" lat="46.096237">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.775578022" lat="46.0552368164">
+            <name>Avenue de la Gare</name>
+        </rtept>
+        <rtept lon="6.72795" lat="46.083688">
+            <name>Place des dents blanches – salle du foyer</name>
+        </rtept>
+        <rtept lon="6.6698035" lat="46.081998">
+            <name>Chef-lieu</name>
+        </rtept>
+        <rtept lon="6.634928" lat="46.093187">
+            <name>Chef-lieu</name>
+        </rtept>
+        <rtept lon="6.582144" lat="46.086887">
+            <name>Chef-lieu</name>
+        </rtept>
+        <rtept lon="6.79792022705" lat="45.8898010254">
+            <name>Mairie</name>
+        </rtept>
+    </rte>
+</gpx>

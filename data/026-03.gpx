@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="panneaux-election.fr">
+    <rte>
+        <rtept lon="5.344819" lat="44.559403">
+            <name>Le Village</name>
+        </rtept>
+        <rtept lon="5.277007" lat="44.277389">
+            <name>Allée des Platanes</name>
+        </rtept>
+        <rtept lon="5.2747134" lat="44.2767748">
+            <name>Devant la Mairie – Boulevard Aristide Briand</name>
+        </rtept>
+        <rtept lon="5.270389" lat="44.272928">
+            <name>Place du Grand Jardin</name>
+        </rtept>
+        <rtept lon="5.2111529" lat="44.3011908">
+            <name>Mairie – Quartier Les Brussets</name>
+        </rtept>
+        <rtept lon="5.18922805786" lat="44.3143997192">
+            <name>Mairie – Quartier Mollière</name>
+        </rtept>
+        <rtept lon="5.1722202301" lat="44.2784004211">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.18837976456" lat="44.2350997925">
+            <name>Place de Verdun</name>
+        </rtept>
+        <rtept lon="5.190136" lat="44.237595">
+            <name>Porte Major</name>
+        </rtept>
+        <rtept lon="5.216344" lat="44.245181">
+            <name>Devant la Mairie – 53, rue du Relais de Poste</name>
+        </rtept>
+        <rtept lon="5.2283171" lat="44.2520396">
+            <name>Devant la Mairie – Quartier La Plaine</name>
+        </rtept>
+        <rtept lon="5.2801861" lat="44.2393686">
+            <name>Mairie – Le Village</name>
+        </rtept>
+        <rtept lon="5.317329" lat="44.229579">
+            <name>Place des Allègres</name>
+        </rtept>
+        <rtept lon="5.3121" lat="44.27705">
+            <name>Place de la Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.392173" lat="44.254461">
+            <name>Entrée du Village – Sous Mairie</name>
+        </rtept>
+        <rtept lon="5.245176" lat="44.336444">
+            <name>Tableaux d&#39;Affichage Mairie – Place du Bicentenaire</name>
+        </rtept>
+        <rtept lon="5.283252" lat="44.344147">
+            <name>Place de la Mairie – 80, allée des Platanes</name>
+        </rtept>
+        <rtept lon="5.351163" lat="44.337057">
+            <name>Le village</name>
+        </rtept>
+        <rtept lon="5.35298681259" lat="44.352519989">
+            <name>Place jouxtant la Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.31668901443" lat="44.3690643311">
+            <name>Rue de la Mairie (Le Long de la Mairie) – Le village</name>
+        </rtept>
+        <rtept lon="5.268226" lat="44.370314">
+            <name>Place du Village</name>
+        </rtept>
+        <rtept lon="5.234186" lat="44.385087">
+            <name>8, place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.223526" lat="44.357077">
+            <name>Place du village à gauche du Lavoir</name>
+        </rtept>
+        <rtept lon="5.1907351" lat="44.3788535">
+            <name>Place du Pont</name>
+        </rtept>
+        <rtept lon="5.17735290527" lat="44.3357467651">
+            <name>Tableaux Affichage Mairie – Les Gleizes</name>
+        </rtept>
+        <rtept lon="5.1265997" lat="44.301425">
+            <name>Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.09926986694" lat="44.3109016418">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.0611168" lat="44.333528">
+            <name>Salle Polyvalente – Traverse Butavent</name>
+        </rtept>
+        <rtept lon="5.00904989243" lat="44.2986984253">
+            <name>Sur le Parvis de la Mairie</name>
+        </rtept>
+        <rtept lon="4.929928" lat="44.286083">
+            <name>Place Raoul Couston</name>
+        </rtept>
+        <rtept lon="4.929497" lat="44.286027">
+            <name>Place Le Cours</name>
+        </rtept>
+        <rtept lon="4.926237" lat="44.28743">
+            <name>Salle des Fêtes – Route de Bouchet</name>
+        </rtept>
+        <rtept lon="4.82986" lat="44.247646">
+            <name>Place de La Fontaine</name>
+        </rtept>
+        <rtept lon="4.841156" lat="44.288061">
+            <name>Place du Champ de Mars</name>
+        </rtept>
+        <rtept lon="4.8401295" lat="44.287426">
+            <name>Place des Écoles – Chemin de la Verdière</name>
+        </rtept>
+        <rtept lon="4.873585" lat="44.297386">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.865887" lat="44.337826">
+            <name>Place du Tricastin</name>
+        </rtept>
+        <rtept lon="4.860235" lat="44.361443">
+            <name>Mairie – 4, place Frédéric Mistral</name>
+        </rtept>
+        <rtept lon="4.834557" lat="44.348321">
+            <name>110, rue de la Lance</name>
+        </rtept>
+        <rtept lon="4.790741" lat="44.33179">
+            <name>2, place du Colonel Bertrand</name>
+        </rtept>
+        <rtept lon="4.769143" lat="44.34617">
+            <name>Avenue Louis Girard</name>
+        </rtept>
+        <rtept lon="4.7702035" lat="44.3472491">
+            <name>Cité 3</name>
+        </rtept>
+        <rtept lon="4.770513" lat="44.348637">
+            <name>Route de Valaurie</name>
+        </rtept>
+        <rtept lon="4.766552" lat="44.347153">
+            <name>Place de la Libération</name>
+        </rtept>
+        <rtept lon="4.764969" lat="44.341648">
+            <name>Chemin de la Machinette</name>
+        </rtept>
+        <rtept lon="4.762618" lat="44.346657">
+            <name>Avenue Henri Becquerel</name>
+        </rtept>
+        <rtept lon="4.759976" lat="44.347803">
+            <name>Boulevard Saint-Vincent</name>
+        </rtept>
+        <rtept lon="4.763918" lat="44.345755">
+            <name>Place du 14 Juillet</name>
+        </rtept>
+        <rtept lon="4.768282" lat="44.349151">
+            <name>Place Castellane</name>
+        </rtept>
+        <rtept lon="4.767055" lat="44.351163">
+            <name>Rond-Point Gounod</name>
+        </rtept>
+        <rtept lon="4.773" lat="44.350953">
+            <name>Avenue Frédéric Mistral</name>
+        </rtept>
+        <rtept lon="4.807389" lat="44.371222">
+            <name>Place Bertrand de Clansayes</name>
+        </rtept>
+        <rtept lon="4.81272" lat="44.421479">
+            <name>Montée de la Mairie</name>
+        </rtept>
+        <rtept lon="4.80245399475" lat="44.4304618835">
+            <name>Parking Mairie</name>
+        </rtept>
+        <rtept lon="4.853034" lat="44.47707">
+            <name>Le village</name>
+        </rtept>
+        <rtept lon="4.844154" lat="44.444061">
+            <name>Rue de l’Église – Face à la Mairie</name>
+        </rtept>
+        <rtept lon="4.835563" lat="44.403688">
+            <name>Place de la Mairie – Le village</name>
+        </rtept>
+        <rtept lon="4.882617" lat="44.397244">
+            <name>Grille de l&#39;École – Place Xavier Sylvestre</name>
+        </rtept>
+        <rtept lon="4.8958429" lat="44.3911319">
+            <name>Parking – Place devant la Mairie – Rue de la Mairie</name>
+        </rtept>
+        <rtept lon="4.904236" lat="44.418483">
+            <name>Allée du 11 Novembre</name>
+        </rtept>
+        <rtept lon="4.934443" lat="44.451153">
+            <name>Route des Lavandes</name>
+        </rtept>
+        <rtept lon="4.935343" lat="44.493357">
+            <name>Place Pontillac</name>
+        </rtept>
+        <rtept lon="4.982774" lat="44.44498">
+            <name>Salle des Fêtes – Route de Grillon</name>
+        </rtept>
+        <rtept lon="5.028827" lat="44.476415">
+            <name>5, place de l’Église</name>
+        </rtept>
+        <rtept lon="5.02428007126" lat="44.4406013489">
+            <name>Mairie – Quartier Pradous</name>
+        </rtept>
+        <rtept lon="5.0493328" lat="44.4285525">
+            <name>Mur de la Mairie – Avenue André Chauvin</name>
+        </rtept>
+        <rtept lon="5.0620439" lat="44.4188282">
+            <name>Parking des Auches</name>
+        </rtept>
+        <rtept lon="5.04445" lat="44.397453">
+            <name>4, place de la Mairie – Parking</name>
+        </rtept>
+        <rtept lon="5.098243" lat="44.39077">
+            <name>Face Mairie – 24, rue du Bout du Monde</name>
+        </rtept>
+        <rtept lon="5.13084" lat="44.36549">
+            <name>Chemin de la Mochatte</name>
+        </rtept>
+        <rtept lon="5.132677" lat="44.3602">
+            <name>Place Olivier de Serres</name>
+        </rtept>
+        <rtept lon="5.124296" lat="44.356616">
+            <name>HLM de Sauve</name>
+        </rtept>
+        <rtept lon="5.1356265" lat="44.3562341">
+            <name>Maison de Pays – Promenade de la Digue</name>
+        </rtept>
+        <rtept lon="5.13899" lat="44.360368">
+            <name>Place de la Libération Sud</name>
+        </rtept>
+        <rtept lon="5.1400705" lat="44.3619566">
+            <name>Hôtel de Ville – Place Buffaven</name>
+        </rtept>
+        <rtept lon="5.140215" lat="44.362098">
+            <name>Rue Albin Villet</name>
+        </rtept>
+        <rtept lon="5.139563" lat="44.360542">
+            <name>Groupe Scolaire de Sauve – Chemin des Tuileries</name>
+        </rtept>
+        <rtept lon="5.141261" lat="44.361061">
+            <name>Ancienne Mairie – Place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.145738" lat="44.36112">
+            <name>Rue de la Maladrerie</name>
+        </rtept>
+        <rtept lon="5.167074" lat="44.377417">
+            <name>125, chemin du Plachet</name>
+        </rtept>
+        <rtept lon="5.1997942" lat="44.406836">
+            <name>Face à la Mairie – Route des Caritat</name>
+        </rtept>
+        <rtept lon="5.21761608124" lat="44.4266242981">
+            <name>Parking devant la Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.226391" lat="44.417552">
+            <name>Le Village – Façade Église sur RD 570</name>
+        </rtept>
+        <rtept lon="5.267217" lat="44.41382">
+            <name>Le Long de la RD 205 au carrefour de RD94 dans village</name>
+        </rtept>
+        <rtept lon="5.299971" lat="44.401749">
+            <name>Rue de la mairie</name>
+        </rtept>
+        <rtept lon="5.286945" lat="44.442079">
+            <name>Entrée du Village – CD 567</name>
+        </rtept>
+        <rtept lon="5.318076" lat="44.426717">
+            <name>Parking à l&#39;Entrée du Village</name>
+        </rtept>
+        <rtept lon="5.356276" lat="44.414438">
+            <name>Place du Champ de Mars</name>
+        </rtept>
+        <rtept lon="5.38667392731" lat="44.4435844421">
+            <name>Devant la Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.367453" lat="44.458874">
+            <name>Le village – RD 61</name>
+        </rtept>
+        <rtept lon="5.380907" lat="44.485836">
+            <name>Mairie – Place des Écoles</name>
+        </rtept>
+        <rtept lon="5.41520023346" lat="44.4732017517">
+            <name>Mairie – Route de Die – La Bayette</name>
+        </rtept>
+        <rtept lon="5.452114" lat="44.446264">
+            <name>Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.451618" lat="44.470685">
+            <name>Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.47675991058" lat="44.513999939">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.43787288666" lat="44.5066070557">
+            <name>Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.42779016495" lat="44.5378990173">
+            <name>Devant la Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.40417" lat="44.572075">
+            <name>Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.42006" lat="44.599828">
+            <name>Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.451249" lat="44.616057">
+            <name>Place des Horts</name>
+        </rtept>
+        <rtept lon="5.45296001434" lat="44.6156005859">
+            <name>Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.45296" lat="44.6156">
+            <name>Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.45296001434" lat="44.6156005859">
+            <name>Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.45296001434" lat="44.6156005859">
+            <name>Mairie – 5, place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.510212" lat="44.538244">
+            <name>Ancien Lavoir – Le village</name>
+        </rtept>
+        <rtept lon="5.638069" lat="44.514307">
+            <name>Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.594458" lat="44.514092">
+            <name>Le Village</name>
+        </rtept>
+        <rtept lon="5.578132" lat="44.527709">
+            <name>Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.55966806412" lat="44.5719490051">
+            <name>Devant la Mairie – RD 93</name>
+        </rtept>
+        <rtept lon="5.56860208511" lat="44.5909805298">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.52766990662" lat="44.5969009399">
+            <name>Mairie – Place du Charel</name>
+        </rtept>
+        <rtept lon="5.52291488647" lat="44.6270828247">
+            <name>Église – Le village</name>
+        </rtept>
+        <rtept lon="5.5654759407" lat="44.6484451294">
+            <name>Mairie – Place du Village</name>
+        </rtept>
+        <rtept lon="5.597926" lat="44.688051">
+            <name>Clôture de l&#39;École – Le village</name>
+        </rtept>
+        <rtept lon="5.68180894852" lat="44.7011451721">
+            <name>Rue desservant la Mairie</name>
+        </rtept>
+        <rtept lon="5.55373001099" lat="44.7372016907">
+            <name>Place de la Mairie Les Nonières</name>
+        </rtept>
+        <rtept lon="5.485625" lat="44.694378">
+            <name>Place Pierre Dévoluy</name>
+        </rtept>
+        <rtept lon="5.485401" lat="44.693655">
+            <name>Rue du Ruisseau de Lagier</name>
+        </rtept>
+        <rtept lon="5.4820768" lat="44.6939778">
+            <name>Champ de Foire</name>
+        </rtept>
+        <rtept lon="5.4326745" lat="44.690773">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.43067884445" lat="44.7133026123">
+            <name>Bâtiment de la Mairie – Devant la Cour</name>
+        </rtept>
+        <rtept lon="5.3797851" lat="44.6760684">
+            <name>Mur de la Grange à côté de la Mairie – Rue de la Mairie</name>
+        </rtept>
+        <rtept lon="5.37044095993" lat="44.6598472595">
+            <name>Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.4020709" lat="44.7125923">
+            <name>Mur Ancienne Mairie – Pont de Quart</name>
+        </rtept>
+        <rtept lon="5.376383" lat="44.750776">
+            <name>Avenue de la Division du Texas</name>
+        </rtept>
+        <rtept lon="5.409964" lat="44.781817">
+            <name>Le village</name>
+        </rtept>
+        <rtept lon="5.371817" lat="44.753194">
+            <name>Place du Mazel</name>
+        </rtept>
+        <rtept lon="5.36880016327" lat="44.7527999878">
+            <name>Mairie – Rue Félix Germain</name>
+        </rtept>
+        <rtept lon="5.369372" lat="44.753016">
+            <name>Square du Souvenir Français</name>
+        </rtept>
+        <rtept lon="5.370281" lat="44.751467">
+            <name>Place de l&#39;Évêché</name>
+        </rtept>
+        <rtept lon="5.369524" lat="44.751175">
+            <name>Boulevard du Ballon</name>
+        </rtept>
+        <rtept lon="5.36977720261" lat="44.7589263916">
+            <name>Mur de la Mairie – Les Combes</name>
+        </rtept>
+        <rtept lon="5.367868" lat="44.757746">
+            <name>Rue Maurice Faure</name>
+        </rtept>
+        <rtept lon="5.365744" lat="44.757345">
+            <name>Avenue Sadi Carnot</name>
+        </rtept>
+        <rtept lon="5.33331012726" lat="44.8023986816">
+            <name>Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.292429" lat="44.837408">
+            <name>Place du Village – Parking</name>
+        </rtept>
+        <rtept lon="5.26779985428" lat="44.8101997375">
+            <name>Mairie – Hameau St Étienne</name>
+        </rtept>
+        <rtept lon="5.2589058876" lat="44.7899589539">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.281703" lat="44.769172">
+            <name>Le village</name>
+        </rtept>
+        <rtept lon="5.316303" lat="44.786922">
+            <name>Place du Village</name>
+        </rtept>
+        <rtept lon="5.38359" lat="44.798786">
+            <name>Le village</name>
+        </rtept>
+        <rtept lon="5.37000989914" lat="44.8963012695">
+            <name>Mairie – Rond-Point des 5 Communes</name>
+        </rtept>
+        <rtept lon="5.4160181" lat="44.9683047">
+            <name>Place de l&#39;Hôtel de Ville</name>
+        </rtept>
+        <rtept lon="5.4306922" lat="44.9355102">
+            <name>Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.4428861" lat="45.021504">
+            <name>Place du Tilleul</name>
+        </rtept>
+        <rtept lon="5.4497885" lat="45.0510902">
+            <name>Devant le Jeu de Boules – Le village</name>
+        </rtept>
+        <rtept lon="5.341169" lat="45.047258">
+            <name>Le village</name>
+        </rtept>
+        <rtept lon="5.326121" lat="45.027952">
+            <name>Place de la Mairie (Chemin Salle des Fêtes)</name>
+        </rtept>
+        <rtept lon="5.326121" lat="45.027952">
+            <name>Place de l’Église – La Cure</name>
+        </rtept>
+        <rtept lon="5.296036" lat="45.046984">
+            <name>Parking Mairie – 310, route du Vercors</name>
+        </rtept>
+        <rtept lon="5.266335" lat="45.050607">
+            <name>Parking de la Mairie – 1, place de l’Église</name>
+        </rtept>
+        <rtept lon="5.2494064" lat="45.0595384">
+            <name>Parking de la Mairie</name>
+        </rtept>
+        <rtept lon="5.263547" lat="45.027936">
+            <name>Les Robins</name>
+        </rtept>
+        <rtept lon="5.291181" lat="45.018001">
+            <name>Rue Pasteur – Restaurant Scolaire</name>
+        </rtept>
+        <rtept lon="5.291908" lat="45.026307">
+            <name>Quartier des Chaux</name>
+        </rtept>
+        <rtept lon="5.2916144" lat="45.0168684">
+            <name>Mairie – Place de l&#39;Hôtel de Ville</name>
+        </rtept>
+        <rtept lon="5.291613" lat="45.015506">
+            <name>Parking – Rue Jean Jaurès</name>
+        </rtept>
+        <rtept lon="5.2889723" lat="44.9898127">
+            <name>Place du Village</name>
+        </rtept>
+        <rtept lon="5.26667022705" lat="44.9333000183">
+            <name>Mairie – 1, place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.272035" lat="44.986313">
+            <name>1, place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.274201" lat="44.998388">
+            <name>Le village</name>
+        </rtept>
+        <rtept lon="5.1925011" lat="44.9104321">
+            <name>Parking à l&#39;Entrée du Village</name>
+        </rtept>
+        <rtept lon="5.18214988708" lat="44.8866004944">
+            <name>Devant la Mairie – Hameau de La Vacherie</name>
+        </rtept>
+        <rtept lon="5.16526985168" lat="44.8129348755">
+            <name>Place de la Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.22198486328" lat="44.8705558777">
+            <name>Mairie – Place Patrick Duc</name>
+        </rtept>
+        <rtept lon="5.195493" lat="44.789535">
+            <name>Place des Faucons</name>
+        </rtept>
+        <rtept lon="5.14152" lat="44.777469">
+            <name>Grand Rue</name>
+        </rtept>
+        <rtept lon="5.14193820953" lat="44.7478027344">
+            <name>Le village – En Mairie</name>
+        </rtept>
+        <rtept lon="5.1074036" lat="44.7266416">
+            <name>Hameau des Berthalais sur la Place</name>
+        </rtept>
+        <rtept lon="5.1107506" lat="44.7662807">
+            <name>Parking du Monument aux Morts – Les Jaux</name>
+        </rtept>
+        <rtept lon="5.07921981812" lat="44.7644004822">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.0756" lat="44.7603">
+            <name>Mairie – Quartier Chamblard</name>
+        </rtept>
+        <rtept lon="5.0630007" lat="44.7205155">
+            <name>Rond-Point « La Voie des Alpes »</name>
+        </rtept>
+        <rtept lon="5.0630007" lat="44.7205155">
+            <name>Rond-Point Lembacel (Via Augusta)</name>
+        </rtept>
+        <rtept lon="5.056302" lat="44.716208">
+            <name>Salle des Fêtes – Avenue Amédée Terrail</name>
+        </rtept>
+        <rtept lon="5.056302" lat="44.716208">
+            <name>Hôtel de Ville</name>
+        </rtept>
+        <rtept lon="5.055786" lat="44.715149">
+            <name>Salle Gaston Buis – Rue Gresse</name>
+        </rtept>
+        <rtept lon="5.057403" lat="44.712826">
+            <name>Parking Perrenot – Route de la Gare</name>
+        </rtept>
+        <rtept lon="5.057158" lat="44.715278">
+            <name>Place de la Poste</name>
+        </rtept>
+        <rtept lon="5.058664" lat="44.718868">
+            <name>Lotissement Saint-François (3 Croix)</name>
+        </rtept>
+        <rtept lon="5.030114" lat="44.730489">
+            <name>Chemin du Donjon – Angle de la Rue Georges Bovet</name>
+        </rtept>
+        <rtept lon="5.032285" lat="44.725433">
+            <name>Rue Colonel Oddon – Angle de l&#39;Avenue des 3 Becs</name>
+        </rtept>
+        <rtept lon="5.025893" lat="44.727723">
+            <name>École Maternelle Claire de Chandeneux – Rue Claire de Chandeneux</name>
+        </rtept>
+        <rtept lon="5.024612" lat="44.727837">
+            <name>Ex-École Dumont – Rue Aristide Dumont</name>
+        </rtept>
+        <rtept lon="5.022978" lat="44.728444">
+            <name>Place Général de Gaulle</name>
+        </rtept>
+        <rtept lon="5.020553" lat="44.72649">
+            <name>Place de la Liberté – Mur du Collège Saint Louis</name>
+        </rtept>
+        <rtept lon="5.024506" lat="44.725456">
+            <name>Espace Soubeyran</name>
+        </rtept>
+        <rtept lon="5.0157955" lat="44.731453">
+            <name>École Brassens – Rue Jean Jaurès</name>
+        </rtept>
+        <rtept lon="5.014151" lat="44.735971">
+            <name>Avenue des Arbres Écrits – Entrée du Cimetière</name>
+        </rtept>
+        <rtept lon="5.013025" lat="44.732965">
+            <name>Lycée Armorin – Avenue Charles Armorin</name>
+        </rtept>
+        <rtept lon="4.9891365" lat="44.7583425">
+            <name>Salle des Fêtes</name>
+        </rtept>
+        <rtept lon="5.032761" lat="44.767774">
+            <name>30, place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.040083" lat="44.804599">
+            <name>Face Nord de la Salle d&#39;Animation Rurale – Le village</name>
+        </rtept>
+        <rtept lon="5.039343" lat="44.8233248">
+            <name>Place de la Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.05124902725" lat="44.8675689697">
+            <name>Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.076777" lat="44.873268">
+            <name>RD 154 de Chabeuil</name>
+        </rtept>
+        <rtept lon="5.09596" lat="44.899328">
+            <name>Place de la Fontaine</name>
+        </rtept>
+        <rtept lon="5.1062" lat="44.91317">
+            <name>14, Grande Rue</name>
+        </rtept>
+        <rtept lon="5.055198" lat="44.909231">
+            <name>Les Faucons – Salle Communale</name>
+        </rtept>
+        <rtept lon="5.029395" lat="44.93755">
+            <name>Devant La Poste – 11, avenue du Vercors</name>
+        </rtept>
+        <rtept lon="5.024983" lat="44.935505">
+            <name>Route de Valence RD 119 – Rond-Point Saint James</name>
+        </rtept>
+        <rtept lon="4.984056" lat="44.948219">
+            <name>Place Émile Juge</name>
+        </rtept>
+        <rtept lon="4.981144" lat="44.918109">
+            <name>Hameau « Les Bérards » – Allée des Papillons</name>
+        </rtept>
+        <rtept lon="4.948266" lat="44.904065">
+            <name>École – Place Émile Courthial</name>
+        </rtept>
+        <rtept lon="4.955655" lat="44.900959">
+            <name>Mairie – Place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.9571808" lat="44.900834">
+            <name>Place de la Poste</name>
+        </rtept>
+        <rtept lon="5.012239" lat="44.896131">
+            <name>Entrée des Stades – Les Flandennes</name>
+        </rtept>
+        <rtept lon="5.0171838" lat="44.8971613">
+            <name>Espace Mosaïque – Rue du 19 Mars 1962</name>
+        </rtept>
+        <rtept lon="5.02004" lat="44.899667">
+            <name>École Gustave André – Rue des Écoles</name>
+        </rtept>
+        <rtept lon="5.0222824" lat="44.9029582">
+            <name>Centre Culturel – Chemin Pré aux Dames</name>
+        </rtept>
+        <rtept lon="5.01930999756" lat="44.9000015259">
+            <name>Mairie – Quai de la République</name>
+        </rtept>
+        <rtept lon="5.0194221" lat="44.900838">
+            <name>Piscine – Place du Chaffal</name>
+        </rtept>
+        <rtept lon="5.0154359" lat="44.9014187">
+            <name>Parking Mutuelle – Route de Valence</name>
+        </rtept>
+        <rtept lon="5.010285" lat="44.899411">
+            <name>Hameau de Parlanges – Chemin des Moissons</name>
+        </rtept>
+        <rtept lon="4.978635" lat="44.832615">
+            <name>Avenue du Vercors</name>
+        </rtept>
+        <rtept lon="4.974302" lat="44.834057">
+            <name>Place de l&#39;Europe</name>
+        </rtept>
+        <rtept lon="4.978681" lat="44.80446">
+            <name>1, place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.940853" lat="44.796759">
+            <name>Place de l’Église</name>
+        </rtept>
+        <rtept lon="4.907141" lat="44.794535">
+            <name>2, allée Notre Dame des Champs</name>
+        </rtept>
+        <rtept lon="4.913228" lat="44.765572">
+            <name>Avenue Henri Seguin</name>
+        </rtept>
+        <rtept lon="4.9160208" lat="44.7646236">
+            <name>Salle Polyvalente – La Butte – Route de Crest</name>
+        </rtept>
+        <rtept lon="4.924104" lat="44.731853">
+            <name>Place du Champ De Mars</name>
+        </rtept>
+        <rtept lon="4.943222" lat="44.724427">
+            <name>Montée du Village</name>
+        </rtept>
+        <rtept lon="5.001799" lat="44.724696">
+            <name>École Maternelle Mazorel – Chemin du Ruisseau</name>
+        </rtept>
+        <rtept lon="5.0082528" lat="44.7272612">
+            <name>École Royannez – Cours Joubernon</name>
+        </rtept>
+        <rtept lon="5.004881" lat="44.704375">
+            <name>Mur Enceinte Jardin de l&#39;École en bordure RD26 Lambris</name>
+        </rtept>
+        <rtept lon="4.965263" lat="44.681652">
+            <name>Le village</name>
+        </rtept>
+        <rtept lon="4.93953990936" lat="44.682800293">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.986343" lat="44.659078">
+            <name>Place de la Mairie – 2870, route des Pignes</name>
+        </rtept>
+        <rtept lon="4.973353" lat="44.627212">
+            <name>Devanture de la Mairie – 1, place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.012107" lat="44.60257">
+            <name>Rue René Cassin – Le village</name>
+        </rtept>
+        <rtept lon="5.02586078644" lat="44.6362380981">
+            <name>Mairie – Quartier Talon</name>
+        </rtept>
+        <rtept lon="5.06383" lat="44.646413">
+            <name>Devant la Mairie – Route de la Forêt</name>
+        </rtept>
+        <rtept lon="5.08612298965" lat="44.6242752075">
+            <name>Centre du Village – Rue de la Mairie</name>
+        </rtept>
+        <rtept lon="5.12568092346" lat="44.6197128296">
+            <name>Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.10307121277" lat="44.6016731262">
+            <name>Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.08795499802" lat="44.5781669617">
+            <name>Mairie – Quartier Le Banchet</name>
+        </rtept>
+        <rtept lon="5.0525529" lat="44.5838778">
+            <name>Parking Mairie – Le Village</name>
+        </rtept>
+        <rtept lon="5.033029" lat="44.579837">
+            <name>Cour de l&#39;Ancienne École – Le village</name>
+        </rtept>
+        <rtept lon="5.0118" lat="44.564727">
+            <name>Parking de la Mairie – 2, place de la Mairie</name>
+        </rtept>
+        <rtept lon="4.966388" lat="44.566571">
+            <name>Place Milon-Brachet</name>
+        </rtept>
+        <rtept lon="4.935264" lat="44.545363">
+            <name>Avenue Jean Jaurès</name>
+        </rtept>
+        <rtept lon="4.8922388" lat="44.5524466">
+            <name>Espace Valdaine</name>
+        </rtept>
+        <rtept lon="4.960336" lat="44.541445">
+            <name>Mairie – 3, route de Salettes</name>
+        </rtept>
+        <rtept lon="5.009063" lat="44.530318">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.0169147" lat="44.5366312">
+            <name>Parking du Camping – Quartier Lorette</name>
+        </rtept>
+        <rtept lon="5.06363" lat="44.523749">
+            <name>Place de La Gare</name>
+        </rtept>
+        <rtept lon="5.0652377" lat="44.5239736">
+            <name>Devant l&#39;Espace Culturel – Rue Justin Jouve</name>
+        </rtept>
+        <rtept lon="5.070888" lat="44.520803">
+            <name>Mur des HLM des Reymonds</name>
+        </rtept>
+        <rtept lon="5.09691381454" lat="44.5000495911">
+            <name>Mairie – Hameau La Paillette</name>
+        </rtept>
+        <rtept lon="5.1196036" lat="44.4640273">
+            <name>Le Moulin</name>
+        </rtept>
+        <rtept lon="5.193071" lat="44.462781">
+            <name>Mairie – Chemin du Cimetière</name>
+        </rtept>
+        <rtept lon="5.216725" lat="44.481246">
+            <name>L&#39;Estellon</name>
+        </rtept>
+        <rtept lon="5.26878499985" lat="44.5077171326">
+            <name>Devant la Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.21667194366" lat="44.5160064697">
+            <name>Mairie – Place du Champs de Mars</name>
+        </rtept>
+        <rtept lon="5.17375612259" lat="44.5533714294">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.1514939" lat="44.521591">
+            <name>Mairie – 12, rue Étienne de Vesc</name>
+        </rtept>
+        <rtept lon="5.135434" lat="44.550634">
+            <name>Salle du Conseil Municipal – Quartier La Tour</name>
+        </rtept>
+        <rtept lon="5.120123" lat="44.557607">
+            <name>Place de la Liberté</name>
+        </rtept>
+        <rtept lon="5.124522" lat="44.582385">
+            <name>Route de Nyons (Piscine)</name>
+        </rtept>
+        <rtept lon="5.133388" lat="44.5855531">
+            <name>Place du Grand Quai</name>
+        </rtept>
+        <rtept lon="5.20008522229" lat="44.5822926415071">
+            <name>Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.16505002975" lat="44.5960006714">
+            <name>Mairie – Quartier Guillons</name>
+        </rtept>
+        <rtept lon="5.215873" lat="44.631642">
+            <name>Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.22379016876" lat="44.6577072144">
+            <name>Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.1990411" lat="44.69613">
+            <name>Place du Prieuré</name>
+        </rtept>
+        <rtept lon="5.2162283" lat="44.7410211">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.196997" lat="44.697736">
+            <name>Place Maurice Faure</name>
+        </rtept>
+        <rtept lon="5.187998" lat="44.696164">
+            <name>Avenue Georges Coupois</name>
+        </rtept>
+        <rtept lon="5.09096" lat="44.709987">
+            <name>Carrefour du Quartier de Bellevue – Parking</name>
+        </rtept>
+        <rtept lon="5.09769010544" lat="44.6994018555">
+            <name>Place de la Fontaine</name>
+        </rtept>
+        <rtept lon="5.13764286041" lat="44.6801338196">
+            <name>Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.1565299" lat="44.6808014">
+            <name>Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.23396492004" lat="44.6827735901">
+            <name>Place de la Mairie – Quartier Condamine</name>
+        </rtept>
+        <rtept lon="5.250879" lat="44.710964">
+            <name>Le Temple (à côté de la Mairie)</name>
+        </rtept>
+        <rtept lon="5.266664" lat="44.745994">
+            <name>Route de Barsac</name>
+        </rtept>
+        <rtept lon="5.29153585434" lat="44.7310752869">
+            <name>Devant la Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.2984804" lat="44.6954213">
+            <name>Sur la Place de la Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.2739" lat="44.662882">
+            <name>Le village</name>
+        </rtept>
+        <rtept lon="5.294599" lat="44.650146">
+            <name>Hameau de Savel</name>
+        </rtept>
+        <rtept lon="5.31039381027" lat="44.6611442566">
+            <name>Mairie – Le village – Rimon</name>
+        </rtept>
+        <rtept lon="5.31770420074" lat="44.63722229">
+            <name>Devant la Mairie</name>
+        </rtept>
+        <rtept lon="5.344432" lat="44.62432">
+            <name>Le village</name>
+        </rtept>
+        <rtept lon="5.291898" lat="44.608197">
+            <name>Le village</name>
+        </rtept>
+        <rtept lon="5.246888" lat="44.597955">
+            <name>Le Village</name>
+        </rtept>
+        <rtept lon="5.27499" lat="44.570255">
+            <name>40, place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.310319" lat="44.587574">
+            <name>Le Monestier</name>
+        </rtept>
+        <rtept lon="5.344819" lat="44.559403">
+            <name>Le Village</name>
+        </rtept>
+        <rtept lon="5.34789705276" lat="44.5103111267">
+            <name>Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.31375980377" lat="44.4945411682">
+            <name>Mairie – Quartier Berlière</name>
+        </rtept>
+        <rtept lon="5.39281606674" lat="44.3835601807">
+            <name>Devant la Mairie – Le village</name>
+        </rtept>
+        <rtept lon="5.429247" lat="44.3808796">
+            <name>Devant la Mairie</name>
+        </rtept>
+        <rtept lon="5.418705" lat="44.351287">
+            <name>Grande Rue – Le village</name>
+        </rtept>
+        <rtept lon="5.44644021988" lat="44.3325004578">
+            <name>Place du 19 mars 1962</name>
+        </rtept>
+        <rtept lon="5.48222589493" lat="44.3278160095">
+            <name>Devant la Mairie</name>
+        </rtept>
+        <rtept lon="5.5493062" lat="44.3179388">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.609637" lat="44.316198">
+            <name>École – Le village</name>
+        </rtept>
+        <rtept lon="5.595313" lat="44.2923">
+            <name>Montée Lucien Guibert – Le village</name>
+        </rtept>
+        <rtept lon="5.59323978424" lat="44.2556991577">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.6078251" lat="44.2394514">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.642529" lat="44.255203">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.637796" lat="44.231435">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.493376" lat="44.185587">
+            <name>Mairie – 1, rue de Fontarache</name>
+        </rtept>
+        <rtept lon="5.44364976883" lat="44.1753997803">
+            <name>Place de la Mairie L&#39;Autin</name>
+        </rtept>
+        <rtept lon="5.420818" lat="44.169615">
+            <name>76, route de Montbrun</name>
+        </rtept>
+        <rtept lon="5.477897" lat="44.135148">
+            <name>Place du Village</name>
+        </rtept>
+        <rtept lon="5.6362331" lat="44.1722499">
+            <name>Mairie – La Bégue</name>
+        </rtept>
+        <rtept lon="5.536681" lat="44.204895">
+            <name>Place de l&#39;Église</name>
+        </rtept>
+        <rtept lon="5.54245996475" lat="44.2352981567">
+            <name>Mairie – N°1 Le Plan</name>
+        </rtept>
+        <rtept lon="5.523375" lat="44.221211">
+            <name>Mairie – 960, route du Village</name>
+        </rtept>
+        <rtept lon="5.465418" lat="44.241187">
+            <name>Mairie – 5, chemin de Vidal</name>
+        </rtept>
+        <rtept lon="5.42741" lat="44.223937">
+            <name>Rue de l’Église</name>
+        </rtept>
+        <rtept lon="5.424686" lat="44.266711">
+            <name>Terrasse de la Mairie – La Cure</name>
+        </rtept>
+        <rtept lon="5.41546010971" lat="44.2882995605">
+            <name>Cours de la Mairie</name>
+        </rtept>
+        <rtept lon="5.459429" lat="44.273779">
+            <name>Parking de la Mairie – Quartier Fontenouille</name>
+        </rtept>
+        <rtept lon="5.49617004395" lat="44.2741012573">
+            <name>Place de la Mairie – Hameau de Bagnols</name>
+        </rtept>
+        <rtept lon="5.457571" lat="44.284482">
+            <name>Montguers Le Bas</name>
+        </rtept>
+        <rtept lon="5.37813997269" lat="44.3007011414">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.345645" lat="44.301093">
+            <name>Mairie – Le Moulin</name>
+        </rtept>
+        <rtept lon="5.3546228" lat="44.3160031">
+            <name>Place Louis et Jean Aubert</name>
+        </rtept>
+        <rtept lon="5.344819" lat="44.559403">
+            <name>Le Village</name>
+        </rtept>
+    </rte>
+</gpx>
