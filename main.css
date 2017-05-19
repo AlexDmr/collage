@@ -1,3 +1,22 @@
+section.input {
+    display: flex;
+    flex-low: row;
+    margin-bottom: 1em;
+    padding: 0.3em;
+    background: lightgrey;
+    border: solid black 1px;
+    border-radius: 1em;
+}
+
+section.input > label {
+    flex: 0 1 130px;
+}
+
+section.input > input {
+    flex: 1 1;
+    font-size: xx-large;
+}
+
 section.etape {
     border: solid black 1px;
     display: flex;
@@ -38,3 +57,13 @@ section.etape > input[type="checkbox"] {
     }
 }
 
+section.compute {
+    text-align: center;
+}
+
+#compute {
+    padding: 0.5em;
+    background: lightgreen;
+    margin: 1em;
+    font-size: xx-large;
+}

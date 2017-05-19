@@ -12,15 +12,19 @@
 </head>
 <body onload="init()">
     <h1>Venez coller...</h1>
-    <section>
+    <section class="input">
         <label>Numéro de département</label>
         <input type="number" id="numDep"/>
     </section>
-    <section>
+    <section class="input">
         <label>Circonscription</label>
         <input type="number" id="numCirc"/>
     </section>
-    <button onclick="compute()">Obtenir les données</button>
+    <section class="compute">
+        <button onclick="compute()" id="compute">
+            Obtenir les données
+        </button>
+    </section>
     <hr/>
     <h5>TActHab</h5>
     <section>
