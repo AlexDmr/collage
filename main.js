@@ -124,6 +124,12 @@ function compute() {
         },
         err => {
             console.error("ERROR:", err);
+            saveJSON( [] );
+            document.querySelector("#path").innerHTML = `
+                <section class="error">
+                    Pas de données disponnible pour la circonscription ${numCirc} du département ${numDep}
+                </section>
+            `;
         }
     );
 }

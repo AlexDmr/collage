@@ -18,6 +18,10 @@ section.input > input {
     width: 20px;
 }
 
+section.error {
+    color: red;
+}
+
 section.etape {
     border: solid black 1px;
     display: flex;
