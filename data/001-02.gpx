@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="panneaux-election.fr">
+    <rte>
+        <rtept lon="4.96468019485" lat="45.8745689392">
+            <name>devant la mairie</name>
+        </rtept>
+        <rtept lon="4.75102190000007" lat="46.0028332">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="4.75684" lat="45.984343">
+            <name>Place de Linelette, 3, rue E.Herriot</name>
+        </rtept>
+        <rtept lon="4.759139" lat="45.984702">
+            <name>Rue de la Mairie (à côté de la mairie)</name>
+        </rtept>
+        <rtept lon="4.757387" lat="45.982086">
+            <name>Rue des Marronniers (à côté de la salle polyvalente)</name>
+        </rtept>
+        <rtept lon="4.7781159" lat="45.9580823">
+            <name>parking salle des fêtes</name>
+        </rtept>
+        <rtept lon="4.780087" lat="45.945141">
+            <name>Chemin d&#39;Arras</name>
+        </rtept>
+        <rtept lon="4.766282" lat="45.9442815">
+            <name>Ecole primaire, Beluizon</name>
+        </rtept>
+        <rtept lon="4.736276" lat="45.944596">
+            <name>Espace Chabrier</name>
+        </rtept>
+        <rtept lon="4.768485" lat="45.94195">
+            <name>Bld de l&#39;Industrie</name>
+        </rtept>
+        <rtept lon="4.770884" lat="45.941124">
+            <name>Rue Neuve</name>
+        </rtept>
+        <rtept lon="4.774875" lat="45.940394">
+            <name>Route de Reyrieux, face avenue Guigue</name>
+        </rtept>
+        <rtept lon="4.7767069" lat="45.9403222">
+            <name>Parlement Mairie</name>
+        </rtept>
+        <rtept lon="4.780751" lat="45.940115">
+            <name>Salle des fêtes, boulevard des Combattants</name>
+        </rtept>
+        <rtept lon="4.783233" lat="45.939607">
+            <name>Boulevard Poyat, gendarmerie</name>
+        </rtept>
+        <rtept lon="4.786077" lat="45.937623">
+            <name>route de Lyon, angle montée d&#39;Ars</name>
+        </rtept>
+        <rtept lon="4.78356" lat="45.937981">
+            <name>Square Montpensier, route de Lyon</name>
+        </rtept>
+        <rtept lon="4.791308" lat="45.938023">
+            <name>La Jacobée, avenue Guigue</name>
+        </rtept>
+        <rtept lon="4.808487" lat="45.93913">
+            <name>Les Roches</name>
+        </rtept>
+        <rtept lon="4.813305" lat="45.945259">
+            <name>Rue du Pou du Ciel (Zone industrielle)</name>
+        </rtept>
+        <rtept lon="4.824351" lat="45.934867">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="4.824692" lat="45.934606">
+            <name>Rue Louis Antoine Duriat</name>
+        </rtept>
+        <rtept lon="4.821761" lat="45.934959">
+            <name>Grande rue (croisement avec rue Vendon)</name>
+        </rtept>
+        <rtept lon="4.81876" lat="45.932785">
+            <name>route du stade</name>
+        </rtept>
+        <rtept lon="4.819819" lat="45.925872">
+            <name>Chemin Plat (Vers CD 933)</name>
+        </rtept>
+        <rtept lon="4.824989" lat="45.915559">
+            <name>face à la mairie (route de Genay)</name>
+        </rtept>
+        <rtept lon="4.824776" lat="45.914771">
+            <name>rue de l&#39;église</name>
+        </rtept>
+        <rtept lon="4.8331734" lat="45.909228">
+            <name>mairie, place de l&#39;église</name>
+        </rtept>
+        <rtept lon="4.839548" lat="45.910884">
+            <name>salle polyvalente, route de civrieux</name>
+        </rtept>
+        <rtept lon="4.8824925" lat="45.9204855">
+            <name>a côté tableau affichage et entrée de la cour de la mairie</name>
+        </rtept>
+        <rtept lon="4.931322" lat="45.895237">
+            <name>Salle du conseil de la mairie, place Alain Chapel</name>
+        </rtept>
+        <rtept lon="4.92949" lat="45.894627">
+            <name>Entrée groupe scolaire élémentaire</name>
+        </rtept>
+        <rtept lon="4.9108215" lat="45.8746675">
+            <name>les Echets (parking école)</name>
+        </rtept>
+        <rtept lon="4.9151997" lat="45.8703551">
+            <name>les Echets (ex agence postale)</name>
+        </rtept>
+        <rtept lon="4.96468019485" lat="45.8745689392">
+            <name>devant la mairie</name>
+        </rtept>
+        <rtept lon="4.950352" lat="45.830812">
+            <name>Mas Rillier (mur de l&#39;école)</name>
+        </rtept>
+        <rtept lon="4.929892" lat="45.822509">
+            <name>Eglise</name>
+        </rtept>
+        <rtept lon="4.923456" lat="45.816718">
+            <name>Sermenaz</name>
+        </rtept>
+        <rtept lon="4.9325644" lat="45.8147677">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="4.946957" lat="45.822864">
+            <name>Stade la Chanal</name>
+        </rtept>
+        <rtept lon="4.9538686" lat="45.8220574">
+            <name>HLM St Martin</name>
+        </rtept>
+        <rtept lon="4.95274019241" lat="45.8230018616">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="4.953531" lat="45.824577">
+            <name>Place du marché</name>
+        </rtept>
+        <rtept lon="4.957194" lat="45.826264">
+            <name>Place de la République</name>
+        </rtept>
+        <rtept lon="4.965895" lat="45.827852">
+            <name>Cité du Trève</name>
+        </rtept>
+        <rtept lon="4.9668287" lat="45.8272708">
+            <name>Ecole Henri Deschamps</name>
+        </rtept>
+        <rtept lon="4.974902" lat="45.829888">
+            <name>Place Charles de Gaulle</name>
+        </rtept>
+        <rtept lon="4.97807" lat="45.832356">
+            <name>3, montée de la Paroche</name>
+        </rtept>
+        <rtept lon="4.97498989105" lat="45.8320999146">
+            <name>parking mairie</name>
+        </rtept>
+        <rtept lon="4.976518" lat="45.830074">
+            <name>Avenue des Ecoles</name>
+        </rtept>
+        <rtept lon="4.976859" lat="45.827176">
+            <name>8 avenue des Iles</name>
+        </rtept>
+        <rtept lon="4.978886" lat="45.826214">
+            <name>Avenue Pasteur</name>
+        </rtept>
+        <rtept lon="4.9795213" lat="45.8303239">
+            <name>Place de la Poste</name>
+        </rtept>
+        <rtept lon="4.98498" lat="45.831192">
+            <name>74 route de Genève</name>
+        </rtept>
+        <rtept lon="4.998864" lat="45.836335">
+            <name>rue des écoles</name>
+        </rtept>
+        <rtept lon="4.999337" lat="45.838719">
+            <name>rue du midi</name>
+        </rtept>
+        <rtept lon="4.994749" lat="45.838162">
+            <name>rue centrale (au niveau du centre de transfusion)</name>
+        </rtept>
+        <rtept lon="4.994749" lat="45.838162">
+            <name>Place rue centrale ( au niveau de M.BRUNI)</name>
+        </rtept>
+        <rtept lon="5.001332" lat="45.840207">
+            <name>place de la mairie</name>
+        </rtept>
+        <rtept lon="5.007092" lat="45.838224">
+            <name>montée des acacias</name>
+        </rtept>
+        <rtept lon="5.005602" lat="45.835201">
+            <name>avenue de la gare</name>
+        </rtept>
+        <rtept lon="4.997829" lat="45.83036">
+            <name>Château du soleil</name>
+        </rtept>
+        <rtept lon="5.020758" lat="45.815506">
+            <name>En face parking de la mairie</name>
+        </rtept>
+        <rtept lon="5.063925" lat="45.826359">
+            <name>Place A. Briand</name>
+        </rtept>
+        <rtept lon="5.034601" lat="45.841439">
+            <name>mairie, place Marcel Vienot</name>
+        </rtept>
+        <rtept lon="5.034601" lat="45.841439">
+            <name>RD 1084 niveau cité EDF</name>
+        </rtept>
+        <rtept lon="5.0325219" lat="45.8416274">
+            <name>Rue des écoles, niveau parc du Prieuré</name>
+        </rtept>
+        <rtept lon="5.042594" lat="45.848988">
+            <name>RD1084 niveau chemin du Calice</name>
+        </rtept>
+        <rtept lon="5.0547354" lat="45.8504268">
+            <name>Salle polyvalente</name>
+        </rtept>
+        <rtept lon="5.0547354" lat="45.8504268">
+            <name>Place de l&#39;église</name>
+        </rtept>
+        <rtept lon="5.0561995" lat="45.8492773">
+            <name>Groupe scolaire Saint Exupéry, Cours Condé</name>
+        </rtept>
+        <rtept lon="5.063535" lat="45.848961">
+            <name>Boulevard Robert Schuman</name>
+        </rtept>
+        <rtept lon="5.075803" lat="45.851133">
+            <name>Place des tilleuls</name>
+        </rtept>
+        <rtept lon="5.067205" lat="45.851657">
+            <name>1 Stade</name>
+        </rtept>
+        <rtept lon="5.0566725" lat="45.8543588">
+            <name>Groupe scolaire A.Daudet, avenue Pierre Cormorèche</name>
+        </rtept>
+        <rtept lon="5.05276" lat="45.857704">
+            <name>Ecole de Jailleux, route de St André de Corcy</name>
+        </rtept>
+        <rtept lon="5.060481" lat="45.857367">
+            <name>chemin des Chapotières</name>
+        </rtept>
+        <rtept lon="5.09074020386" lat="45.888999939">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.095866" lat="45.891967">
+            <name>Rue du Mas Péguet</name>
+        </rtept>
+        <rtept lon="5.128075" lat="45.90487">
+            <name>route de Pérouges, le long du préau de l&#39;école</name>
+        </rtept>
+        <rtept lon="5.157323" lat="45.889882">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.16025" lat="45.890453">
+            <name>Sept chemins</name>
+        </rtept>
+        <rtept lon="5.166192" lat="45.887004">
+            <name>Salle communale, rue de Rapan</name>
+        </rtept>
+        <rtept lon="5.128437" lat="45.867409">
+            <name>Place de la grande Hermière</name>
+        </rtept>
+        <rtept lon="5.157262" lat="45.847904">
+            <name>Place de Chânes</name>
+        </rtept>
+        <rtept lon="5.12489" lat="45.849273">
+            <name>22, route de la gare La Valbonne</name>
+        </rtept>
+        <rtept lon="5.112201" lat="45.842253">
+            <name>Front de Bandière</name>
+        </rtept>
+        <rtept lon="5.097471" lat="45.833983">
+            <name>Rue de Lyon, RD 1084</name>
+        </rtept>
+        <rtept lon="5.0955414" lat="45.8346789">
+            <name>Salle polyvalente, rue des écoles</name>
+        </rtept>
+        <rtept lon="5.155717" lat="45.818092">
+            <name>11, chemin du Cerisier</name>
+        </rtept>
+        <rtept lon="5.194334" lat="45.820899">
+            <name>1 route de Lyon</name>
+        </rtept>
+        <rtept lon="5.218154" lat="45.843152">
+            <name>Salle polyvalente (122 chemin sous Buyat)</name>
+        </rtept>
+        <rtept lon="5.221434" lat="45.872151">
+            <name>Ecole</name>
+        </rtept>
+        <rtept lon="5.248529" lat="45.846047">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.240118" lat="45.809118">
+            <name>Place des Gaboureaux</name>
+        </rtept>
+        <rtept lon="5.241495" lat="45.808182">
+            <name>Hameau de Gaboureaux</name>
+        </rtept>
+        <rtept lon="5.213833" lat="45.778844">
+            <name>Salle des fêtes, 70 rue du Bugey</name>
+        </rtept>
+        <rtept lon="5.20299" lat="45.774255">
+            <name>Parking Mairie, 11 rue Charles Pigeon</name>
+        </rtept>
+        <rtept lon="5.277953" lat="45.805251">
+            <name>Hameau de Marcilleux (devant ancienne école)</name>
+        </rtept>
+        <rtept lon="5.2935589" lat="45.8360765">
+            <name>Hôtel de ville</name>
+        </rtept>
+        <rtept lon="5.319883" lat="45.864943">
+            <name>Ancienne mairie de Proulieu, 515 route de Loyettes</name>
+        </rtept>
+        <rtept lon="5.348019" lat="45.885425">
+            <name>place résidence du Moulin</name>
+        </rtept>
+        <rtept lon="5.374575" lat="45.882837">
+            <name>place du village, centre</name>
+        </rtept>
+        <rtept lon="5.39975976944" lat="45.8610992432">
+            <name>devant la mairie</name>
+        </rtept>
+        <rtept lon="5.433552" lat="45.848392">
+            <name>Place de la Verchère</name>
+        </rtept>
+        <rtept lon="5.427161" lat="45.868183">
+            <name>Hameau de Soudon, à l&#39;entrée</name>
+        </rtept>
+        <rtept lon="5.4163641" lat="45.8765004">
+            <name>Souclin, sur la place</name>
+        </rtept>
+        <rtept lon="5.344508" lat="45.89558">
+            <name>Ecole de l&#39;Etraz, avenue de l&#39;Etraz</name>
+        </rtept>
+        <rtept lon="5.348867" lat="45.899465">
+            <name>Ecole des Tournelles</name>
+        </rtept>
+        <rtept lon="5.3512309" lat="45.8987972">
+            <name>Salle des fêtes de Posafol</name>
+        </rtept>
+        <rtept lon="5.348007" lat="45.902401">
+            <name>Place de la Liberté</name>
+        </rtept>
+        <rtept lon="5.348862" lat="45.903851">
+            <name>Mairie, 16 rue Pasteur</name>
+        </rtept>
+        <rtept lon="5.346169" lat="45.907685">
+            <name>CLSH , 233 rue Passuret</name>
+        </rtept>
+        <rtept lon="5.351587" lat="45.9252285">
+            <name>En bas de la mairie, devant l&#39;école</name>
+        </rtept>
+        <rtept lon="5.337101" lat="45.939405">
+            <name>8 impasse les Corrées</name>
+        </rtept>
+        <rtept lon="5.331223" lat="45.916809">
+            <name>Le Charveyron, place des boules</name>
+        </rtept>
+        <rtept lon="5.295635" lat="45.922971">
+            <name>64 rue de la Guillotière, parvis de la mairie</name>
+        </rtept>
+        <rtept lon="5.277704" lat="45.889596">
+            <name>Parking de la mairie</name>
+        </rtept>
+        <rtept lon="5.253206" lat="45.892242">
+            <name>Abords du petit stade, salle de réunions, route de Leyment à Rignieu le Désert</name>
+        </rtept>
+        <rtept lon="5.254915" lat="45.893188">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.2239139" lat="45.9216115">
+            <name>Loyes, mairie annexe</name>
+        </rtept>
+        <rtept lon="5.2239139" lat="45.9216115">
+            <name>Villieu, mairie</name>
+        </rtept>
+        <rtept lon="5.222068" lat="45.919884">
+            <name>Mollon, maison pour tous</name>
+        </rtept>
+        <rtept lon="5.2099966" lat="45.910429">
+            <name>Rue de Chavagneux (près du lavoir)</name>
+        </rtept>
+        <rtept lon="5.201293" lat="45.913545">
+            <name>Rue du Lavoir (la côte)</name>
+        </rtept>
+        <rtept lon="5.1980665" lat="45.9132541">
+            <name>Bovagne (restaurant scolaire rue Beauvallon)</name>
+        </rtept>
+        <rtept lon="5.196957" lat="45.911952">
+            <name>Bovagne, école rue Beauvallon</name>
+        </rtept>
+        <rtept lon="5.1912705" lat="45.9114401">
+            <name>Menel (restaurant scolaire av. Berthier)</name>
+        </rtept>
+        <rtept lon="5.191341" lat="45.908588">
+            <name>Avenue Dr Berthier (devant la SECPA)</name>
+        </rtept>
+        <rtept lon="5.1936875" lat="45.9051095">
+            <name>Salle des fêtes (av. Dr Boyer)</name>
+        </rtept>
+        <rtept lon="5.1962705" lat="45.9041364">
+            <name>Champ de Foire, restaurant scolaire</name>
+        </rtept>
+        <rtept lon="5.181012" lat="45.899988">
+            <name>Ecole, route du Péage</name>
+        </rtept>
+        <rtept lon="5.176818" lat="45.904047">
+            <name>Salle animation, route de la Cité</name>
+        </rtept>
+        <rtept lon="5.178826" lat="45.903295">
+            <name>Au feu, route de Trévoux</name>
+        </rtept>
+        <rtept lon="5.153087" lat="45.932654">
+            <name>Devant la mairie</name>
+        </rtept>
+        <rtept lon="5.189484" lat="45.940692">
+            <name>5 rue de l&#39;église</name>
+        </rtept>
+        <rtept lon="5.098333" lat="45.96163">
+            <name>Sur la place du village (vers la Mairie)</name>
+        </rtept>
+        <rtept lon="5.03522014618" lat="45.914100647">
+            <name>Devant la mairie</name>
+        </rtept>
+        <rtept lon="5.03522014618" lat="45.914100647">
+            <name>Devant la mairie</name>
+        </rtept>
+        <rtept lon="5.0392013" lat="45.9121305">
+            <name>Mairie de Cordieux, rue de la mairie</name>
+        </rtept>
+        <rtept lon="4.997828" lat="45.902073">
+            <name>Hameau de Romanèche</name>
+        </rtept>
+        <rtept lon="4.9533422" lat="45.9276526">
+            <name>parking de la mairie</name>
+        </rtept>
+        <rtept lon="4.953361" lat="45.926794">
+            <name>Place des Ecoles</name>
+        </rtept>
+        <rtept lon="4.9487937" lat="45.9259308">
+            <name>parking de la salle communale</name>
+        </rtept>
+        <rtept lon="4.881144" lat="45.952189">
+            <name>devant bâtiment communal, route d&#39;Ambérieux en Dombes</name>
+        </rtept>
+        <rtept lon="4.8705462" lat="45.9651163">
+            <name>parking salle polyvalente</name>
+        </rtept>
+        <rtept lon="4.82667016983" lat="45.9603996277">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="4.8104505" lat="45.9742452">
+            <name>en face de la mairie, à coté de l&#39;école primaire</name>
+        </rtept>
+        <rtept lon="4.796017" lat="45.972336">
+            <name>rue de la mairie</name>
+        </rtept>
+        <rtept lon="4.82132005692" lat="45.993598938">
+            <name>Cour de la Mairie</name>
+        </rtept>
+        <rtept lon="4.772447" lat="45.990782">
+            <name>salle polyvalente, rue des Gagères</name>
+        </rtept>
+        <rtept lon="4.96468019485" lat="45.8745689392">
+            <name>devant la mairie</name>
+        </rtept>
+    </rte>
+</gpx>

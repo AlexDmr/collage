@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="panneaux-election.fr">
+    <rte>
+        <rtept lon="5.8400812" lat="43.8793455">
+            <name>Parking les 4 chemins</name>
+        </rtept>
+        <rtept lon="6.0528178215" lat="44.2450408936">
+            <name>Ancienne Mairie</name>
+        </rtept>
+        <rtept lon="6.1618364" lat="44.235715">
+            <name>Place du village devant l&#39;église</name>
+        </rtept>
+        <rtept lon="5.946574" lat="44.202469">
+            <name>Quartier de la Baume : Rue Julien Masselier</name>
+        </rtept>
+        <rtept lon="5.945868" lat="44.197141">
+            <name>Quartier Bourg Reynaud : Place de la Grande Ecole</name>
+        </rtept>
+        <rtept lon="5.8590807" lat="44.2670613">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.924602" lat="44.320061">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.95877695084" lat="44.3186836243">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.95779" lat="44.288618">
+            <name>En face de la mairie</name>
+        </rtept>
+        <rtept lon="5.954095" lat="44.249013">
+            <name>Place du Village</name>
+        </rtept>
+        <rtept lon="6.01773405075" lat="44.2745933533">
+            <name>Mur au dessus de la mairie</name>
+        </rtept>
+        <rtept lon="6.017171" lat="44.285305">
+            <name>Place du Village</name>
+        </rtept>
+        <rtept lon="6.066326" lat="44.2790219">
+            <name>Place du Village</name>
+        </rtept>
+        <rtept lon="6.0689115" lat="44.3216968">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="6.164918" lat="44.339058">
+            <name>Place du village</name>
+        </rtept>
+        <rtept lon="6.1683556" lat="44.4012264">
+            <name>Place du village</name>
+        </rtept>
+        <rtept lon="6.1759557724" lat="44.4192314148">
+            <name>Fontaine du village</name>
+        </rtept>
+        <rtept lon="6.1603362" lat="44.4187993">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.09197807312" lat="44.3975563049">
+            <name>Place de l&#39;église</name>
+        </rtept>
+        <rtept lon="6.0608458519" lat="44.3698539734">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.02766990662" lat="44.3437995911">
+            <name>Place de l&#39;église</name>
+        </rtept>
+        <rtept lon="6.028137" lat="44.343151">
+            <name>Place du Pied de Ville</name>
+        </rtept>
+        <rtept lon="5.989135" lat="44.354964">
+            <name>Place du Village (sous l&#39;ancien lavoir)</name>
+        </rtept>
+        <rtept lon="5.957662" lat="44.365481">
+            <name>Place du village</name>
+        </rtept>
+        <rtept lon="6.03829813004" lat="44.4285697937">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.09953308105" lat="44.4447097778">
+            <name>Mairie annexe Les Tourniaires</name>
+        </rtept>
+        <rtept lon="6.09953308105" lat="44.4447097778">
+            <name>Mairie-haut-Venterol Le Village</name>
+        </rtept>
+        <rtept lon="6.09953308105" lat="44.4447097778">
+            <name>Mairie Urtis (hameau de Vierre)</name>
+        </rtept>
+        <rtept lon="6.128655" lat="44.451626">
+            <name>Place du Village</name>
+        </rtept>
+        <rtept lon="6.268932" lat="44.417919">
+            <name>Salle des Fêtes</name>
+        </rtept>
+        <rtept lon="6.255847" lat="44.385418">
+            <name>Carrefour RD 1 et chemin communal du Château</name>
+        </rtept>
+        <rtept lon="6.302001" lat="44.366372">
+            <name>Place du village</name>
+        </rtept>
+        <rtept lon="6.3730019" lat="44.445049">
+            <name>Parking de la mairie</name>
+        </rtept>
+        <rtept lon="6.4618395" lat="44.4041503">
+            <name>Monument aux Morts</name>
+        </rtept>
+        <rtept lon="6.510534" lat="44.4017075">
+            <name>Bordure CD 900 près de la mairie à la Fresquière</name>
+        </rtept>
+        <rtept lon="6.632602" lat="44.391183">
+            <name>Place de l&#39;Ecole</name>
+        </rtept>
+        <rtept lon="6.636102" lat="44.386925">
+            <name>Allée des Lilas</name>
+        </rtept>
+        <rtept lon="6.64443" lat="44.386901">
+            <name>Ave Watton de Ferry</name>
+        </rtept>
+        <rtept lon="6.660382" lat="44.37528">
+            <name>Pont de Gaudissard</name>
+        </rtept>
+        <rtept lon="6.682261" lat="44.371236">
+            <name>Place du Sauze</name>
+        </rtept>
+        <rtept lon="6.69109" lat="44.369543">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.673496" lat="44.385124">
+            <name>Lotissement de la Chaup</name>
+        </rtept>
+        <rtept lon="6.67817020416" lat="44.3937034607">
+            <name>Place de l&#39;église</name>
+        </rtept>
+        <rtept lon="6.696614" lat="44.389249">
+            <name>Le Villard</name>
+        </rtept>
+        <rtept lon="6.80057811737" lat="44.4748573303">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.74991989136" lat="44.5148010254">
+            <name>Place de l&#39;Eglise</name>
+        </rtept>
+        <rtept lon="6.6370526" lat="44.4754718">
+            <name>Salle des fêtes - place du village</name>
+        </rtept>
+        <rtept lon="6.7342112" lat="44.4197636">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.6552074" lat="44.3872045">
+            <name>Parc de la Sapinière - côté nord et côté sud</name>
+        </rtept>
+        <rtept lon="6.649794" lat="44.387037">
+            <name>Rue Spitalier</name>
+        </rtept>
+        <rtept lon="6.6503385" lat="44.386321">
+            <name>Jeu de boules de la mairie côté est et côté ouest</name>
+        </rtept>
+        <rtept lon="6.651649" lat="44.38561">
+            <name>El Zocalo</name>
+        </rtept>
+        <rtept lon="6.628413" lat="44.373019">
+            <name>Lot. du Bachelard</name>
+        </rtept>
+        <rtept lon="6.62754583359" lat="44.3591346741">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="6.657243" lat="44.321609">
+            <name>Hameau du Villard d&#39;Abbas</name>
+        </rtept>
+        <rtept lon="6.7253207" lat="44.2551892">
+            <name>Parking des Choupettes (Station de Pra-loup)</name>
+        </rtept>
+        <rtept lon="6.6042871" lat="44.3608454">
+            <name>Parking télésiège de Molanès</name>
+        </rtept>
+        <rtept lon="6.621968" lat="44.374219">
+            <name>Pied de la Maure</name>
+        </rtept>
+        <rtept lon="6.570424" lat="44.392781">
+            <name>Place Fernand Gilly</name>
+        </rtept>
+        <rtept lon="6.432762" lat="44.429647">
+            <name>Place de l&#39;église</name>
+        </rtept>
+        <rtept lon="6.357229" lat="44.503881">
+            <name>Place de l&#39;église</name>
+        </rtept>
+        <rtept lon="6.353631" lat="44.443626">
+            <name>Place du Lautaret</name>
+        </rtept>
+        <rtept lon="6.3513256" lat="44.4120759">
+            <name>Place de la Mairie au Village de Saint-Jean</name>
+        </rtept>
+        <rtept lon="6.35526990891" lat="44.3511009216">
+            <name>Mairie (Grand rue)</name>
+        </rtept>
+        <rtept lon="6.355069" lat="44.350646">
+            <name>Place du Delaire</name>
+        </rtept>
+        <rtept lon="6.38946294785" lat="44.2774200439">
+            <name>Parvis de la mairie</name>
+        </rtept>
+        <rtept lon="6.34111213684" lat="44.2631835938">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.31780195236" lat="44.2958297729">
+            <name>devant la Mairie</name>
+        </rtept>
+        <rtept lon="6.26818799973" lat="44.2634620667">
+            <name>Lavoir - place de la mairie</name>
+        </rtept>
+        <rtept lon="5.7909477" lat="43.8103824">
+            <name>Chemin de Robert (face Intermarché)</name>
+        </rtept>
+        <rtept lon="5.7665594" lat="43.7864207">
+            <name>Place du Théatre</name>
+        </rtept>
+        <rtept lon="5.7654341" lat="43.7860451">
+            <name>Bureaux de vote (Espace socio-culturel ave de la République)</name>
+        </rtept>
+        <rtept lon="5.762702" lat="43.78592">
+            <name>Place Jean Jaurès</name>
+        </rtept>
+        <rtept lon="5.76214" lat="43.786875">
+            <name>Rue du Clos</name>
+        </rtept>
+        <rtept lon="5.7608958" lat="43.7842312">
+            <name>Collège (rue Pierre Besson)</name>
+        </rtept>
+        <rtept lon="5.7493851" lat="43.7613461">
+            <name>Ecole maternelle (rue des Ferrages)</name>
+        </rtept>
+        <rtept lon="5.7498497963" lat="43.7613983154">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.750642" lat="43.760696">
+            <name>Parking Salle multi-activités</name>
+        </rtept>
+        <rtept lon="5.7690321" lat="43.7896623">
+            <name>Rue Danielle Casanova</name>
+        </rtept>
+        <rtept lon="5.7683535" lat="43.7904166">
+            <name>Rond point les Picottes</name>
+        </rtept>
+        <rtept lon="5.7507857" lat="43.8087228">
+            <name>Le stade</name>
+        </rtept>
+        <rtept lon="5.7487042" lat="43.8105039">
+            <name>Salle polyvalente (bureaux de vote)</name>
+        </rtept>
+        <rtept lon="5.74934" lat="43.811153">
+            <name>L&#39;Houme (en direction du Golf</name>
+        </rtept>
+        <rtept lon="5.74988" lat="43.811839">
+            <name>Cours de la Libération</name>
+        </rtept>
+        <rtept lon="5.746852" lat="43.816618">
+            <name>La Vigneraie - RD 6 en direction de Manosque</name>
+        </rtept>
+        <rtept lon="5.781702" lat="43.830655">
+            <name>Avenue Majoral Arnaud (mur bibliothèque pour tous)</name>
+        </rtept>
+        <rtept lon="5.781702" lat="43.830655">
+            <name>Avenue Majoral Arnaud (mur bibliothèque pour tous)</name>
+        </rtept>
+        <rtept lon="5.7778831" lat="43.8309663">
+            <name>Rond-Point Dr Caire (mur de la Luquèce)</name>
+        </rtept>
+        <rtept lon="5.7778831" lat="43.8309663">
+            <name>Rond Point Dr Caire (mur de la Luquèce)</name>
+        </rtept>
+        <rtept lon="5.78123" lat="43.833113">
+            <name>Bld Elémir Bourges (rampe des Lices)</name>
+        </rtept>
+        <rtept lon="5.782228" lat="43.832012">
+            <name>Boulevard Elémir Bourges (rampe des Lices)</name>
+        </rtept>
+        <rtept lon="5.782723" lat="43.832817">
+            <name>Carrefour Pompidou-Daudet (pont sur Drouille)</name>
+        </rtept>
+        <rtept lon="5.782723" lat="43.832817">
+            <name>Angle Bld Clémenceau et Ave de l&#39;Argile</name>
+        </rtept>
+        <rtept lon="5.782723" lat="43.832817">
+            <name>Carrefour Pompidou-Daudet (pont sur Drouille)</name>
+        </rtept>
+        <rtept lon="5.782723" lat="43.832817">
+            <name>Bld Pasteur (mur entre les deux écoles – Luquèce)</name>
+        </rtept>
+        <rtept lon="5.7823216" lat="43.8337635">
+            <name>Place de l&#39;Hôtel de Ville (devant mairie)</name>
+        </rtept>
+        <rtept lon="5.7837241" lat="43.835181">
+            <name>Bld des Tilleuls ( à gauche de l&#39;école)</name>
+        </rtept>
+        <rtept lon="5.775392" lat="43.834391">
+            <name>Montée des Bassins (près de l&#39;école des Combes)</name>
+        </rtept>
+        <rtept lon="5.775392" lat="43.834391">
+            <name>Montée des Bassins (près de l&#39;école -  Combes)</name>
+        </rtept>
+        <rtept lon="5.7776234" lat="43.8350687">
+            <name>Bld des Combes (cantine école primaire)</name>
+        </rtept>
+        <rtept lon="5.7776234" lat="43.8350687">
+            <name>Boulevard des Combes (école primaire cantine)</name>
+        </rtept>
+        <rtept lon="5.78799" lat="43.837312">
+            <name>Bld Paul Martin Nalin (face à l&#39;école du Colombier)</name>
+        </rtept>
+        <rtept lon="5.78799" lat="43.837312">
+            <name>Bld Paul Martin Nalin (face à l&#39;école du Colombier)</name>
+        </rtept>
+        <rtept lon="5.785639" lat="43.832262">
+            <name>Rue de la Reine Jeanne (mur près de la pharmacie)</name>
+        </rtept>
+        <rtept lon="5.785639" lat="43.832262">
+            <name>Rue de la Reine Jeanne (mur près de la pharmacie)</name>
+        </rtept>
+        <rtept lon="5.78783" lat="43.831235">
+            <name>Allée de Provence (école Saint-Lazare)</name>
+        </rtept>
+        <rtept lon="5.7884324" lat="43.8299751">
+            <name>Bld Ch. de Gaulle (grille maison de retraitre)</name>
+        </rtept>
+        <rtept lon="5.78964" lat="43.825591">
+            <name>Place Pierre de Coubertin (près de l&#39;école de la Ponsonne)</name>
+        </rtept>
+        <rtept lon="5.787708" lat="43.8247255">
+            <name>Avenue Frédéric Mistral (pont sur Drouille)</name>
+        </rtept>
+        <rtept lon="5.787708" lat="43.8247255">
+            <name>Avenue Frédéric Mistral (pont sur Drouille)</name>
+        </rtept>
+        <rtept lon="5.7840216" lat="43.8223435">
+            <name>Rue des Plantiers (école maternelle)</name>
+        </rtept>
+        <rtept lon="5.7845641" lat="43.8221813">
+            <name>(près du lycée Esclangon)</name>
+        </rtept>
+        <rtept lon="5.7972333" lat="43.8302202">
+            <name>Forum (rond-point)</name>
+        </rtept>
+        <rtept lon="5.7927951" lat="43.8300988">
+            <name>Place de l&#39;Olivette (près coop. oléicole)</name>
+        </rtept>
+        <rtept lon="5.8400097" lat="43.8634125">
+            <name>Zone artisanale la Carretière</name>
+        </rtept>
+        <rtept lon="5.846142" lat="43.870627">
+            <name>Ave de la Gare</name>
+        </rtept>
+        <rtept lon="5.842933" lat="43.870393">
+            <name>Le Peyroun rue Ste Victoire</name>
+        </rtept>
+        <rtept lon="5.838321" lat="43.871224">
+            <name>Rue Léo Lagrange - Les Edelweiss -</name>
+        </rtept>
+        <rtept lon="5.836139" lat="43.869336">
+            <name>Ave de la Vandelle à proximité du pont</name>
+        </rtept>
+        <rtept lon="5.840909" lat="43.877241">
+            <name>Ecole élémentaire René Cassin</name>
+        </rtept>
+        <rtept lon="5.84197998047" lat="43.8769989014">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.8400812" lat="43.8793455">
+            <name>Parking les 4 chemins</name>
+        </rtept>
+        <rtept lon="5.840658" lat="43.880498">
+            <name>Le Château</name>
+        </rtept>
+        <rtept lon="5.865068" lat="43.891754">
+            <name>Chemin de Saint-Pierre</name>
+        </rtept>
+        <rtept lon="5.860772" lat="43.892442">
+            <name>Chemin Neuf</name>
+        </rtept>
+        <rtept lon="5.869093" lat="43.894139">
+            <name>Chemin du Moulin</name>
+        </rtept>
+        <rtept lon="5.838237" lat="43.935714">
+            <name>Place de l&#39;église</name>
+        </rtept>
+        <rtept lon="5.83408498764" lat="43.954875946">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.8137153" lat="43.9724377">
+            <name>Piscine municipale</name>
+        </rtept>
+        <rtept lon="5.840703" lat="43.996968">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.84110593796" lat="43.9975395203">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.826517" lat="44.010938">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.79381322861" lat="44.0084533691">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.7812832" lat="44.0430966">
+            <name>Parking de la Médiathèque</name>
+        </rtept>
+        <rtept lon="5.835145" lat="44.062005">
+            <name>Près du Calvaire - RD 951</name>
+        </rtept>
+        <rtept lon="5.88738" lat="44.061812">
+            <name>Place Jean Joselet</name>
+        </rtept>
+        <rtept lon="5.73311185837" lat="44.0281982422">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.730539" lat="43.985312">
+            <name>Place de Maï</name>
+        </rtept>
+        <rtept lon="5.774548" lat="43.955618">
+            <name>Avenue Thierry d&#39;Argenlieu (parking école de musique)</name>
+        </rtept>
+        <rtept lon="5.77465" lat="43.957646">
+            <name>Chemin des Hybourgues</name>
+        </rtept>
+        <rtept lon="5.782283" lat="43.959325">
+            <name>Bld des Martyrs de la Résistance</name>
+        </rtept>
+        <rtept lon="5.7811007" lat="43.9612413">
+            <name>(B2) Avenue Fontauris (Ecole maternelle)</name>
+        </rtept>
+        <rtept lon="5.778404" lat="43.961002">
+            <name>Avenue Marcel André (école primaire)</name>
+        </rtept>
+        <rtept lon="5.779844" lat="43.958535">
+            <name>Bld Latourette</name>
+        </rtept>
+        <rtept lon="5.780024" lat="43.95828">
+            <name>Rempart Berluc Perussis</name>
+        </rtept>
+        <rtept lon="5.767064" lat="43.938969">
+            <name>Le Grand Chemin</name>
+        </rtept>
+        <rtept lon="5.766909" lat="43.936241">
+            <name>La Burlière</name>
+        </rtept>
+        <rtept lon="5.794666" lat="43.903559">
+            <name>Place du village</name>
+        </rtept>
+        <rtept lon="5.7863513" lat="43.9022253">
+            <name>La Poste</name>
+        </rtept>
+        <rtept lon="5.783153" lat="43.898731">
+            <name>Bd du Nord</name>
+        </rtept>
+        <rtept lon="5.783437" lat="43.898533">
+            <name>Parvis de la Vierge</name>
+        </rtept>
+        <rtept lon="5.784104" lat="43.89837">
+            <name>Le Grand Chemin</name>
+        </rtept>
+        <rtept lon="5.78673" lat="43.896167">
+            <name>Chemin du Bief</name>
+        </rtept>
+        <rtept lon="5.7360858" lat="43.8740097">
+            <name>Place du Château</name>
+        </rtept>
+        <rtept lon="5.694528" lat="43.8357509">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.70096588135" lat="43.8592758179">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.66025018692" lat="43.8795013428">
+            <name>Mairie - Cours Thierry d&#39;Argenlieu</name>
+        </rtept>
+        <rtept lon="5.591347" lat="43.856002">
+            <name>Place Général de Gaulle</name>
+        </rtept>
+        <rtept lon="5.585984" lat="43.855668">
+            <name>Place Daniel Vigouroux</name>
+        </rtept>
+        <rtept lon="5.643371" lat="43.847502">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.708307" lat="43.889529">
+            <name>Place du Village- Lincel</name>
+        </rtept>
+        <rtept lon="5.716257" lat="43.909197">
+            <name>Place du Serre- St Michel</name>
+        </rtept>
+        <rtept lon="5.686211" lat="43.93775">
+            <name>Place du village</name>
+        </rtept>
+        <rtept lon="5.637707" lat="43.9311099">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.61674308777" lat="43.9085845947">
+            <name>Façade sud de la mairie</name>
+        </rtept>
+        <rtept lon="5.59056091309" lat="43.9349937439">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.531812" lat="43.958622">
+            <name>Place de la Combe</name>
+        </rtept>
+        <rtept lon="5.561719" lat="43.980498">
+            <name>Place du Faubourg. Carniol et Valsaintes</name>
+        </rtept>
+        <rtept lon="5.608046" lat="44.01182">
+            <name>Ancien lavoir</name>
+        </rtept>
+        <rtept lon="5.671041" lat="43.971578">
+            <name>Montée du Lavoir</name>
+        </rtept>
+        <rtept lon="5.71243476868" lat="44.0572357178">
+            <name>Mairie - rue des Fontaines</name>
+        </rtept>
+        <rtept lon="5.69923496246" lat="44.0873260498">
+            <name>Façade est de la mairie</name>
+        </rtept>
+        <rtept lon="5.69087219238" lat="44.0920829773">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.65518283844" lat="44.0756072998">
+            <name>Mairie et Salle des Fêtes</name>
+        </rtept>
+        <rtept lon="5.6283427" lat="44.0381757">
+            <name>Place de la Gendarmerie</name>
+        </rtept>
+        <rtept lon="5.628404" lat="44.037409">
+            <name>Montée rue Meffre</name>
+        </rtept>
+        <rtept lon="5.61933612823" lat="44.1043891907">
+            <name>Parking de la mairie</name>
+        </rtept>
+        <rtept lon="5.54798412323" lat="44.0827674866">
+            <name>Mairie - Ave Clemenceau</name>
+        </rtept>
+        <rtept lon="5.60908889771" lat="44.1720085144">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.663587" lat="44.1776675">
+            <name>Dans l&#39;enceinte de la mairie - sous le préau</name>
+        </rtept>
+        <rtept lon="5.71657419205" lat="44.1593322754">
+            <name>Mairie et Hameau de Lange</name>
+        </rtept>
+        <rtept lon="5.74211978912" lat="44.1706008911">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.828883" lat="44.168575">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.87633991241" lat="44.1509895325">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.884651" lat="44.178652">
+            <name>Place de la Mairie - Le Castel</name>
+        </rtept>
+        <rtept lon="5.938707" lat="44.183793">
+            <name>Parking Ecole du Thor</name>
+        </rtept>
+        <rtept lon="5.941887" lat="44.196638">
+            <name>Place du Tivoli-René Cassin</name>
+        </rtept>
+        <rtept lon="5.942923" lat="44.195506">
+            <name>6, Ave Paul Arène</name>
+        </rtept>
+        <rtept lon="5.942974" lat="44.1946103">
+            <name>Centre ville :Mairie</name>
+        </rtept>
+        <rtept lon="5.945418" lat="44.189692">
+            <name>Quartier du Gand : Carrefour Ave du Gand et Ave Pasteur</name>
+        </rtept>
+        <rtept lon="5.94457" lat="44.185546">
+            <name>Quartier des Plantiers : Ecole des Plantiers</name>
+        </rtept>
+        <rtept lon="5.944759" lat="44.18252">
+            <name>Quartier Beaulieu : Avenue du Stade</name>
+        </rtept>
+        <rtept lon="5.991623" lat="44.187541">
+            <name>Parking de l&#39;école/mairie</name>
+        </rtept>
+        <rtept lon="5.8400812" lat="43.8793455">
+            <name>Parking les 4 chemins</name>
+        </rtept>
+    </rte>
+</gpx>

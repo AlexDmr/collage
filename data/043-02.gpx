@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="panneaux-election.fr">
+    <rte>
+        <rtept lon="3.609909" lat="45.122088">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.3786344" lat="45.3006493">
+            <name>LA GARE</name>
+        </rtept>
+        <rtept lon="3.378371" lat="45.307612">
+            <name>HLM RUE EMILE ZOLA</name>
+        </rtept>
+        <rtept lon="3.3760076" lat="45.3065657">
+            <name>FOYER RESTAURANT</name>
+        </rtept>
+        <rtept lon="3.372949" lat="45.337584">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.39336204529" lat="45.3005638123">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.403023" lat="45.265833">
+            <name>AVENUE DE VERSAILLES (le long de la cour d’école)</name>
+        </rtept>
+        <rtept lon="3.393664" lat="45.287072">
+            <name>HLM AVENUE DE LA BAGEASSE</name>
+        </rtept>
+        <rtept lon="3.38895" lat="45.294016">
+            <name>RUE NOTRE DAME DES PRES</name>
+        </rtept>
+        <rtept lon="3.38562879999995" lat="45.293456">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.383997" lat="45.293603">
+            <name>IMMEUBLE INTERCONSULAIRE</name>
+        </rtept>
+        <rtept lon="3.381176" lat="45.294556">
+            <name>PLACE DE PARIS</name>
+        </rtept>
+        <rtept lon="3.3740313" lat="45.2940262">
+            <name>ECOLE BORIE DARLES</name>
+        </rtept>
+        <rtept lon="3.369823" lat="45.291579">
+            <name>AVENUE JEAN MOULIN</name>
+        </rtept>
+        <rtept lon="3.34594798088" lat="45.2793807983">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.35367393494" lat="45.238697052">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.29274010658" lat="45.1920013428">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.31296992302" lat="45.1598968506">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.370641" lat="45.120731">
+            <name>AU CENTRE DU BOURG (devant l’Eglise)</name>
+        </rtept>
+        <rtept lon="3.4035684" lat="45.149736">
+            <name>MAIRIE (place du fer à cheval)</name>
+        </rtept>
+        <rtept lon="3.3995093" lat="45.1703076">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.38404" lat="45.19838">
+            <name>EN FACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.389383" lat="45.196466">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.404047966" lat="45.1458969116">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.43824100494" lat="45.1393547058">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.4202465" lat="45.1152345">
+            <name>RUE DE LA TOUR (sur le mur de M. ROCHE)</name>
+        </rtept>
+        <rtept lon="3.418294" lat="45.116122">
+            <name>DEVANT LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.46649" lat="45.136853">
+            <name>MAIRIE (place de Lachaud)</name>
+        </rtept>
+        <rtept lon="3.480145" lat="45.159743">
+            <name>EN FACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.51713705063" lat="45.1311378479">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.540855" lat="45.156087">
+            <name>EN FACE DE LA SALLE POLYVALENTE</name>
+        </rtept>
+        <rtept lon="3.5800749" lat="45.1589338">
+            <name>PLACE WASHINGTON</name>
+        </rtept>
+        <rtept lon="3.61765909195" lat="45.1685600281">
+            <name>DEVANT LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.62416696548" lat="45.139629364">
+            <name>DEVANT LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.609909" lat="45.122088">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.63317990303" lat="45.0951004028">
+            <name>MAIRIE (Place Claude Pierre FAVARD)</name>
+        </rtept>
+        <rtept lon="3.5090246" lat="45.0313629">
+            <name>FACE A LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.48850893974" lat="45.0194244385">
+            <name>DEVANT LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.56921005249" lat="45.0257263184">
+            <name>DEVANT LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.57974910736" lat="45.0065765381">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.498495" lat="44.985902">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.41654109955" lat="44.9702568054">
+            <name>DEVANT LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.35539698601" lat="45.0304985046">
+            <name>DEVANT LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.35539698601" lat="45.0304985046">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.428983" lat="45.027582">
+            <name>MUR DU CIMETIERE</name>
+        </rtept>
+        <rtept lon="3.45785689354" lat="45.042514801">
+            <name>PLACE PUBLIQUE DU BOURG</name>
+        </rtept>
+        <rtept lon="3.4942052" lat="45.096887">
+            <name>ROND POINT « PONT SNCF » (entrée de Langeac)</name>
+        </rtept>
+        <rtept lon="3.490352" lat="45.098706">
+            <name>rue du 8 mai)</name>
+        </rtept>
+        <rtept lon="3.49327" lat="45.099581">
+            <name>QUARTIER HLM (rue Pierre Sémard</name>
+        </rtept>
+        <rtept lon="3.49417996407" lat="45.0988006592">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.496647" lat="45.097953">
+            <name>QUAI VOLTAIRE</name>
+        </rtept>
+        <rtept lon="3.53048" lat="45.072564">
+            <name>DEVANT LA MAIRIE (route RD 585)</name>
+        </rtept>
+        <rtept lon="3.54978108406" lat="45.0684394836">
+            <name>PARKING DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.58422207832" lat="45.0465393066">
+            <name>DEVANT LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.5927301" lat="45.0278167">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.6343228817" lat="45.0324707031">
+            <name>DANS LA COUR DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.6726376" lat="45.0362548">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.727945" lat="45.032856">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.775932" lat="45.009346">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.71906995773" lat="44.956489563">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.69349789619" lat="44.9874153137">
+            <name>DEVANT LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.67850804329" lat="44.9900474548">
+            <name>RUE DEVANT LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.64173698425" lat="44.9683570862">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.622755" lat="44.915783">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.61413788795" lat="44.899269104">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.58806490898" lat="44.8976669312">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.54698801041" lat="44.9082794189">
+            <name>MAIRIE (à côté de la RD585)</name>
+        </rtept>
+        <rtept lon="3.546343" lat="44.960003">
+            <name>RUE DE L’HOTEL DE VILLE</name>
+        </rtept>
+        <rtept lon="3.48727202415" lat="44.9191513062">
+            <name>EN FACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.48755097389" lat="44.8615379333">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.56253099442" lat="44.8654098511">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.6777772" lat="44.8670101">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.7054253" lat="44.8562605">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.759608" lat="44.8457269">
+            <name>DEVANT LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.79157805443" lat="44.8177757263">
+            <name>DEVANT LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.830521" lat="44.843626">
+            <name>PLACE DU MARCHE</name>
+        </rtept>
+        <rtept lon="3.83704900742" lat="44.7799415588">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.882272" lat="44.769667">
+            <name>RUE DU JEU DE PAUME (devant école et mairie)</name>
+        </rtept>
+        <rtept lon="3.896945" lat="44.78141">
+            <name>DEVANT LA SALLE POLYVALENTE</name>
+        </rtept>
+        <rtept lon="3.89231300354" lat="44.8359794617">
+            <name>DEVANT LA SALLE DES FETES</name>
+        </rtept>
+        <rtept lon="3.92270994186" lat="44.8381996155">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.99025297165" lat="44.8422889709">
+            <name>DEVANT LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.954036" lat="44.854154">
+            <name>DEVANT LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.92255711555" lat="44.8651275635">
+            <name>FACE A LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.8491182" lat="44.8931917">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.7901661" lat="44.8902689">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.68432593346" lat="44.9055938721">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.7347369194" lat="44.904296875">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.80869102478" lat="44.9283103943">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.80869007111" lat="44.9282989502">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.80869102478" lat="44.9283103943">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.887289" lat="44.967934">
+            <name>PLACE DU MARCHEDIAL</name>
+        </rtept>
+        <rtept lon="3.867899" lat="44.990067">
+            <name>DEVANT LA SALLE POLYVALENTE</name>
+        </rtept>
+        <rtept lon="3.81953001022" lat="44.9962997437">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.871386" lat="45.026544">
+            <name>RUE LOUIS BRIOUDE (cité Brioude)</name>
+        </rtept>
+        <rtept lon="3.876707" lat="45.027647">
+            <name>CARREFOUR RUE ST BENOIT – RUE DANTON – AVENUE JEANNE D’ARC</name>
+        </rtept>
+        <rtept lon="3.8764127" lat="45.0298138">
+            <name>AVENUE CHARLES MASSOT (pont sur Dolaizon)</name>
+        </rtept>
+        <rtept lon="3.879352" lat="45.033381">
+            <name>AVENUE DE VALS (à coté du pont SNCF)</name>
+        </rtept>
+        <rtept lon="3.884469" lat="45.031629">
+            <name>AV DU VAL VERT (Place E. PEBELLIER)</name>
+        </rtept>
+        <rtept lon="3.884298" lat="45.040889">
+            <name>AV G. DE GAULLE (Préfecture)</name>
+        </rtept>
+        <rtept lon="3.880066" lat="45.044047">
+            <name>ECOLE PRIMAIRE – RUE GENERAL LAFAYETTE</name>
+        </rtept>
+        <rtept lon="3.8836544" lat="45.0430988">
+            <name>ANCIENNE MAIRIE TAULHAC</name>
+        </rtept>
+        <rtept lon="3.8836544" lat="45.0430988">
+            <name>ANCIENNE MAIRIE MONS</name>
+        </rtept>
+        <rtept lon="3.8833031" lat="45.0430946">
+            <name>MAIRIE PLACE DU MARTOURET</name>
+        </rtept>
+        <rtept lon="3.885352" lat="45.044117">
+            <name>PLACE DE LA PLATRIERE</name>
+        </rtept>
+        <rtept lon="3.8847336" lat="45.0458388">
+            <name>CENTRE LOISIRS VAL VERT (rue Henri CHAS)</name>
+        </rtept>
+        <rtept lon="3.882055" lat="45.0452698">
+            <name>SALLE JEANNE D’ARC (avenue Cathédrale)</name>
+        </rtept>
+        <rtept lon="3.879656" lat="45.0459">
+            <name>BD CARNOT (cité TUJA)</name>
+        </rtept>
+        <rtept lon="3.879271" lat="45.043404">
+            <name>RUE A. TERRASSON (en face des impôts)</name>
+        </rtept>
+        <rtept lon="3.867807" lat="45.043077">
+            <name>ROUTE DE SAUGUES</name>
+        </rtept>
+        <rtept lon="3.867202" lat="45.045939">
+            <name>AVENUE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.861813" lat="45.047495">
+            <name>CHEMIN DE L’ARBOUSSET</name>
+        </rtept>
+        <rtept lon="3.8218526" lat="45.0432395">
+            <name>VERS L’EGLISE</name>
+        </rtept>
+        <rtept lon="3.77993297577" lat="45.0515594482">
+            <name>EN FACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.752046" lat="45.068491">
+            <name>ROUTE DU PUY – CARREFOUR CENTRAL(RD590)</name>
+        </rtept>
+        <rtept lon="3.69656205177" lat="45.0695114136">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.69803190231" lat="45.1131744385">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.74798703194" lat="45.0896186829">
+            <name>DEVANT LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.768604" lat="45.132617">
+            <name>MAIRIE (4 rue centrale)</name>
+        </rtept>
+        <rtept lon="3.798476" lat="45.099767">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.8016643" lat="45.0741114">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.857959" lat="45.070098">
+            <name>RUE DES ECOLES</name>
+        </rtept>
+        <rtept lon="3.863675" lat="45.05421">
+            <name>AVENUE DE L’HERMITAGE</name>
+        </rtept>
+        <rtept lon="3.879138" lat="45.05354">
+            <name>LES FRAISSES</name>
+        </rtept>
+        <rtept lon="3.8833387" lat="45.04913">
+            <name>FACE A LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.8975577" lat="45.0524265">
+            <name>LA RENAISSANCE</name>
+        </rtept>
+        <rtept lon="3.900029" lat="45.056349">
+            <name>MONTEE DE CHADRAC</name>
+        </rtept>
+        <rtept lon="3.902061" lat="45.0605">
+            <name>AVENUE PIERRE ET MARIE CURIE</name>
+        </rtept>
+        <rtept lon="3.90413" lat="45.061258">
+            <name>MAIRIE (8 cours de la Liberté)</name>
+        </rtept>
+        <rtept lon="3.901437" lat="45.06685">
+            <name>LA BOUTEYRE</name>
+        </rtept>
+        <rtept lon="3.910446" lat="45.070756">
+            <name>DURIANNE</name>
+        </rtept>
+        <rtept lon="3.904272" lat="45.073213">
+            <name>PLACE DU FOUR BANAL</name>
+        </rtept>
+        <rtept lon="3.946243" lat="45.0860879">
+            <name>DEVANT LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.964907" lat="45.097397">
+            <name>LE LONG DE LA SALLE POLYVALENTE</name>
+        </rtept>
+        <rtept lon="3.9068004" lat="45.1190194">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.908228" lat="45.143322">
+            <name>DEVANT LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.84048" lat="45.10831">
+            <name>PLACE DES ANCIENS COMBATTANTS</name>
+        </rtept>
+        <rtept lon="3.81440997124" lat="45.134601593">
+            <name>MAIRIE (rue des remparts)</name>
+        </rtept>
+        <rtept lon="3.811629" lat="45.135537">
+            <name>GROUPE SCOLAIRE PIERRE JULIEN (rue des écoles)</name>
+        </rtept>
+        <rtept lon="3.82452201843" lat="45.1609764099">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.82023000717" lat="45.2204017639">
+            <name>EGLISE DE BELLEVUE LA MONTAGNE</name>
+        </rtept>
+        <rtept lon="3.82846593857" lat="45.262336731">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.81600999832" lat="45.2795982361">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.91304802895" lat="45.3033485413">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.88555526733" lat="45.2985581359">
+            <name>MUR EXTERIEUR DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.848337" lat="45.327591">
+            <name>DEVANT BV (route du stade)</name>
+        </rtept>
+        <rtept lon="3.8472468853" lat="45.3306922913">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.84525990486" lat="45.32970047">
+            <name>DEVANT LA MAIRIE (bd Félix Allard)</name>
+        </rtept>
+        <rtept lon="3.8033057" lat="45.3186963">
+            <name>DEVANT L’ECOLE</name>
+        </rtept>
+        <rtept lon="3.77430009842" lat="45.3352012634">
+            <name>DEVANT LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.74104189873" lat="45.3125991821">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.7327342" lat="45.3372892">
+            <name>PLACE DE L’EGLISE</name>
+        </rtept>
+        <rtept lon="3.698025" lat="45.321807">
+            <name>RUE CZIFFRA</name>
+        </rtept>
+        <rtept lon="3.74351501465" lat="45.2718086243">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.7124393" lat="45.2504436">
+            <name>RUE DU BAC</name>
+        </rtept>
+        <rtept lon="3.71535611153" lat="45.2202301025">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.710242033" lat="45.1987457275">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.74685907364" lat="45.1825485229">
+            <name>DEVANT LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.701795" lat="45.149018">
+            <name>1 RUE PRINCIPALE</name>
+        </rtept>
+        <rtept lon="3.667205" lat="45.142127">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.63875794411" lat="45.1790084839">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.64918994904" lat="45.2193908691">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.61074995995" lat="45.2122306824">
+            <name>EN FACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.59141302109" lat="45.2064857483">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.56011509895" lat="45.18699646">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.5396531" lat="45.2147086">
+            <name>DERRIERE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.515329" lat="45.206717">
+            <name>PLACE LAFAYETTE (devant la mairie)</name>
+        </rtept>
+        <rtept lon="3.49707603455" lat="45.1883163452">
+            <name>EN FACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.484375" lat="45.2108039856">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.460047" lat="45.23827">
+            <name>PLACE PUBLIQUE</name>
+        </rtept>
+        <rtept lon="3.47445988655" lat="45.2294654846">
+            <name>DEVANT LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.444206" lat="45.215063">
+            <name>SOUS LA COUR DE L’ECOLE</name>
+        </rtept>
+        <rtept lon="3.50282692909" lat="45.2481040955">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.48758006096" lat="45.2677001953">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.42110991478" lat="45.2887992859">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.42922997475" lat="45.3152999878">
+            <name>PARKING DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.44847798347" lat="45.3433685303">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.484921" lat="45.317164">
+            <name>PLACE PUBLIQUE DU BOURG</name>
+        </rtept>
+        <rtept lon="3.479656" lat="45.287297">
+            <name>LE BOURG</name>
+        </rtept>
+        <rtept lon="3.479656" lat="45.287297">
+            <name>LE BOURG</name>
+        </rtept>
+        <rtept lon="3.487567" lat="45.292599">
+            <name>CORNILLE</name>
+        </rtept>
+        <rtept lon="3.53911995888" lat="45.3004989624">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.52059793472" lat="45.2701072693">
+            <name>MUR COUR MAIRIE (extérieur)</name>
+        </rtept>
+        <rtept lon="3.541701" lat="45.254929">
+            <name>PLACE DU BOURG</name>
+        </rtept>
+        <rtept lon="3.565755" lat="45.267927">
+            <name>DEVANT LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.59529089928" lat="45.2847709656">
+            <name>COUR DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.610528" lat="45.243071">
+            <name>MUR PARKING SALLE POLYVALENTE</name>
+        </rtept>
+        <rtept lon="3.65074491501" lat="45.2585487366">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.64777588844" lat="45.299079895">
+            <name>RUE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.646798" lat="45.2987449">
+            <name>DEVANT LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.666627" lat="45.3497879">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.6221345" lat="45.3213335">
+            <name>PLACE DE L’EGLISE</name>
+        </rtept>
+        <rtept lon="3.56177997589" lat="45.3516998291">
+            <name>MUR DE LA SALLE DES FETES</name>
+        </rtept>
+        <rtept lon="3.53197002411" lat="45.3713684082">
+            <name>DEVANT LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.50318002701" lat="45.3574981689">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.49147701263" lat="45.3970146179">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.43857002258" lat="45.3807373047">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.3826705" lat="45.3625265">
+            <name>PLACE DE L’EGLISE (côté nord)</name>
+        </rtept>
+        <rtept lon="3.3638456" lat="45.3755681">
+            <name>SALLE POLYVALENTE</name>
+        </rtept>
+        <rtept lon="3.3359524" lat="45.4004485">
+            <name>PARKING SALLE POLYVALENTE</name>
+        </rtept>
+        <rtept lon="3.326201" lat="45.392833">
+            <name>ARREST. (rue de megecoste)</name>
+        </rtept>
+        <rtept lon="3.319366" lat="45.405443">
+            <name>PLACE FRANCOIS MITTERAND</name>
+        </rtept>
+        <rtept lon="3.3174975" lat="45.401596">
+            <name>SALLE POLYVALENTE (rue Arnaud)</name>
+        </rtept>
+        <rtept lon="3.3060617" lat="45.3851929">
+            <name>PARKING DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.319641" lat="45.371077">
+            <name>RUE MARCEL USTACHON</name>
+        </rtept>
+        <rtept lon="3.306712" lat="45.36574">
+            <name>ARVANT (route de Lempdes)</name>
+        </rtept>
+        <rtept lon="3.270199" lat="45.385621">
+            <name>MAIRIE (avenue de la gare)</name>
+        </rtept>
+        <rtept lon="3.2406771183" lat="45.3801307678">
+            <name>DEVANT LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.2213035" lat="45.3622012">
+            <name>DEVANT LA SALLE POLYVALENTE</name>
+        </rtept>
+        <rtept lon="3.21582" lat="45.350782">
+            <name>PROXIMITE SALLE POLYVALENTE</name>
+        </rtept>
+        <rtept lon="3.137587" lat="45.311908">
+            <name>COUR DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.16859698296" lat="45.3176651001">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.16993999481" lat="45.3190002441">
+            <name>PROXIMITE MAIRIE</name>
+        </rtept>
+        <rtept lon="3.1952829361" lat="45.2873649597">
+            <name>EN FACE DE LA MAIRIE (route impériale)</name>
+        </rtept>
+        <rtept lon="3.2662518" lat="45.2758162">
+            <name>DEVANT LA SALLE POLYVALENTE</name>
+        </rtept>
+        <rtept lon="3.24460291862" lat="45.2525596619">
+            <name>DEVANT LA MAIRIE ET LA SALLE POLYVALENTE</name>
+        </rtept>
+        <rtept lon="3.23279190063" lat="45.3069343567">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.26558494568" lat="45.3356285095">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.29521799088" lat="45.3427505493">
+            <name>MAIRIE</name>
+        </rtept>
+        <rtept lon="3.34239888191" lat="45.3132362366">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+        <rtept lon="3.3590167" lat="45.3066337">
+            <name>SALLE POLYVALENTE</name>
+        </rtept>
+        <rtept lon="3.609909" lat="45.122088">
+            <name>PLACE DE LA MAIRIE</name>
+        </rtept>
+    </rte>
+</gpx>

@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="panneaux-election.fr">
+    <rte>
+        <rtept lon="5.953142" lat="43.471767">
+            <name>Cantine Groupe Scolaire « La Brasque » au réfectoire des maternelles</name>
+        </rtept>
+        <rtept lon="6.232719" lat="43.562837">
+            <name>Complexe &quot;Charles SANDRO&quot;</name>
+        </rtept>
+        <rtept lon="6.1809654" lat="43.5663718">
+            <name>Salle du Conseil Municipal - Le Château</name>
+        </rtept>
+        <rtept lon="6.1491" lat="43.528378">
+            <name>Bâtiment communal des Ferrages, Rez-de-chaussée</name>
+        </rtept>
+        <rtept lon="6.18244981766" lat="43.4765014648">
+            <name>CARCES VILLAGE - Espace Culturel Maurice Janetti</name>
+        </rtept>
+        <rtept lon="6.18244981766" lat="43.4765014648">
+            <name>CARCES SUD - Espace Culturel Maurice Janetti</name>
+        </rtept>
+        <rtept lon="6.18244981766" lat="43.4765014648">
+            <name>CARCES NORD - Espace Culturel Maurice Janetti</name>
+        </rtept>
+        <rtept lon="6.1215365" lat="43.4738119">
+            <name>Mairie - 7,rue Rouguière</name>
+        </rtept>
+        <rtept lon="6.07929801941" lat="43.4879875183">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.0241049" lat="43.50132">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.03153419495" lat="43.5532608032">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.004495" lat="43.559639">
+            <name>A.L.S.H. - Place du 19 mars 1962</name>
+        </rtept>
+        <rtept lon="5.9432585" lat="43.5276138">
+            <name>Foyer Rural</name>
+        </rtept>
+        <rtept lon="5.953142" lat="43.471767">
+            <name>Cantine Groupe Scolaire « La Brasque » au réfectoire des primaires</name>
+        </rtept>
+        <rtept lon="5.953142" lat="43.471767">
+            <name>Cantine Groupe Scolaire « La Brasque » au réfectoire des maternelles</name>
+        </rtept>
+        <rtept lon="5.8859155" lat="43.4967024">
+            <name>Ecole maternelle</name>
+        </rtept>
+        <rtept lon="5.882667" lat="43.496171">
+            <name>Hall du Groupe Scolaire</name>
+        </rtept>
+        <rtept lon="5.883565" lat="43.587981">
+            <name>Salle Polyvalente adjacente à l’école coopérative des Pallières</name>
+        </rtept>
+        <rtept lon="5.849568" lat="43.5913855">
+            <name>Salle Polyvalente</name>
+        </rtept>
+        <rtept lon="5.81664" lat="43.59843">
+            <name>Salle Polyvalente</name>
+        </rtept>
+        <rtept lon="5.755413" lat="43.604546">
+            <name>Restaurant d’enfants, chemin de la Garde</name>
+        </rtept>
+        <rtept lon="5.84798002243" lat="43.6711349487">
+            <name>Mairie - Salle Polyvalente</name>
+        </rtept>
+        <rtept lon="5.809356" lat="43.7214">
+            <name>Ecole élémentaire, 48 avenue de la République</name>
+        </rtept>
+        <rtept lon="5.812023" lat="43.726021">
+            <name>Salle des fêtes, 323 esplanade le cours</name>
+        </rtept>
+        <rtept lon="5.9148166" lat="43.693589">
+            <name>Mairie de ST JULIEN</name>
+        </rtept>
+        <rtept lon="5.9148166" lat="43.693589">
+            <name>Mairie Annexe, Les Rouvières.</name>
+        </rtept>
+        <rtept lon="5.9365498" lat="43.6360788">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.9613186" lat="43.5981817">
+            <name>Centre Communal - J.LANTEAUME (R de C)</name>
+        </rtept>
+        <rtept lon="6.01459" lat="43.593264">
+            <name>2 Grand’Rue</name>
+        </rtept>
+        <rtept lon="6.10159921646" lat="43.5862045288">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.063457" lat="43.64654">
+            <name>Salle Communale – Place de la Coopérative</name>
+        </rtept>
+        <rtept lon="6.13017988205" lat="43.6558990479">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.129643" lat="43.657273">
+            <name>Ecole le Plantier</name>
+        </rtept>
+        <rtept lon="6.165439" lat="43.655206">
+            <name>Centre polyvalent de la Combe</name>
+        </rtept>
+        <rtept lon="6.093123" lat="43.703403">
+            <name>Nouvel Hôtel de ville- Les Planets</name>
+        </rtept>
+        <rtept lon="6.1364328" lat="43.716566">
+            <name>Mairie - Salle Polyvalente</name>
+        </rtept>
+        <rtept lon="6.175311" lat="43.73383">
+            <name>Cantine de l’École Primaire</name>
+        </rtept>
+        <rtept lon="6.243474" lat="43.77505">
+            <name>Salle Polyvalente F. Chauvin</name>
+        </rtept>
+        <rtept lon="6.208629" lat="43.774281">
+            <name>Salle des Fêtes « François Simian »</name>
+        </rtept>
+        <rtept lon="6.27281188965" lat="43.6539039612">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.223783" lat="43.624102">
+            <name>Foyer des Jeunes</name>
+        </rtept>
+        <rtept lon="6.223783" lat="43.624102">
+            <name>Centre Culturel</name>
+        </rtept>
+        <rtept lon="6.277461" lat="43.583717">
+            <name>Maison des associations - Bd Charles Bernard</name>
+        </rtept>
+        <rtept lon="6.30224895477" lat="43.589302063">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.3834400177" lat="43.6072006226">
+            <name>Mairie - Salle du Conseil (R de C)</name>
+        </rtept>
+        <rtept lon="6.450451" lat="43.597316">
+            <name>Salle Polyvalente, Grande Place</name>
+        </rtept>
+        <rtept lon="6.450235" lat="43.596667">
+            <name>369 rue Principale à Rebouillon</name>
+        </rtept>
+        <rtept lon="6.4968165" lat="43.570583">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.501482" lat="43.571003">
+            <name>Centre d&#39;Animation</name>
+        </rtept>
+        <rtept lon="6.481543" lat="43.612948">
+            <name>Mairie – 1 placette de la mairie</name>
+        </rtept>
+        <rtept lon="6.507927" lat="43.709205">
+            <name>Le Silo, au rez-de-chaussée de l’Hôtel de ville</name>
+        </rtept>
+        <rtept lon="6.444087" lat="43.761062">
+            <name>Salle Culturelle – Rue du Four</name>
+        </rtept>
+        <rtept lon="6.518749" lat="43.783681">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.543774" lat="43.766725">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.57675218582" lat="43.7780914307">
+            <name>Mairie - Salle du Conseil</name>
+        </rtept>
+        <rtept lon="6.599143" lat="43.771611">
+            <name>Mairie - Salle du Conseil</name>
+        </rtept>
+        <rtept lon="6.6245617" lat="43.7343114">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.629754" lat="43.723869">
+            <name>Mairie - Salle du Rez de Chaussée</name>
+        </rtept>
+        <rtept lon="6.57182407379" lat="43.7297782898">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.549554" lat="43.619585">
+            <name>Mairie, Salle du Rez de Chaussée</name>
+        </rtept>
+        <rtept lon="6.537991" lat="43.592942">
+            <name>Centre Beaujour, quartier Le Ray Sud</name>
+        </rtept>
+        <rtept lon="6.56212377548" lat="43.6012268066">
+            <name>Salle des fêtes</name>
+        </rtept>
+        <rtept lon="6.692323" lat="43.566954">
+            <name>CCAL (Centre Culturel) – 114 place du Champ de</name>
+        </rtept>
+        <rtept lon="6.692323" lat="43.566954">
+            <name>Foire</name>
+        </rtept>
+        <rtept lon="6.692323" lat="43.566954">
+            <name>Salle du Conseil municipal – Mairie – 154 place du Champ de Foire</name>
+        </rtept>
+        <rtept lon="6.688386" lat="43.613736">
+            <name>Ecole La Colombe</name>
+        </rtept>
+        <rtept lon="6.6881805" lat="43.6154702">
+            <name>Collège Marie Mauron « salle Agora »</name>
+        </rtept>
+        <rtept lon="6.693586" lat="43.622889">
+            <name>Ancien Gymnase Lou Baguié</name>
+        </rtept>
+        <rtept lon="6.694274" lat="43.623098">
+            <name>Espace Culturel</name>
+        </rtept>
+        <rtept lon="6.695119" lat="43.624234">
+            <name>Ecole du Château</name>
+        </rtept>
+        <rtept lon="6.702247" lat="43.622594">
+            <name>SALLE N° 1 de l’ESPACE DES ROMARINS</name>
+        </rtept>
+        <rtept lon="6.702247" lat="43.622594">
+            <name>SALLE DES ROMARINS QUARTIER RATON</name>
+        </rtept>
+        <rtept lon="6.6771828" lat="43.6511654">
+            <name>Salle polyvalente</name>
+        </rtept>
+        <rtept lon="6.713613" lat="43.690105">
+            <name>Mairie – 31, rue Jean Vadon</name>
+        </rtept>
+        <rtept lon="6.751793" lat="43.621795">
+            <name>Centre Village, Groupe scolaire, Route de Fayence</name>
+        </rtept>
+        <rtept lon="6.751793" lat="43.621795">
+            <name>Secteur Sud, Groupe scolaire</name>
+        </rtept>
+        <rtept lon="6.751793" lat="43.621795">
+            <name>Secteur Nord, Groupe scolaire</name>
+        </rtept>
+        <rtept lon="6.7698777" lat="43.618349">
+            <name>Ecoles, Quartier le Puits</name>
+        </rtept>
+        <rtept lon="6.7643255" lat="43.6180435">
+            <name>Mairie, Place du Clos</name>
+        </rtept>
+        <rtept lon="6.765166" lat="43.617729">
+            <name>Ecole du Lac, Quartier la Colle Noire</name>
+        </rtept>
+        <rtept lon="6.7822172" lat="43.5510205">
+            <name>Salle polyvalente, Les Estérêts du Lac</name>
+        </rtept>
+        <rtept lon="6.533614" lat="43.493297">
+            <name>Salle des fêtes</name>
+        </rtept>
+        <rtept lon="6.4867065" lat="43.5037659">
+            <name>Hôtel de Ville</name>
+        </rtept>
+        <rtept lon="6.4783173" lat="43.5056462">
+            <name>Salle BERAUD</name>
+        </rtept>
+        <rtept lon="6.485968" lat="43.500429">
+            <name>Club des Jeunes - 1 avenue Notre Dame</name>
+        </rtept>
+        <rtept lon="6.485424" lat="43.50278">
+            <name>Salle BERAUD-miroirs</name>
+        </rtept>
+        <rtept lon="6.485315" lat="43.5034637">
+            <name>Ecole maternelle</name>
+        </rtept>
+        <rtept lon="6.4853935" lat="43.5035825">
+            <name>Ecole Primaire</name>
+        </rtept>
+        <rtept lon="6.476997" lat="43.532061">
+            <name>Ecole Paul Arène, Avenue Paul Arène</name>
+        </rtept>
+        <rtept lon="6.476997" lat="43.532061">
+            <name>Maternelle Paul Arène, Avenue Paul Arène</name>
+        </rtept>
+        <rtept lon="6.482131" lat="43.53151">
+            <name>Ecole Marcel Pagnol, Chemin sainte Barbe</name>
+        </rtept>
+        <rtept lon="6.484756" lat="43.531643">
+            <name>Ecole Jacques Brel, Traverse Jacques Brel</name>
+        </rtept>
+        <rtept lon="6.472809" lat="43.535877">
+            <name>Ecole Mistral II, Boulevard John Kennedy</name>
+        </rtept>
+        <rtept lon="6.472809" lat="43.535877">
+            <name>Ecole Frédéric Mistral 1, Boulevard John Kennedy</name>
+        </rtept>
+        <rtept lon="6.468042" lat="43.536609">
+            <name>Ecole Jean Jaurès I, Boulevard des Fleurs</name>
+        </rtept>
+        <rtept lon="6.465366" lat="43.539447">
+            <name>Résidence pour personnes âgées, Rue Juiverie</name>
+        </rtept>
+        <rtept lon="6.465366" lat="43.539447">
+            <name>Hall du Théâtre, Boulevard Georges Clemenceau</name>
+        </rtept>
+        <rtept lon="6.465366" lat="43.539447">
+            <name>Collège Jean Rostand, Avenue du Fournas</name>
+        </rtept>
+        <rtept lon="6.465366" lat="43.539447">
+            <name>Office du Tourisme, Avenue Lazare Carnot</name>
+        </rtept>
+        <rtept lon="6.465366" lat="43.539447">
+            <name>Complexe Henri Giran, Gymnase du COSEC, boulevard Léon Blum</name>
+        </rtept>
+        <rtept lon="6.465366" lat="43.539447">
+            <name>Maternelle Pierre Brossolette, Avenue du 4 Septembre</name>
+        </rtept>
+        <rtept lon="6.465366" lat="43.539447">
+            <name>Maternelle Jean Giono, Avenue Lazare Carnot</name>
+        </rtept>
+        <rtept lon="6.465366" lat="43.539447">
+            <name>Ecole Maternelle Jean Jaurès II, Boulevard des Fleurs</name>
+        </rtept>
+        <rtept lon="6.465366" lat="43.539447">
+            <name>Foyer Ramadier, Boulevard Joseph Collomp</name>
+        </rtept>
+        <rtept lon="6.465366" lat="43.539447">
+            <name>Maternelle Jacques Brel, salle Polyvalente, Traverse Jacques Brel</name>
+        </rtept>
+        <rtept lon="6.465366" lat="43.539447">
+            <name>Collège Général Ferrié Place Yitzhak Rabin</name>
+        </rtept>
+        <rtept lon="6.456596" lat="43.5401365">
+            <name>Ecole Jules Ferry, Avenue Jules Ferry</name>
+        </rtept>
+        <rtept lon="6.4580625" lat="43.5403813">
+            <name>Maternelle Jean Aicard, Rue Jean Aicard</name>
+        </rtept>
+        <rtept lon="6.455099" lat="43.541565">
+            <name>Ecole Daudet, Avenue Alphonse Daudet</name>
+        </rtept>
+        <rtept lon="6.452281" lat="43.54009">
+            <name>Ecole Maternelle Jean Zay, salle du Réfectoire, 108 Allée Jean Zay</name>
+        </rtept>
+        <rtept lon="6.451104" lat="43.532557">
+            <name>Ecole Pierre Brossolette, Avenue du 4 Septembre</name>
+        </rtept>
+        <rtept lon="6.451104" lat="43.532557">
+            <name>Ecole Pierre Brossolette, Avenue du 4 Septembre</name>
+        </rtept>
+        <rtept lon="6.397644" lat="43.533747">
+            <name>Salle Espace d’activités 3, Boulevard Docteur GERMAN</name>
+        </rtept>
+        <rtept lon="6.396674" lat="43.534123">
+            <name>Salle Espace d’activités 2, Rue Roger Chieusse</name>
+        </rtept>
+        <rtept lon="6.395691" lat="43.533545">
+            <name>Hôtel de ville, Avenue Angelin German</name>
+        </rtept>
+        <rtept lon="6.385712" lat="43.538338">
+            <name>Ecole Maternelle, Impasse des Ecoles, Route de Salernes</name>
+        </rtept>
+        <rtept lon="6.28810405731" lat="43.5145072937">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.241205" lat="43.515759">
+            <name>Salle communale « L’Age d’Or »</name>
+        </rtept>
+        <rtept lon="5.953142" lat="43.471767">
+            <name>Cantine Groupe Scolaire « La Brasque » au réfectoire des maternelles</name>
+        </rtept>
+    </rte>
+</gpx>

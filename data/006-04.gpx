@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="panneaux-election.fr">
+    <rte>
+        <rtept lon="7.3466419" lat="43.7340146">
+            <name>Ecole André Gianton à droite du l&#39;entrée de l&#39;école</name>
+        </rtept>
+        <rtept lon="7.555278" lat="44.003318">
+            <name>Quartier &quot;La Tourette&quot;</name>
+        </rtept>
+        <rtept lon="7.615749" lat="44.061752">
+            <name>Place Général de Gaulle au hameau de Morignole</name>
+        </rtept>
+        <rtept lon="7.615749" lat="44.061752">
+            <name>Place de Nice à côté du bureau de vote, panneaux métalliques le long de la RD 43 côté Levenza</name>
+        </rtept>
+        <rtept lon="7.61518001556" lat="44.0637016296">
+            <name>Dans l&#39;agglomération de Tende : devant la mairie Place Général de Gaulle</name>
+        </rtept>
+        <rtept lon="7.61518001556" lat="44.0637016296">
+            <name>Dans l&#39;agglomération de Saint Dalmas de Tende : devant la mairie annexe avenue de France Saint Dalmas de Tende</name>
+        </rtept>
+        <rtept lon="7.592787" lat="44.087061">
+            <name>Quartier la petit bois devant l&#39;Ecole primaire du petit bois 06430 dans l&#39;agglomération de Saint Dalmas de Tende</name>
+        </rtept>
+        <rtept lon="7.592787" lat="44.087061">
+            <name>Place de la Gare devant la salle polyvalente 06430 dans l&#39;agglomération de Tende</name>
+        </rtept>
+        <rtept lon="7.568624" lat="44.027599">
+            <name>Hameau de Berghe Supérieur - ancienne école</name>
+        </rtept>
+        <rtept lon="7.553709" lat="44.002713">
+            <name>Hôtel de ville 3,avenue Théophile Bottone</name>
+        </rtept>
+        <rtept lon="7.4473097" lat="43.8780346">
+            <name>Le long du Pont de la Libération</name>
+        </rtept>
+        <rtept lon="7.450804" lat="43.879579">
+            <name>devant le Gymnase, stade municipal</name>
+        </rtept>
+        <rtept lon="7.412958" lat="43.940695">
+            <name>Mairie, place Saint Joseph</name>
+        </rtept>
+        <rtept lon="7.411462" lat="43.941546">
+            <name>Place Saint Roch</name>
+        </rtept>
+        <rtept lon="7.413233" lat="43.94209">
+            <name>boulevard René Coty</name>
+        </rtept>
+        <rtept lon="7.3610355" lat="43.9324415">
+            <name>Mairie annexe de Peïra Cava - devant la façade du bâtiment</name>
+        </rtept>
+        <rtept lon="7.3594578" lat="43.882979">
+            <name>Ecole Charles Barraya - le grillage de la cour, côté boulevard des écoles&quot;</name>
+        </rtept>
+        <rtept lon="7.364219" lat="43.846739">
+            <name>Au niveau du 17 bis Route Nationale, en-dessous des escaliers qui mènent sur la place du Tracoal (place de la mairie).</name>
+        </rtept>
+        <rtept lon="7.35581" lat="43.834458">
+            <name>au début de l&#39;avenue du général de Gaulle en face de l&#39;ancien groupe scolaire les Tilleuls RD6021</name>
+        </rtept>
+        <rtept lon="7.35581" lat="43.834458">
+            <name>Devant le bureau de vote situé au groupe scolaire Antoine de Saint Exupéry, 100 avenue Charles Marius Peirani</name>
+        </rtept>
+        <rtept lon="7.355298" lat="43.833614">
+            <name>Devant la mairie, place d&#39;Audiffret</name>
+        </rtept>
+        <rtept lon="7.32833003998" lat="43.8301010132">
+            <name>Sur la passerelle (accès handicapés) menant à la Mairie</name>
+        </rtept>
+        <rtept lon="7.327676" lat="43.830337">
+            <name>Sur l&#39;avenue Paul Granet, au niveau de l&#39;entrée du parking municipal</name>
+        </rtept>
+        <rtept lon="7.342982" lat="43.813623">
+            <name>Sclos de Contes (mairie annexe)</name>
+        </rtept>
+        <rtept lon="7.336866" lat="43.8052594">
+            <name>Place Castelli la Vernéa de Contes</name>
+        </rtept>
+        <rtept lon="7.3364216" lat="43.8055687">
+            <name>Place du Trinco (à gauche de la rue Scudéri)</name>
+        </rtept>
+        <rtept lon="7.321406" lat="43.804099">
+            <name>Chemin du Pilon (lavoir)</name>
+        </rtept>
+        <rtept lon="7.312709" lat="43.808894">
+            <name>Chemin de Miaglia (face à la salle Miaglia)</name>
+        </rtept>
+        <rtept lon="7.315386" lat="43.809628">
+            <name>Place Jean Allardi (médiathèque)</name>
+        </rtept>
+        <rtept lon="7.31431007385" lat="43.8100013733">
+            <name>Mairie 1 place F. Raiberti, en bas des escaliers qui montent vers l&#39;entrée de la mairie</name>
+        </rtept>
+        <rtept lon="7.314764" lat="43.809906">
+            <name>Place Albert Ollivier (près de l&#39;ascenseur)</name>
+        </rtept>
+        <rtept lon="7.314696" lat="43.811511">
+            <name>Rue du 8 mai 45 (face à la mairie)</name>
+        </rtept>
+        <rtept lon="7.307385" lat="43.81728">
+            <name>Rue Flaminius Raiberti (face à la croix)</name>
+        </rtept>
+        <rtept lon="7.29453" lat="43.863927">
+            <name>Groupe scolaire &quot;Le Blé en herbe&quot; 67 , route du Col Saint Roch</name>
+        </rtept>
+        <rtept lon="7.29645013809" lat="43.8086013794">
+            <name>Mairie, 18 avenue de la Tour, contre le mur de la cour située devant la mairie et la salle des mariages utilisée comme bureau de vote</name>
+        </rtept>
+        <rtept lon="7.295305" lat="43.80802">
+            <name>Carrefour de Pré du Lac</name>
+        </rtept>
+        <rtept lon="7.295305" lat="43.80802">
+            <name>Salle Culturelle &quot;Terrasse des Arts&quot;</name>
+        </rtept>
+        <rtept lon="7.320069" lat="43.802971">
+            <name>Chemin du Gheit (Maison Pour Tous)</name>
+        </rtept>
+        <rtept lon="7.318093" lat="43.804084">
+            <name>Les Mas du Val de Contes (Paillon face à l&#39;allée des fleurs)</name>
+        </rtept>
+        <rtept lon="7.31411" lat="43.760414">
+            <name>45, place de l&#39;école à proximité de la salle polyvalente H. Bermont</name>
+        </rtept>
+        <rtept lon="7.320176" lat="43.755633">
+            <name>Place de l&#39;école, 1 avenue général de Gaulle</name>
+        </rtept>
+        <rtept lon="7.32114" lat="43.754728">
+            <name>Plan de Rimont, près de la station de pompage</name>
+        </rtept>
+        <rtept lon="7.320319" lat="43.758183">
+            <name>63 avenue général de Gaulle, près du parking DDE</name>
+        </rtept>
+        <rtept lon="7.334732" lat="43.757021">
+            <name>Carrefour de la Colle</name>
+        </rtept>
+        <rtept lon="7.32987" lat="43.769926">
+            <name>Place de la Grange</name>
+        </rtept>
+        <rtept lon="7.331881" lat="43.770565">
+            <name>Place des Muriers (face usine Jauffret)</name>
+        </rtept>
+        <rtept lon="7.340007" lat="43.777572">
+            <name>Mairie du village, à droite de l&#39;entrée de la mairie</name>
+        </rtept>
+        <rtept lon="7.3414" lat="43.785948">
+            <name>La Pointe de Contes (face à la mairie)</name>
+        </rtept>
+        <rtept lon="7.364715" lat="43.80436">
+            <name>Ecole maternelle de La Pointe, à droite de l&#39;entrée de l&#39;école</name>
+        </rtept>
+        <rtept lon="7.365691" lat="43.768271">
+            <name>&quot;Groupe scolaire Borgheas, Promenade Antoine Passeron - Borghéas - sur le mur de soutènement de l&#39;école</name>
+        </rtept>
+        <rtept lon="7.38109588623" lat="43.7778491625">
+            <name>&quot;Mairie&quot; - Avenue de l&#39;Hôtel de Ville - Sainte-Thècle - sur le mur de soutènement de la salle des mariages</name>
+        </rtept>
+        <rtept lon="7.385469" lat="43.797032">
+            <name>Centre administratif de la Grave de Peille - Route des Clues - LA GRAVE DE PEILLE</name>
+        </rtept>
+        <rtept lon="7.400623" lat="43.802014">
+            <name>Bâtiment du Téléphérique à Saint Martin de Peille</name>
+        </rtept>
+        <rtept lon="7.4016075" lat="43.802828">
+            <name>Mairie de Peille Village (au droit de la Mairie) PEILLE</name>
+        </rtept>
+        <rtept lon="7.461472" lat="43.80062">
+            <name>Mairie du Village - Place de la Mairie - mur en face du bureau</name>
+        </rtept>
+        <rtept lon="7.466837" lat="43.789403">
+            <name>Centre Administratif Castagnins - sous la place Saint Jean - mur à droite du parking.</name>
+        </rtept>
+        <rtept lon="7.4838892" lat="43.780534">
+            <name>Maternelle René Cassin - Avenue de Prades devant l&#39;école René Cassin</name>
+        </rtept>
+        <rtept lon="7.4861932" lat="43.7789911">
+            <name>Ecole André Guillevin - Avenue des Acacias le long de la Clôture de l&#39;école</name>
+        </rtept>
+        <rtept lon="7.4930712" lat="43.7875826">
+            <name>Maternelle du Careï - Traverse Boraschi</name>
+        </rtept>
+        <rtept lon="7.5019681" lat="43.7763869">
+            <name>Ecole de l&#39;Hôtel de Ville - Rue Saint Charles (face au Collège A. MAUROIS) le long de la clôture de l&#39;école</name>
+        </rtept>
+        <rtept lon="7.5122558" lat="43.7835206">
+            <name>Ecole Alphonse Daudet - Avenue Saint Jacques près du stade Lucien Rhein</name>
+        </rtept>
+        <rtept lon="7.5058074" lat="43.778146">
+            <name>Cimetiere du Vieux Château - Montée du Souvenir (haut)</name>
+        </rtept>
+        <rtept lon="7.506746" lat="43.777041">
+            <name>Ecole Frédéric Mistral - Montée du Souvenir (début)</name>
+        </rtept>
+        <rtept lon="7.503405" lat="43.781874">
+            <name>Boulevard du Fossan - Quartier du Paropert</name>
+        </rtept>
+        <rtept lon="7.504783" lat="43.77824">
+            <name>Rue de la Conception/Promenade du Val de Menton (début de la Rue de la Conception)</name>
+        </rtept>
+        <rtept lon="7.5028289" lat="43.7757007">
+            <name>Hôtel de ville - Rue Saint-Charles (début de la rue)</name>
+        </rtept>
+        <rtept lon="7.497317" lat="43.775632">
+            <name>Résidence du Louvre - Rue du Louvre (au début de la montée)</name>
+        </rtept>
+        <rtept lon="7.4938757" lat="43.7719766">
+            <name>Ecole de la Condamine et Ecole maternelle Germaine Coty - Rue Morgan (même panneaux pour les 5 bureaux dans la rue Morgan</name>
+        </rtept>
+        <rtept lon="7.492354" lat="43.772002">
+            <name>Avenue Cochrane - au droit de la villa &quot;Victoire&quot;(conservatoire de musique)</name>
+        </rtept>
+        <rtept lon="7.485466" lat="43.762863">
+            <name>Promenade Robert Schuman (face à l&#39;esplanade Jean Gioan)</name>
+        </rtept>
+        <rtept lon="7.484702" lat="43.765838">
+            <name>Ecole Marcel Pagnol - Rue Paul Morillot (à gauche de l&#39;école Marcel Pagnol)</name>
+        </rtept>
+        <rtept lon="7.47407" lat="43.774777">
+            <name>Val de Gorbio - Villa Marguerite (au croisement de la rue Paul Morillot et celle du Val de Gorbio)</name>
+        </rtept>
+        <rtept lon="7.444163" lat="43.785825">
+            <name>Mairie Gorbio Village : devant le gite communal 6 rue Garibaldi jusqu&#39;au porche</name>
+        </rtept>
+        <rtept lon="7.444163" lat="43.785825">
+            <name>Salle communale, 140 route du Sanatorium, début de la route, côté gauche en montant</name>
+        </rtept>
+        <rtept lon="7.469714" lat="43.763031">
+            <name>Avenue du Danemark</name>
+        </rtept>
+        <rtept lon="7.473723" lat="43.762185">
+            <name>Avenue Albert 1er</name>
+        </rtept>
+        <rtept lon="7.4783431" lat="43.7637891">
+            <name>Salle de Augustinis - Parking Stade Décazes</name>
+        </rtept>
+        <rtept lon="7.47579" lat="43.764453">
+            <name>Chemin du Vallonet (mur du stade)</name>
+        </rtept>
+        <rtept lon="7.477612" lat="43.758632">
+            <name>Avenue de la Paix (pont du chemin de fer)</name>
+        </rtept>
+        <rtept lon="7.474226" lat="43.756653">
+            <name>C.C.L. Cabbé - Place Marius Otto</name>
+        </rtept>
+        <rtept lon="7.474226" lat="43.756653">
+            <name>Carrefour Avenue du Serret, Place Stalingrad</name>
+        </rtept>
+        <rtept lon="7.474226" lat="43.756653">
+            <name>C.C.L. Charles Imbert - avenue de la Plage (Face école primaire, près du pont SNCF)</name>
+        </rtept>
+        <rtept lon="7.474226" lat="43.756653">
+            <name>Place du Commissaire Harang</name>
+        </rtept>
+        <rtept lon="7.474226" lat="43.756653">
+            <name>Espace Municipal Jeunes - avenue de la Lodola - Panneaux situés Parking croisement avenue de la Lodola avenue de la Pinède</name>
+        </rtept>
+        <rtept lon="7.474226" lat="43.756653">
+            <name>C.C.L. Ange Gai - avenue Princesse Grâce (à hauteur du CCL Ange Gai)</name>
+        </rtept>
+        <rtept lon="7.474226" lat="43.756653">
+            <name>Carrefour avenue Louis Pasteur et avenue François de Monléon</name>
+        </rtept>
+        <rtept lon="7.47327" lat="43.758213">
+            <name>Hôtel de ville - 22 avenue Paul Doumer</name>
+        </rtept>
+        <rtept lon="7.457343" lat="43.7606178">
+            <name>Parking Place Brigliano</name>
+        </rtept>
+        <rtept lon="7.4482077" lat="43.7543539">
+            <name>Club House - Esplanade Jean Gioan (face aux bureaux de vote)</name>
+        </rtept>
+        <rtept lon="7.435891" lat="43.751183">
+            <name>Avenue de Saint Roman (école du Ténao)</name>
+        </rtept>
+        <rtept lon="7.423821" lat="43.742773">
+            <name>Avenue Maréchal Foch (Salle des Fêtes)</name>
+        </rtept>
+        <rtept lon="7.42458" lat="43.743021">
+            <name>Rue Jules Ferry (grille du square Camille Blanc face à l&#39;ancienne école Jules Ferry)</name>
+        </rtept>
+        <rtept lon="7.425662" lat="43.743097">
+            <name>Boulevard de la République (face à l&#39;office de tourisme sur la grille de la place de la libération)</name>
+        </rtept>
+        <rtept lon="7.425263" lat="43.743038">
+            <name>27 boulevard de la République (sur les grilles du square Camille Blanc face à la Poste)</name>
+        </rtept>
+        <rtept lon="7.415024" lat="43.738539">
+            <name>Avenue Paul Doumer (école Paul Doumer)</name>
+        </rtept>
+        <rtept lon="7.413993" lat="43.736932">
+            <name>Rue Victor Hugo (Grille de l&#39;école Maternelle face à FASANELLI)</name>
+        </rtept>
+        <rtept lon="7.408057" lat="43.740504">
+            <name>Carrefour Chemin des Révoires - Moyenne Corniche</name>
+        </rtept>
+        <rtept lon="7.3613773" lat="43.729292">
+            <name>Mairie annexe, 22 avenue de la liberté, devant la mairie annexe côté droit face au portail d&#39;entrée</name>
+        </rtept>
+        <rtept lon="7.361886" lat="43.729044">
+            <name>Mairie d&#39;Eze, 6 avenue du jardin exotique, début de l&#39;avenue du jardin exotique à gauche</name>
+        </rtept>
+        <rtept lon="7.3466419" lat="43.7340146">
+            <name>Ecole André Gianton à droite du l&#39;entrée de l&#39;école</name>
+        </rtept>
+        <rtept lon="7.325009" lat="43.7153178">
+            <name>Ecole Saint Michel, à l&#39;entrée de l&#39;école, Plateau Saint Michel</name>
+        </rtept>
+        <rtept lon="7.303438" lat="43.705535">
+            <name>Corne d&#39;Or, HLM Corne d&#39;Or, 8 Chemin François Ferry</name>
+        </rtept>
+        <rtept lon="7.311081" lat="43.703759">
+            <name>Office Municipal du Tourisme, Avenue Maréchal Foch</name>
+        </rtept>
+        <rtept lon="7.311081" lat="43.703759">
+            <name>Foyer du Caroubier, Avenue Georges Clémenceau, en face du bureau</name>
+        </rtept>
+        <rtept lon="7.311081" lat="43.703759">
+            <name>Gymnase Les Glacis, Avenue Général de Gaulle</name>
+        </rtept>
+        <rtept lon="7.311081" lat="43.703759">
+            <name>Avenue Sadi Carnot, en descendant vers la citadelle, côté droit près des toilettes publics, après Place Charles d&#39;Anjou</name>
+        </rtept>
+        <rtept lon="7.311081" lat="43.703759">
+            <name>Chemin François Ferry, dans la montée direction Col de Villefranche</name>
+        </rtept>
+        <rtept lon="7.311081" lat="43.703759">
+            <name>Hôtel de Ville, La Citadelle avant le pont-levis à gauche</name>
+        </rtept>
+        <rtept lon="7.320512" lat="43.70491">
+            <name>Pierre et Vacances, boulevard Napoléon III</name>
+        </rtept>
+        <rtept lon="7.3101531" lat="43.7041618">
+            <name>Sainte-Elisabeth, Place Sainte Elisabeth</name>
+        </rtept>
+        <rtept lon="7.3421948" lat="43.6861221">
+            <name>Place Georges Clémenceau, sur la place</name>
+        </rtept>
+        <rtept lon="7.343839" lat="43.685697">
+            <name>Chemin de Saint Hospice, début</name>
+        </rtept>
+        <rtept lon="7.333455" lat="43.68755">
+            <name>Boulevard Dominique Durandy, face caserne des pompiers</name>
+        </rtept>
+        <rtept lon="7.333455" lat="43.68755">
+            <name>Boulevard général de Gaulle, intersection de Gaulle/Albert premier</name>
+        </rtept>
+        <rtept lon="7.333596" lat="43.6926505">
+            <name>Cros dei Pins, Parking de la plage</name>
+        </rtept>
+        <rtept lon="7.331537" lat="43.692083">
+            <name>Mairie, hôtel de ville, 21 avenue Denis Séméria</name>
+        </rtept>
+        <rtept lon="7.328694" lat="43.703371">
+            <name>Collège - 1 rue Charles II Comte de Provence - Portail parking livraisons</name>
+        </rtept>
+        <rtept lon="7.331168" lat="43.706566">
+            <name>Boulevard Edouard VII face au n° propriété Durante</name>
+        </rtept>
+        <rtept lon="7.331168" lat="43.706566">
+            <name>Boulevard Marinoni face au n° 40 &quot;Bazar et Chiffons&quot; - Grilles face à l&#39;immeuble &quot;Empress Résidence&quot;</name>
+        </rtept>
+        <rtept lon="7.331168" lat="43.706566">
+            <name>Carrefour : Boulevard Leclerc/Boulevard E. Gauthier - face à l&#39;Hôtel FRISIA sur les terrasses du Port de Plaisance</name>
+        </rtept>
+        <rtept lon="7.331343" lat="43.706896">
+            <name>Place Clémenceau - Grilles Palais des Anglais face à l&#39;Office du Tourisme</name>
+        </rtept>
+        <rtept lon="7.331468" lat="43.708566">
+            <name>Place Marinoni</name>
+        </rtept>
+        <rtept lon="7.33192" lat="43.709555">
+            <name>Salle André Compan - 10 boulevard Marinoni - grilles de l&#39;Ecole Elementaire</name>
+        </rtept>
+        <rtept lon="7.334009" lat="43.705921">
+            <name>Maréchal Leclerc - n° 32 Abribus Catalan</name>
+        </rtept>
+        <rtept lon="7.3352" lat="43.706586">
+            <name>Hôtel de ville - 3 boulevard Maréchal Leclerc</name>
+        </rtept>
+        <rtept lon="7.396449" lat="43.7242">
+            <name>Face au 1 et 1bis avenue du Général de Gaulle</name>
+        </rtept>
+        <rtept lon="7.405552" lat="43.720701">
+            <name>Au carrefour avenue des Douaniers et chemin du Golfe</name>
+        </rtept>
+        <rtept lon="7.405552" lat="43.720701">
+            <name>16 avenue Savorani face au &quot;San Marco&quot;</name>
+        </rtept>
+        <rtept lon="7.4139009" lat="43.7265802">
+            <name>A l&#39;entrée de l&#39;avenue Marquet &quot;stade municipal&quot;</name>
+        </rtept>
+        <rtept lon="7.411828" lat="43.727941">
+            <name>Face au 62 bis avenue du 3 septembre</name>
+        </rtept>
+        <rtept lon="7.411828" lat="43.727941">
+            <name>Face au 34 avenue du 3 septembre</name>
+        </rtept>
+        <rtept lon="7.411828" lat="43.727941">
+            <name>116 avenue du 3 septembre &quot;le Radium&quot;</name>
+        </rtept>
+        <rtept lon="7.410988" lat="43.727186">
+            <name>1, place de la Liberté</name>
+        </rtept>
+        <rtept lon="7.408351" lat="43.726501">
+            <name>Face au 34 avenue Jacques Abba</name>
+        </rtept>
+        <rtept lon="7.398866" lat="43.726774">
+            <name>1 chemin Romain &quot;les Genêts&quot;</name>
+        </rtept>
+        <rtept lon="7.391778" lat="43.733198">
+            <name>142 vallée du Serrier (au droit de la propriété PIVA)</name>
+        </rtept>
+        <rtept lon="7.398331" lat="43.744169">
+            <name>Allée du Stade</name>
+        </rtept>
+        <rtept lon="7.40034" lat="43.739245">
+            <name>Route de la Tête de Chien (au droit du 1er cours de tennis)</name>
+        </rtept>
+        <rtept lon="7.399985" lat="43.74526">
+            <name>Carrefour de Sarre (Route de Nice - Route de Laghet)</name>
+        </rtept>
+        <rtept lon="7.399985" lat="43.74526">
+            <name>Plaque de Retournement Quartier Lavina (Chemin de Saint Roch – Chemin des Révoires)</name>
+        </rtept>
+        <rtept lon="7.39882993698" lat="43.7453994751">
+            <name>Avenue de la Victoire, face au parking contigü à la Mairie</name>
+        </rtept>
+        <rtept lon="7.7093155" lat="44.0755081">
+            <name>Place saint Martin à côté de la mairie, panneaux métalliques à l&#39;entrée du parking côté RD</name>
+        </rtept>
+        <rtept lon="7.4778444" lat="43.7947712">
+            <name>Ancien Hameau des Cabrolles 220 avenue Saint Michel - mur en face l&#39;école communale Ch Imbert</name>
+        </rtept>
+        <rtept lon="7.4886504" lat="43.8016097">
+            <name>Ecole Saint-Exupéry - Avenue Saint Roman</name>
+        </rtept>
+        <rtept lon="7.487563" lat="43.804386">
+            <name>Avenue Saint Roman - En face de l&#39;immeuble &quot;Le Saint Roman&quot;</name>
+        </rtept>
+        <rtept lon="7.485675" lat="43.809828">
+            <name>Hameau de Monti - Place de L&#39;Eglise</name>
+        </rtept>
+        <rtept lon="7.497374" lat="43.80423">
+            <name>Avenue veuve Asso - en face de la mairie</name>
+        </rtept>
+        <rtept lon="7.471522" lat="43.833376">
+            <name>30 rue de la République, avant la fontaine en montant</name>
+        </rtept>
+        <rtept lon="7.447505" lat="43.876722">
+            <name>devant la maison des associations, salle de danse, boulevard de la 1ère DFL</name>
+        </rtept>
+        <rtept lon="7.449788" lat="43.877103">
+            <name>devant la mairie de Sospel, 1 place Saint Pierre</name>
+        </rtept>
+        <rtept lon="7.45000982285" lat="43.8773002625">
+            <name>devant la mairie Annexe, boulevard de la première DFL</name>
+        </rtept>
+        <rtept lon="7.514098" lat="43.90207">
+            <name>Parking à l&#39;entrée du Hameau , Piene Haute</name>
+        </rtept>
+        <rtept lon="7.505963" lat="43.937878">
+            <name>Place de l&#39;Eglise Hameau de Libre</name>
+        </rtept>
+        <rtept lon="7.51412" lat="43.937557">
+            <name>Place Biancheri (mur de la Miséricorde)</name>
+        </rtept>
+        <rtept lon="7.514167" lat="43.940192">
+            <name>200, rue René Cassin (mur à gauche des escaliers)</name>
+        </rtept>
+        <rtept lon="7.552993" lat="43.984084">
+            <name>Avenue Louis Pasteur</name>
+        </rtept>
+        <rtept lon="7.5555019" lat="43.9848163">
+            <name>Place Honoré Stéva</name>
+        </rtept>
+        <rtept lon="7.552739" lat="43.987803">
+            <name>Place Caranca</name>
+        </rtept>
+        <rtept lon="7.551268" lat="43.988989">
+            <name>Avenue docteur Davéo</name>
+        </rtept>
+        <rtept lon="7.3466419" lat="43.7340146">
+            <name>Ecole André Gianton à droite du l&#39;entrée de l&#39;école</name>
+        </rtept>
+    </rte>
+</gpx>

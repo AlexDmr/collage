@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="panneaux-election.fr">
+    <rte>
+        <rtept lon="6.0223569" lat="46.2429827">
+            <name>Place des commerces (les Hautains devant le cèdre)</name>
+        </rtept>
+        <rtept lon="5.7942449" lat="45.8703366">
+            <name>Hameau de Chatel</name>
+        </rtept>
+        <rtept lon="5.80891990662" lat="45.9136009216">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.798501" lat="45.856426">
+            <name>Hameau de Landaize</name>
+        </rtept>
+        <rtept lon="5.784046" lat="45.850991">
+            <name>Rue des écoles</name>
+        </rtept>
+        <rtept lon="5.781564" lat="45.847513">
+            <name>rue de la mairie</name>
+        </rtept>
+        <rtept lon="5.77108097076" lat="45.8093299866">
+            <name>devant la mairie</name>
+        </rtept>
+        <rtept lon="5.7656151" lat="45.784242">
+            <name>A côté de la mairie</name>
+        </rtept>
+        <rtept lon="5.746906" lat="45.786654">
+            <name>cour de la mairie, route du lac</name>
+        </rtept>
+        <rtept lon="5.738138" lat="45.7746489">
+            <name>Mur d&#39;enceinte de la mairie</name>
+        </rtept>
+        <rtept lon="5.718384" lat="45.776951">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.76649618149" lat="45.7544212341">
+            <name>devant la mairie</name>
+        </rtept>
+        <rtept lon="5.752167" lat="45.723545">
+            <name>devant le parking de la mairie, 665 route de l&#39;école</name>
+        </rtept>
+        <rtept lon="5.74168920517" lat="45.743183136">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.700092" lat="45.752166">
+            <name>Sonod, montée de Sonod</name>
+        </rtept>
+        <rtept lon="5.711796" lat="45.717002">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.693673" lat="45.717718">
+            <name>en face de la salle des fêtes (promenade de l&#39;usine CNR)</name>
+        </rtept>
+        <rtept lon="5.676588" lat="45.677924">
+            <name>mairie, 15 rue des écoles</name>
+        </rtept>
+        <rtept lon="5.641293" lat="45.652101">
+            <name>rue des Lauzes</name>
+        </rtept>
+        <rtept lon="5.656146" lat="45.642146">
+            <name>Face à la mairie, route de Galletti</name>
+        </rtept>
+        <rtept lon="5.628633" lat="45.625867">
+            <name>intersection route de Belley et Rue de Château (CORDON)</name>
+        </rtept>
+        <rtept lon="5.61951112747" lat="45.6481895447">
+            <name>place Raymond Sordet (mur parking devant la mairie - BREGNIER)</name>
+        </rtept>
+        <rtept lon="5.64790678024" lat="45.6835975647">
+            <name>devant la mairie</name>
+        </rtept>
+        <rtept lon="5.63559" lat="45.698782">
+            <name>Mairie, 674 route de la Taillie</name>
+        </rtept>
+        <rtept lon="5.605753" lat="45.727318">
+            <name>rue du village</name>
+        </rtept>
+        <rtept lon="5.60154" lat="45.748289">
+            <name>Place de la salle communale</name>
+        </rtept>
+        <rtept lon="5.617813" lat="45.772664">
+            <name>mur du garage communal</name>
+        </rtept>
+        <rtept lon="5.619331" lat="45.734976">
+            <name>Place du village</name>
+        </rtept>
+        <rtept lon="5.65058994293" lat="45.7286338806">
+            <name>Arbignieu (mairie)</name>
+        </rtept>
+        <rtept lon="5.650421" lat="45.727753">
+            <name>Hameau de Peyzieu (devant lavoir - four)</name>
+        </rtept>
+        <rtept lon="5.681303" lat="45.7506445">
+            <name>L&#39;intégral, avenue Hoff</name>
+        </rtept>
+        <rtept lon="5.686218" lat="45.75696">
+            <name>Salle des Fêtes, rue de la république</name>
+        </rtept>
+        <rtept lon="5.687423" lat="45.757135">
+            <name>rue de Savoie</name>
+        </rtept>
+        <rtept lon="5.687933" lat="45.7584">
+            <name>Ecole J. Ferrat, place F.Mitterand</name>
+        </rtept>
+        <rtept lon="5.6911549" lat="45.7611257">
+            <name>la gare (Av. Charles Vulliod)</name>
+        </rtept>
+        <rtept lon="5.692023" lat="45.760744">
+            <name>Boulodrome d&#39;été, avenue du 133e RI</name>
+        </rtept>
+        <rtept lon="5.687129" lat="45.761339">
+            <name>Parking, place de la Victoire</name>
+        </rtept>
+        <rtept lon="5.682585" lat="45.758799">
+            <name>Centre social, avenue Paul Chastel</name>
+        </rtept>
+        <rtept lon="5.68491" lat="45.765547">
+            <name>Château Larron, avenue de château Larron</name>
+        </rtept>
+        <rtept lon="5.65406" lat="45.7938">
+            <name>En face de la mairie</name>
+        </rtept>
+        <rtept lon="5.6809598" lat="45.8031017">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.770139" lat="46.057619">
+            <name>Injoux, salle polyvalente, route de Richemond</name>
+        </rtept>
+        <rtept lon="5.801898" lat="46.051173">
+            <name>Craz, salle polyvalente, rue Pré Péru</name>
+        </rtept>
+        <rtept lon="5.80509996414" lat="46.0508995056">
+            <name>Génissiat, mairie, rue des écoles</name>
+        </rtept>
+        <rtept lon="5.784133" lat="46.077699">
+            <name>devant la mairie</name>
+        </rtept>
+        <rtept lon="5.7782386" lat="46.1047887">
+            <name>Place de Chantemerle à Ochiaz (Parking entrée Sud, côté mairie)</name>
+        </rtept>
+        <rtept lon="5.8047191" lat="46.1189149">
+            <name>Place du 1000 CLUBS (Parking du Groupe Scolaire à Vouvray-Ochiaz)</name>
+        </rtept>
+        <rtept lon="5.814515" lat="46.119617">
+            <name>Centre Social de Musinens, 6 rue Joliot Curie</name>
+        </rtept>
+        <rtept lon="5.818923" lat="46.114343">
+            <name>Ecole du Grand Clos, 5 rue Corneille</name>
+        </rtept>
+        <rtept lon="5.826087" lat="46.107455">
+            <name>Hôtel de ville, 34 rue de la République</name>
+        </rtept>
+        <rtept lon="5.833232" lat="46.124009">
+            <name>Salle polyvalente, 13 grande rue</name>
+        </rtept>
+        <rtept lon="5.848431" lat="46.178233">
+            <name>Salle Hors Sac, Menthières</name>
+        </rtept>
+        <rtept lon="5.8228913" lat="46.1507611">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.80087995529" lat="46.1690177917">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.728234" lat="46.1920858">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.7875681" lat="46.1530203">
+            <name>Place de la Michaille (Place centrale à Vouvray)</name>
+        </rtept>
+        <rtept lon="5.799583" lat="46.144046">
+            <name>Rue de l&#39;Eglise (abord place de Crétaz)</name>
+        </rtept>
+        <rtept lon="5.7994169" lat="46.1428995">
+            <name>Parking, place des écoles (près de l&#39;école primaire)</name>
+        </rtept>
+        <rtept lon="5.73811" lat="46.17832">
+            <name>Salle des fêtes</name>
+        </rtept>
+        <rtept lon="5.77365922928" lat="46.2257423401">
+            <name>A côté de la mairie, sous le préau</name>
+        </rtept>
+        <rtept lon="5.81184387207" lat="46.1945762634">
+            <name>devant la mairie</name>
+        </rtept>
+        <rtept lon="5.8683939" lat="46.2231309">
+            <name>Mairie, place de la mairie</name>
+        </rtept>
+        <rtept lon="5.94364309311" lat="46.3049201965">
+            <name>devant la mairie</name>
+        </rtept>
+        <rtept lon="5.99627113342" lat="46.3662528992">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="6.058863" lat="46.336363">
+            <name>Avenue de Perdtemps (à côté n° 70)</name>
+        </rtept>
+        <rtept lon="6.066881" lat="46.337135">
+            <name>Rue Georges Charpak (à côté du n° 110)</name>
+        </rtept>
+        <rtept lon="6.0640786" lat="46.3360052">
+            <name>Hall des sports (contre le mur), place Georges Charpak</name>
+        </rtept>
+        <rtept lon="6.059147" lat="46.334082">
+            <name>Place Gambetta (face au n°10)</name>
+        </rtept>
+        <rtept lon="6.059006" lat="46.332317">
+            <name>Place du Jura</name>
+        </rtept>
+        <rtept lon="6.055221" lat="46.332908">
+            <name>Rue Léone de Joinville (face au n° 213 à 217)</name>
+        </rtept>
+        <rtept lon="6.03529" lat="46.317099">
+            <name>Route de Méribel</name>
+        </rtept>
+        <rtept lon="6.038255" lat="46.309429">
+            <name>Rue François Estier</name>
+        </rtept>
+        <rtept lon="6.037064" lat="46.306246">
+            <name>Route de la Vie Chenaille</name>
+        </rtept>
+        <rtept lon="6.048954" lat="46.325185">
+            <name>Vertes Campagnes, rue des Vertes Campagnes (en bordure du garage face au centre commercial)</name>
+        </rtept>
+        <rtept lon="6.057731" lat="46.322338">
+            <name>Tougin, 160, rue Marc Parissod (côté hôpital)</name>
+        </rtept>
+        <rtept lon="6.062234" lat="46.325534">
+            <name>&quot;le Martinet&quot; rue du Jura</name>
+        </rtept>
+        <rtept lon="6.066388" lat="46.322749">
+            <name>Rue des Hauts de Cessy</name>
+        </rtept>
+        <rtept lon="6.0698299408" lat="46.3166007996">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="6.075594" lat="46.316142">
+            <name>Rue des Marguerons (intersection de la rue du Jura)</name>
+        </rtept>
+        <rtept lon="6.073387" lat="46.314882">
+            <name>Rue de la Fruitière</name>
+        </rtept>
+        <rtept lon="6.090963" lat="46.320803">
+            <name>Route de Tutegny</name>
+        </rtept>
+        <rtept lon="6.088086" lat="46.325886">
+            <name>Pitegny (carrefour fontaine rue de Pitegny et Route de Mourex)</name>
+        </rtept>
+        <rtept lon="6.0889325" lat="46.3480385">
+            <name>annexe du château, place du château</name>
+        </rtept>
+        <rtept lon="6.0889325" lat="46.3480385">
+            <name>Rue du Château , place du château de Vesancy</name>
+        </rtept>
+        <rtept lon="6.1360549" lat="46.3580012">
+            <name>HOTEL DE VILLE</name>
+        </rtept>
+        <rtept lon="6.13683" lat="46.360452">
+            <name>RUE DE PLAN</name>
+        </rtept>
+        <rtept lon="6.151494" lat="46.371045">
+            <name>RUE DE VESENEX</name>
+        </rtept>
+        <rtept lon="6.161076" lat="46.371909">
+            <name>RUE ETIENNE DEPREZ, CRASSY</name>
+        </rtept>
+        <rtept lon="6.146453" lat="46.35535">
+            <name>ESPLANADE DU LAC (181 allée de la plage)</name>
+        </rtept>
+        <rtept lon="6.144465" lat="46.35705">
+            <name>PLACE PERDTEMPS</name>
+        </rtept>
+        <rtept lon="6.141631" lat="46.356783">
+            <name>RUE DE LA COMBE DE L&#39;EAU, FRUITIERE DE VOLLARD</name>
+        </rtept>
+        <rtept lon="6.137636" lat="46.353908">
+            <name>AVENUE DE LA GARE</name>
+        </rtept>
+        <rtept lon="6.139439" lat="46.346678">
+            <name>AVENUE DES VOIRONS, CENTRE DE SECOURS</name>
+        </rtept>
+        <rtept lon="6.1248305" lat="46.3447055">
+            <name>RUE D&#39;ARBERE, ECOLE</name>
+        </rtept>
+        <rtept lon="6.114937" lat="46.331634">
+            <name>Mairie, 34 chemin Jacques Belay</name>
+        </rtept>
+        <rtept lon="6.1143769" lat="46.3157752">
+            <name>Mairie, 555 rue de la mairie</name>
+        </rtept>
+        <rtept lon="6.107541" lat="46.308567">
+            <name>Les Genévriers, rue des Passereaux</name>
+        </rtept>
+        <rtept lon="6.101191" lat="46.30828">
+            <name>Avenue des genevriers</name>
+        </rtept>
+        <rtept lon="6.0981015" lat="46.304601">
+            <name>devant la mairie (route de Divonne)</name>
+        </rtept>
+        <rtept lon="6.100324" lat="46.2958701">
+            <name>Parking du Jura</name>
+        </rtept>
+        <rtept lon="6.1074144" lat="46.2902319">
+            <name>Bois Chatton</name>
+        </rtept>
+        <rtept lon="6.118636" lat="46.256738">
+            <name>Avenue des Alpes (écoles)</name>
+        </rtept>
+        <rtept lon="6.114012" lat="46.259475">
+            <name>Chemin de Collex (salle du Levant)</name>
+        </rtept>
+        <rtept lon="6.114347" lat="46.264708">
+            <name>avenue de Vessy</name>
+        </rtept>
+        <rtept lon="6.112721" lat="46.258345">
+            <name>Avenue du Jura (Orée de France)</name>
+        </rtept>
+        <rtept lon="6.110613" lat="46.257265">
+            <name>Avenue Voltaire (Poste)</name>
+        </rtept>
+        <rtept lon="6.110613" lat="46.257265">
+            <name>Avenue Voltaire (Centre commercial)</name>
+        </rtept>
+        <rtept lon="6.107209" lat="46.254993">
+            <name>8 Groupe scolaire Jean Calas</name>
+        </rtept>
+        <rtept lon="6.108342" lat="46.254097">
+            <name>Rue de Meyrin</name>
+        </rtept>
+        <rtept lon="6.087035" lat="46.24868">
+            <name>300 route de Nant</name>
+        </rtept>
+        <rtept lon="6.0812258" lat="46.2467094">
+            <name>Place du Charron</name>
+        </rtept>
+        <rtept lon="6.074131" lat="46.251335">
+            <name>650 route de Mategnin</name>
+        </rtept>
+        <rtept lon="6.073111" lat="46.255214">
+            <name>110 route de Saint Genis</name>
+        </rtept>
+        <rtept lon="6.079169" lat="46.253239">
+            <name>27 chemin de l&#39;église</name>
+        </rtept>
+        <rtept lon="6.098299" lat="46.253424">
+            <name>Chemin de la planche brûlée</name>
+        </rtept>
+        <rtept lon="6.0957089" lat="46.2554815">
+            <name>chemin du terraillet (parking école intercommunale)</name>
+        </rtept>
+        <rtept lon="6.092168" lat="46.260742">
+            <name>649 route des Alpes</name>
+        </rtept>
+        <rtept lon="6.076853" lat="46.266955">
+            <name>Salle polyvalente Gaston Laverrière (1168, route du stade)</name>
+        </rtept>
+        <rtept lon="6.091181" lat="46.263915">
+            <name>Route Saint Jean</name>
+        </rtept>
+        <rtept lon="6.093816" lat="46.266239">
+            <name>Route d&#39;Ornex</name>
+        </rtept>
+        <rtept lon="6.099526" lat="46.267791">
+            <name>rue de Genève (au carrefour avec la rue de la tour)</name>
+        </rtept>
+        <rtept lon="6.099526" lat="46.267791">
+            <name>Rue de Genève (face à la mairie)</name>
+        </rtept>
+        <rtept lon="6.085106" lat="46.28347">
+            <name>rue de Villard</name>
+        </rtept>
+        <rtept lon="6.08717" lat="46.288288">
+            <name>Rue de Divonne</name>
+        </rtept>
+        <rtept lon="6.0734000206" lat="46.2966003418">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="6.072755" lat="46.297019">
+            <name>Espace de Vaise</name>
+        </rtept>
+        <rtept lon="6.060865" lat="46.303389">
+            <name>Route de Chenaz</name>
+        </rtept>
+        <rtept lon="6.0505" lat="46.309563">
+            <name>la Table Ronde - Mury</name>
+        </rtept>
+        <rtept lon="6.038294" lat="46.281801">
+            <name>Mairie, 28 rue du château</name>
+        </rtept>
+        <rtept lon="6.041008" lat="46.281376">
+            <name>Salle des Fêtes, rue St Maurice</name>
+        </rtept>
+        <rtept lon="6.0372385" lat="46.266826">
+            <name>Pregnin (carrefour de la fruitière)</name>
+        </rtept>
+        <rtept lon="6.030942" lat="46.273986">
+            <name>Flies (place de la Fontaine)</name>
+        </rtept>
+        <rtept lon="6.026399" lat="46.282713">
+            <name>Place de la Fontaine (hameau d&#39;Avouzon)</name>
+        </rtept>
+        <rtept lon="6.014896" lat="46.279656">
+            <name>Place de la mairie, centre du village</name>
+        </rtept>
+        <rtept lon="6.006204" lat="46.270275">
+            <name>Place au chemin des Nants (Hameau de Villeneuve)</name>
+        </rtept>
+        <rtept lon="5.990662" lat="46.25844">
+            <name>chemin de la Montagne</name>
+        </rtept>
+        <rtept lon="5.999194" lat="46.251935">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="6.0108763" lat="46.248703">
+            <name>Sergy gare</name>
+        </rtept>
+        <rtept lon="6.020032" lat="46.244988">
+            <name>Médiathèque, rue du Commandant Blaison</name>
+        </rtept>
+        <rtept lon="6.0286152" lat="46.2495472">
+            <name>Ecole Boby Lapointe</name>
+        </rtept>
+        <rtept lon="6.027452" lat="46.248509">
+            <name>Pouilly (carrefour du Bugnon)</name>
+        </rtept>
+        <rtept lon="6.027269" lat="46.245131">
+            <name>rue des Hautains, rue Jean Charnoz</name>
+        </rtept>
+        <rtept lon="6.025016" lat="46.243112">
+            <name>Avenue de la République (Hôtel de Ville)</name>
+        </rtept>
+        <rtept lon="6.0223569" lat="46.2429827">
+            <name>Rue de Genève (ancienne mairie) Centre de loisirs</name>
+        </rtept>
+        <rtept lon="6.0223569" lat="46.2429827">
+            <name>Place des commerces (les Hautains devant le cèdre)</name>
+        </rtept>
+        <rtept lon="6.01627" lat="46.242252">
+            <name>Chemin des Moraines</name>
+        </rtept>
+        <rtept lon="5.9894615" lat="46.2474343">
+            <name>Rue des Terrettes, lieu-dit &quot;en Poulet&quot;</name>
+        </rtept>
+        <rtept lon="5.9802411" lat="46.2364953">
+            <name>Place la salle des fêtes</name>
+        </rtept>
+        <rtept lon="5.980087" lat="46.236206">
+            <name>Mairie, rue Briand Stresemann</name>
+        </rtept>
+        <rtept lon="5.969025" lat="46.225226">
+            <name>Ecole de Fenières, rue de Fenières</name>
+        </rtept>
+        <rtept lon="5.95086622238" lat="46.2118988037">
+            <name>devant la mairie</name>
+        </rtept>
+        <rtept lon="5.958777" lat="46.208882">
+            <name>devant Maison communale rue du Bourg</name>
+        </rtept>
+        <rtept lon="5.970898" lat="46.18227">
+            <name>Rue de la craz, le long du stade, devant les parking</name>
+        </rtept>
+        <rtept lon="5.914542" lat="46.182287">
+            <name>Salle Champ Fontaine</name>
+        </rtept>
+        <rtept lon="5.905196" lat="46.167323">
+            <name>870 rue de la République</name>
+        </rtept>
+        <rtept lon="5.902441" lat="46.154951">
+            <name>Place du Château</name>
+        </rtept>
+        <rtept lon="5.95200014114" lat="46.1394996643">
+            <name>Parking mairie</name>
+        </rtept>
+        <rtept lon="5.905104" lat="46.138439">
+            <name>Place du Champ de Foire</name>
+        </rtept>
+        <rtept lon="5.884023" lat="46.098372">
+            <name>Mairie, 9 rue St Amand</name>
+        </rtept>
+        <rtept lon="5.849736" lat="46.098543">
+            <name>Salle communale de Vanchy, rue de l&#39;école</name>
+        </rtept>
+        <rtept lon="5.83282" lat="46.107164">
+            <name>Ecole René Rendu, 32 rue Joseph Marion</name>
+        </rtept>
+        <rtept lon="5.825882" lat="46.108214">
+            <name>Ecole maternelle Marius Pinard, 17 rue Lamartine</name>
+        </rtept>
+        <rtept lon="5.815381" lat="46.096873">
+            <name>Ecole d&#39;Arlod, rue Centrale</name>
+        </rtept>
+        <rtept lon="5.78578996658" lat="46.0895996094">
+            <name>A côté de la mairie</name>
+        </rtept>
+        <rtept lon="5.801814" lat="46.024144">
+            <name>Place de l&#39;Europe</name>
+        </rtept>
+        <rtept lon="5.778145" lat="46.022107">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.782876" lat="46.003877">
+            <name>salle des fêtes (allée d&#39;Izernore)</name>
+        </rtept>
+        <rtept lon="5.80662202835" lat="45.9699363708">
+            <name>parking de la mairie</name>
+        </rtept>
+        <rtept lon="5.832119" lat="45.955833">
+            <name>1, quai du Rhône</name>
+        </rtept>
+        <rtept lon="6.0223569" lat="46.2429827">
+            <name>Place des commerces (les Hautains devant le cèdre)</name>
+        </rtept>
+    </rte>
+</gpx>

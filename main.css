@@ -40,6 +40,8 @@ section.etape:nth-child(even) {
 
 section.etape > img {
     flex: 0 1 100px;
+    width: 100px;
+    height: 100px;
 }
 section.etape > section {
     flex: 1 1;

@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="panneaux-election.fr">
+    <rte>
+        <rtept lon="5.524623" lat="46.339724">
+            <name>8, rue de la mairie</name>
+        </rtept>
+        <rtept lon="5.698521" lat="46.889359">
+            <name>19, rue des salines</name>
+        </rtept>
+        <rtept lon="5.719745" lat="46.868167">
+            <name>1, rue du commerce</name>
+        </rtept>
+        <rtept lon="5.682296" lat="46.859541">
+            <name>Rue des écoles</name>
+        </rtept>
+        <rtept lon="5.642475" lat="46.858057">
+            <name>2 route de Brainans</name>
+        </rtept>
+        <rtept lon="5.623252" lat="46.870584">
+            <name>22, rue charles Dumont - Parking salle des fêtes</name>
+        </rtept>
+        <rtept lon="5.601145" lat="46.857104">
+            <name>26 rue de l&#39;église</name>
+        </rtept>
+        <rtept lon="5.593983" lat="46.835497">
+            <name>5, Rue Perraud</name>
+        </rtept>
+        <rtept lon="5.563806" lat="46.826731">
+            <name>18, rue des deux ponts</name>
+        </rtept>
+        <rtept lon="5.558347" lat="46.843805">
+            <name>4, rue Principale</name>
+        </rtept>
+        <rtept lon="5.588025" lat="46.823725">
+            <name>115, Rue de la mairie</name>
+        </rtept>
+        <rtept lon="5.605039" lat="46.815406">
+            <name>40 Rue de la mairie</name>
+        </rtept>
+        <rtept lon="5.644242" lat="46.824596">
+            <name>Avenue Charles Sauria</name>
+        </rtept>
+        <rtept lon="5.617993" lat="46.798596">
+            <name>65, rue de l&#39;Asile</name>
+        </rtept>
+        <rtept lon="5.603102" lat="46.794866">
+            <name>150 rue de l&#39;eglise</name>
+        </rtept>
+        <rtept lon="5.615082" lat="46.785123">
+            <name>270 rue de la mairie</name>
+        </rtept>
+        <rtept lon="5.62166976929" lat="46.7683982849">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.626539" lat="46.754953">
+            <name>Rue Saint Jean</name>
+        </rtept>
+        <rtept lon="5.685878" lat="46.800246">
+            <name>rue de la bascule</name>
+        </rtept>
+        <rtept lon="5.710154" lat="46.820453">
+            <name>5, rue de la croix du Dan</name>
+        </rtept>
+        <rtept lon="5.671884" lat="46.810882">
+            <name>26 rue principale</name>
+        </rtept>
+        <rtept lon="5.705753" lat="46.833106">
+            <name>Rue Jacques Coittier</name>
+        </rtept>
+        <rtept lon="5.698263" lat="46.84102">
+            <name>Rue Luc Alabouvette</name>
+        </rtept>
+        <rtept lon="5.707867" lat="46.840218">
+            <name>Avenue Wladimir Gagneur</name>
+        </rtept>
+        <rtept lon="5.705949" lat="46.83859">
+            <name>rue Saint Roch</name>
+        </rtept>
+        <rtept lon="5.708936" lat="46.836889">
+            <name>Grande rue (façade Hôtel de ville)</name>
+        </rtept>
+        <rtept lon="5.7089162" lat="46.836388">
+            <name>Laboratoire - Rue du viel hôpital</name>
+        </rtept>
+        <rtept lon="5.707246" lat="46.835524">
+            <name>Angles Rues Victor Hugo et 4 Septembre (salle des fêtes)</name>
+        </rtept>
+        <rtept lon="5.708466" lat="46.834384">
+            <name>Place des déportés</name>
+        </rtept>
+        <rtept lon="5.723529" lat="46.826709">
+            <name>5, rue de la mairie</name>
+        </rtept>
+        <rtept lon="5.7232366" lat="46.8270271">
+            <name>Rue du centre</name>
+        </rtept>
+        <rtept lon="5.725892" lat="46.839421">
+            <name>70, grande rue</name>
+        </rtept>
+        <rtept lon="5.806798" lat="46.823628">
+            <name>2 rue du Centre</name>
+        </rtept>
+        <rtept lon="5.794639" lat="46.785496">
+            <name>1, Place du chalet</name>
+        </rtept>
+        <rtept lon="5.7455" lat="46.753837">
+            <name>19 bis grande rue</name>
+        </rtept>
+        <rtept lon="5.715874" lat="46.770671">
+            <name>2, place de la mairie</name>
+        </rtept>
+        <rtept lon="5.68303" lat="46.762091">
+            <name>Chemin de l&#39;Eglise</name>
+        </rtept>
+        <rtept lon="5.669528" lat="46.748545">
+            <name>1, Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.646007" lat="46.70982">
+            <name>4 Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.630618" lat="46.741355">
+            <name>829, route de la vallée</name>
+        </rtept>
+        <rtept lon="5.61524009705" lat="46.7551002502">
+            <name>1, place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.611725" lat="46.754676">
+            <name>1, Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.597459" lat="46.765166">
+            <name>Rue Désiré Monnier</name>
+        </rtept>
+        <rtept lon="5.579082" lat="46.78248">
+            <name>22, Grande rue</name>
+        </rtept>
+        <rtept lon="5.560714" lat="46.795303">
+            <name>Route de Mauffans</name>
+        </rtept>
+        <rtept lon="5.506319" lat="46.808504">
+            <name>31 Rue de la mairie</name>
+        </rtept>
+        <rtept lon="5.510534" lat="46.783022">
+            <name>rue de l&#39;église</name>
+        </rtept>
+        <rtept lon="5.488728" lat="46.787034">
+            <name>31, rue de l&#39;église</name>
+        </rtept>
+        <rtept lon="5.474006" lat="46.763652">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.530649" lat="46.760395">
+            <name>Rue Honoré Chapuis (façade école)</name>
+        </rtept>
+        <rtept lon="5.559614" lat="46.758365">
+            <name>Grande rue</name>
+        </rtept>
+        <rtept lon="5.555283" lat="46.730987">
+            <name>Rue Georges Trouillot</name>
+        </rtept>
+        <rtept lon="5.583184" lat="46.73045">
+            <name>140 rue de la mairie</name>
+        </rtept>
+        <rtept lon="5.593395" lat="46.730901">
+            <name>1, Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.598137" lat="46.699541">
+            <name>3, rue du haut</name>
+        </rtept>
+        <rtept lon="5.595969" lat="46.716907">
+            <name>Place du 8 mai 1945</name>
+        </rtept>
+        <rtept lon="5.581392" lat="46.719048">
+            <name>65, route de la mairie</name>
+        </rtept>
+        <rtept lon="5.570115" lat="46.709405">
+            <name>6, chemin de la mairie</name>
+        </rtept>
+        <rtept lon="5.574863" lat="46.694256">
+            <name>Grande rue (lavoir)</name>
+        </rtept>
+        <rtept lon="5.567985" lat="46.676958">
+            <name>Rue des Marguerites</name>
+        </rtept>
+        <rtept lon="5.565124" lat="46.674938">
+            <name>Rue des Mouillères</name>
+        </rtept>
+        <rtept lon="5.552615" lat="46.6742">
+            <name>Avenue Abbe Lemire Groupe scolaire J. Prévert</name>
+        </rtept>
+        <rtept lon="5.5518271" lat="46.672673">
+            <name>Maison commune Bureau de vote</name>
+        </rtept>
+        <rtept lon="5.550314" lat="46.672129">
+            <name>Rue Saint Désiré Ecole Brassens</name>
+        </rtept>
+        <rtept lon="5.543761" lat="46.664974">
+            <name>Pont route de Macornay</name>
+        </rtept>
+        <rtept lon="5.5386048" lat="46.6715841">
+            <name>Avenue de Montciel</name>
+        </rtept>
+        <rtept lon="5.539285" lat="46.671507">
+            <name>Avenue de Montciel</name>
+        </rtept>
+        <rtept lon="5.5467021" lat="46.6744846">
+            <name>Centre social Bureau de vote</name>
+        </rtept>
+        <rtept lon="5.540008" lat="46.679631">
+            <name>Rue François Monnin</name>
+        </rtept>
+        <rtept lon="5.52745" lat="46.677648">
+            <name>Rue Calmette</name>
+        </rtept>
+        <rtept lon="5.530713" lat="46.677104">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.529122" lat="46.675622">
+            <name>Trouillot</name>
+        </rtept>
+        <rtept lon="5.526132" lat="46.674535">
+            <name>Rue Léon et Cécile Mathy</name>
+        </rtept>
+        <rtept lon="5.509762" lat="46.689261">
+            <name>Avenue Edgar Faure - Petit Sugny</name>
+        </rtept>
+        <rtept lon="5.53746" lat="46.685562">
+            <name>Rue Edmond Chapuis - Savagna</name>
+        </rtept>
+        <rtept lon="5.551102" lat="46.692351">
+            <name>129, rue du village</name>
+        </rtept>
+        <rtept lon="5.567212" lat="46.658912">
+            <name>14, place de Verdun</name>
+        </rtept>
+        <rtept lon="5.573333" lat="46.668234">
+            <name>La Condamine</name>
+        </rtept>
+        <rtept lon="5.584451" lat="46.6687">
+            <name>Place de l&#39;église</name>
+        </rtept>
+        <rtept lon="5.598778" lat="46.654244">
+            <name>Place du 11 juillet 1944</name>
+        </rtept>
+        <rtept lon="5.602425" lat="46.63723">
+            <name>47, rue du presbytère</name>
+        </rtept>
+        <rtept lon="5.641552" lat="46.632386">
+            <name>105, rue de l&#39;Esplanade</name>
+        </rtept>
+        <rtept lon="5.682486" lat="46.653729">
+            <name>Place Saint Michel</name>
+        </rtept>
+        <rtept lon="5.649238" lat="46.665359">
+            <name>90, rue de l&#39;école</name>
+        </rtept>
+        <rtept lon="5.622889" lat="46.662332">
+            <name>Place de l&#39;église</name>
+        </rtept>
+        <rtept lon="5.655416" lat="46.687729">
+            <name>Route de Lons le Saunier - mairie</name>
+        </rtept>
+        <rtept lon="5.699376" lat="46.73587">
+            <name>2 Rue Haute</name>
+        </rtept>
+        <rtept lon="5.725348" lat="46.751637">
+            <name>2, Route de Bonnefontaine</name>
+        </rtept>
+        <rtept lon="5.746707" lat="46.727944">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.728038" lat="46.697616">
+            <name>154 Grande rue</name>
+        </rtept>
+        <rtept lon="5.729224" lat="46.658658">
+            <name>Vers abri bus - rue du lavoir</name>
+        </rtept>
+        <rtept lon="5.704132" lat="46.622232">
+            <name>96 Rue de la mairie</name>
+        </rtept>
+        <rtept lon="5.642352" lat="46.59864">
+            <name>1 rue du Faubourg</name>
+        </rtept>
+        <rtept lon="5.629798" lat="46.595475">
+            <name>2, place de la mairie</name>
+        </rtept>
+        <rtept lon="5.641156" lat="46.574443">
+            <name>Rue du puits Pierrot</name>
+        </rtept>
+        <rtept lon="5.635719" lat="46.555906">
+            <name>2, place du village</name>
+        </rtept>
+        <rtept lon="5.633356" lat="46.5312">
+            <name>Rue de la Liberté</name>
+        </rtept>
+        <rtept lon="5.660552" lat="46.52674">
+            <name>3, rue du bourg</name>
+        </rtept>
+        <rtept lon="5.653442" lat="46.457188">
+            <name>2, place de la mairie</name>
+        </rtept>
+        <rtept lon="5.649069" lat="46.402274">
+            <name>Mairie - 10, rue principale</name>
+        </rtept>
+        <rtept lon="5.614752" lat="46.359933">
+            <name>4, rue de l&#39;église</name>
+        </rtept>
+        <rtept lon="5.624417" lat="46.337398">
+            <name>4, rue des lacs</name>
+        </rtept>
+        <rtept lon="5.578781" lat="46.304343">
+            <name>Lotissement - Place du Montain</name>
+        </rtept>
+        <rtept lon="5.580832" lat="46.305233">
+            <name>Grande rue</name>
+        </rtept>
+        <rtept lon="5.528749" lat="46.269732">
+            <name>61 Grande rue</name>
+        </rtept>
+        <rtept lon="5.482096" lat="46.291938">
+            <name>Rue de l&#39;école</name>
+        </rtept>
+        <rtept lon="5.492287" lat="46.33153">
+            <name>18, route de Villetant</name>
+        </rtept>
+        <rtept lon="5.51960992813" lat="46.3695983887">
+            <name>Le Bourg - Mairie</name>
+        </rtept>
+        <rtept lon="5.531962" lat="46.353855">
+            <name>Place du Capitaine Janod</name>
+        </rtept>
+        <rtept lon="5.524623" lat="46.339724">
+            <name>8, rue de la mairie</name>
+        </rtept>
+        <rtept lon="5.54948" lat="46.312712">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.56482" lat="46.341933">
+            <name>rue de la Chapelle - Hameau de Faverges</name>
+        </rtept>
+        <rtept lon="5.560159" lat="46.357178">
+            <name>Grande rue</name>
+        </rtept>
+        <rtept lon="5.57467" lat="46.36022">
+            <name>3, rue de la Chapelle</name>
+        </rtept>
+        <rtept lon="5.558924" lat="46.359121">
+            <name>Place des grands arbres</name>
+        </rtept>
+        <rtept lon="5.563603" lat="46.379063">
+            <name>2, rue Fontaine du Fossard</name>
+        </rtept>
+        <rtept lon="5.565879" lat="46.393938">
+            <name>Cour de la mairie</name>
+        </rtept>
+        <rtept lon="5.53685" lat="46.407024">
+            <name>rue de la chapelle</name>
+        </rtept>
+        <rtept lon="5.531164" lat="46.42235">
+            <name>16, place des aubergistes</name>
+        </rtept>
+        <rtept lon="5.54514" lat="46.42553">
+            <name>Mairie - 4, rue de l&#39;école</name>
+        </rtept>
+        <rtept lon="5.51188" lat="46.452242">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.532562" lat="46.466342">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.527709" lat="46.448469">
+            <name>19, route de Nancuise</name>
+        </rtept>
+        <rtept lon="5.560473" lat="46.464063">
+            <name>16, rue de la mairie</name>
+        </rtept>
+        <rtept lon="5.576887" lat="46.440102">
+            <name>6, rue de la mairie</name>
+        </rtept>
+        <rtept lon="5.596131" lat="46.427922">
+            <name>2, rue de l&#39;école</name>
+        </rtept>
+        <rtept lon="5.599338" lat="46.441609">
+            <name>2, rue du Moulin</name>
+        </rtept>
+        <rtept lon="5.611224" lat="46.467083">
+            <name>11 rue Principale</name>
+        </rtept>
+        <rtept lon="5.631612" lat="46.507437">
+            <name>10 rue de la Valouse</name>
+        </rtept>
+        <rtept lon="5.611547" lat="46.521772">
+            <name>Rue de l&#39;église</name>
+        </rtept>
+        <rtept lon="5.608724" lat="46.518018">
+            <name>Avenue Lacuzon</name>
+        </rtept>
+        <rtept lon="5.6092300415" lat="46.5583992004">
+            <name>Mairie - Rue du château</name>
+        </rtept>
+        <rtept lon="5.608835" lat="46.559302">
+            <name>10 rue du 11 juillet 1944</name>
+        </rtept>
+        <rtept lon="5.586137" lat="46.557259">
+            <name>Rue de l&#39;école</name>
+        </rtept>
+        <rtept lon="5.576703" lat="46.586933">
+            <name>Rue de l&#39;école</name>
+        </rtept>
+        <rtept lon="5.565306" lat="46.597368">
+            <name>90, rue de la Mairie</name>
+        </rtept>
+        <rtept lon="5.557481" lat="46.559164">
+            <name>1, rue de l&#39;église</name>
+        </rtept>
+        <rtept lon="5.567247" lat="46.507644">
+            <name>Parking de l&#39;église - Centre du village</name>
+        </rtept>
+        <rtept lon="5.559498" lat="46.529003">
+            <name>7, grande rue</name>
+        </rtept>
+        <rtept lon="5.548099" lat="46.526228">
+            <name>6 rue Pellapussin</name>
+        </rtept>
+        <rtept lon="5.532375" lat="46.523985">
+            <name>Place du village</name>
+        </rtept>
+        <rtept lon="5.54016" lat="46.559236">
+            <name>2, rue de la mairie -</name>
+        </rtept>
+        <rtept lon="5.549411" lat="46.585607">
+            <name>2 Rue de la combe</name>
+        </rtept>
+        <rtept lon="5.53065" lat="46.586725">
+            <name>269, grande rue</name>
+        </rtept>
+        <rtept lon="5.512822" lat="46.599359">
+            <name>2, place de la mairie</name>
+        </rtept>
+        <rtept lon="5.529517" lat="46.62658">
+            <name>10, rue de la Chapelle</name>
+        </rtept>
+        <rtept lon="5.540732" lat="46.644188">
+            <name>1, place Jean Moulin</name>
+        </rtept>
+        <rtept lon="5.554165" lat="46.616405">
+            <name>174, rue Saint Néron</name>
+        </rtept>
+        <rtept lon="5.589661" lat="46.61552">
+            <name>4, rue de l&#39;église romane</name>
+        </rtept>
+        <rtept lon="5.575294" lat="46.628308">
+            <name>3, rue de la liberté</name>
+        </rtept>
+        <rtept lon="5.562605" lat="46.638184">
+            <name>12 rue de la mairie</name>
+        </rtept>
+        <rtept lon="5.528916" lat="46.651703">
+            <name>60, route du val de sorne</name>
+        </rtept>
+        <rtept lon="5.520751" lat="46.662224">
+            <name>563, route de Lyon</name>
+        </rtept>
+        <rtept lon="5.506952" lat="46.636976">
+            <name>1, place de la mairie</name>
+        </rtept>
+        <rtept lon="5.498363" lat="46.625083">
+            <name>22, rue de la mairie</name>
+        </rtept>
+        <rtept lon="5.502166" lat="46.59731">
+            <name>14, rue Saint Roch</name>
+        </rtept>
+        <rtept lon="5.478199" lat="46.600927">
+            <name>Grande Rue - Place du village</name>
+        </rtept>
+        <rtept lon="5.473669" lat="46.608059">
+            <name>Rue principale</name>
+        </rtept>
+        <rtept lon="5.475357" lat="46.588974">
+            <name>Rue de la Mairie</name>
+        </rtept>
+        <rtept lon="5.493471" lat="46.553177">
+            <name>Route de Lons</name>
+        </rtept>
+        <rtept lon="5.48136377335" lat="46.5269546509">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.504746" lat="46.502392">
+            <name>69, grande rue</name>
+        </rtept>
+        <rtept lon="5.462546" lat="46.485174">
+            <name>8, rue de la Mairie</name>
+        </rtept>
+        <rtept lon="5.452412" lat="46.468879">
+            <name>8, place de la mairie</name>
+        </rtept>
+        <rtept lon="5.479208" lat="46.450068">
+            <name>La place</name>
+        </rtept>
+        <rtept lon="5.486048" lat="46.421182">
+            <name>15, rue de la mairie</name>
+        </rtept>
+        <rtept lon="5.501216" lat="46.384659">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.487509" lat="46.390523">
+            <name>Grande rue</name>
+        </rtept>
+        <rtept lon="5.454201" lat="46.39395">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.4504699707" lat="46.3877983093">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.43996889999994" lat="46.373646">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.43123900000001" lat="46.359597">
+            <name>2, Rue de la Mairie</name>
+        </rtept>
+        <rtept lon="5.454265" lat="46.353814">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.4541694" lat="46.3538108">
+            <name>Rue de la mairie - route de St julien</name>
+        </rtept>
+        <rtept lon="5.43593406677" lat="46.3300476074">
+            <name>rue sous la ville -Mairie</name>
+        </rtept>
+        <rtept lon="5.415526" lat="46.380888">
+            <name>40 Grande rue</name>
+        </rtept>
+        <rtept lon="5.424497" lat="46.395911">
+            <name>2, rue de la Mairie</name>
+        </rtept>
+        <rtept lon="5.3983776" lat="46.3734597">
+            <name>Sous le lavoir</name>
+        </rtept>
+        <rtept lon="5.398644" lat="46.383749">
+            <name>Rue de l&#39;église</name>
+        </rtept>
+        <rtept lon="5.379578" lat="46.396377">
+            <name>13, rue de la mairie</name>
+        </rtept>
+        <rtept lon="5.398599" lat="46.407706">
+            <name>Rue de l&#39;Ecole</name>
+        </rtept>
+        <rtept lon="5.415925" lat="46.425758">
+            <name>115 route de Saint Amour</name>
+        </rtept>
+        <rtept lon="5.395398" lat="46.423805">
+            <name>Route de Saint Amour</name>
+        </rtept>
+        <rtept lon="5.373265" lat="46.439414">
+            <name>Rue Principale</name>
+        </rtept>
+        <rtept lon="5.356715" lat="46.423059">
+            <name>Mairie - Grande rue</name>
+        </rtept>
+        <rtept lon="5.357199" lat="46.403073">
+            <name>Rue Jean Pulevand</name>
+        </rtept>
+        <rtept lon="5.342905" lat="46.405274">
+            <name>Rue principale</name>
+        </rtept>
+        <rtept lon="5.343761" lat="46.436049">
+            <name>13, rue Sainte Marie</name>
+        </rtept>
+        <rtept lon="5.342488" lat="46.43766">
+            <name>2, avenue Lucien Febvre</name>
+        </rtept>
+        <rtept lon="5.352318" lat="46.454436">
+            <name>Route de Saint Amour</name>
+        </rtept>
+        <rtept lon="5.386351" lat="46.458492">
+            <name>Rue de l&#39;école</name>
+        </rtept>
+        <rtept lon="5.422391" lat="46.453863">
+            <name>1, grande rue</name>
+        </rtept>
+        <rtept lon="5.4033402" lat="46.5106309">
+            <name>Route de Chatel</name>
+        </rtept>
+        <rtept lon="5.395563" lat="46.515163">
+            <name>5, rue fleurie</name>
+        </rtept>
+        <rtept lon="5.421283" lat="46.527869">
+            <name>1, Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.391278" lat="46.531672">
+            <name>60 Grande rue</name>
+        </rtept>
+        <rtept lon="5.399667" lat="46.538556">
+            <name>1, rue de la mairie</name>
+        </rtept>
+        <rtept lon="5.4116939" lat="46.5550643">
+            <name>1, place de la mairie - Au village</name>
+        </rtept>
+        <rtept lon="5.4211979" lat="46.5596268">
+            <name>1 rue de la mairie</name>
+        </rtept>
+        <rtept lon="5.422278" lat="46.560435">
+            <name>Place Préfet BUCHOT</name>
+        </rtept>
+        <rtept lon="5.438139" lat="46.573093">
+            <name>1, Place de l&#39;Hotel de ville</name>
+        </rtept>
+        <rtept lon="5.452178" lat="46.58123">
+            <name>2 Montée de la Chapelle</name>
+        </rtept>
+        <rtept lon="5.455156" lat="46.593548">
+            <name>5, rue du 19 mars 1962</name>
+        </rtept>
+        <rtept lon="5.410689" lat="46.604617">
+            <name>5, route de Flacey &quot;le Perron&quot;</name>
+        </rtept>
+        <rtept lon="5.428176" lat="46.619241">
+            <name>250 rue principale</name>
+        </rtept>
+        <rtept lon="5.447182" lat="46.630494">
+            <name>13 rue principale</name>
+        </rtept>
+        <rtept lon="5.439416" lat="46.649776">
+            <name>354 rue du centre - Mairie</name>
+        </rtept>
+        <rtept lon="5.467577" lat="46.644319">
+            <name>Rue de la Mairie</name>
+        </rtept>
+        <rtept lon="5.486239" lat="46.652664">
+            <name>rue Prosper Sordet</name>
+        </rtept>
+        <rtept lon="5.4996603" lat="46.6579519">
+            <name>Mairie - 135, grande rue</name>
+        </rtept>
+        <rtept lon="5.496939" lat="46.671424">
+            <name>330, rue Robert Morland</name>
+        </rtept>
+        <rtept lon="5.463975" lat="46.668856">
+            <name>101 rue du château</name>
+        </rtept>
+        <rtept lon="5.416479" lat="46.681534">
+            <name>120, rue de la mairie</name>
+        </rtept>
+        <rtept lon="5.422295" lat="46.701068">
+            <name>rue Devant</name>
+        </rtept>
+        <rtept lon="5.453522" lat="46.711496">
+            <name>1, place Eugène Forêt</name>
+        </rtept>
+        <rtept lon="5.50967" lat="46.708352">
+            <name>11, place de la mairie</name>
+        </rtept>
+        <rtept lon="5.533922" lat="46.716819">
+            <name>31, route de Ruffey sur Seille</name>
+        </rtept>
+        <rtept lon="5.525034" lat="46.734558">
+            <name>153, Rue Charles Nodier</name>
+        </rtept>
+        <rtept lon="5.494341" lat="46.744157">
+            <name>120, rue du Général Lecourbe</name>
+        </rtept>
+        <rtept lon="5.465527" lat="46.736843">
+            <name>12, rue nationale</name>
+        </rtept>
+        <rtept lon="5.453282" lat="46.744666">
+            <name>Place Orion - Rue de la demi lune</name>
+        </rtept>
+        <rtept lon="5.426497" lat="46.740016">
+            <name>3, rue des maquisards</name>
+        </rtept>
+        <rtept lon="5.402686" lat="46.749081">
+            <name>55 Rue du village - Mairie</name>
+        </rtept>
+        <rtept lon="5.447946" lat="46.762204">
+            <name>28, Grande rue</name>
+        </rtept>
+        <rtept lon="5.409243" lat="46.802134">
+            <name>Rue de l&#39;Haut - Le Vernois</name>
+        </rtept>
+        <rtept lon="5.377244" lat="46.80187">
+            <name>Le Bourg - Mairie</name>
+        </rtept>
+        <rtept lon="5.452342" lat="46.802543">
+            <name>Place du Général Michelin</name>
+        </rtept>
+        <rtept lon="5.48437" lat="46.809873">
+            <name>2 rue du verger</name>
+        </rtept>
+        <rtept lon="5.480081" lat="46.825856">
+            <name>Route de la mairie</name>
+        </rtept>
+        <rtept lon="5.500127" lat="46.82667">
+            <name>1017 rue Principale</name>
+        </rtept>
+        <rtept lon="5.529601" lat="46.825783">
+            <name>25, Rue principale</name>
+        </rtept>
+        <rtept lon="5.498613" lat="46.837543">
+            <name>19, route de Vers sous Sellières</name>
+        </rtept>
+        <rtept lon="5.508694" lat="46.845275">
+            <name>7, rue de l&#39;école</name>
+        </rtept>
+        <rtept lon="5.485108" lat="46.863905">
+            <name>6, place des Marronniers</name>
+        </rtept>
+        <rtept lon="5.475942" lat="46.845811">
+            <name>32 grande rue de la Bresse</name>
+        </rtept>
+        <rtept lon="5.443456" lat="46.853534">
+            <name>Rue de la mairie</name>
+        </rtept>
+        <rtept lon="5.4553193" lat="46.8634736">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.429435" lat="46.871175">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.454104" lat="46.902433">
+            <name>11, rue de la mairie</name>
+        </rtept>
+        <rtept lon="5.458735" lat="46.883501">
+            <name>5, rue du 19 Mars 1962</name>
+        </rtept>
+        <rtept lon="5.481545" lat="46.882586">
+            <name>2, route de Tassenières</name>
+        </rtept>
+        <rtept lon="5.526708" lat="46.873699">
+            <name>6, rue des Etangs</name>
+        </rtept>
+        <rtept lon="5.539227" lat="46.869783">
+            <name>1, rue de l&#39;école</name>
+        </rtept>
+        <rtept lon="5.552293" lat="46.876146">
+            <name>Rue des Bordes - Mairie</name>
+        </rtept>
+        <rtept lon="5.575986" lat="46.884876">
+            <name>Place du monument aux morts</name>
+        </rtept>
+        <rtept lon="5.558038" lat="46.901391">
+            <name>15, rue du Val d&#39;Orain</name>
+        </rtept>
+        <rtept lon="5.578909" lat="46.91213">
+            <name>11, rue Principale</name>
+        </rtept>
+        <rtept lon="5.590085" lat="46.905364">
+            <name>Rue du château</name>
+        </rtept>
+        <rtept lon="5.59523105621" lat="46.8977890015">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.6359484" lat="46.9068787">
+            <name>Route de Genève</name>
+        </rtept>
+        <rtept lon="5.644678" lat="46.897672">
+            <name>360, route de Genève</name>
+        </rtept>
+        <rtept lon="5.695744" lat="46.902488">
+            <name>Rue de la République</name>
+        </rtept>
+        <rtept lon="5.524623" lat="46.339724">
+            <name>8, rue de la mairie</name>
+        </rtept>
+    </rte>
+</gpx>

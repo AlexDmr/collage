@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="panneaux-election.fr">
+    <rte>
+        <rtept lon="6.010362" lat="43.124509">
+            <name>Centre aéré Henri Wallon</name>
+        </rtept>
+        <rtept lon="6.0101347" lat="43.1241273">
+            <name>Hôtel de Ville</name>
+        </rtept>
+        <rtept lon="6.0085493" lat="43.1228756">
+            <name>Ecole maternelle Zunino</name>
+        </rtept>
+        <rtept lon="6.0057474" lat="43.1182346">
+            <name>Maternelle Elsa Triolet</name>
+        </rtept>
+        <rtept lon="6.022873" lat="43.105256">
+            <name>Foyer des Anciens « l’Acropole », Rue Joseph Lantrua</name>
+        </rtept>
+        <rtept lon="6.022873" lat="43.105256">
+            <name>Salle du Conseil Municipal, Parc Victor Cravero</name>
+        </rtept>
+        <rtept lon="6.022873" lat="43.105256">
+            <name>Groupe scolaire Charles Sandro, Rue Adrien Pellegrin</name>
+        </rtept>
+        <rtept lon="6.022873" lat="43.105256">
+            <name>Groupe scolaire Marcel Pagnol, Rue Marie Mauron</name>
+        </rtept>
+        <rtept lon="6.023485" lat="43.105497">
+            <name>Ecole Jean JAURES/4, Boulevard Jean Jaurès</name>
+        </rtept>
+        <rtept lon="6.023485" lat="43.105497">
+            <name>Ecole Jean JAURES/3, Boulevard Jean Jaurès</name>
+        </rtept>
+        <rtept lon="6.0420493" lat="43.1077623">
+            <name>Capitainerie du Port des Oursinières, Place des Oursinières</name>
+        </rtept>
+        <rtept lon="6.072685" lat="43.094846">
+            <name>Maison des associations Clair Val, Chemin du petit lac</name>
+        </rtept>
+        <rtept lon="6.072685" lat="43.094846">
+            <name>Ecole Jules Ferry, Place de la République</name>
+        </rtept>
+        <rtept lon="6.072685" lat="43.094846">
+            <name>Club Nautique, Port des Salettes</name>
+        </rtept>
+        <rtept lon="6.072685" lat="43.094846">
+            <name>Ecole Jules Ferry, Place de la République</name>
+        </rtept>
+        <rtept lon="6.074757" lat="43.094942">
+            <name>Salle des Fêtes, Mairie, Place de la République</name>
+        </rtept>
+        <rtept lon="6.070387" lat="43.091102">
+            <name>Ecole Saint-Exupéry, chemin du Hameau</name>
+        </rtept>
+        <rtept lon="6.0790614" lat="43.0862284">
+            <name>Capitainerie, Port des Salettes</name>
+        </rtept>
+        <rtept lon="6.128464" lat="43.0815">
+            <name>ECOLE ALMANARRE, 2743 route de l’Almanarre</name>
+        </rtept>
+        <rtept lon="6.2025325" lat="43.000446">
+            <name>MAIRIE ILE DE PORT-CROS, Ile de Port-Cros</name>
+        </rtept>
+        <rtept lon="6.2025325" lat="43.000446">
+            <name>SALLE AUDIOVISUELLE DU PARK HOTEL - avenue de Belgique</name>
+        </rtept>
+        <rtept lon="6.2025325" lat="43.000446">
+            <name>MAIRIE DE PORQUEROLLES, Ile de Porquerolles</name>
+        </rtept>
+        <rtept lon="6.147365" lat="43.064896">
+            <name>MAIRIE DE LA CAPTE, 1945 route de Giens, La Capte</name>
+        </rtept>
+        <rtept lon="6.1554657" lat="43.0793896">
+            <name>MAIRIE DU PORT, avenue du Docteur Robin, La Plage</name>
+        </rtept>
+        <rtept lon="6.11126" lat="43.109592">
+            <name>SALLE DES ECLAIREURS de France, 57 chemin de la Maunière</name>
+        </rtept>
+        <rtept lon="6.128683" lat="43.11103">
+            <name>ECOLE GUYNEMER, boulevard Geoffroy Saint Hilaire</name>
+        </rtept>
+        <rtept lon="6.128836" lat="43.114114">
+            <name>ECOLE MATERNELLE FRANCOISE DOLTO, 63 bis avenue Gambetta</name>
+        </rtept>
+        <rtept lon="6.14226" lat="43.117929">
+            <name>ECOLE SAINT EXUPERY, rue Saint Exupéry</name>
+        </rtept>
+        <rtept lon="6.237186" lat="43.139146">
+            <name>ECOLE MATERNELLE OSWALD</name>
+        </rtept>
+        <rtept lon="6.2352565" lat="43.138639">
+            <name>ECOLE MATERNELLE du MOULIN VIEUX</name>
+        </rtept>
+        <rtept lon="6.2352565" lat="43.138639">
+            <name>HÔTEL DE VILLE</name>
+        </rtept>
+        <rtept lon="6.234059" lat="43.142005">
+            <name>SALLE des FÊTES DES BORMETTES</name>
+        </rtept>
+        <rtept lon="6.2337715" lat="43.1420905">
+            <name>SALLE des FÊTES Yann PIAT</name>
+        </rtept>
+        <rtept lon="6.167306" lat="43.16079">
+            <name>MAIRIE DE L’AYGUADE – Lotissement les cascades - L’Ayguade</name>
+        </rtept>
+        <rtept lon="6.167306" lat="43.16079">
+            <name>MAIRIE DES BORRELS, hameau Bastide 2ème Borrels</name>
+        </rtept>
+        <rtept lon="6.173618" lat="43.130585">
+            <name>ECOLE MATERNELLE LES MOUETTES, classe 1, chemin du moulin premier</name>
+        </rtept>
+        <rtept lon="6.173618" lat="43.130585">
+            <name>ECOLE MATERNELLE LES MOUETTES, classe 2, chemin du moulin premier</name>
+        </rtept>
+        <rtept lon="6.145204" lat="43.123815">
+            <name>ECOLE EXCELSIOR, classe 1, avenue du Docteur Zamenhoff</name>
+        </rtept>
+        <rtept lon="6.145204" lat="43.123815">
+            <name>ECOLE VAL DES PINS, classe 1, avenue du Docteur Zamenhoff</name>
+        </rtept>
+        <rtept lon="6.145541" lat="43.123516">
+            <name>ECOLE EXCELSIOR, classe 2, avenue du Docteur Zamenhoff</name>
+        </rtept>
+        <rtept lon="6.144581" lat="43.122995">
+            <name>ECOLE VAL DES PINS, classe 2, Le Val des Rougières</name>
+        </rtept>
+        <rtept lon="6.128648" lat="43.12677">
+            <name>ECOLE HENRI MATISSE, rue des peupliers</name>
+        </rtept>
+        <rtept lon="6.129973" lat="43.125971">
+            <name>ECOLE PAUL LONG, classe 2, avenue Paul Long</name>
+        </rtept>
+        <rtept lon="6.129926" lat="43.125035">
+            <name>ECOLE PAUL LONG, classe 1, avenue Paul Long</name>
+        </rtept>
+        <rtept lon="6.1277218" lat="43.1224752">
+            <name>ECOLE JULES MICHELET, rue Barbacane</name>
+        </rtept>
+        <rtept lon="6.128461" lat="43.121873">
+            <name>ECOLE MATERNELLE COSTEBELLE, 3 rue du Trapateum</name>
+        </rtept>
+        <rtept lon="6.13016986847" lat="43.120098114">
+            <name>MAIRIE DES SALINS, avenue des lauriers – Les Salins</name>
+        </rtept>
+        <rtept lon="6.130168" lat="43.119951">
+            <name>HOTEL DE VILLE – 12 avenue Joseph Clotis</name>
+        </rtept>
+        <rtept lon="6.1302169" lat="43.1197285">
+            <name>MAIRIE DE GIENS, rue Léon Escoffier, Giens</name>
+        </rtept>
+        <rtept lon="6.1302169" lat="43.1197285">
+            <name>MAIRIE ILE DU LEVANT, Ile du Levant</name>
+        </rtept>
+        <rtept lon="6.128004" lat="43.118457">
+            <name>SALLE FILLIOL (ESPACE ASTIER), avenue du clair de lune, Giens</name>
+        </rtept>
+        <rtept lon="6.128004" lat="43.118457">
+            <name>SALLE DES FETES DE SAUVEBONNE, Vallée de Sauvebonne</name>
+        </rtept>
+        <rtept lon="6.128004" lat="43.118457">
+            <name>FORUM DU CASINO, avenue Ambroise Thomas</name>
+        </rtept>
+        <rtept lon="6.126691" lat="43.116489">
+            <name>ECOLE ANATOLE France, 1 rue Michelet</name>
+        </rtept>
+        <rtept lon="6.121907" lat="43.119472">
+            <name>ECOLE DES ILES D’OR, 2 avenue Godillot</name>
+        </rtept>
+        <rtept lon="6.115375" lat="43.121918">
+            <name>ECOLE EUGENIE, rue Eugénie</name>
+        </rtept>
+        <rtept lon="6.111385" lat="43.124484">
+            <name>ECOLE HENRI MATISSE, classe 2, rue des peupliers</name>
+        </rtept>
+        <rtept lon="6.107696" lat="43.12573">
+            <name>ECOLE PAULE HUMBERT, classe 1, route de Toulon - La Bayorre</name>
+        </rtept>
+        <rtept lon="6.097984" lat="43.126165">
+            <name>ECOLE PAULE HUMBERT, classe 2, route de Toulon, La Bayorre</name>
+        </rtept>
+        <rtept lon="6.080502" lat="43.145613">
+            <name>Ecole Marie Mauron</name>
+        </rtept>
+        <rtept lon="6.076849" lat="43.147739">
+            <name>Ecole Jules Ferry</name>
+        </rtept>
+        <rtept lon="6.0729499" lat="43.1479597">
+            <name>Hôtel de Ville</name>
+        </rtept>
+        <rtept lon="6.074638" lat="43.148069">
+            <name>Espace Jean-Paul Maurric</name>
+        </rtept>
+        <rtept lon="6.0723947" lat="43.1517131">
+            <name>Ecole Jean Aicard</name>
+        </rtept>
+        <rtept lon="6.022164" lat="43.130027">
+            <name>Maison de quartier la Planquette</name>
+        </rtept>
+        <rtept lon="6.0154082" lat="43.1256378">
+            <name>Ecole Jean Aicard</name>
+        </rtept>
+        <rtept lon="6.012909" lat="43.123085">
+            <name>Ecole Paul Langevin</name>
+        </rtept>
+        <rtept lon="6.010257" lat="43.122883">
+            <name>Ecole Lucie Tardivier</name>
+        </rtept>
+        <rtept lon="6.010362" lat="43.124509">
+            <name>Groupe scolaire Maurice Delplace</name>
+        </rtept>
+        <rtept lon="6.010362" lat="43.124509">
+            <name>Centre aéré Henri Wallon</name>
+        </rtept>
+        <rtept lon="6.010362" lat="43.124509">
+            <name>Centre aéré Henri Wallon</name>
+        </rtept>
+        <rtept lon="6.010362" lat="43.124509">
+            <name>Centre aéré Henri Wallon</name>
+        </rtept>
+    </rte>
+</gpx>

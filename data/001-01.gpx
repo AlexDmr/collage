@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="panneaux-election.fr">
+    <rte>
+        <rtept lon="5.396327" lat="46.191872">
+            <name>place de la mairie</name>
+        </rtept>
+        <rtept lon="5.3306665" lat="46.14434">
+            <name>Place de la fontaine</name>
+        </rtept>
+        <rtept lon="5.331906" lat="46.16307">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.382398" lat="46.184852">
+            <name>place de l&#39;église</name>
+        </rtept>
+        <rtept lon="5.355146" lat="46.194665">
+            <name>façade Est de la salle polyvalente, Place Abbé Gringoz</name>
+        </rtept>
+        <rtept lon="5.368176" lat="46.217248">
+            <name>Rue de la Fruitière</name>
+        </rtept>
+        <rtept lon="5.323468" lat="46.212434">
+            <name>Place Sans Souci, rue Thomas Riboud</name>
+        </rtept>
+        <rtept lon="5.324891" lat="46.209963">
+            <name>devant l&#39;école, rue Julien Manissier</name>
+        </rtept>
+        <rtept lon="5.317417" lat="46.186948">
+            <name>Tréconnas</name>
+        </rtept>
+        <rtept lon="5.313765" lat="46.184222">
+            <name>Domagne</name>
+        </rtept>
+        <rtept lon="5.323314" lat="46.178204">
+            <name>Place Emile Bouvard</name>
+        </rtept>
+        <rtept lon="5.321813" lat="46.179684">
+            <name>Place Jean Moulin</name>
+        </rtept>
+        <rtept lon="5.272737" lat="46.19488">
+            <name>Ecole de l&#39;Alagnier, rue de l&#39;Alagnier</name>
+        </rtept>
+        <rtept lon="5.243781" lat="46.210428">
+            <name>Ecole des Dîmes, 7 rue du Revermont</name>
+        </rtept>
+        <rtept lon="5.234655" lat="46.205948">
+            <name>Ecole Charles Robin, 2 place du Maquis</name>
+        </rtept>
+        <rtept lon="5.231722" lat="46.200006">
+            <name>Ecole Lazare Carnot, 1 rue Viala</name>
+        </rtept>
+        <rtept lon="5.227117" lat="46.204452">
+            <name>Ecole Alphonse Daudet, rue de la Croix Blanche</name>
+        </rtept>
+        <rtept lon="5.22595" lat="46.206273">
+            <name>Salle des fêtes, cours de Verdun</name>
+        </rtept>
+        <rtept lon="5.233262" lat="46.209958">
+            <name>Ecole Saint Exupéry, rue Antoine de St Exupéry</name>
+        </rtept>
+        <rtept lon="5.231955" lat="46.213933">
+            <name>Ecole Charles Perrault, 11 avenue de l&#39;égalité</name>
+        </rtept>
+        <rtept lon="5.223439" lat="46.21191">
+            <name>Ecole Louis Parant, 12 rue des Blanchisseries</name>
+        </rtept>
+        <rtept lon="5.213852" lat="46.214467">
+            <name>La Neuve</name>
+        </rtept>
+        <rtept lon="5.216819" lat="46.207377">
+            <name>Ecole Charles Jarrin, 13 rue du 23ème R.I.</name>
+        </rtept>
+        <rtept lon="5.206886" lat="46.194059">
+            <name>rue Maryse Bastié (côté ouest)</name>
+        </rtept>
+        <rtept lon="5.203856" lat="46.191688">
+            <name>rue des tourterelles (vers station gaz)</name>
+        </rtept>
+        <rtept lon="5.199878" lat="46.202999">
+            <name>allée du Pré Joli (côté centre médical)</name>
+        </rtept>
+        <rtept lon="5.194549" lat="46.202714">
+            <name>rue des écoles (face salle des fêtes)</name>
+        </rtept>
+        <rtept lon="5.192284" lat="46.207668">
+            <name>giratoire de Chalandré</name>
+        </rtept>
+        <rtept lon="5.192284" lat="46.207668">
+            <name>chemin de Chalandré (côté parking du cimetière)</name>
+        </rtept>
+        <rtept lon="5.206999" lat="46.211577">
+            <name>impasse de Calidon</name>
+        </rtept>
+        <rtept lon="5.204128" lat="46.222813">
+            <name>Salle des fêtes</name>
+        </rtept>
+        <rtept lon="5.214548" lat="46.254649">
+            <name>Ecole Publique</name>
+        </rtept>
+        <rtept lon="5.210449" lat="46.255495">
+            <name>Les Caronniers Gymnase</name>
+        </rtept>
+        <rtept lon="5.160004" lat="46.23552">
+            <name>Hameau de Vial</name>
+        </rtept>
+        <rtept lon="5.134764" lat="46.2095285">
+            <name>contre mur salle annexe (cour intérieure mairie vers préau)</name>
+        </rtept>
+        <rtept lon="5.134412" lat="46.209669">
+            <name>contre mur de la mairie (côté RD 45)</name>
+        </rtept>
+        <rtept lon="5.112325" lat="46.212792">
+            <name>Place de l&#39;église</name>
+        </rtept>
+        <rtept lon="5.107359" lat="46.244699">
+            <name>Polaizé</name>
+        </rtept>
+        <rtept lon="5.055728" lat="46.25647">
+            <name>Place du Logis Neuf</name>
+        </rtept>
+        <rtept lon="5.06622409821" lat="46.2675018311">
+            <name>1, place de la mairie</name>
+        </rtept>
+        <rtept lon="5.0899535" lat="46.2708336">
+            <name>Salle des fêtes</name>
+        </rtept>
+        <rtept lon="5.126499" lat="46.248734">
+            <name>place de la mairie</name>
+        </rtept>
+        <rtept lon="5.143802" lat="46.257466">
+            <name>Fumey</name>
+        </rtept>
+        <rtept lon="5.150929" lat="46.266794">
+            <name>Dompierre</name>
+        </rtept>
+        <rtept lon="5.1263" lat="46.280031">
+            <name>le long de la mairien route de Bourg</name>
+        </rtept>
+        <rtept lon="5.1599721" lat="46.2863871">
+            <name>Centre culturel</name>
+        </rtept>
+        <rtept lon="5.1580958" lat="46.289833">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.16402" lat="46.308218">
+            <name>Place de la salle des fêtes</name>
+        </rtept>
+        <rtept lon="5.147126" lat="46.323182">
+            <name>place de l&#39;église</name>
+        </rtept>
+        <rtept lon="5.205368" lat="46.334705">
+            <name>Place de L&#39;Alambic (route de Marboz)</name>
+        </rtept>
+        <rtept lon="5.174015" lat="46.37033">
+            <name>Espace culture et loisirs</name>
+        </rtept>
+        <rtept lon="5.144462" lat="46.407026">
+            <name>le village</name>
+        </rtept>
+        <rtept lon="5.111654" lat="46.401739">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.098596" lat="46.424462">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.119007" lat="46.368467">
+            <name>place de la mairie</name>
+        </rtept>
+        <rtept lon="5.1283393" lat="46.3374594">
+            <name>Place St Pierre Chanel (Cuet)</name>
+        </rtept>
+        <rtept lon="5.130118" lat="46.337379">
+            <name>place de la résistance</name>
+        </rtept>
+        <rtept lon="5.12951993942" lat="46.3357009888">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.12072" lat="46.336958">
+            <name>rue du Grand Sillon</name>
+        </rtept>
+        <rtept lon="5.121252" lat="46.334636">
+            <name>avenue de Mâcon</name>
+        </rtept>
+        <rtept lon="5.0397901535" lat="46.3212013245">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.0394332" lat="46.3229175">
+            <name>Au centre du village, à côté de la boîte postale</name>
+        </rtept>
+        <rtept lon="5.06828022003" lat="46.3367004395">
+            <name>devant la mairie</name>
+        </rtept>
+        <rtept lon="5.06828022003" lat="46.3367004395">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.045037" lat="46.36641">
+            <name>complexe communal, route de Jayat</name>
+        </rtept>
+        <rtept lon="4.99832820892" lat="46.415058136">
+            <name>sur la place du village</name>
+        </rtept>
+        <rtept lon="4.995506" lat="46.382013">
+            <name>le bourg</name>
+        </rtept>
+        <rtept lon="4.947926" lat="46.37982">
+            <name>Le bourg, place des anciens combattants</name>
+        </rtept>
+        <rtept lon="4.9149366" lat="46.3916591">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="4.908516" lat="46.406607">
+            <name>Placette salle communale</name>
+        </rtept>
+        <rtept lon="4.911311" lat="46.424923">
+            <name>1015 grande rue, place de la mairie</name>
+        </rtept>
+        <rtept lon="4.93892002106" lat="46.4199981689">
+            <name>devant la salle polyvalante jouxtant la mairie</name>
+        </rtept>
+        <rtept lon="4.93816709518" lat="46.430141449">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="4.940388" lat="46.435918">
+            <name>40, place Poisat</name>
+        </rtept>
+        <rtept lon="4.944745" lat="46.432488">
+            <name>avenue de la Verchère</name>
+        </rtept>
+        <rtept lon="4.971785" lat="46.439031">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="4.97267" lat="46.473556">
+            <name>419 chemin du Roset</name>
+        </rtept>
+        <rtept lon="4.979378" lat="46.48646">
+            <name>Chemin des couchoux &quot;les Maîtres&quot;</name>
+        </rtept>
+        <rtept lon="4.979615" lat="46.49694">
+            <name>Place du marché</name>
+        </rtept>
+        <rtept lon="5.008278" lat="46.493422">
+            <name>Rue des rippes, les Thibauts</name>
+        </rtept>
+        <rtept lon="5.02505016327" lat="46.4726982117">
+            <name>devant la mairie</name>
+        </rtept>
+        <rtept lon="5.024893" lat="46.472535">
+            <name>A côté de l&#39;église</name>
+        </rtept>
+        <rtept lon="5.02505207062" lat="46.4726715088">
+            <name>Mur de la mairie</name>
+        </rtept>
+        <rtept lon="5.08412981033" lat="46.456401825">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.08412694931" lat="46.4564285278">
+            <name>devant la mairie</name>
+        </rtept>
+        <rtept lon="5.0787236" lat="46.4592947">
+            <name>devant la mairie</name>
+        </rtept>
+        <rtept lon="5.08093976974" lat="46.4594993591">
+            <name>111 grande rue, devant salle des fêtes et mairie</name>
+        </rtept>
+        <rtept lon="5.1027857" lat="46.4859243">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.151128" lat="46.459281">
+            <name>devant la mairie</name>
+        </rtept>
+        <rtept lon="5.232881" lat="46.448085">
+            <name>Mairie, 100 route de Varennes</name>
+        </rtept>
+        <rtept lon="5.2645864" lat="46.4103106">
+            <name>Devant la mairie sur visuel CD 1</name>
+        </rtept>
+        <rtept lon="5.28964996338" lat="46.418800354">
+            <name>place de la mairie</name>
+        </rtept>
+        <rtept lon="5.294894" lat="46.418847">
+            <name>Place du Village</name>
+        </rtept>
+        <rtept lon="5.299037" lat="46.37101">
+            <name>le village</name>
+        </rtept>
+        <rtept lon="5.2565703" lat="46.3419986">
+            <name>Place de la salle des fêtes</name>
+        </rtept>
+        <rtept lon="5.2560991" lat="46.3419732">
+            <name>Parvis de la mairie</name>
+        </rtept>
+        <rtept lon="5.284674" lat="46.321031">
+            <name>devant l&#39;école, à côté de la mairie</name>
+        </rtept>
+        <rtept lon="5.293069" lat="46.288325">
+            <name>Place de la mairie</name>
+        </rtept>
+        <rtept lon="5.368933" lat="46.271228">
+            <name>devant la Mairie, 2, place Marie Collet</name>
+        </rtept>
+        <rtept lon="5.351318" lat="46.246631">
+            <name>Place du Pré de la cour</name>
+        </rtept>
+        <rtept lon="5.388603" lat="46.300799">
+            <name>devant ancien presbytère, 51 rue Principale</name>
+        </rtept>
+        <rtept lon="5.385681" lat="46.3235446">
+            <name>place du village</name>
+        </rtept>
+        <rtept lon="5.373836" lat="46.336594">
+            <name>place de l&#39;église, vers la mairie</name>
+        </rtept>
+        <rtept lon="5.34960985184" lat="46.3467559814">
+            <name>Parking de la mairie</name>
+        </rtept>
+        <rtept lon="5.320162" lat="46.347256">
+            <name>devant la mairie</name>
+        </rtept>
+        <rtept lon="5.347107" lat="46.363888">
+            <name>Mur de la mairie</name>
+        </rtept>
+        <rtept lon="5.428474" lat="46.327621">
+            <name>mairie, 36 impâsse de la mairie</name>
+        </rtept>
+        <rtept lon="5.444907" lat="46.310964">
+            <name>mairie, le Combellon</name>
+        </rtept>
+        <rtept lon="5.42658996582" lat="46.2635002136">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.41363" lat="46.22067">
+            <name>Place de la mairie, 9 route de Villereversure</name>
+        </rtept>
+        <rtept lon="5.396327" lat="46.191872">
+            <name>place de la mairie</name>
+        </rtept>
+        <rtept lon="5.4445455" lat="46.2187604">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.446744" lat="46.2058419">
+            <name>Place de la Mairie</name>
+        </rtept>
+        <rtept lon="5.441667" lat="46.185727">
+            <name>A côté de l&#39;ancienne école (Romanèche)</name>
+        </rtept>
+        <rtept lon="5.41731023788" lat="46.1595039368">
+            <name>A côté de la mairie (Hautecourt)</name>
+        </rtept>
+        <rtept lon="5.388119" lat="46.159041">
+            <name>Salle polyvalente de RIGNAT</name>
+        </rtept>
+        <rtept lon="5.3911385" lat="46.136911">
+            <name>Salle polyvalente de BOHAS</name>
+        </rtept>
+        <rtept lon="5.39091014862" lat="46.1362991333">
+            <name>Mairie de MEYRIAT</name>
+        </rtept>
+        <rtept lon="5.371018" lat="46.081724">
+            <name>Place Joseph Rynois</name>
+        </rtept>
+        <rtept lon="5.37165021896" lat="46.081401825">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.340671" lat="46.06979">
+            <name>Pampier</name>
+        </rtept>
+        <rtept lon="5.35858011246" lat="46.0564994812">
+            <name>place de la mairie</name>
+        </rtept>
+        <rtept lon="5.360608" lat="46.05616">
+            <name>Oussiat</name>
+        </rtept>
+        <rtept lon="5.3409565" lat="46.0493925">
+            <name>Mairie</name>
+        </rtept>
+        <rtept lon="5.334557" lat="46.048079">
+            <name>Place du Champ de Foire</name>
+        </rtept>
+        <rtept lon="5.341446" lat="46.045553">
+            <name>Avenue de l&#39;oiselon (vers tennis)</name>
+        </rtept>
+        <rtept lon="5.313991" lat="46.059478">
+            <name>Centre du village</name>
+        </rtept>
+        <rtept lon="5.316164" lat="46.039615">
+            <name>Au niveau du 490 rue des Rives de l&#39;Ain, sortie Sud du village</name>
+        </rtept>
+        <rtept lon="5.289643" lat="46.003087">
+            <name>Place Laurent Ferrand</name>
+        </rtept>
+        <rtept lon="5.205282" lat="46.071847">
+            <name>place de la mairie</name>
+        </rtept>
+        <rtept lon="5.2613105" lat="46.1104988">
+            <name>mairie</name>
+        </rtept>
+        <rtept lon="5.26459980011" lat="46.1327018738">
+            <name>Parking de la mairie</name>
+        </rtept>
+        <rtept lon="5.3166142" lat="46.1416011">
+            <name>place du Pont</name>
+        </rtept>
+        <rtept lon="5.396327" lat="46.191872">
+            <name>place de la mairie</name>
+        </rtept>
+    </rte>
+</gpx>

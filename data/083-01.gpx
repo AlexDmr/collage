@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="panneaux-election.fr">
+    <rte>
+        <rtept lon="5.9628445" lat="43.1260465">
+            <name>Ecole Elémentaire Valbertrand – rue Pierre Duhem</name>
+        </rtept>
+        <rtept lon="5.953242" lat="43.125402">
+            <name>Ecole Maternelle Saint-Jean-du-Var – 27 rue Bernard Palissy</name>
+        </rtept>
+        <rtept lon="5.9628445" lat="43.1260465">
+            <name>Ecole Elémentaire Valbertrand – rue Pierre Duhem</name>
+        </rtept>
+        <rtept lon="5.9628445" lat="43.1260465">
+            <name>Ecole Elémentaire Filippi – avenue Général Gouraud</name>
+        </rtept>
+        <rtept lon="5.9628445" lat="43.1260465">
+            <name>Ecole Elémentaire Pont Neuf II – place Denis Dussoub</name>
+        </rtept>
+        <rtept lon="5.9628445" lat="43.1260465">
+            <name>Ecole Elémentaire du Mourillon – rue Ernest Renan</name>
+        </rtept>
+        <rtept lon="5.9628445" lat="43.1260465">
+            <name>Ecole Elementaire Saint Roch – rue Jean Mallard</name>
+        </rtept>
+        <rtept lon="5.9628445" lat="43.1260465">
+            <name>Ecole Elémentaire Claret – rue Dagobert</name>
+        </rtept>
+        <rtept lon="5.9628445" lat="43.1260465">
+            <name>Ecole Elémentaire Pont du Las – rue Général Faidherbe</name>
+        </rtept>
+        <rtept lon="5.9628445" lat="43.1260465">
+            <name>Ecole Elémentaire Saint Jean du Var – rue Général Caillet</name>
+        </rtept>
+        <rtept lon="5.9628445" lat="43.1260465">
+            <name>Ecole Elémentaire Brunet II – avenue de Brunet</name>
+        </rtept>
+        <rtept lon="5.9628445" lat="43.1260465">
+            <name>Ecole Elémentaire des Moulins – chemin des Fours à Chaux</name>
+        </rtept>
+        <rtept lon="5.9628445" lat="43.1260465">
+            <name>Ecole Elémentaire Val Fleuri – place Lieutenant Lauret</name>
+        </rtept>
+        <rtept lon="5.9628445" lat="43.1260465">
+            <name>Ecole Elémentaire Jean Aicard – quai Marcel Pagnol</name>
+        </rtept>
+        <rtept lon="5.9628445" lat="43.1260465">
+            <name>Ecole Elémentaire Rodheillac – rue Laurent Mongin</name>
+        </rtept>
+        <rtept lon="5.9628445" lat="43.1260465">
+            <name>Ecole Elémentaire Brusquet/Champ de Mars – avenue Sénéquier</name>
+        </rtept>
+        <rtept lon="5.968244" lat="43.131776">
+            <name>Ecole Elémentaire Font Pré – 209 rue Hippolyte Taine</name>
+        </rtept>
+        <rtept lon="5.981906" lat="43.123602">
+            <name>Ecole Elémentaire Marius Longepierre – 591 boulevard des Armaris</name>
+        </rtept>
+        <rtept lon="5.978571" lat="43.119069">
+            <name>Ecole Elémentaire Pont de Suve – 2264 avenue Joseph Gasquet</name>
+        </rtept>
+        <rtept lon="5.9681112" lat="43.1126772">
+            <name>Ecole Elémentaire Cap Brun – boulevard Amouretti</name>
+        </rtept>
+        <rtept lon="5.9618609" lat="43.1156625">
+            <name>Ecole Maternelle La Beaucaire – boulevard des collines</name>
+        </rtept>
+        <rtept lon="5.9618609" lat="43.1156625">
+            <name>Ecole Maternelle Serinette – rue Claude Lorrain</name>
+        </rtept>
+        <rtept lon="5.9618609" lat="43.1156625">
+            <name>Ecole Maternelle du Temple – place Abbé Spariat</name>
+        </rtept>
+        <rtept lon="5.956218" lat="43.116077">
+            <name>Ecole Elémentaire François Nardi – 65 boulevard Alexandre Julien</name>
+        </rtept>
+        <rtept lon="5.9515535" lat="43.116201">
+            <name>Ecole Maternelle Aguillon – rue Ferdinand</name>
+        </rtept>
+        <rtept lon="5.951428" lat="43.11563">
+            <name>Ecole Elémentaire Aguillon – 169 rue Vauquelin</name>
+        </rtept>
+        <rtept lon="5.944453" lat="43.119507">
+            <name>Ecole Elémentaire Claude Debussy – 139 rue Emile Ollivier</name>
+        </rtept>
+        <rtept lon="5.943086" lat="43.11783">
+            <name>Collège Django Reinhardt – 231 rue Jean-Philippe Rameau</name>
+        </rtept>
+        <rtept lon="5.941584" lat="43.114777">
+            <name>Collège Marcel Pagnol – rue Gimelli</name>
+        </rtept>
+        <rtept lon="5.942411" lat="43.113318">
+            <name>Collège Maurice Ravel – 60 rue du commandant Thal</name>
+        </rtept>
+        <rtept lon="5.937427" lat="43.1226353">
+            <name>Ecole Elementaire Lafayette/Les Remparts – rue Saint Bernard</name>
+        </rtept>
+        <rtept lon="5.9339569" lat="43.1208491">
+            <name>Ecole Maternelle du Jonquet – rue Louis Braille</name>
+        </rtept>
+        <rtept lon="5.9339569" lat="43.1208491">
+            <name>Ecole Maternelle Saint Louis – rue Magnaque</name>
+        </rtept>
+        <rtept lon="5.9325227" lat="43.1203329">
+            <name>Hôtel de Ville – Salle des fêtes - avenue de la République</name>
+        </rtept>
+        <rtept lon="5.9267495" lat="43.1254875">
+            <name>Lycée Bonaparte – avenue Winston Churchill</name>
+        </rtept>
+        <rtept lon="5.930466" lat="43.124011">
+            <name>Ecole Maternelle et Elémentaire du Polygone – avenue Lieutaud</name>
+        </rtept>
+        <rtept lon="5.9348538" lat="43.124301">
+            <name>Collège Peiresc – boulevard de Strasbourg</name>
+        </rtept>
+        <rtept lon="5.9450658" lat="43.1281373">
+            <name>Ecole Elémentaire Trois Quartiers – rue Jules Ferry</name>
+        </rtept>
+        <rtept lon="5.947348" lat="43.124914">
+            <name>Ecole Elémentaire Fort Sainte Catherine – 2 rue Rossini</name>
+        </rtept>
+        <rtept lon="5.9532458" lat="43.12563">
+            <name>Ecole Maternelle Pont du Las – boulevard Docteur Fénelon</name>
+        </rtept>
+        <rtept lon="5.9628445" lat="43.1260465">
+            <name>Ecole Elémentaire Valbertrand – rue Pierre Duhem</name>
+        </rtept>
+    </rte>
+</gpx>

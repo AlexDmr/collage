@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="panneaux-election.fr">
+    <rte>
+        <rtept lon="5.86639022827" lat="43.1324005127">
+            <name>Mairie Annexe du Vieil Evenos – Place des Consuls</name>
+        </rtept>
+        <rtept lon="5.9038095" lat="43.1528591">
+            <name>Ecole Elémentaire 4 chemin des routes – rue Jean Ayral</name>
+        </rtept>
+        <rtept lon="5.91695" lat="43.141411">
+            <name>Ecole Maternelle du Fort Rouge – place Tanguy</name>
+        </rtept>
+        <rtept lon="5.9209092" lat="43.1693852">
+            <name>Ecole Pierre de Ronsard</name>
+        </rtept>
+        <rtept lon="5.922991" lat="43.169622">
+            <name>école primaire, 469 Chemin de l&#39;Oratoire</name>
+        </rtept>
+        <rtept lon="5.925742" lat="43.176344">
+            <name>Alphonse Sauvaire</name>
+        </rtept>
+        <rtept lon="5.925284" lat="43.1766747">
+            <name>Mairie Salle des réunions, Place Jean Jaurès</name>
+        </rtept>
+        <rtept lon="5.925284" lat="43.1766747">
+            <name>Mairie Annexe, Boulevard d&#39;Estienne d&#39;Orves, Salle</name>
+        </rtept>
+        <rtept lon="5.981516" lat="43.137012">
+            <name>Bibliothèque Albert Camus, rue Louis Jouvet</name>
+        </rtept>
+        <rtept lon="5.981516" lat="43.137012">
+            <name>Foyer les Genêts, Chemin de Terre Rouge</name>
+        </rtept>
+        <rtept lon="5.981516" lat="43.137012">
+            <name>Ecole Jean GIONO, Chemin du Bûchet Local Résidentiel des Anémones, Avenue Etienne d’Orves</name>
+        </rtept>
+        <rtept lon="5.981516" lat="43.137012">
+            <name>Foyer les Lavandes, avenue 1° DFL</name>
+        </rtept>
+        <rtept lon="5.981516" lat="43.137012">
+            <name>Ecole François Villon, Avenue Aristide Briand</name>
+        </rtept>
+        <rtept lon="5.981516" lat="43.137012">
+            <name>Ecole Thyde Monnier, avenue Germain Nouveau</name>
+        </rtept>
+        <rtept lon="5.981516" lat="43.137012">
+            <name>Espace Albert Camus, Salle Costagutta, rue Louis Jouvet</name>
+        </rtept>
+        <rtept lon="5.981516" lat="43.137012">
+            <name>Ecole Jules Ferry, Place Général de Gaulle</name>
+        </rtept>
+        <rtept lon="5.985056" lat="43.139687">
+            <name>Centre Culturel Pierre Bel, Rue François Paul</name>
+        </rtept>
+        <rtept lon="5.9912545" lat="43.1403815">
+            <name>Ecole Paul Arène</name>
+        </rtept>
+        <rtept lon="5.9912545" lat="43.1403815">
+            <name>École Paul Arène – Quartier Les Craus</name>
+        </rtept>
+        <rtept lon="6.0153095" lat="43.141929">
+            <name>Centre culturel Pierre Bel – Rue François Paul,</name>
+        </rtept>
+        <rtept lon="6.042584" lat="43.165061">
+            <name>Mairie Annexe, Maison Pagès, 39 avenue de la République</name>
+        </rtept>
+        <rtept lon="6.046129" lat="43.164206">
+            <name>Salle des Fêtes, rue de la Font des Fabre</name>
+        </rtept>
+        <rtept lon="6.042128" lat="43.167723">
+            <name>Ecole Marius Gensollen, Avenue de la Libération</name>
+        </rtept>
+        <rtept lon="6.040768" lat="43.168069">
+            <name>Ecole Jean Aicard, Avenue de la Libération</name>
+        </rtept>
+        <rtept lon="6.03780698776" lat="43.1824874878">
+            <name>Mairie annexe, Le Logis Neuf</name>
+        </rtept>
+        <rtept lon="6.037694" lat="43.18273">
+            <name>Mairie, Rue du 6ème RTS</name>
+        </rtept>
+        <rtept lon="6.04125" lat="43.192586">
+            <name>Salle Eugène Baboulène - Le Château – 1 Rue de la République</name>
+        </rtept>
+        <rtept lon="6.04125" lat="43.192586">
+            <name>Salle Léon Vérane – Le château - 1 rue de la République</name>
+        </rtept>
+        <rtept lon="6.04150676727" lat="43.1903839111">
+            <name>Salle Quiètude - Allée Georges Durando</name>
+        </rtept>
+        <rtept lon="6.0442923" lat="43.1893759">
+            <name>École Emile Astoin – Avenue Sénès dit la Sinse</name>
+        </rtept>
+        <rtept lon="6.040808" lat="43.189363">
+            <name>Salle Yvonne et Jean Murat - l’Espace associatif- Avenue de la Liberté</name>
+        </rtept>
+        <rtept lon="6.0446937" lat="43.1890322">
+            <name>École Jean Moulin – Avenue Marcel Pagnol</name>
+        </rtept>
+        <rtept lon="6.045566" lat="43.189577">
+            <name>Ecole Jules Rimbaud – Chemin des Fillols</name>
+        </rtept>
+        <rtept lon="6.051152" lat="43.187276">
+            <name>École Alphonse Daudet primaire – 1 avenue des Oliviers</name>
+        </rtept>
+        <rtept lon="6.044283" lat="43.206058">
+            <name>Ecole Frédéric Mistral – Allée des Plantades</name>
+        </rtept>
+        <rtept lon="5.99939" lat="43.246294">
+            <name>Salle Polyvalente, Place Etienne Arnaud</name>
+        </rtept>
+        <rtept lon="6.02441" lat="43.205127">
+            <name>Groupe Scolaire</name>
+        </rtept>
+        <rtept lon="5.9044534" lat="43.1342434">
+            <name>Ecole Elémentaire Rivière Neuve II – boulevard Philippe Ripert</name>
+        </rtept>
+        <rtept lon="5.88607" lat="43.140792">
+            <name>Ecole Elémentaire La Florane – 620 rue David</name>
+        </rtept>
+        <rtept lon="5.86639022827" lat="43.1324005127">
+            <name>Mairie Annexe du Vieil Evenos – Place des Consuls</name>
+        </rtept>
+        <rtept lon="5.848815" lat="43.138378">
+            <name>Salle Ex-criée aux fleurs, 50 rue Nationale</name>
+        </rtept>
+        <rtept lon="5.846415" lat="43.138865">
+            <name>Foyer des anciens, Place Paul Lemoyne</name>
+        </rtept>
+        <rtept lon="5.848761" lat="43.137853">
+            <name>Salle André Mazza, 98 rue Philippe de Hautecloque</name>
+        </rtept>
+        <rtept lon="5.848522" lat="43.138761">
+            <name>Espace Pierre Puget, 1 place Marius Trotobas</name>
+        </rtept>
+        <rtept lon="5.828905" lat="43.174121">
+            <name>Complexe ESPACE – 17, traverse de l’Eglise</name>
+        </rtept>
+        <rtept lon="5.870058" lat="43.173378">
+            <name>Mairie annexe Le Broussan – 233, avenue d’Estienne d’Orves</name>
+        </rtept>
+        <rtept lon="5.86639022827" lat="43.1324005127">
+            <name>Mairie Annexe du Vieil Evenos – Place des Consuls</name>
+        </rtept>
+    </rte>
+</gpx>
