@@ -1,0 +1,48 @@
+section.input {
+    display: flex;
+    flex-low: row;
+    margin-bottom: 1em;
+    padding: 0.3em;
+    background: lightgrey;
+    border: solid black 1px;
+    border-radius: 1em;
+}
+
+section.input > label {
+    flex: 0 1 130px;
+}
+
+section.input > input {
+    flex: 1 1;
+    font-size: xx-large;
+    width: 20px;
+}
+
+section.error {
+    color: red;
+}
+
+#map {
+    height: 600px;
+    flex: 0 1 600px;
+}
+
+#liste {
+    flex: 1 1 auto;
+    height: 600px;
+    overflow-y: scroll;
+}
+
+#data {
+    display: flex;
+    flex-flow: row;
+}
+
+section.etape {
+    border: solid black 1px;
+    background: orangered;
+}
+
+section.etape.selected {
+    background: lightgreen;
+}

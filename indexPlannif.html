@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Collage</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+    <link rel="stylesheet" href="plannif.css" />
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA-4juoSBeUQ8bFj345dakmOtlC8Rc6SJk&callback=initMap" async defer></script>
+    <script src="plannif.js"></script>
+</head>
+<body onload="init()">
+    <h1>Plannification collage...</h1>
+    <section class="input">
+        <label>Numéro de département</label>
+        <input type="number" id="numDep"/>
+    </section>
+    <section class="input">
+        <label>Circonscription</label>
+        <input type="number" id="numCirc"/>
+    </section>
+    <section class="compute">
+        <button onclick="compute()" id="compute">
+            Obtenir les données
+        </button>
+    </section>
+    <hr/>
+    <input id="fromTo" type="text" value="0-0" />
+    <label id="infoFromTo"></label>
+    <hr/>
+    <section id="data">
+        <section id="map"></section>
+        <section id="liste"></section>
+    </section>
+
+
+</body>
+</html>

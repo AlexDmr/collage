@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+  <name>mairie</name>
+  <Point>
+    <coordinates>6.5276191,45.4728935</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie - chef lieu</name>
+  <Point>
+    <coordinates>6.573308,45.716067</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie de Beaufort</name>
+  <Point>
+    <coordinates>6.5752137,45.7176745</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>chef lieu - rue Haute</name>
+  <Point>
+    <coordinates>6.5281055,45.726106</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>place de la mairie</name>
+  <Point>
+    <coordinates>6.458847,45.720098</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie</name>
+  <Point>
+    <coordinates>6.48116,45.757371</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>lieu-dit &quot;le Cernix&quot;</name>
+  <Point>
+    <coordinates>6.501042,45.783833</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>chef lieu</name>
+  <Point>
+    <coordinates>6.505212,45.794859</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie</name>
+  <Point>
+    <coordinates>6.5188312,45.8095447</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie - rue des Aravis</name>
+  <Point>
+    <coordinates>6.51597,45.8200858</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>place de la mairie</name>
+  <Point>
+    <coordinates>6.49476194382,45.8625602722</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>chef lieu</name>
+  <Point>
+    <coordinates>6.501183,45.809007</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Héry - en bordure de la RD 109, parking du chef-lieu</name>
+  <Point>
+    <coordinates>6.47312,45.773149</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>chef lieu - avenue Jules Bianco, en face de la salle des fêtes</name>
+  <Point>
+    <coordinates>6.418657,45.7515715</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>chef lieu - rue de l&#39;église devant la mairie</name>
+  <Point>
+    <coordinates>6.418657,45.7515715</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Outrechaise - en brdure du chemin rural à l&#39;aval de l&#39;école</name>
+  <Point>
+    <coordinates>6.400326,45.749981</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Soney (carrefourde la VC 80/VC 36B)</name>
+  <Point>
+    <coordinates>6.391488,45.762609</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Les Fontaines - place du Val d&#39;Arly devant le petit square</name>
+  <Point>
+    <coordinates>6.4204715,45.745805</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Les Râtelières</name>
+  <Point>
+    <coordinates>6.41909,45.723987</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>les Grands Prés</name>
+  <Point>
+    <coordinates>6.411844,45.727269</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>chef lieu</name>
+  <Point>
+    <coordinates>6.404484,45.724307</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie - école</name>
+  <Point>
+    <coordinates>6.40542888641,45.695148468</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>chef lieu</name>
+  <Point>
+    <coordinates>6.3969735,45.7125715</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>chef-lieu</name>
+  <Point>
+    <coordinates>6.370913,45.705797</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Place du Villard</name>
+  <Point>
+    <coordinates>6.3630606,45.6756104</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Allée du Grand Arc</name>
+  <Point>
+    <coordinates>6.34239,45.666333</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie</name>
+  <Point>
+    <coordinates>6.33558988571,45.6730995178</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Salle d&#39;animation rurale</name>
+  <Point>
+    <coordinates>6.3188934,45.6917953</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>chef lieu</name>
+  <Point>
+    <coordinates>6.395683,45.6861305</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>rue Pargoud</name>
+  <Point>
+    <coordinates>6.391038,45.67581</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>place de l&#39;hôtel de ville</name>
+  <Point>
+    <coordinates>6.393134,45.675923</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>rue Suarez - au droit de l&#39;école maternelle</name>
+  <Point>
+    <coordinates>6.382894,45.676107</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>avenue Ste Thérèse</name>
+  <Point>
+    <coordinates>6.380591,45.667887</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>rue cdt Dubois</name>
+  <Point>
+    <coordinates>6.380998,45.667122</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>avenue du champ de mars</name>
+  <Point>
+    <coordinates>6.386277,45.66406</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>place de la mairie</name>
+  <Point>
+    <coordinates>6.348774,45.659458</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>chef-lieu - place du village</name>
+  <Point>
+    <coordinates>6.3590821,45.6312177</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie</name>
+  <Point>
+    <coordinates>6.37305,45.6473</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>place Marcel Pagnol (salle polyvalente)</name>
+  <Point>
+    <coordinates>6.447561,45.627577</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>rue Alphonse de Lamartine (mairie)</name>
+  <Point>
+    <coordinates>6.451171,45.628073</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie</name>
+  <Point>
+    <coordinates>6.43512678146,45.6158485413</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>place de la mairie</name>
+  <Point>
+    <coordinates>6.43781995773,45.5978012085</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>les Chavonnes</name>
+  <Point>
+    <coordinates>6.447443,45.584244</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Pussy (devant salle polyvalente)</name>
+  <Point>
+    <coordinates>6.4663897,45.5487082</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>La Léchère – Village 92 (Mairie)</name>
+  <Point>
+    <coordinates>6.4159133,45.4869321</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Celliers (devant mairie)</name>
+  <Point>
+    <coordinates>6.3671959,45.4609587</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie</name>
+  <Point>
+    <coordinates>6.4543225,45.5185465</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Notre dame de Briançon (maison des services – ancienne gare)</name>
+  <Point>
+    <coordinates>6.4687785,45.5393185</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Petit-Cœur (devant mairie)</name>
+  <Point>
+    <coordinates>6.491133,45.524103</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Nâves (devant mairie)</name>
+  <Point>
+    <coordinates>6.4826093,45.5223091</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>place de la mairie</name>
+  <Point>
+    <coordinates>6.48477697372,45.5045166016</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Doucy (devant mairie)</name>
+  <Point>
+    <coordinates>6.470898,45.502289</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>salle des fêtes - chef lieu</name>
+  <Point>
+    <coordinates>6.4466115,45.4771665</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie</name>
+  <Point>
+    <coordinates>6.4975959,45.4913493</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie de Grand Coeur</name>
+  <Point>
+    <coordinates>6.50879478455,45.5018005371</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie de Villargerel</name>
+  <Point>
+    <coordinates>6.50879478455,45.5018005371</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie de Bellecombe Tarentaise</name>
+  <Point>
+    <coordinates>6.50879478455,45.5018005371</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie d&#39;Aigueblanche</name>
+  <Point>
+    <coordinates>6.50879478455,45.5018005371</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>La Chaudanne / rue de l&#39;Aciérie (derrière l&#39;OPAC)</name>
+  <Point>
+    <coordinates>6.52857,45.488285</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>devant la mairie</name>
+  <Point>
+    <coordinates>6.50824022293,45.4592018127</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie</name>
+  <Point>
+    <coordinates>6.485277,45.427166</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>maison de Val Thorens</name>
+  <Point>
+    <coordinates>6.582087,45.298134</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>salle du village - Villarenger</name>
+  <Point>
+    <coordinates>6.5391339,45.3218536</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>école - Praranger</name>
+  <Point>
+    <coordinates>6.5032523,45.3782655</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>ancienne mairie St Laurent de la Côte</name>
+  <Point>
+    <coordinates>6.5048529,45.3798687</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie - chef lieu</name>
+  <Point>
+    <coordinates>6.50481081009,45.3798027039</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>place sud mairie - chef lieu des Allues</name>
+  <Point>
+    <coordinates>6.55624723434,45.4318809509</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>parc olympique façade-est - Méribel station</name>
+  <Point>
+    <coordinates>6.555195,45.430616</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>entrée aval office du tourisme du Mottaret - Mérible station</name>
+  <Point>
+    <coordinates>6.5810346,45.3734222</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie</name>
+  <Point>
+    <coordinates>6.63737010956,45.4343338013</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Le Villard (4 chemins)</name>
+  <Point>
+    <coordinates>6.68309,45.442738</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>La Novaz</name>
+  <Point>
+    <coordinates>6.706336,45.41366</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>avenue de Chasseforêt - place de la mairie</name>
+  <Point>
+    <coordinates>6.721526,45.381046</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Chambéranger</name>
+  <Point>
+    <coordinates>6.702552,45.422574</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie chef-lieu</name>
+  <Point>
+    <coordinates>6.698581,45.423989</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Le Villard Mairie</name>
+  <Point>
+    <coordinates>6.698581,45.423989</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>parking le Crey devant école Le Bois</name>
+  <Point>
+    <coordinates>6.696145,45.454546</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>place de l&#39;église</name>
+  <Point>
+    <coordinates>6.7465996,45.4603761</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie (parking)</name>
+  <Point>
+    <coordinates>6.69391012192,45.4556007385</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>salle des fêtes</name>
+  <Point>
+    <coordinates>6.69391012192,45.4556007385</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>hameau des Moulinets : parking à l&#39;entrée</name>
+  <Point>
+    <coordinates>6.64705,45.451537</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>hameau de Villemartin : parking à l&#39;entrée</name>
+  <Point>
+    <coordinates>6.633761,45.451037</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>devant la mairie</name>
+  <Point>
+    <coordinates>6.5595498085,45.4710006714</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie</name>
+  <Point>
+    <coordinates>6.591089,45.455983</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie, rue Emile Machet</name>
+  <Point>
+    <coordinates>6.645299,45.442397</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie - salle Saint Jean</name>
+  <Point>
+    <coordinates>6.59549999237,45.4449996948</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>office du tourisme de la Tania</name>
+  <Point>
+    <coordinates>6.593233,45.444727</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>parking Les Chavonnes</name>
+  <Point>
+    <coordinates>6.572239,45.448759</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie - place du Centenaire</name>
+  <Point>
+    <coordinates>6.5669015,45.4527614</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie</name>
+  <Point>
+    <coordinates>6.5276191,45.4728935</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>rue du Chevalier Merme - à côté de la mairie</name>
+  <Point>
+    <coordinates>6.528868,45.471722</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Pomblière</name>
+  <Point>
+    <coordinates>6.559413,45.498907</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Salle ployvalente - Les plaines</name>
+  <Point>
+    <coordinates>6.570726,45.505622</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>chef lieu - mairie</name>
+  <Point>
+    <coordinates>6.5950449,45.5117359</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie annexe Longefoy</name>
+  <Point>
+    <coordinates>6.6270855,45.5374645</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie annexe Tessens</name>
+  <Point>
+    <coordinates>6.6270855,45.5374645</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie annexe Villette</name>
+  <Point>
+    <coordinates>6.6270855,45.5374645</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>place Charles de Gaulle (Macot)</name>
+  <Point>
+    <coordinates>6.679025,45.508448</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>salle omnisports - place St Sauveur - Plagne Centre</name>
+  <Point>
+    <coordinates>6.6803417,45.5086501</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>devant la salle des fêtes</name>
+  <Point>
+    <coordinates>6.7428589,45.4949697</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie</name>
+  <Point>
+    <coordinates>6.74113798141,45.5695457458</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie - rue école des Mires</name>
+  <Point>
+    <coordinates>6.76456022263,45.5489997864</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>salle des fêtes - route de Montrigon</name>
+  <Point>
+    <coordinates>6.8082899,45.5692786</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>chef-lieu - mairie</name>
+  <Point>
+    <coordinates>6.82848119736,45.5732498169</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie</name>
+  <Point>
+    <coordinates>6.883265,45.590821</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>la Poste - Les Brévières</name>
+  <Point>
+    <coordinates>6.924266,45.504891</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>centre commercial - Le Lavachet</name>
+  <Point>
+    <coordinates>6.9208177,45.4646662</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie - Rosset</name>
+  <Point>
+    <coordinates>6.909508,45.468791</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Les Montayes – Tignes 1800</name>
+  <Point>
+    <coordinates>6.9070706,45.4693095</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Cinéma - Val Claret</name>
+  <Point>
+    <coordinates>6.9018667,45.4581037</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Maison Marcel Charvin - place de l&#39;église</name>
+  <Point>
+    <coordinates>6.976454,45.448916</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie</name>
+  <Point>
+    <coordinates>6.8467925,45.6117955</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Foyer rural</name>
+  <Point>
+    <coordinates>6.8236701,45.6330157</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Mairie annexe - Arc 1800</name>
+  <Point>
+    <coordinates>6.7693948,45.6186609</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie annexe d&#39;Hauteville Gondon - Hauteville</name>
+  <Point>
+    <coordinates>6.7693948,45.6186609</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie</name>
+  <Point>
+    <coordinates>6.76639986038,45.6166992188</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>école primaire des Epines - rue de Pinon</name>
+  <Point>
+    <coordinates>6.7504768,45.6084149</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>salle Polyvalente - chef lieu</name>
+  <Point>
+    <coordinates>6.728417,45.589055</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie – la Dhuit</name>
+  <Point>
+    <coordinates>6.693781,45.574792</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>place de la mairie</name>
+  <Point>
+    <coordinates>6.65092992783,45.5726013184</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie - 19 route des Dodes Pierrolaz</name>
+  <Point>
+    <coordinates>6.667011,45.567215</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>route de Frébuge</name>
+  <Point>
+    <coordinates>6.65561,45.557295</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>avenue de Tarentaise</name>
+  <Point>
+    <coordinates>6.64787,45.555527</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>rue de l&#39;Eglise</name>
+  <Point>
+    <coordinates>6.647325,45.554413</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>route de la Fortune</name>
+  <Point>
+    <coordinates>6.645675,45.555795</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Centron, place Colonel Peter Ortiz</name>
+  <Point>
+    <coordinates>6.596195,45.534996</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Montgirod (place Jean Moulin) - chef lieu</name>
+  <Point>
+    <coordinates>6.579698,45.535099</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie - Chef lieu</name>
+  <Point>
+    <coordinates>6.54498815536,45.4985427856</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Rue de l&#39;Hôtel de ville</name>
+  <Point>
+    <coordinates>6.534207,45.484713</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>HLM Quermoz</name>
+  <Point>
+    <coordinates>6.533018,45.484498</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>HLM La Vanoise / Belvédère</name>
+  <Point>
+    <coordinates>6.533018,45.484498</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Collège – avenue de la Libération</name>
+  <Point>
+    <coordinates>6.5313129,45.4853772</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Rue de la Madeleine</name>
+  <Point>
+    <coordinates>6.528842,45.48582</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Place des Victoires</name>
+  <Point>
+    <coordinates>6.530078,45.483404</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie</name>
+  <Point>
+    <coordinates>6.47046995163,45.5602989197</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>salle des fêtes</name>
+  <Point>
+    <coordinates>6.453625,45.59087</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>parking du cimetière</name>
+  <Point>
+    <coordinates>6.439103,45.647343</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>parking du Nant Varin</name>
+  <Point>
+    <coordinates>6.4446472,45.6494181</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Montée Ste Appolonie</name>
+  <Point>
+    <coordinates>6.441266,45.655071</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Place de la Mairie</name>
+  <Point>
+    <coordinates>6.43997001648,45.6549301147</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>avenue du Pont du Rhonne</name>
+  <Point>
+    <coordinates>6.40724,45.666463</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>grande place - Conflans</name>
+  <Point>
+    <coordinates>6.398832,45.66735</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie</name>
+  <Point>
+    <coordinates>6.41251277924,45.6882400513</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>route du grand Mont à Arêches</name>
+  <Point>
+    <coordinates>6.567585,45.686821</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>mairie</name>
+  <Point>
+    <coordinates>6.5276191,45.4728935</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+<LinearRing>
+<coordinates>
+6.5276191,45.4728935
+6.573308,45.716067
+6.5752137,45.7176745
+6.5281055,45.726106
+6.458847,45.720098
+6.48116,45.757371
+6.501042,45.783833
+6.505212,45.794859
+6.5188312,45.8095447
+6.51597,45.8200858
+6.49476194382,45.8625602722
+6.501183,45.809007
+6.47312,45.773149
+6.418657,45.7515715
+6.418657,45.7515715
+6.400326,45.749981
+6.391488,45.762609
+6.4204715,45.745805
+6.41909,45.723987
+6.411844,45.727269
+6.404484,45.724307
+6.40542888641,45.695148468
+6.3969735,45.7125715
+6.370913,45.705797
+6.3630606,45.6756104
+6.34239,45.666333
+6.33558988571,45.6730995178
+6.3188934,45.6917953
+6.395683,45.6861305
+6.391038,45.67581
+6.393134,45.675923
+6.382894,45.676107
+6.380591,45.667887
+6.380998,45.667122
+6.386277,45.66406
+6.348774,45.659458
+6.3590821,45.6312177
+6.37305,45.6473
+6.447561,45.627577
+6.451171,45.628073
+6.43512678146,45.6158485413
+6.43781995773,45.5978012085
+6.447443,45.584244
+6.4663897,45.5487082
+6.4159133,45.4869321
+6.3671959,45.4609587
+6.4543225,45.5185465
+6.4687785,45.5393185
+6.491133,45.524103
+6.4826093,45.5223091
+6.48477697372,45.5045166016
+6.470898,45.502289
+6.4466115,45.4771665
+6.4975959,45.4913493
+6.50879478455,45.5018005371
+6.50879478455,45.5018005371
+6.50879478455,45.5018005371
+6.50879478455,45.5018005371
+6.52857,45.488285
+6.50824022293,45.4592018127
+6.485277,45.427166
+6.582087,45.298134
+6.5391339,45.3218536
+6.5032523,45.3782655
+6.5048529,45.3798687
+6.50481081009,45.3798027039
+6.55624723434,45.4318809509
+6.555195,45.430616
+6.5810346,45.3734222
+6.63737010956,45.4343338013
+6.68309,45.442738
+6.706336,45.41366
+6.721526,45.381046
+6.702552,45.422574
+6.698581,45.423989
+6.698581,45.423989
+6.696145,45.454546
+6.7465996,45.4603761
+6.69391012192,45.4556007385
+6.69391012192,45.4556007385
+6.64705,45.451537
+6.633761,45.451037
+6.5595498085,45.4710006714
+6.591089,45.455983
+6.645299,45.442397
+6.59549999237,45.4449996948
+6.593233,45.444727
+6.572239,45.448759
+6.5669015,45.4527614
+6.5276191,45.4728935
+6.528868,45.471722
+6.559413,45.498907
+6.570726,45.505622
+6.5950449,45.5117359
+6.6270855,45.5374645
+6.6270855,45.5374645
+6.6270855,45.5374645
+6.679025,45.508448
+6.6803417,45.5086501
+6.7428589,45.4949697
+6.74113798141,45.5695457458
+6.76456022263,45.5489997864
+6.8082899,45.5692786
+6.82848119736,45.5732498169
+6.883265,45.590821
+6.924266,45.504891
+6.9208177,45.4646662
+6.909508,45.468791
+6.9070706,45.4693095
+6.9018667,45.4581037
+6.976454,45.448916
+6.8467925,45.6117955
+6.8236701,45.6330157
+6.7693948,45.6186609
+6.7693948,45.6186609
+6.76639986038,45.6166992188
+6.7504768,45.6084149
+6.728417,45.589055
+6.693781,45.574792
+6.65092992783,45.5726013184
+6.667011,45.567215
+6.65561,45.557295
+6.64787,45.555527
+6.647325,45.554413
+6.645675,45.555795
+6.596195,45.534996
+6.579698,45.535099
+6.54498815536,45.4985427856
+6.534207,45.484713
+6.533018,45.484498
+6.533018,45.484498
+6.5313129,45.4853772
+6.528842,45.48582
+6.530078,45.483404
+6.47046995163,45.5602989197
+6.453625,45.59087
+6.439103,45.647343
+6.4446472,45.6494181
+6.441266,45.655071
+6.43997001648,45.6549301147
+6.40724,45.666463
+6.398832,45.66735
+6.41251277924,45.6882400513
+6.567585,45.686821
+6.5276191,45.4728935
+</coordinates>
+</LinearRing>
+</Placemark></Document>
+</kml>
