@@ -119,7 +119,8 @@ function DisplayPath( etapes ) {
         NLL  .textContent = `${etape.lat},${etape.lon}`;
 
         // onclick
-        section.onclick = () => ChangeEtapesMinMax( etapes, index );
+        section.onclick = () => map.setCenter( {lat: etape.lat, lng: etape.lon} );
+
 
         // Marker:
         etape.marker = new google.maps.Marker({
@@ -128,7 +129,7 @@ function DisplayPath( etapes ) {
             label: `${index+1}`,
             title: `${index+1}: ${etape.name}`,
             icon: {
-                url     : "/" + (etape.selected?"green":"red") + ".png",
+                url     : "./" + (etape.selected?"green":"red") + ".png",
             }
         });
 
