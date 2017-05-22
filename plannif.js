@@ -43,8 +43,9 @@ function init() {
             etape.selected = false;
         });
         etapes.forEach( etape => {
+            console.log("yo");
             etape.marker.setIcon( {
-                url     : "/" + (etape.selected?"green":"red") + ".png"
+                url     : "./" + (etape.selected?"green":"red") + ".png"
             } );
         });
         // Compute distance and time for L_in
