@@ -26,14 +26,19 @@ function init() {
 
     document.querySelector("#infoFromTo").innerText = "En attente de toutes les informations de distances...";
     document.querySelector( "#fromTo" ).onchange = () => {
-        let re = /^([0-9]*)-([0-9]*)$/ig;
-        let results = re.exec( document.querySelector( "#fromTo" ).value );
-        etapeMin = parseInt( results[1] );
-        etapeMax = parseInt( results[2] );
-        console.log( "From", etapeMin, "to", etapeMax, ":", results );
-        const isOut = (etape, index) => index < etapeMin-1 || index > etapeMax-1;
-        let Lout = etapes.filter( isOut );
-        let Lin  = etapes.filter( (e,i) => !isOut(e,i) );
+        let Lranges = document.querySelector( "#fromTo" ).value.split("&").map(s=>s.trim()).map(
+            str => {
+                let re = /^([0-9]*)\-([0-9]*)$/ig;
+                let results = re.exec( str );
+                console.log("Processing", str, "=>", results);
+                etapeMin = parseInt( results[1] );
+                etapeMax = parseInt( results[2] );
+                return {from: etapeMin, to: etapeMax};
+            }
+        );
+        const IsIn = (etape, i) => Lranges.reduce( (acc, R) => acc || (i>=R.from-1 && i<=R.to-1), false); //index < etapeMin-1 || index > etapeMax-1;
+        let Lin  = etapes.filter( IsIn );
+        let Lout = etapes.filter( (e,i) => !IsIn(e,i) );
         Lin.forEach(etape => {
             etape.section.classList.add( "selected" );
             etape.selected = true;
@@ -43,7 +48,6 @@ function init() {
             etape.selected = false;
         });
         etapes.forEach( etape => {
-            console.log("yo");
             etape.marker.setIcon( {
                 url     : "./" + (etape.selected?"green":"red") + ".png"
             } );
