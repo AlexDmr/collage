@@ -177,6 +177,7 @@ function DisplayPath(L, filterStr) {
         let {index: index, etape: etape} = etapeObj;
         let section = document.createElement("section");
         section.classList.add("etape");
+        console.log(index, ":", etape);
         if(etape.done) {
             section.classList.add("done");
         }

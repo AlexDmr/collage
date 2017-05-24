@@ -74,3 +74,17 @@ section.compute {
     margin: 1em;
     font-size: xx-large;
 }
+
+section.config {
+    display: flex;
+    flex-flow: row;
+}
+
+section.config > label {
+    flex: 0 1 100px;
+    width: 100px;
+}
+
+section.config > input {
+    flex: 1 1;
+}
