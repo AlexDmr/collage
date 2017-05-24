@@ -59,11 +59,13 @@ function computeGoogle() {
     );
 }
 
+let allEtapes = [];
 function init() {
     document.querySelector("#numDep" ).value = localStorage.getItem("numDep" ) || 38;
     document.querySelector("#numCirc").value = localStorage.getItem("numCirc") || 1;
-    document.querySelector("#login" ).value  = localStorage.getItem("login" )  || "";
-    document.querySelector("#pass").value    = localStorage.getItem("pass")    || "";
+    document.querySelector("#login" ) .value = localStorage.getItem("login" )  || "";
+    document.querySelector("#pass")   .value = localStorage.getItem("pass")    || "";
+    document.querySelector("#filter") .value = localStorage.getItem("filter")  || "";
 
     document.querySelector("#numDep" ).onchange = () => {
         localStorage.setItem("numDep", document.querySelector("#numDep" ).value);
@@ -77,8 +79,14 @@ function init() {
     document.querySelector("#pass" ).onchange = () => {
         localStorage.setItem("pass", document.querySelector("#pass" ).value);
     };
+    document.querySelector("#filter" ).onchange = () => {
+        let filterStr = document.querySelector("#filter" ).value;
+        localStorage.setItem("filter", filterStr);
+        DisplayPath( allEtapes, filterStr );
+    };
 
-    DisplayPath( loadJSON() );
+    allEtapes = loadJSON();
+    DisplayPath( allEtapes, document.querySelector("#filter").value );
 }
 
 function initMap() {
@@ -103,6 +111,7 @@ function compute() {
 
     console.log( `get ${ressource}` );
     document.querySelector("#path").textContent = "Chargement...";
+    document.querySelector("#filter").value = "";
     XHR("GET", ressource).then(
         xhr => {
             let doc = xhr.responseXML;
@@ -118,7 +127,7 @@ function compute() {
                 name: etape.querySelector("name").textContent,
                 done: false
             }));
-            saveJSON( etapes );
+            saveJSON( allEtapes = etapes );
             DisplayPath( etapes );
 
         },
@@ -134,10 +143,38 @@ function compute() {
     );
 }
 
-function DisplayPath(L) {
+function DisplayPath(L, filterStr) {
+    // Compute filter...
+    filterStr = filterStr || `1-${L.length}`;
+    let etapes = filterStr.split(",").map(str=>str.trim()).map(str => { // From string to integer[]
+        // Do we have a range?
+        let re = /^([0-9]*) *\- *([0-9]*)$/ig;
+        let results = re.exec( str );
+        if(results) {
+            let from = parseInt( results[1] );
+            let to   = parseInt( results[2] );
+            let Lres = [];
+            if(from <= to) {
+                for(let i=from; i<=to; i++) {
+                    Lres.push(i);
+                }
+            } else {
+                for(let i=from; i>=to; i--) {
+                    Lres.push(i);
+                }
+            }
+            return Lres;
+        } else {
+            return [parseInt(str)];
+        }
+    }).reduce( (acc, Letapes) => acc.concat(Letapes) );
+    console.log("etapes", filterStr, ":", etapes);
+
+    // Display...
     let root = document.querySelector("#path");
     root.textContent = "";
-    L.forEach( (etape, index) => {
+    etapes.map( index => ({index: index-1, etape: L[index-1]}) ).forEach( (etapeObj, indexObj) => {
+        let {index: index, etape: etape} = etapeObj;
         let section = document.createElement("section");
         section.classList.add("etape");
         if(etape.done) {

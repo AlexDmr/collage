@@ -28,7 +28,7 @@ function init() {
     document.querySelector( "#fromTo" ).onchange = () => {
         let Lranges = document.querySelector( "#fromTo" ).value.split("&").map(s=>s.trim()).map(
             str => {
-                let re = /^([0-9]*)\-([0-9]*)$/ig;
+                let re = /^([0-9]*) *\- *([0-9]*)$/ig;
                 let results = re.exec( str );
                 console.log("Processing", str, "=>", results);
                 etapeMin = parseInt( results[1] );
